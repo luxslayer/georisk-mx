@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-08T17:49:04.651669+00:00",
-  "count": 33,
+  "updated": "2026-03-08T18:37:47.492164+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "83ae38ec51db",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 67.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 67, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 67, dirección CDMX. El accidente ha sido atendido. En la zona se registra c",
+      "link": "https://nitter.net/CAPUFE/status/2030712083579621551#m",
+      "date": "2026-03-08T18:27:44+00:00"
+    },
+    {
+      "id": "8c2629513255",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaució",
+      "link": "https://nitter.net/CAPUFE/status/2030705815347249266#m",
+      "date": "2026-03-08T18:02:49+00:00"
+    },
+    {
+      "id": "4b06238a91a3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 67.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 67, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino y volcadura de camioneta). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxico",
+      "link": "https://nitter.net/CAPUFE/status/2030705696614826251#m",
+      "date": "2026-03-08T18:02:21+00:00"
+    },
     {
       "id": "335a3424885d",
       "account": "@GN_carreteras",
@@ -267,20 +309,6 @@
       "text": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVíal cerca del km 035+000, de la carretera Tepic-Mazatlán. Atienda indicación vial. #TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVíal cerca del km 035+00",
       "link": "https://nitter.net/GN_Carreteras/status/2030533461409198191#m",
       "date": "2026-03-08T06:37:57+00:00"
-    },
-    {
-      "id": "a69b0f204237",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 89.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoQuerétaro, km 89, dirección CDMX. Continúa la carga vehicular a la altura de la gasa de incorporación a la Autopista Arco Norte, por incidente fuera de la cobertura de CAPUFE. Para más información llama al 8003272666 de @arconorte. Toma tus precauc",
-      "link": "https://nitter.net/CAPUFE/status/2030533170848731600#m",
-      "date": "2026-03-08T06:36:48+00:00"
     },
     {
       "id": "203c3bfbfad6",
