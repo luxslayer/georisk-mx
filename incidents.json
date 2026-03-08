@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-08T18:37:47.492164+00:00",
+  "updated": "2026-03-08T19:25:39.003971+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "83d731612e02",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 67.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 67, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 67, dirección CDMX. El accidente ha sido atendi",
+      "link": "https://nitter.net/CAPUFE/status/2030719767225516500#m",
+      "date": "2026-03-08T18:58:16+00:00"
+    },
+    {
+      "id": "38c0c5e3678c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 21, dir. Mazatlán. El accidente en la gasa de salida a carretera libre ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlá",
+      "link": "https://nitter.net/CAPUFE/status/2030718182915273106#m",
+      "date": "2026-03-08T18:51:58+00:00"
+    },
+    {
+      "id": "af6cadf6e73a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 40.0,
+      "lat": 19.968,
+      "lon": -99.288,
+      "resolved": true,
+      "text": "#TomePrecauciones en #EdoMéx. se registra cierre parcial de circulación por #AccidenteVíal cerca del km 040+000, de la carretera México-Querétaro. Atienda indicación vial. #TomePrecauciones en #EdoMéx . se registra cierre parcial de circulación por #AccidenteVíal cerca del km 040",
+      "link": "https://nitter.net/GN_Carreteras/status/2030716421508866239#m",
+      "date": "2026-03-08T18:44:58+00:00"
+    },
     {
       "id": "83ae38ec51db",
       "account": "@capufe",
@@ -255,34 +297,6 @@
       "date": "2026-03-08T12:05:39+00:00"
     },
     {
-      "id": "85994cf3f2b0",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 89.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoQuerétaro, km 89, dirección CDMX. Continúa la carga vehicular a la altura de la gasa de incorporación a la Autopista Arco Norte, por incidente fuera de la cobertura de CAPUFE. Para más información llama al 8003272666 de @arconorte. Toma tus precauc",
-      "link": "https://nitter.net/CAPUFE/status/2030598737161052218#m",
-      "date": "2026-03-08T10:57:20+00:00"
-    },
-    {
-      "id": "eb80c3af29b2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 111.0,
-      "lat": 17.987707,
-      "lon": -99.579973,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 111, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 111, direcci",
-      "link": "https://nitter.net/CAPUFE/status/2030597786878488844#m",
-      "date": "2026-03-08T10:53:33+00:00"
-    },
-    {
       "id": "03e9409219ea",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,20 +491,6 @@
       "text": "#TomePrecauciones en #Querétaro se registra cierre total de circulación por #AccidenteVíal cerca del km 069+500, de la carretera San Miguel de Allende-Querétaro. Atienda indicación vial. #TomePrecauciones en #Querétaro se registra cierre total de circulación por #AccidenteVíal ce",
       "link": "https://nitter.net/GN_Carreteras/status/2030412863060262934#m",
       "date": "2026-03-07T22:38:44+00:00"
-    },
-    {
-      "id": "16dc45fe0b9d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 234.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 234+500, de la carretera Tulancingo-Tihuatlán. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del k",
-      "link": "https://nitter.net/GN_Carreteras/status/2030401506717970855#m",
-      "date": "2026-03-07T21:53:36+00:00"
     }
   ]
 }
