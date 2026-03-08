@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-08T22:27:15.189422+00:00",
-  "count": 36,
+  "updated": "2026-03-08T22:51:26.168565+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "fddd1a87f850",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 149.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación por #AccidenteVíal cerca del km 149+700, de la carretera Querétaro-San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación por #AccidenteV",
+      "link": "https://nitter.net/GN_Carreteras/status/2030776034774167716#m",
+      "date": "2026-03-08T22:41:51+00:00"
+    },
+    {
+      "id": "106eab67d65d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 42.0,
+      "lat": 19.21,
+      "lon": -98.624,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVíal cerca del km 042+000, de la carretera México-Puebla. Atienda indicación vial #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVíal cerca del km 042+000, d",
+      "link": "https://nitter.net/GN_Carreteras/status/2030773195725214109#m",
+      "date": "2026-03-08T22:30:34+00:00"
+    },
+    {
+      "id": "4ffb5a7e7955",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 58.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 58. Circulación intermitente en ambos sentidos por atención de accidente (choque contra objeto e incendio de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 58. ",
+      "link": "https://nitter.net/CAPUFE/status/2030773170098032749#m",
+      "date": "2026-03-08T22:30:28+00:00"
+    },
     {
       "id": "2cd0fd0d5d8d",
       "account": "@GN_carreteras",
@@ -477,34 +519,6 @@
       "text": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación por #AccidenteVíal cerca del km 167+000, de la carretera Rio verde-San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación por #AccidenteV",
       "link": "https://nitter.net/GN_Carreteras/status/2030457395848077666#m",
       "date": "2026-03-08T01:35:41+00:00"
-    },
-    {
-      "id": "e3a6a43c359f",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Durango–Parral",
-      "route_key": "durango-parral",
-      "km": 13.0,
-      "lat": 24.154233,
-      "lon": -104.73092,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Durango se registra cierre parcial de circulación por #AccidenteVíal cerca del km 013+000, de la carretera Durango-Parral. Atienda indicación vial. #TomePrecauciones en #Durango se registra cierre parcial de circulación por #AccidenteVíal cerca del km 013+00",
-      "link": "https://nitter.net/GN_Carreteras/status/2030456396546777406#m",
-      "date": "2026-03-08T01:31:43+00:00"
-    },
-    {
-      "id": "f08f8e53734d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Cuernavaca",
-      "route_key": "mexico-cuernavaca",
-      "km": 1.0,
-      "lat": 19.282915,
-      "lon": -99.104325,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVíal cerca del km 001+000, de la carretera México-Cuernavaca. Atienda indicación vial. #TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVíal cerca del km 001",
-      "link": "https://nitter.net/GN_Carreteras/status/2030436147000750552#m",
-      "date": "2026-03-08T00:11:15+00:00"
     }
   ]
 }
