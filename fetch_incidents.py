@@ -43,36 +43,227 @@ MAX_TWEETS = 50  # per account
 # Anchors calibrated at km 0 with approximate direction vectors.
 # ---------------------------------------------------------------------------
 
-ROUTES: dict = {
-    "mexico-acapulco":         ("Méx–Acapulco",         19.2924, -99.1010, -0.00882, -0.00120),
-    "mexico-cuernavaca":       ("Méx–Cuernavaca",        19.2924, -99.1010, -0.00850, -0.00080),
-    "cuernavaca-acapulco":     ("Cuernavaca–Acapulco",   18.9186, -99.2340, -0.00920, -0.00100),
-    "mexico-queretaro":        ("Méx–Querétaro",         19.5200, -99.1600,  0.01150, -0.00680),
-    "mexico-puebla":           ("Méx–Puebla",            19.3600, -98.9800, -0.00050,  0.01020),
-    "puebla-cordoba":          ("Puebla–Córdoba",        19.0530, -98.1830, -0.00150,  0.01100),
-    "puebla-veracruz":         ("Puebla–Veracruz",       19.0400, -98.1800, -0.00200,  0.01150),
-    "puebla-acatzingo":        ("Puebla–Acatzingo",      19.0530, -98.1830, -0.00100,  0.00980),
-    "mexico-toluca":           ("Méx–Toluca",            19.4326, -99.1332,  0.00100, -0.01200),
-    "toluca-palmillas":        ("Toluca–Palmillas",      19.2860, -99.6640, -0.00030, -0.01150),
-    "guadalajara-tepic":       ("Gdl–Tepic",             20.6597,-103.3496,  0.00420,  0.01080),
-    "guadalajara-morelia":     ("Gdl–Morelia",           20.6597,-103.3496, -0.00350,  0.00920),
-    "monterrey-laredo":        ("Mty–Laredo",            25.6866,-100.3161,  0.01100,  0.00030),
-    "saltillo-monterrey":      ("Saltillo–Mty",          25.4231,-100.9940,  0.00080,  0.01350),
-    "chihuahua-juarez":        ("Chih–Cd Juárez",        28.6320,-106.0690,  0.01080,  0.00120),
-    "durango-parral":          ("Durango–Parral",        24.0240,-104.6570, -0.01050,  0.00080),
-    "villahermosa-escarcega":  ("Villahermosa–Escárcega",17.9892, -92.9472, -0.00030,  0.01120),
-    "acayucan-cosoleacaque":   ("Acayucan–Cosoleacaque", 17.9480, -94.9140,  0.00020,  0.00980),
-    "salamanca-leon":          ("Salamanca–León",        20.5700,-101.1950,  0.00250,  0.01050),
-    "isla-acayucan":           ("Isla–Acayucan",         18.0350, -95.5300,  0.00010,  0.01020),
-    "tijuana-ensenada":        ("Tijuana–Ensenada",      32.5149,-117.0382, -0.01200,  0.00150),
-    "zacatecas-durango":       ("Zac–Durango",           22.7709,-102.5832,  0.00880, -0.00350),
-    "cordoba-yanga":           ("Córdoba–Yanga",         18.8840, -96.9230,  0.00150, -0.00920),
-    "teziutlan-nautla":        ("Teziutlán–Nautla",      19.8180, -97.3570, -0.00650,  0.00980),
-    "libramiento-queretaro":   ("Lib. Sur Qro.",         20.5450,-100.4500,  0.00050,  0.00900),
-    "coatzacoalcos-salinaCruz":("Coatza–Salina Cruz",    18.1490, -94.4480, -0.00180,  0.01050),
-    "carmen-campeche":         ("Carmen–Campeche",       18.6490, -91.8220,  0.00020,  0.01080),
-    "guadalupe-guanacevi":     ("Guadalupe–Guanaceví",   26.1000,-105.9500,  0.00950, -0.00120),
-    "tinaja-cosoleacaque":     ("La Tinaja–Cosoleacaque",18.3200, -95.0200,  0.00010,  0.01000),
+# Display labels for each route
+ROUTE_LABELS: dict = {
+    "mexico-acapulco":          "Méx–Acapulco",
+    "mexico-cuernavaca":        "Méx–Cuernavaca",
+    "cuernavaca-acapulco":      "Cuernavaca–Acapulco",
+    "mexico-queretaro":         "Méx–Querétaro",
+    "mexico-puebla":            "Méx–Puebla",
+    "puebla-cordoba":           "Puebla–Córdoba",
+    "puebla-veracruz":          "Puebla–Veracruz",
+    "puebla-acatzingo":         "Puebla–Acatzingo",
+    "mexico-toluca":            "Méx–Toluca",
+    "toluca-palmillas":         "Toluca–Palmillas",
+    "guadalajara-tepic":        "Gdl–Tepic",
+    "guadalajara-morelia":      "Gdl–Morelia",
+    "monterrey-laredo":         "Mty–Laredo",
+    "saltillo-monterrey":       "Saltillo–Mty",
+    "chihuahua-juarez":         "Chih–Cd Juárez",
+    "durango-parral":           "Durango–Parral",
+    "villahermosa-escarcega":   "Villahermosa–Escárcega",
+    "acayucan-cosoleacaque":    "Acayucan–Cosoleacaque",
+    "salamanca-leon":           "Salamanca–León",
+    "isla-acayucan":            "Isla–Acayucan",
+    "tijuana-ensenada":         "Tijuana–Ensenada",
+    "zacatecas-durango":        "Zac–Durango",
+    "cordoba-yanga":            "Córdoba–Yanga",
+    "teziutlan-nautla":         "Teziutlán–Nautla",
+    "libramiento-queretaro":    "Lib. Sur Qro.",
+    "coatzacoalcos-salinaCruz": "Coatza–Salina Cruz",
+    "carmen-campeche":          "Carmen–Campeche",
+    "guadalupe-guanacevi":      "Guadalupe–Guanaceví",
+    "tinaja-cosoleacaque":      "La Tinaja–Cosoleacaque",
+}
+
+# Waypoints: route_key → [(km, lat, lon), ...]  ordered by km ascending.
+# Interpolation follows the road geometry instead of a straight line.
+# Routes without waypoints fall back to the first waypoint of the nearest
+# neighbour or return None (unresolved).
+ROUTE_WAYPOINTS: dict = {
+    "durango-parral": [
+        (0,   24.0290, -104.6628),
+        (30,  24.3180, -104.8200),
+        (60,  24.5800, -104.9700),
+        (90,  24.8400, -105.1200),
+        (120, 25.1200, -105.2900),
+        (150, 25.3800, -105.4200),
+        (180, 25.6500, -105.5200),
+        (210, 25.9200, -105.5900),
+        (230, 26.9320, -105.6640),
+    ],
+    "mexico-acapulco": [
+        (0,   19.2924, -99.1010),
+        (40,  18.9130, -99.2340),
+        (80,  18.6800, -99.1200),
+        (130, 18.3600, -99.5000),
+        (175, 17.5510, -99.5000),
+        (220, 17.2000, -99.5500),
+        (280, 16.9600, -99.7500),
+        (390, 16.8531, -99.8237),
+    ],
+    "mexico-cuernavaca": [
+        (0,   19.2924, -99.1010),
+        (40,  18.9130, -99.2340),
+        (85,  18.9186, -99.2340),
+    ],
+    "cuernavaca-acapulco": [
+        (0,   18.9186, -99.2340),
+        (45,  18.6800, -99.1200),
+        (90,  18.3600, -99.5000),
+        (175, 16.8531, -99.8237),
+    ],
+    "mexico-queretaro": [
+        (0,   19.5200, -99.1600),
+        (50,  20.0800, -99.3200),
+        (100, 20.3600, -99.8600),
+        (150, 20.5300, -100.1900),
+        (200, 20.5880, -100.3900),
+    ],
+    "mexico-puebla": [
+        (0,   19.3600, -98.9800),
+        (30,  19.2500, -98.7200),
+        (60,  19.1500, -98.4800),
+        (100, 19.0530, -98.1830),
+        (135, 19.0480, -97.8700),
+    ],
+    "puebla-cordoba": [
+        (0,   19.0530, -98.1830),
+        (40,  18.9800, -97.7500),
+        (80,  18.9300, -97.3500),
+        (120, 18.8900, -97.0000),
+        (160, 18.8840, -96.9230),
+    ],
+    "puebla-veracruz": [
+        (0,   19.0530, -98.1830),
+        (50,  18.9300, -97.3000),
+        (100, 18.9800, -96.7200),
+        (145, 19.1730, -96.1340),
+    ],
+    "puebla-acatzingo": [
+        (0,   19.0530, -98.1830),
+        (50,  18.9800, -97.7500),
+        (90,  18.9480, -97.4500),
+    ],
+    "mexico-toluca": [
+        (0,   19.4326, -99.1332),
+        (20,  19.3500, -99.3500),
+        (40,  19.3200, -99.5500),
+        (65,  19.2860, -99.6640),
+    ],
+    "toluca-palmillas": [
+        (0,   19.2860, -99.6640),
+        (50,  20.0000, -99.9500),
+        (90,  20.2600, -100.2200),
+    ],
+    "guadalajara-tepic": [
+        (0,   20.6597, -103.3496),
+        (50,  20.8800, -103.8000),
+        (100, 21.1200, -104.1500),
+        (150, 21.3500, -104.6500),
+        (220, 21.5080, -104.8950),
+    ],
+    "guadalajara-morelia": [
+        (0,   20.6597, -103.3496),
+        (50,  20.3600, -102.7500),
+        (100, 20.1500, -102.0200),
+        (160, 19.7050, -101.1940),
+    ],
+    "monterrey-laredo": [
+        (0,   25.6866, -100.3161),
+        (50,  26.1000, -100.2500),
+        (100, 26.5200, -100.1800),
+        (150, 27.0600, -100.0800),
+        (210, 27.5060, -99.5070),
+    ],
+    "saltillo-monterrey": [
+        (0,   25.4231, -100.9940),
+        (40,  25.5800, -100.5900),
+        (80,  25.6700, -100.2300),
+        (100, 25.6866, -100.3161),
+    ],
+    "guadalajara-morelia": [
+        (0,   20.6597, -103.3496),
+        (50,  20.3600, -102.7500),
+        (100, 20.1500, -102.0200),
+        (160, 19.7050, -101.1940),
+    ],
+    "chihuahua-juarez": [
+        (0,   28.6320, -106.0690),
+        (50,  29.1200, -106.2500),
+        (100, 29.6500, -106.3800),
+        (150, 30.2500, -106.4200),
+        (200, 31.7380, -106.4870),
+    ],
+    "tijuana-ensenada": [
+        (0,   32.5149, -117.0382),
+        (40,  32.1800, -116.9300),
+        (80,  31.8680, -116.6900),
+        (110, 31.8670, -116.5960),
+    ],
+    "isla-acayucan": [
+        (0,   18.0560, -95.5300),
+        (50,  18.0700, -95.1000),
+        (100, 18.0200, -94.8500),
+        (155, 17.9480, -94.9140),
+    ],
+    "villahermosa-escarcega": [
+        (0,   17.9892, -92.9472),
+        (60,  18.1000, -91.8000),
+        (120, 18.6200, -91.0000),
+        (200, 18.6490, -90.7300),
+    ],
+    "zacatecas-durango": [
+        (0,   22.7709, -102.5832),
+        (60,  23.1500, -103.0000),
+        (120, 23.6000, -103.5000),
+        (180, 24.0290, -104.6628),
+    ],
+    "salamanca-leon": [
+        (0,   20.5700, -101.1950),
+        (30,  20.7000, -101.3500),
+        (60,  21.1220, -101.6820),
+    ],
+    "acayucan-cosoleacaque": [
+        (0,   17.9480, -94.9140),
+        (30,  18.1000, -94.8000),
+        (55,  18.1490, -94.4480),
+    ],
+    "cordoba-yanga": [
+        (0,   18.8840, -96.9230),
+        (20,  18.8000, -96.7800),
+        (40,  18.8100, -96.6500),
+    ],
+    "teziutlan-nautla": [
+        (0,   19.8180, -97.3570),
+        (40,  20.0500, -97.0500),
+        (80,  20.2000, -96.8000),
+    ],
+    "libramiento-queretaro": [
+        (0,   20.5450, -100.4500),
+        (25,  20.4700, -100.2500),
+        (50,  20.5880, -100.3900),
+    ],
+    "coatzacoalcos-salinaCruz": [
+        (0,   18.1490, -94.4480),
+        (80,  17.0000, -95.0000),
+        (160, 16.1600, -95.2000),
+    ],
+    "carmen-campeche": [
+        (0,   18.6490, -91.8220),
+        (60,  19.0000, -90.8000),
+        (160, 19.8450, -90.5230),
+    ],
+    "guadalupe-guanacevi": [
+        (0,   26.1000, -105.9500),
+        (50,  25.8000, -105.7000),
+        (80,  25.5500, -105.4800),
+    ],
+    "tinaja-cosoleacaque": [
+        (0,   18.3200, -95.0200),
+        (40,  18.2000, -94.8500),
+        (70,  18.1490, -94.4480),
+    ],
 }
 
 # Alias table: normalised text fragment → route key
@@ -321,11 +512,20 @@ def resolve_route(text_norm: str) -> str | None:
 
 
 def km_to_coords(route_key: str, km: float) -> tuple[float, float] | None:
-    entry = ROUTES.get(route_key)
-    if entry is None:
+    """Interpolate coordinates along waypoints for the given route and km."""
+    waypoints = ROUTE_WAYPOINTS.get(route_key)
+    if not waypoints:
         return None
-    _, lat0, lon0, dlat, dlon = entry
-    return (round(lat0 + dlat * km, 6), round(lon0 + dlon * km, 6))
+    # Clamp to known range
+    km = max(waypoints[0][0], min(waypoints[-1][0], km))
+    for i in range(len(waypoints) - 1):
+        km0, lat0, lon0 = waypoints[i]
+        km1, lat1, lon1 = waypoints[i + 1]
+        if km0 <= km <= km1:
+            t = (km - km0) / (km1 - km0)
+            return (round(lat0 + t * (lat1 - lat0), 6),
+                    round(lon0 + t * (lon1 - lon0), 6))
+    return None
 
 
 def parse_date(date_str: str) -> str:
@@ -364,7 +564,7 @@ def tweet_to_incident(item: dict, account: str) -> dict | None:
 
     # Get display label and coords
     if route_key:
-        display_highway = ROUTES[route_key][0]
+        display_highway = ROUTE_LABELS.get(route_key, route_key)
         coords = km_to_coords(route_key, km_value)
     else:
         display_highway = "?"
