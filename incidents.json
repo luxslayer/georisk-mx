@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-08T09:32:14.401054+00:00",
-  "count": 35,
+  "updated": "2026-03-08T10:27:56.959893+00:00",
+  "count": 34,
   "incidents": [
     {
       "id": "03e9409219ea",
@@ -407,20 +407,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 234+500, de la carretera Tulancingo-Tihuatlán. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del k",
       "link": "https://nitter.net/GN_Carreteras/status/2030401506717970855#m",
       "date": "2026-03-07T21:53:36+00:00"
-    },
-    {
-      "id": "719be5c02e8f",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Nuevo Teapa - Cosoleacaque, km 16, dirección Nuevo Teapa. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Dirección Cosoleacaque, continúa reducción de carriles. Toma tus precauciones. Para más informa",
-      "link": "https://nitter.net/CAPUFE/status/2030398577374335342#m",
-      "date": "2026-03-07T21:41:58+00:00"
     },
     {
       "id": "d51f581f4dcd",
