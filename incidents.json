@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-08T19:45:34.309177+00:00",
+  "updated": "2026-03-08T20:29:59.275217+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "e7b16648614e",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 52.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoPuebla, registra #lluvia a la altura del km 52. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoPuebla , registra #lluvia a la altura del km 52. Disminuye tu velocidad y maneja con precaución.",
+      "link": "https://nitter.net/CAPUFE/status/2030736637312094274#m",
+      "date": "2026-03-08T20:05:18+00:00"
+    },
     {
       "id": "83d731612e02",
       "account": "@capufe",
@@ -281,20 +295,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 111, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 111, dirección Cuer",
       "link": "https://nitter.net/CAPUFE/status/2030617339868127357#m",
       "date": "2026-03-08T12:11:15+00:00"
-    },
-    {
-      "id": "ad19977c57c9",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 76.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 76, dirección La Tinaja. Reducción de carriles por atención de incidente (ponchadura de neumático). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 76, dirección La Tinaja. Re",
-      "link": "https://nitter.net/CAPUFE/status/2030615929151750359#m",
-      "date": "2026-03-08T12:05:39+00:00"
     },
     {
       "id": "03e9409219ea",
