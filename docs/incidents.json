@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-08T13:41:28.654469+00:00",
+  "updated": "2026-03-08T14:27:36.038504+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "081102446d4c",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "⚠️ AVISO IMPORTANTE⚠️ Autopista Nuevo Teapa - Cosoleacaque, km 16. Cierres intermitentes en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. ⚠️ AVISO IMPORTANTE⚠️ Autopista Nuevo Te",
+      "link": "https://nitter.net/CAPUFE/status/2030648998332101038#m",
+      "date": "2026-03-08T14:17:03+00:00"
+    },
+    {
+      "id": "4490f360bde7",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 76.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 76, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 76, dirección La Tinaja. El inc",
+      "link": "https://nitter.net/CAPUFE/status/2030643716315079099#m",
+      "date": "2026-03-08T13:56:04+00:00"
+    },
     {
       "id": "2aeaa2e60afc",
       "account": "@capufe",
@@ -339,20 +367,6 @@
       "date": "2026-03-07T23:47:09+00:00"
     },
     {
-      "id": "c0d48ac1a1f7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Ent. San José - Ent. Corral de Piedra, km 13, dirección San Lucas. Circulación a contraflujo por atención de accidente (choque por alcance y persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Ent. San José - Ent. Corra",
-      "link": "https://nitter.net/CAPUFE/status/2030427066479345745#m",
-      "date": "2026-03-07T23:35:10+00:00"
-    },
-    {
       "id": "6c0417dd087c",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -365,20 +379,6 @@
       "text": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 246+000, de la carretera Oaxaca-Tehuantepec. Maneje con precaución. #VíaLibre en #Oaxaca tras presencia de personas cerca del km 246+000, de la carretera Oaxaca-Tehuantepec. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2030418979320115708#m",
       "date": "2026-03-07T23:03:02+00:00"
-    },
-    {
-      "id": "dbe6830319d0",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 194.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento, sin reporte de incidente. En la zona se registra carga vehicular. Toma tus precauciones. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , del km ",
-      "link": "https://nitter.net/CAPUFE/status/2030413172209836327#m",
-      "date": "2026-03-07T22:39:58+00:00"
     },
     {
       "id": "f8a3604fa085",
