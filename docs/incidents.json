@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-08T14:52:25.227291+00:00",
-  "count": 34,
+  "updated": "2026-03-08T15:26:54.997598+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "a06861323f2a",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 206.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 206. Continúa circulación intermitente en ambos sentidos por labores de mantenimiento (no a cargo de CAPUFE). Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣. 🟠 CIERRE ",
+      "link": "https://nitter.net/CAPUFE/status/2030664708559090089#m",
+      "date": "2026-03-08T15:19:29+00:00"
+    },
+    {
+      "id": "6722f004a425",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 71.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Yucatán se registra cierre parcial de circulación por #AccidenteVíal cerca del km 071+400, de la carretera Mérida-Puerto Juárez. Atienda indicación vial. #TomePrecauciones en #Yucatán se registra cierre parcial de circulación por #AccidenteVíal cerca del km ",
+      "link": "https://nitter.net/GN_Carreteras/status/2030663208055324924#m",
+      "date": "2026-03-08T15:13:31+00:00"
+    },
     {
       "id": "b6f45e7976fc",
       "account": "@GN_carreteras",
@@ -339,34 +367,6 @@
       "date": "2026-03-08T00:46:41+00:00"
     },
     {
-      "id": "5872dd041b9b",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 2.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 2, dirección La Pera. Continúa reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 2, direc",
-      "link": "https://nitter.net/CAPUFE/status/2030443579215155486#m",
-      "date": "2026-03-08T00:40:47+00:00"
-    },
-    {
-      "id": "2e0ace422226",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 207.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Carbonera - Puerto México, km 207, dirección La Carbonera.. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Carbonera - Puerto México, km 20",
-      "link": "https://nitter.net/CAPUFE/status/2030442144557584556#m",
-      "date": "2026-03-08T00:35:05+00:00"
-    },
-    {
       "id": "f08f8e53734d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -463,20 +463,6 @@
       "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVíal cerca del km 259+200, de la carretera Pinotepa Nacional-Salina Cruz. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVíal cerca ",
       "link": "https://nitter.net/GN_Carreteras/status/2030388756360892425#m",
       "date": "2026-03-07T21:02:56+00:00"
-    },
-    {
-      "id": "229f330fb9ab",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 130.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVíal cerca del km 130+400, de la carretera Tapanatepec-Tuxtla Gutiérrez. Atienda indicación vial. #TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVíal cerca",
-      "link": "https://nitter.net/GN_Carreteras/status/2030387802152521830#m",
-      "date": "2026-03-07T20:59:09+00:00"
     }
   ]
 }
