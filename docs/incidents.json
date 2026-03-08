@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-08T21:26:53.004346+00:00",
-  "count": 35,
+  "updated": "2026-03-08T21:48:37.717895+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "4ef065bc68f6",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Cuernavaca",
+      "route_key": "mexico-cuernavaca",
+      "km": 67.0,
+      "lat": 18.91636,
+      "lon": -99.234,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVíal cerca del km 067+200, de la carretera México-Cuernavaca. Atienda indicación vial. #TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVíal cerca del km 067",
+      "link": "https://nitter.net/GN_Carreteras/status/2030760892267126904#m",
+      "date": "2026-03-08T21:41:41+00:00"
+    },
+    {
+      "id": "176437d88b33",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Córdoba–Yanga",
+      "route_key": "cordoba-yanga",
+      "km": 10.0,
+      "lat": 18.842,
+      "lon": -96.8515,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 010+050, de la carretera Córdoba-Yanga. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 010+0",
+      "link": "https://nitter.net/GN_Carreteras/status/2030759094311587919#m",
+      "date": "2026-03-08T21:34:32+00:00"
+    },
+    {
+      "id": "ad5c431a501c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 53.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 53, dirección Puebla. Continúa reducción de carriles por atención de accidente (reacomodo de muro central). Dirección CDMX, opera de manera normal. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , k",
+      "link": "https://nitter.net/CAPUFE/status/2030757670068662570#m",
+      "date": "2026-03-08T21:28:52+00:00"
+    },
     {
       "id": "173a0a866db9",
       "account": "@capufe",
@@ -463,34 +505,6 @@
       "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVíal cerca del km 222+222, de la carretera Maravatío-Zapotlanejo. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVíal cerca de",
       "link": "https://nitter.net/GN_Carreteras/status/2030430080908796010#m",
       "date": "2026-03-07T23:47:09+00:00"
-    },
-    {
-      "id": "6c0417dd087c",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 246.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 246+000, de la carretera Oaxaca-Tehuantepec. Maneje con precaución. #VíaLibre en #Oaxaca tras presencia de personas cerca del km 246+000, de la carretera Oaxaca-Tehuantepec. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2030418979320115708#m",
-      "date": "2026-03-07T23:03:02+00:00"
-    },
-    {
-      "id": "f8a3604fa085",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 69.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Querétaro se registra cierre total de circulación por #AccidenteVíal cerca del km 069+500, de la carretera San Miguel de Allende-Querétaro. Atienda indicación vial. #TomePrecauciones en #Querétaro se registra cierre total de circulación por #AccidenteVíal ce",
-      "link": "https://nitter.net/GN_Carreteras/status/2030412863060262934#m",
-      "date": "2026-03-07T22:38:44+00:00"
     }
   ]
 }
