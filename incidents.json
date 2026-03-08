@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-08T14:27:36.038504+00:00",
+  "updated": "2026-03-08T14:52:25.227291+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "b6f45e7976fc",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 45.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 045+400, de la carretera Cardel-Poza Rica. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 04",
+      "link": "https://nitter.net/GN_Carreteras/status/2030656898853212469#m",
+      "date": "2026-03-08T14:48:27+00:00"
+    },
+    {
+      "id": "94acef6f5415",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 122.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVíal cerca del km 122+350, de la carretera Raudales de Malpaso-El Bellote. Atienda indicación vial. #TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVíal cer",
+      "link": "https://nitter.net/GN_Carreteras/status/2030654142994079764#m",
+      "date": "2026-03-08T14:37:30+00:00"
+    },
     {
       "id": "081102446d4c",
       "account": "@capufe",
@@ -449,34 +477,6 @@
       "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVíal cerca del km 130+400, de la carretera Tapanatepec-Tuxtla Gutiérrez. Atienda indicación vial. #TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVíal cerca",
       "link": "https://nitter.net/GN_Carreteras/status/2030387802152521830#m",
       "date": "2026-03-07T20:59:09+00:00"
-    },
-    {
-      "id": "d56e27795e0e",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 246.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas cerca del km 246+000, de la carretera Oaxaca-Tehuantepec. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas cerca d",
-      "link": "https://nitter.net/GN_Carreteras/status/2030386232841085186#m",
-      "date": "2026-03-07T20:52:55+00:00"
-    },
-    {
-      "id": "f5e4b0edf90f",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 32.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Colima se registra cierre parcial de circulación por #AccidenteVíal cerca del km 032+400, de la carretera Colima-Ent. Tecomán. Atienda indicación vial. #TomePrecauciones en #Colima se registra cierre parcial de circulación por #AccidenteVíal cerca del km 032",
-      "link": "https://nitter.net/GN_Carreteras/status/2030385089029292186#m",
-      "date": "2026-03-07T20:48:22+00:00"
     }
   ]
 }
