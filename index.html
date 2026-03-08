@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CarreterasMX — Mapa de Incidentes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;900&family=Barlow:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+  /* ── Reset & tokens ───────────────────────────────────────────── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --ink:      #0d1117;
+    --paper:    #f5f0e8;
+    --asphalt:  #1c2333;
+    --stripe:   #ffcc00;   /* road-marking yellow */
+    --red:      #e63946;
+    --orange:   #f4831f;
+    --teal:     #2ec4b6;
+    --muted:    #8892a4;
+    --card:     #ffffff;
+    --radius:   6px;
+    --shadow:   0 2px 12px rgba(0,0,0,.12);
+  }
+
+  html, body { height: 100%; font-family: 'Barlow', sans-serif; background: var(--asphalt); color: var(--paper); }
+
+  /* ── Layout ───────────────────────────────────────────────────── */
+  #app { display: grid; grid-template-rows: 56px 1fr; height: 100vh; }
+
+  /* ── Header ───────────────────────────────────────────────────── */
+  header {
+    background: var(--ink);
+    border-bottom: 3px solid var(--stripe);
+    display: flex; align-items: center; gap: 16px;
+    padding: 0 20px;
+    z-index: 1000;
+  }
+  header .logo {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 900; font-size: 22px; letter-spacing: .5px;
+    color: var(--paper);
+    display: flex; align-items: center; gap: 8px;
+  }
+  header .logo span { color: var(--stripe); }
+  header .badge {
+    background: var(--stripe); color: var(--ink);
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 700; font-size: 11px; letter-spacing: 1px;
+    padding: 2px 8px; border-radius: 3px; text-transform: uppercase;
+  }
+  #last-updated {
+    margin-left: auto; font-size: 12px; color: var(--muted);
+    font-family: 'Barlow Condensed', sans-serif;
+  }
+  #refresh-btn {
+    background: none; border: 1px solid #333;
+    color: var(--muted); padding: 5px 10px;
+    border-radius: var(--radius); cursor: pointer;
+    font-size: 12px; font-family: 'Barlow Condensed', sans-serif;
+    letter-spacing: .5px; transition: all .2s;
+  }
+  #refresh-btn:hover { border-color: var(--stripe); color: var(--stripe); }
+
+  /* ── Body split ───────────────────────────────────────────────── */
+  #body { display: grid; grid-template-columns: 340px 1fr; overflow: hidden; }
+
+  /* ── Sidebar ──────────────────────────────────────────────────── */
+  #sidebar {
+    background: var(--asphalt);
+    border-right: 1px solid #2a3245;
+    display: flex; flex-direction: column;
+    overflow: hidden;
+  }
+  #filters {
+    padding: 14px 16px 10px;
+    border-bottom: 1px solid #2a3245;
+    display: flex; flex-wrap: wrap; gap: 6px;
+  }
+  .filter-chip {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 12px; font-weight: 600; letter-spacing: .5px;
+    padding: 4px 10px; border-radius: 30px;
+    border: 1px solid transparent; cursor: pointer;
+    transition: all .18s; text-transform: uppercase;
+    background: #232e45; color: var(--muted);
+  }
+  .filter-chip:hover, .filter-chip.active {
+    color: var(--ink); border-color: transparent;
+  }
+  .filter-chip[data-type="all"].active   { background: var(--stripe); }
+  .filter-chip[data-type="accident"].active  { background: var(--red); color:#fff; }
+  .filter-chip[data-type="closure"].active   { background: #6366f1; color:#fff; }
+  .filter-chip[data-type="traffic"].active   { background: var(--orange); }
+  .filter-chip[data-type="roadwork"].active  { background: var(--teal); }
+  .filter-chip[data-type="other"].active     { background: #64748b; color:#fff; }
+
+  #incident-list {
+    flex: 1; overflow-y: auto;
+    padding: 10px 10px 20px;
+    scrollbar-width: thin; scrollbar-color: #2a3245 transparent;
+  }
+  #incident-list::-webkit-scrollbar { width: 5px; }
+  #incident-list::-webkit-scrollbar-thumb { background: #2a3245; border-radius: 3px; }
+
+  .incident-card {
+    background: #1a2236;
+    border-left: 3px solid var(--muted);
+    border-radius: var(--radius);
+    padding: 10px 12px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    transition: background .18s, border-color .18s;
+  }
+  .incident-card:hover, .incident-card.selected {
+    background: #212d42;
+    border-left-color: var(--stripe);
+  }
+  .incident-card.type-accident  { border-left-color: var(--red); }
+  .incident-card.type-closure   { border-left-color: #6366f1; }
+  .incident-card.type-traffic   { border-left-color: var(--orange); }
+  .incident-card.type-roadwork  { border-left-color: var(--teal); }
+  .incident-card.type-fire      { border-left-color: #ef4444; }
+  .incident-card.type-rollover  { border-left-color: #f97316; }
+  .incident-card.type-landslide { border-left-color: #a78bfa; }
+  .incident-card.type-flood     { border-left-color: #38bdf8; }
+  .incident-card.type-fog       { border-left-color: #94a3b8; }
+  .incident-card.type-ice       { border-left-color: #bae6fd; }
+  .incident-card.type-hail      { border-left-color: #c7d2fe; }
+  .incident-card.type-protest   { border-left-color: #fb923c; }
+  .incident-card.type-blockade  { border-left-color: #f43f5e; }
+
+  .card-header { display: flex; align-items: center; gap: 6px; margin-bottom: 5px; }
+  .card-type {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 10px; font-weight: 700; letter-spacing: 1px;
+    text-transform: uppercase; padding: 2px 6px;
+    border-radius: 3px; background: rgba(255,255,255,.08); color: var(--paper);
+  }
+  .card-hw {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 700; font-size: 13px; color: var(--stripe);
+  }
+  .card-km {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 12px; color: var(--muted); margin-left: auto;
+  }
+  .card-text {
+    font-size: 12px; line-height: 1.45; color: #a8b4c6;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .card-meta {
+    display: flex; align-items: center; gap: 8px; margin-top: 6px;
+  }
+  .card-account { font-size: 11px; color: var(--teal); font-weight: 500; }
+  .card-date    { font-size: 10px; color: var(--muted); margin-left: auto; }
+  .card-unresolved {
+    display: inline-block; width: 6px; height: 6px;
+    border-radius: 50%; background: var(--orange);
+    flex-shrink: 0; margin-left: 4px;
+  }
+
+  #empty-state {
+    padding: 40px 20px; text-align: center;
+    color: var(--muted); font-size: 13px; display: none;
+  }
+
+  /* ── Map ──────────────────────────────────────────────────────── */
+  #map { width: 100%; height: 100%; }
+
+  /* Leaflet overrides */
+  .leaflet-popup-content-wrapper {
+    background: var(--ink); color: var(--paper);
+    border: 1px solid #2a3245; border-radius: var(--radius);
+    font-family: 'Barlow', sans-serif; font-size: 13px;
+    box-shadow: var(--shadow);
+  }
+  .leaflet-popup-tip { background: var(--ink); }
+  .leaflet-popup-content { margin: 12px 14px; line-height: 1.5; }
+  .popup-hw   { font-family: 'Barlow Condensed', sans-serif; font-weight: 700; font-size: 18px; color: var(--stripe); }
+  .popup-type { font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); }
+  .popup-text { margin: 6px 0; font-size: 12px; color: #c8d2e0; }
+  .popup-link { font-size: 11px; color: var(--teal); text-decoration: none; }
+  .popup-link:hover { text-decoration: underline; }
+  .popup-unresolved {
+    font-size: 10px; color: var(--orange); font-weight: 600;
+    text-transform: uppercase; letter-spacing: .5px;
+  }
+
+  /* Custom marker */
+  .marker-icon {
+    width: 32px; height: 32px; border-radius: 50% 50% 50% 0;
+    transform: rotate(-45deg);
+    border: 2px solid rgba(255,255,255,.35);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 14px;
+  }
+  .marker-icon span { transform: rotate(45deg); display: block; }
+
+  /* Loading overlay */
+  #loading {
+    position: fixed; inset: 0; background: var(--asphalt);
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    z-index: 9999; transition: opacity .4s;
+  }
+  #loading h2 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 900; font-size: 32px; color: var(--paper); margin-bottom: 8px;
+  }
+  #loading h2 span { color: var(--stripe); }
+  #loading p { color: var(--muted); font-size: 13px; }
+  .loader {
+    width: 36px; height: 36px; border: 3px solid #2a3245;
+    border-top-color: var(--stripe); border-radius: 50%;
+    animation: spin .8s linear infinite; margin-bottom: 16px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* Stat pills */
+  #stats { display: flex; gap: 8px; padding: 8px 16px 4px; flex-wrap: wrap; }
+  .stat-pill {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 12px; color: var(--muted);
+    background: #131c2e; padding: 3px 10px; border-radius: 20px;
+  }
+  .stat-pill strong { color: var(--paper); }
+</style>
+</head>
+<body>
+
+<div id="loading">
+  <div class="loader"></div>
+  <h2>Carreteras<span>MX</span></h2>
+  <p>Cargando incidentes…</p>
+</div>
+
+<div id="app">
+  <header>
+    <div class="logo">
+      🛣 Carreteras<span>MX</span>
+    </div>
+    <span class="badge">Incidentes en tiempo real</span>
+    <span id="last-updated"></span>
+    <button id="refresh-btn" onclick="loadIncidents()">↻ Actualizar</button>
+  </header>
+
+  <div id="body">
+    <div id="sidebar">
+      <div id="stats"></div>
+      <div id="filters">
+        <button class="filter-chip active" data-type="all">Todos</button>
+        <button class="filter-chip" data-type="accident">Accidente</button>
+        <button class="filter-chip" data-type="closure">Cierre</button>
+        <button class="filter-chip" data-type="traffic">Tráfico</button>
+        <button class="filter-chip" data-type="roadwork">Obras</button>
+        <button class="filter-chip" data-type="other">Otro</button>
+      </div>
+      <div id="incident-list">
+        <div id="empty-state">No se encontraron incidentes con ese filtro.</div>
+      </div>
+    </div>
+    <div id="map"></div>
+  </div>
+</div>
+
+<script>
+// ── Type metadata ──────────────────────────────────────────────────────────
+const TYPE_META = {
+  accident:  { label: 'Accidente',  emoji: '💥', color: '#e63946', group: 'accident' },
+  rollover:  { label: 'Volcadura',  emoji: '🔄', color: '#f97316', group: 'accident' },
+  fire:      { label: 'Incendio',   emoji: '🔥', color: '#ef4444', group: 'other'    },
+  closure:   { label: 'Cierre',     emoji: '🚧', color: '#6366f1', group: 'closure'  },
+  roadwork:  { label: 'Obras',      emoji: '🦺', color: '#2ec4b6', group: 'roadwork' },
+  landslide: { label: 'Derrumbe',   emoji: '⛰',  color: '#a78bfa', group: 'other'    },
+  flood:     { label: 'Inundación', emoji: '🌊', color: '#38bdf8', group: 'other'    },
+  fog:       { label: 'Neblina',    emoji: '🌫',  color: '#94a3b8', group: 'other'    },
+  ice:       { label: 'Hielo',      emoji: '🧊', color: '#bae6fd', group: 'other'    },
+  hail:      { label: 'Granizo',    emoji: '🌨',  color: '#c7d2fe', group: 'other'    },
+  traffic:   { label: 'Tráfico',    emoji: '🚗', color: '#f4831f', group: 'traffic'  },
+  protest:   { label: 'Manifestación', emoji: '📢', color: '#fb923c', group: 'other' },
+  blockade:  { label: 'Bloqueo',    emoji: '🚫', color: '#f43f5e', group: 'closure'  },
+  alert:     { label: 'Alerta',     emoji: '⚠️', color: '#ffcc00', group: 'other'    },
+};
+
+function meta(type) { return TYPE_META[type] || TYPE_META.alert; }
+
+// ── Map init ───────────────────────────────────────────────────────────────
+const map = L.map('map', {
+  center: [23.6345, -102.5528],
+  zoom: 6,
+  zoomControl: true,
+});
+
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; <a href="https://carto.com/">CARTO</a> | Datos: @GN_carreteras @capufe via Nitter',
+  subdomains: 'abcd',
+  maxZoom: 19,
+}).addTo(map);
+
+// ── State ──────────────────────────────────────────────────────────────────
+let allIncidents = [];
+let markers = {};
+let activeFilter = 'all';
+let selectedId = null;
+
+// ── Custom marker factory ──────────────────────────────────────────────────
+function makeIcon(type) {
+  const m = meta(type);
+  return L.divIcon({
+    className: '',
+    html: `<div class="marker-icon" style="background:${m.color}">
+             <span>${m.emoji}</span>
+           </div>`,
+    iconSize: [32, 32],
+    iconAnchor: [16, 32],
+    popupAnchor: [0, -34],
+  });
+}
+
+// ── Render ─────────────────────────────────────────────────────────────────
+function renderAll() {
+  renderSidebar();
+  renderMarkers();
+  renderStats();
+}
+
+function filteredIncidents() {
+  if (activeFilter === 'all') return allIncidents;
+  const group = activeFilter;
+  return allIncidents.filter(inc => {
+    const m = meta(inc.type);
+    return m.group === group || inc.type === group;
+  });
+}
+
+function renderStats() {
+  const total = allIncidents.length;
+  const types = {};
+  allIncidents.forEach(i => { types[i.type] = (types[i.type]||0)+1; });
+  const topType = Object.entries(types).sort((a,b)=>b[1]-a[1])[0];
+  const unresolved = allIncidents.filter(i=>!i.resolved).length;
+
+  document.getElementById('stats').innerHTML = `
+    <span class="stat-pill"><strong>${total}</strong> incidentes</span>
+    ${unresolved ? `<span class="stat-pill"><strong>${unresolved}</strong> sin coordenadas exactas</span>` : ''}
+    ${topType ? `<span class="stat-pill">Mayor: <strong>${meta(topType[0]).label}</strong> (${topType[1]})</span>` : ''}
+  `;
+}
+
+function renderSidebar() {
+  const list = document.getElementById('incident-list');
+  const empty = document.getElementById('empty-state');
+  const filtered = filteredIncidents();
+
+  if (!filtered.length) {
+    empty.style.display = 'block';
+    list.querySelectorAll('.incident-card').forEach(c => c.remove());
+    return;
+  }
+  empty.style.display = 'none';
+
+  // Remove old cards
+  list.querySelectorAll('.incident-card').forEach(c => c.remove());
+
+  filtered.forEach(inc => {
+    const m = meta(inc.type);
+    const card = document.createElement('div');
+    card.className = `incident-card type-${inc.type}${inc.id === selectedId ? ' selected' : ''}`;
+    card.dataset.id = inc.id;
+
+    const dateStr = formatDate(inc.date);
+
+    card.innerHTML = `
+      <div class="card-header">
+        <span class="card-type">${m.emoji} ${m.label}</span>
+        <span class="card-hw">MEX-${inc.highway}</span>
+        ${inc.km != null ? `<span class="card-km">km ${inc.km}</span>` : ''}
+        ${!inc.resolved ? '<span class="card-unresolved" title="Coordenadas aproximadas"></span>' : ''}
+      </div>
+      <div class="card-text">${inc.text}</div>
+      <div class="card-meta">
+        <span class="card-account">${inc.account}</span>
+        <span class="card-date">${dateStr}</span>
+      </div>`;
+
+    card.addEventListener('click', () => selectIncident(inc.id));
+    list.appendChild(card);
+  });
+}
+
+function renderMarkers() {
+  // Clear existing
+  Object.values(markers).forEach(m => map.removeLayer(m));
+  markers = {};
+
+  const filtered = filteredIncidents();
+  filtered.forEach(inc => {
+    const marker = L.marker([inc.lat, inc.lon], { icon: makeIcon(inc.type) });
+    marker.bindPopup(buildPopup(inc));
+    marker.on('click', () => selectIncident(inc.id));
+    marker.addTo(map);
+    markers[inc.id] = marker;
+  });
+}
+
+function buildPopup(inc) {
+  const m = meta(inc.type);
+  return `
+    <div class="popup-hw">${m.emoji} MEX-${inc.highway}${inc.km != null ? ` · km ${inc.km}` : ''}</div>
+    <div class="popup-type">${m.label} · ${inc.account}</div>
+    ${!inc.resolved ? '<div class="popup-unresolved">⚠ Coordenadas aproximadas</div>' : ''}
+    <div class="popup-text">${inc.text.substring(0, 200)}${inc.text.length > 200 ? '…' : ''}</div>
+    <div style="margin-top:6px;display:flex;justify-content:space-between;align-items:center">
+      <span style="font-size:11px;color:#556070">${formatDate(inc.date)}</span>
+      ${inc.link ? `<a class="popup-link" href="${inc.link}" target="_blank" rel="noopener">Ver tweet ↗</a>` : ''}
+    </div>`;
+}
+
+function selectIncident(id) {
+  selectedId = id;
+  const inc = allIncidents.find(i => i.id === id);
+  if (!inc) return;
+
+  // Update sidebar selection
+  document.querySelectorAll('.incident-card').forEach(c => {
+    c.classList.toggle('selected', c.dataset.id === id);
+  });
+
+  // Fly to marker
+  map.flyTo([inc.lat, inc.lon], 12, { duration: 1 });
+  if (markers[id]) markers[id].openPopup();
+}
+
+// ── Filters ────────────────────────────────────────────────────────────────
+document.querySelectorAll('.filter-chip').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-chip').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeFilter = btn.dataset.type;
+    renderAll();
+  });
+});
+
+// ── Date formatting ────────────────────────────────────────────────────────
+function formatDate(iso) {
+  try {
+    const d = new Date(iso);
+    const now = new Date();
+    const diff = (now - d) / 1000;
+    if (diff < 60)   return 'Ahora';
+    if (diff < 3600) return `Hace ${Math.floor(diff/60)} min`;
+    if (diff < 86400) return `Hace ${Math.floor(diff/3600)} h`;
+    return d.toLocaleDateString('es-MX', { day:'2-digit', month:'short' });
+  } catch { return ''; }
+}
+
+// ── Load data ──────────────────────────────────────────────────────────────
+async function loadIncidents() {
+  document.getElementById('refresh-btn').textContent = '…';
+  try {
+    const res = await fetch(`incidents.json?t=${Date.now()}`);
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+
+    allIncidents = data.incidents || [];
+
+    const updEl = document.getElementById('last-updated');
+    if (data.updated) {
+      const d = new Date(data.updated);
+      updEl.textContent = 'Actualizado: ' + d.toLocaleString('es-MX', {
+        day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit'
+      });
+    }
+
+    renderAll();
+  } catch (err) {
+    console.error(err);
+    // Show demo data if file not found (useful for local dev)
+    allIncidents = getDemoIncidents();
+    renderAll();
+  } finally {
+    document.getElementById('refresh-btn').textContent = '↻ Actualizar';
+    hideLanding();
+  }
+}
+
+function hideLanding() {
+  const el = document.getElementById('loading');
+  el.style.opacity = '0';
+  setTimeout(() => el.style.display = 'none', 400);
+}
+
+// ── Demo data (shown when incidents.json is absent) ────────────────────────
+function getDemoIncidents() {
+  return [
+    { id:'demo1', account:'@GN_carreteras', type:'accident', highway:'95D', km:87, lat:18.6200, lon:-99.1990, resolved:true,
+      text:'ACCIDENTE km 87 Autopista 95D México-Acapulco, carril derecho bloqueado, precaución.',
+      link:'', date: new Date(Date.now()-3600000).toISOString() },
+    { id:'demo2', account:'@capufe', type:'roadwork', highway:'57D', km:42, lat:19.9780, lon:-99.5120, resolved:true,
+      text:'OBRAS de conservación km 42 Autopista MEX-57D, trabajo en acotamiento.',
+      link:'', date: new Date(Date.now()-7200000).toISOString() },
+    { id:'demo3', account:'@GN_carreteras', type:'closure', highway:'150D', km:115, lat:19.3100, lon:-98.0300, resolved:true,
+      text:'CIERRE TOTAL km 115 Autopista 150D por volcadura de tráiler, desvío habilitado.',
+      link:'', date: new Date(Date.now()-1800000).toISOString() },
+    { id:'demo4', account:'@GN_carreteras', type:'traffic', highway:'15D', km:60, lat:20.9200, lon:-102.9000, resolved:true,
+      text:'TRÁFICO DENSO km 60 Autopista 15D Guadalajara-Tepic, avance lento.',
+      link:'', date: new Date(Date.now()-900000).toISOString() },
+    { id:'demo5', account:'@capufe', type:'fog', highway:'150D', km:70, lat:19.1800, lon:-98.4800, resolved:true,
+      text:'NEBLINA DENSA km 70 autopista MEX-150D Puebla-Veracruz, visibilidad reducida.',
+      link:'', date: new Date(Date.now()-5400000).toISOString() },
+  ];
+}
+
+// ── Boot ───────────────────────────────────────────────────────────────────
+loadIncidents();
+// Auto-refresh every 10 minutes
+setInterval(loadIncidents, 10 * 60 * 1000);
+</script>
+</body>
+</html>
