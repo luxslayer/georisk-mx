@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-09T08:03:10.480526+00:00",
+  "updated": "2026-03-09T09:08:57.153041+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "080262a04adf",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 9.0,
+      "lat": 18.293,
+      "lon": -94.98175,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 9, dirección Isla. Continúa reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 9, dirección Isla. Continúa ",
+      "link": "https://nitter.net/CAPUFE/status/2030929367790944326#m",
+      "date": "2026-03-09T08:51:08+00:00"
+    },
+    {
+      "id": "9bd6b9d27c08",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 91.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 091+500, de la carretera Xalapa-Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 091",
+      "link": "https://nitter.net/GN_Carreteras/status/2030921809135030535#m",
+      "date": "2026-03-09T08:21:06+00:00"
+    },
+    {
+      "id": "741ce4efb5e4",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 130.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVíal cerca del km 130+500, de la carretera Matehuala-saltillo. Atienda indicación vial. #TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVíal cerca del k",
+      "link": "https://nitter.net/GN_Carreteras/status/2030921046094688545#m",
+      "date": "2026-03-09T08:18:04+00:00"
+    },
     {
       "id": "01cda5ff4576",
       "account": "@GN_carreteras",
@@ -367,20 +409,6 @@
       "date": "2026-03-09T02:53:26+00:00"
     },
     {
-      "id": "930b66b8dd1f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 49.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Agua Dulce - Cárdenas, km 49, dirección Cárdenas. Cierre a la circulación por atención de accidente (salida del camino de camioneta). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Agua Dulce - ",
-      "link": "https://nitter.net/CAPUFE/status/2030838860494577935#m",
-      "date": "2026-03-09T02:51:30+00:00"
-    },
-    {
       "id": "39ebfe0dd90e",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -519,34 +547,6 @@
       "text": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVíal cerca del km 067+200, de la carretera México-Cuernavaca. Atienda indicación vial. #TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVíal cerca del km 067",
       "link": "https://nitter.net/GN_Carreteras/status/2030760892267126904#m",
       "date": "2026-03-08T21:41:41+00:00"
-    },
-    {
-      "id": "176437d88b33",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Córdoba–Yanga",
-      "route_key": "cordoba-yanga",
-      "km": 10.0,
-      "lat": 18.842,
-      "lon": -96.8515,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 010+050, de la carretera Córdoba-Yanga. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 010+0",
-      "link": "https://nitter.net/GN_Carreteras/status/2030759094311587919#m",
-      "date": "2026-03-08T21:34:32+00:00"
-    },
-    {
-      "id": "af6cadf6e73a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 40.0,
-      "lat": 19.968,
-      "lon": -99.288,
-      "resolved": true,
-      "text": "#TomePrecauciones en #EdoMéx. se registra cierre parcial de circulación por #AccidenteVíal cerca del km 040+000, de la carretera México-Querétaro. Atienda indicación vial. #TomePrecauciones en #EdoMéx . se registra cierre parcial de circulación por #AccidenteVíal cerca del km 040",
-      "link": "https://nitter.net/GN_Carreteras/status/2030716421508866239#m",
-      "date": "2026-03-08T18:44:58+00:00"
     }
   ]
 }
