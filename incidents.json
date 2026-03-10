@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-10T09:48:40.244764+00:00",
+  "updated": "2026-03-10T10:42:04.548148+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "99c4952f934d",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 170.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 170, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 170, dirección Isla. Red",
+      "link": "https://nitter.net/CAPUFE/status/2031314332642865388#m",
+      "date": "2026-03-10T10:20:51+00:00"
+    },
+    {
+      "id": "4ec9dcb5c741",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 20, dirección Chamapa. Registra reducción de carriles por atención de incidente. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Le",
+      "link": "https://nitter.net/CAPUFE/status/2031310443604476173#m",
+      "date": "2026-03-10T10:05:24+00:00"
+    },
     {
       "id": "5e2747a004a1",
       "account": "@capufe",
@@ -311,20 +339,6 @@
       "date": "2026-03-10T03:26:58+00:00"
     },
     {
-      "id": "0921092b2eb0",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 72.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 72, dirección Querétaro. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 72, dirección Querétaro. Redu",
-      "link": "https://nitter.net/CAPUFE/status/2031208832475529646#m",
-      "date": "2026-03-10T03:21:38+00:00"
-    },
-    {
       "id": "2c21100c180b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -337,20 +351,6 @@
       "text": "#TomePrecauciones en #Coahuila se registra cierre total de circulación por #AccidenteVíal cerca del km 231+400, de la carretera Puerto Mexico - Ojo Caliente con dirección a Monterrey, Nvo. León. Atienda indicación vial. #TomePrecauciones en #Coahuila se registra cierre total de c",
       "link": "https://nitter.net/GN_Carreteras/status/2031202397427740751#m",
       "date": "2026-03-10T02:56:04+00:00"
-    },
-    {
-      "id": "6005d6f8509b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro, km 13, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/Vtxk6beRhtEKe3Br7 🟠 CIERR",
-      "link": "https://nitter.net/CAPUFE/status/2031190502318493739#m",
-      "date": "2026-03-10T02:08:48+00:00"
     },
     {
       "id": "f93f6ce0c244",
