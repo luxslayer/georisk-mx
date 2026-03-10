@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-10T18:53:53.565978+00:00",
-  "count": 38,
+  "updated": "2026-03-10T19:39:27.283673+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "69f2b32f6b3b",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 42.0,
+      "lat": 19.9904,
+      "lon": -99.2944,
+      "resolved": true,
+      "text": "#VíaLibre en #EdoMéx tras presencia de personas cerca del km 042+800, de la carretera México-Querétaro. Maneje con precaución. #VíaLibre en #EdoMéx tras presencia de personas cerca del km 042+800, de la carretera México-Querétaro. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2031452854507155515#m",
+      "date": "2026-03-10T19:31:17+00:00"
+    },
+    {
+      "id": "4553cc1ec00a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 50.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 50, dirección Puente de Ixtla. Se restablece la circulación con reducción de carriles por atención del accidente (trasvase de carga). Dirección Iguala, opera de manera normal. Maneja con precaución. 🟠 CIERRE",
+      "link": "https://nitter.net/CAPUFE/status/2031450846186053859#m",
+      "date": "2026-03-10T19:23:18+00:00"
+    },
+    {
+      "id": "61891e1ab2bf",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 12.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 12, dirección Irapuato. Reducción de carriles por atención de accidente (choque de costado y derrame de pintura). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 12, d",
+      "link": "https://nitter.net/CAPUFE/status/2031447914900303887#m",
+      "date": "2026-03-10T19:11:40+00:00"
+    },
     {
       "id": "4f5cf81472d6",
       "account": "@capufe",
@@ -255,34 +297,6 @@
       "date": "2026-03-10T17:11:57+00:00"
     },
     {
-      "id": "a8915637527a",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 51.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 #AutMéxicoPuebla, km 51, dirección CDMX. Reducción de carriles por labores de mantenimiento. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 #AutMéxicoPuebla , km 51, dirección CDMX. Reducción de carriles por labores de mantenimiento. ",
-      "link": "https://nitter.net/CAPUFE/status/2031412110505431283#m",
-      "date": "2026-03-10T16:49:23+00:00"
-    },
-    {
-      "id": "f14c82dc7213",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 5.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Libramiento Noreste de Querétaro (Chichimequillas), km 5, dirección San Luis Potosí. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las maniobras de grúa para el retiro",
-      "link": "https://nitter.net/CAPUFE/status/2031410051622330769#m",
-      "date": "2026-03-10T16:41:12+00:00"
-    },
-    {
       "id": "44c85546523c",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -295,20 +309,6 @@
       "text": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas cerca del km 028+500, de la carretera Tuxtepec-Oaxaca, sin ruta alterna. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre total de circulación por presencia de p",
       "link": "https://nitter.net/GN_Carreteras/status/2031409578626396512#m",
       "date": "2026-03-10T16:39:19+00:00"
-    },
-    {
-      "id": "6a827cce251b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 194.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Champotón - Campeche, km 194, dirección Champotón. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). Maneja con precauci",
-      "link": "https://nitter.net/CAPUFE/status/2031405548428792003#m",
-      "date": "2026-03-10T16:23:19+00:00"
     },
     {
       "id": "249c14b0921b",
@@ -519,20 +519,6 @@
       "text": "#VíaLiberada en #Coahuila tras #AccidenteVíal cerca del km 231+400, de la carretera Puerto Mexico - Ojo Caliente con dirección a Monterrey, Nvo. León. Maneje con precaución. #VíaLiberada en #Coahuila tras #AccidenteVíal cerca del km 231+400, de la carretera Puerto Mexico - Ojo Ca",
       "link": "https://nitter.net/GN_Carreteras/status/2031210174929948884#m",
       "date": "2026-03-10T03:26:58+00:00"
-    },
-    {
-      "id": "2c21100c180b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 231.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Coahuila se registra cierre total de circulación por #AccidenteVíal cerca del km 231+400, de la carretera Puerto Mexico - Ojo Caliente con dirección a Monterrey, Nvo. León. Atienda indicación vial. #TomePrecauciones en #Coahuila se registra cierre total de c",
-      "link": "https://nitter.net/GN_Carreteras/status/2031202397427740751#m",
-      "date": "2026-03-10T02:56:04+00:00"
     }
   ]
 }
