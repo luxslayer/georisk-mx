@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-10T23:30:09.892042+00:00",
-  "count": 37,
+  "updated": "2026-03-10T23:53:30.974998+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "c356ce3eeeb7",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 7.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 7. Circulación intermitente en ambos sentidos por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 7. ",
+      "link": "https://nitter.net/CAPUFE/status/2031515862411174120#m",
+      "date": "2026-03-10T23:41:39+00:00"
+    },
     {
       "id": "c31a915ecbe4",
       "account": "@capufe",
@@ -283,20 +297,6 @@
       "date": "2026-03-10T20:18:16+00:00"
     },
     {
-      "id": "9b0d66b3ead6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 51.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 51, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 51, dirección Querétaro. El accidente ha sid",
-      "link": "https://nitter.net/CAPUFE/status/2031463955303137361#m",
-      "date": "2026-03-10T20:15:24+00:00"
-    },
-    {
       "id": "f127be1a6dec",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -309,20 +309,6 @@
       "text": "#TomePrecauciones en #Guerero se registra presencia de personas cerca del km 016+200, de la carretera Las Cruces-Pinotepa Nacional, sin afectación a la circulación. Atienda indicación vial. #TomePrecauciones en #Guerero se registra presencia de personas cerca del km 016+200, de l",
       "link": "https://nitter.net/GN_Carreteras/status/2031463630466904151#m",
       "date": "2026-03-10T20:14:06+00:00"
-    },
-    {
-      "id": "9669ccdef957",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 153.0,
-      "lat": 17.950618,
-      "lon": -94.911673,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 153, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 153, dirección Isla. El incidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2031463077779223046#m",
-      "date": "2026-03-10T20:11:55+00:00"
     },
     {
       "id": "69f2b32f6b3b",
