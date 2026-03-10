@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-10T07:42:37.250003+00:00",
-  "count": 36,
+  "updated": "2026-03-10T08:48:07.130221+00:00",
+  "count": 37,
   "incidents": [
     {
       "id": "0fe88109b81f",
@@ -337,6 +337,20 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Continúa cierre a la circulación por atención de accidente (labores de limpieza). Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán ce",
       "link": "https://nitter.net/CAPUFE/status/2031191236690801019#m",
       "date": "2026-03-10T02:11:43+00:00"
+    },
+    {
+      "id": "6005d6f8509b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 13.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro, km 13, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/Vtxk6beRhtEKe3Br7 🟠 CIERR",
+      "link": "https://nitter.net/CAPUFE/status/2031190502318493739#m",
+      "date": "2026-03-10T02:08:48+00:00"
     },
     {
       "id": "f93f6ce0c244",
