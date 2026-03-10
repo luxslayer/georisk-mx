@@ -1,9 +1,23 @@
 {
-  "updated": "2026-03-10T08:48:07.130221+00:00",
+  "updated": "2026-03-10T09:48:40.244764+00:00",
   "count": 37,
   "incidents": [
     {
-      "id": "0fe88109b81f",
+      "id": "5e2747a004a1",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 2.0,
+      "lat": 28.65152,
+      "lon": -106.07624,
+      "resolved": true,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Cd. Obregón - Guaymas, km 2. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos, debido a que el personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. Toma ",
+      "link": "https://nitter.net/CAPUFE/status/2031302941429084357#m",
+      "date": "2026-03-10T09:35:35+00:00"
+    },
+    {
+      "id": "0eb9a17fa1f9",
       "account": "@capufe",
       "type": "accident",
       "highway": "Méx–Acapulco",
@@ -12,7 +26,7 @@
       "lat": 19.27343,
       "lon": -99.10765,
       "resolved": true,
-      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Obregón - Guaymas, km 2. Registra cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camiones y automóviles. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/",
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Obregón - Guaymas, km 2. Registra cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camiones y automóviles. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/95vzSeEs",
       "link": "https://nitter.net/CAPUFE/status/2031269759665279355#m",
       "date": "2026-03-10T07:23:44+00:00"
     },
@@ -323,20 +337,6 @@
       "text": "#TomePrecauciones en #Coahuila se registra cierre total de circulación por #AccidenteVíal cerca del km 231+400, de la carretera Puerto Mexico - Ojo Caliente con dirección a Monterrey, Nvo. León. Atienda indicación vial. #TomePrecauciones en #Coahuila se registra cierre total de c",
       "link": "https://nitter.net/GN_Carreteras/status/2031202397427740751#m",
       "date": "2026-03-10T02:56:04+00:00"
-    },
-    {
-      "id": "e7ac18d9b472",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 232.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Continúa cierre a la circulación por atención de accidente (labores de limpieza). Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán ce",
-      "link": "https://nitter.net/CAPUFE/status/2031191236690801019#m",
-      "date": "2026-03-10T02:11:43+00:00"
     },
     {
       "id": "6005d6f8509b",
