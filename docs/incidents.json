@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-11T07:48:55.837029+00:00",
-  "count": 38,
+  "updated": "2026-03-11T08:46:22.072957+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "744650ef8375",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 41.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 41, dirección CDMX. Continúa reducción de carriles por atención de accidente (choque contra muro central). Dirección Cuernavaca, opera de manera normal. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoC",
+      "link": "https://nitter.net/CAPUFE/status/2031642644095402293#m",
+      "date": "2026-03-11T08:05:27+00:00"
+    },
+    {
+      "id": "a732a9b2a2dd",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 224.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. Cierre a la circulación por atención de accidente (volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - C",
+      "link": "https://nitter.net/CAPUFE/status/2031638970568704283#m",
+      "date": "2026-03-11T07:50:51+00:00"
+    },
     {
       "id": "c508fe74f140",
       "account": "@capufe",
@@ -71,20 +99,6 @@
       "text": "En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Barranca Larga-Ventanilla . Atienda indicación vial. En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Bar",
       "link": "https://nitter.net/GN_Carreteras/status/2031611180444156019#m",
       "date": "2026-03-11T06:00:25+00:00"
-    },
-    {
-      "id": "17599a57ed23",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 62.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 62. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. T",
-      "link": "https://nitter.net/CAPUFE/status/2031610032559636768#m",
-      "date": "2026-03-11T05:55:51+00:00"
     },
     {
       "id": "15ebe4144796",
@@ -351,34 +365,6 @@
       "text": "🟠CARGA VEHICULAR 🟠 Libramiento Noreste de Querétaro, km 7, Plaza de Cobro Chichimequillas. Registra carga vehicular en dirección San Luis Potosí, sin reporte de incidentes. Maneja con precaución. 🟠CARGA VEHICULAR 🟠 Libramiento Noreste de Querétaro, km 7, Plaza de Cobro Chichimequ",
       "link": "https://nitter.net/CAPUFE/status/2031538503616704994#m",
       "date": "2026-03-11T01:11:38+00:00"
-    },
-    {
-      "id": "fb0e241601a9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 21.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 21, dirección Lechería. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 21, dirección Lechería. El a",
-      "link": "https://nitter.net/CAPUFE/status/2031536625717588363#m",
-      "date": "2026-03-11T01:04:10+00:00"
-    },
-    {
-      "id": "1adb671a74b7",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 194.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular intensa. Toma tus precauciones. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , del km 194 al 207, direcc",
-      "link": "https://nitter.net/CAPUFE/status/2031536411296338225#m",
-      "date": "2026-03-11T01:03:19+00:00"
     },
     {
       "id": "3c521de6d825",
