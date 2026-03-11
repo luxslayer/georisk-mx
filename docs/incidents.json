@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-11T06:57:30.736223+00:00",
-  "count": 37,
+  "updated": "2026-03-11T07:48:55.837029+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "c508fe74f140",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 127.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Gómez Palacio - Corralitos, km 127. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Gómez Palacio - Corralitos, km 127. El accid",
+      "link": "https://nitter.net/CAPUFE/status/2031636656764211221#m",
+      "date": "2026-03-11T07:41:39+00:00"
+    },
+    {
+      "id": "c6aadf2a7179",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 41.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 41. Reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 41. Reducción de carriles en ambos sen",
+      "link": "https://nitter.net/CAPUFE/status/2031633289371595147#m",
+      "date": "2026-03-11T07:28:16+00:00"
+    },
     {
       "id": "04c39e3f3622",
       "account": "@capufe",
@@ -43,6 +71,20 @@
       "text": "En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Barranca Larga-Ventanilla . Atienda indicación vial. En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Bar",
       "link": "https://nitter.net/GN_Carreteras/status/2031611180444156019#m",
       "date": "2026-03-11T06:00:25+00:00"
+    },
+    {
+      "id": "17599a57ed23",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 62.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 62. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. T",
+      "link": "https://nitter.net/CAPUFE/status/2031610032559636768#m",
+      "date": "2026-03-11T05:55:51+00:00"
     },
     {
       "id": "15ebe4144796",
@@ -339,20 +381,6 @@
       "date": "2026-03-11T01:03:19+00:00"
     },
     {
-      "id": "0224bbc28bf3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 50.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 50, dirección Puente de Ixtla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 50, direc",
-      "link": "https://nitter.net/CAPUFE/status/2031535159275581675#m",
-      "date": "2026-03-11T00:58:20+00:00"
-    },
-    {
       "id": "3c521de6d825",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -365,20 +393,6 @@
       "text": "En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Barranca Larga-Ventanilla . Atienda indicación vial. En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Bar",
       "link": "https://nitter.net/GN_Carreteras/status/2031533544024191257#m",
       "date": "2026-03-11T00:51:55+00:00"
-    },
-    {
-      "id": "06309ef085c7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 156.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Las Choapas - Ocozocoautla, km 156. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopist",
-      "link": "https://nitter.net/CAPUFE/status/2031533282962128944#m",
-      "date": "2026-03-11T00:50:53+00:00"
     },
     {
       "id": "ab6ea8cbe733",
