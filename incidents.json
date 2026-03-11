@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-11T10:42:07.922073+00:00",
-  "count": 36,
+  "updated": "2026-03-11T11:35:13.291173+00:00",
+  "count": 37,
   "incidents": [
     {
       "id": "117f0f21013c",
@@ -127,6 +127,20 @@
       "text": "En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Barranca Larga-Ventanilla . Atienda indicación vial. En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Bar",
       "link": "https://nitter.net/GN_Carreteras/status/2031611180444156019#m",
       "date": "2026-03-11T06:00:25+00:00"
+    },
+    {
+      "id": "17599a57ed23",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 62.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 62. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. T",
+      "link": "https://nitter.net/CAPUFE/status/2031610032559636768#m",
+      "date": "2026-03-11T05:55:51+00:00"
     },
     {
       "id": "15ebe4144796",
