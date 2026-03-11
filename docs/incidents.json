@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-11T08:46:22.072957+00:00",
-  "count": 37,
+  "updated": "2026-03-11T09:45:57.403552+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "8056e3c58f5f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 41.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 41, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 41, dirección CDMX. El accidente ha sido atend",
+      "link": "https://nitter.net/CAPUFE/status/2031660786234327468#m",
+      "date": "2026-03-11T09:17:32+00:00"
+    },
     {
       "id": "744650ef8375",
       "account": "@capufe",
@@ -337,34 +351,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 127. Circulación a contraflujo por atención de accidente (incendio de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 127. Circulación a co",
       "link": "https://nitter.net/CAPUFE/status/2031547068288991558#m",
       "date": "2026-03-11T01:45:40+00:00"
-    },
-    {
-      "id": "2b5ef20937b6",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 7.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 7. El incidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 7. El incidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2031539772326555707#m",
-      "date": "2026-03-11T01:16:40+00:00"
-    },
-    {
-      "id": "0bbe74ec7c88",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 7.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠CARGA VEHICULAR 🟠 Libramiento Noreste de Querétaro, km 7, Plaza de Cobro Chichimequillas. Registra carga vehicular en dirección San Luis Potosí, sin reporte de incidentes. Maneja con precaución. 🟠CARGA VEHICULAR 🟠 Libramiento Noreste de Querétaro, km 7, Plaza de Cobro Chichimequ",
-      "link": "https://nitter.net/CAPUFE/status/2031538503616704994#m",
-      "date": "2026-03-11T01:11:38+00:00"
     },
     {
       "id": "3c521de6d825",
