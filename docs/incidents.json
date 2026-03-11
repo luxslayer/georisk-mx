@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-11T13:05:58.347479+00:00",
+  "updated": "2026-03-11T14:27:16.843761+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "3d25add24216",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 224.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. Continúa reducción de carriles por atención del accidente (volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km",
+      "link": "https://nitter.net/CAPUFE/status/2031733018755252250#m",
+      "date": "2026-03-11T14:04:34+00:00"
+    },
+    {
+      "id": "e5847fe558a7",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 11.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #SanLuisPotosí continúa cierre de circulación parcial por conclusión de maniobras tras #AccidenteVíal cerca del km 011+500, de la carretera Matehuala-Saltillo. Atienda indicación vial. #TomePrecauciones en #SanLuisPotosí continúa cierre de circulación parcial",
+      "link": "https://nitter.net/GN_Carreteras/status/2031726989762007175#m",
+      "date": "2026-03-11T13:40:36+00:00"
+    },
     {
       "id": "7cfa749d1b87",
       "account": "@GN_carreteras",
@@ -325,20 +353,6 @@
       "date": "2026-03-11T04:30:33+00:00"
     },
     {
-      "id": "1f4dabf5359d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 102.0,
-      "lat": 18.147261,
-      "lon": -99.545699,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 102, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 102, dirección Cuern",
-      "link": "https://nitter.net/CAPUFE/status/2031588382128877911#m",
-      "date": "2026-03-11T04:29:50+00:00"
-    },
-    {
       "id": "f50031ffb7f9",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -505,20 +519,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 030+900, de la carretera Coatzacoalcos-Salina Cruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca ",
       "link": "https://nitter.net/GN_Carreteras/status/2031492316196745680#m",
       "date": "2026-03-10T22:08:06+00:00"
-    },
-    {
-      "id": "177a3bb4e591",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 174.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #MIchoacán continúa cierre de circulación parcial por conclusión de maniobras tras #AccidenteVíal cerca del km 174+700, de la carretera Maravatío Zapotlanejo. Atienda indicación vial. #TomePrecauciones en #MIchoacán continúa cierre de circulación parcial por ",
-      "link": "https://nitter.net/GN_Carreteras/status/2031468352074350664#m",
-      "date": "2026-03-10T20:32:52+00:00"
     }
   ]
 }
