@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-11T09:45:57.403552+00:00",
+  "updated": "2026-03-11T10:42:07.922073+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "117f0f21013c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 224.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (volcadura de tracto camión). En la zona se registra carga vehicul",
+      "link": "https://nitter.net/CAPUFE/status/2031677378800283977#m",
+      "date": "2026-03-11T10:23:28+00:00"
+    },
     {
       "id": "8056e3c58f5f",
       "account": "@capufe",
@@ -337,20 +351,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 275, dirección Cd. Mendoza. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 275, dirección Cd.",
       "link": "https://nitter.net/CAPUFE/status/2031552643047551120#m",
       "date": "2026-03-11T02:07:49+00:00"
-    },
-    {
-      "id": "9ec4daede032",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 127.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 127. Circulación a contraflujo por atención de accidente (incendio de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 127. Circulación a co",
-      "link": "https://nitter.net/CAPUFE/status/2031547068288991558#m",
-      "date": "2026-03-11T01:45:40+00:00"
     },
     {
       "id": "3c521de6d825",
