@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-11T20:45:09.728763+00:00",
-  "count": 37,
+  "updated": "2026-03-11T21:36:05.617963+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "35890e24cff3",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 162.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 162, dirección Querétaro. Se informa a las personas usuarias que continúa reducción de carriles por maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja con precaución. Para",
+      "link": "https://nitter.net/CAPUFE/status/2031845119482343585#m",
+      "date": "2026-03-11T21:30:00+00:00"
+    },
+    {
+      "id": "24c8e3837cdd",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 64.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Hidalgo tras #AccidenteVíal cerca del km 064+800, de la carretera Libramiento Norte. Maneje con precaución. #VíaLibre en #Hidalgo tras #AccidenteVíal cerca del km 064+800, de la carretera Libramiento Norte. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2031843418352336958#m",
+      "date": "2026-03-11T21:23:15+00:00"
+    },
+    {
+      "id": "a1461a31b3f0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 21.0,
+      "lat": 18.257,
+      "lon": -94.93075,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 21, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 21, dirección La Tinaja",
+      "link": "https://nitter.net/CAPUFE/status/2031834721609757063#m",
+      "date": "2026-03-11T20:48:41+00:00"
+    },
     {
       "id": "a49393a7e33d",
       "account": "@GN_carreteras",
@@ -185,7 +227,7 @@
       "date": "2026-03-11T19:17:48+00:00"
     },
     {
-      "id": "bfa2992c29a7",
+      "id": "b5a887424c10",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -194,7 +236,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 162, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y automóvil. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aq",
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 162, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y automóvil. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: http",
       "link": "https://nitter.net/CAPUFE/status/2031809318270746935#m",
       "date": "2026-03-11T19:07:45+00:00"
     },
@@ -309,20 +351,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 23, dirección La Tinaja. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 23, dirección La Tin",
       "link": "https://nitter.net/CAPUFE/status/2031795483900051741#m",
       "date": "2026-03-11T18:12:46+00:00"
-    },
-    {
-      "id": "287b710bdecf",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 165.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 #AutMéxicoQuerétaro, km 165, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 #AutMéxicoQuerétaro , km 165, dirección Queré",
-      "link": "https://nitter.net/CAPUFE/status/2031791225116749985#m",
-      "date": "2026-03-11T17:55:51+00:00"
     },
     {
       "id": "705640eda053",
@@ -505,20 +533,6 @@
       "text": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 287+500, de la carretera Coatzacoalcos-Salina Cruz. Maneje con precaución. #VíaLibre en #Oaxaca tras presencia de personas cerca del km 287+500, de la carretera Coatzacoalcos-Salina Cruz. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2031592530043707852#m",
       "date": "2026-03-11T04:46:18+00:00"
-    },
-    {
-      "id": "f50031ffb7f9",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 74.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVíal cerca del km 074+000, de la carretera México-Hidalgo. Atienda indicación vial. #TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVíal cerca del km 074+00",
-      "link": "https://nitter.net/GN_Carreteras/status/2031580969262788897#m",
-      "date": "2026-03-11T04:00:22+00:00"
     }
   ]
 }
