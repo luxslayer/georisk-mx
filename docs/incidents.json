@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-11T23:28:44.984860+00:00",
+  "updated": "2026-03-11T23:52:34.232355+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "6678ac2cd99a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 91.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial tras #AccidenteVial cerca del km 091+500, de la carretera Xalapa - Veracruz. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre parcial tras #AccidenteVial cerca del km 091+500, de la carretera Xala",
+      "link": "https://nitter.net/GN_Carreteras/status/2031878694898188311#m",
+      "date": "2026-03-11T23:43:26+00:00"
+    },
     {
       "id": "12567dd27a78",
       "account": "@capufe",
@@ -311,20 +325,6 @@
       "date": "2026-03-11T21:36:10+00:00"
     },
     {
-      "id": "a20d87a9fff6",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 162.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 162, dirección Querétaro. Se informa a las personas usuarias que continúa reducción de carriles por maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja con precaución",
-      "link": "https://nitter.net/CAPUFE/status/2031845119482343585#m",
-      "date": "2026-03-11T21:30:00+00:00"
-    },
-    {
       "id": "24c8e3837cdd",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -407,6 +407,20 @@
       "text": "#Tomeprecauciones en #Oaxaca se registra cierre total presencia de personas cerca del km 014+500, de la carretera Oaxaca-Puerto Ángel. Atienda indicación vial. #TomePrecauciones #Tomeprecauciones en #Oaxaca se registra cierre total presencia de personas cerca del km 014+500, de l",
       "link": "https://nitter.net/GN_Carreteras/status/2031812701069197568#m",
       "date": "2026-03-11T19:21:11+00:00"
+    },
+    {
+      "id": "b5a887424c10",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 162.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 162, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y automóvil. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: http",
+      "link": "https://nitter.net/CAPUFE/status/2031809318270746935#m",
+      "date": "2026-03-11T19:07:45+00:00"
     },
     {
       "id": "a7097dce06d7",
@@ -533,20 +547,6 @@
       "text": "En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Barranca Larga-Ventanilla. Atienda indicación vial. En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Barr",
       "link": "https://nitter.net/GN_Carreteras/status/2031713065566130365#m",
       "date": "2026-03-11T12:45:16+00:00"
-    },
-    {
-      "id": "033b5a8a638b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 87.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVíal cerca del km 087+800, de la carretera Monclova-Piedras Negras. Atienda indicación vial. #TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVíal cerca de",
-      "link": "https://nitter.net/GN_Carreteras/status/2031709826787807599#m",
-      "date": "2026-03-11T12:32:24+00:00"
     }
   ]
 }
