@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-12T22:28:35.371265+00:00",
+  "updated": "2026-03-12T22:55:49.979876+00:00",
   "count": 32,
   "incidents": [
+    {
+      "id": "5e2a0a1f3b05",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 14.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 014+500, de la carretera Oaxaca-Puerto Ángel. Maneje con precaución. #VíaLibre en #Oaxaca tras presencia de personas cerca del km 014+500, de la carretera Oaxaca-Puerto Ángel. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2032228282041573389#m",
+      "date": "2026-03-12T22:52:34+00:00"
+    },
+    {
+      "id": "6acf49e9c921",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 104.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 104. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (incendio de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCUL",
+      "link": "https://nitter.net/CAPUFE/status/2032224779562823739#m",
+      "date": "2026-03-12T22:38:39+00:00"
+    },
     {
       "id": "54016727022e",
       "account": "@capufe",
@@ -227,20 +255,6 @@
       "date": "2026-03-12T19:15:23+00:00"
     },
     {
-      "id": "af71fd3b212c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 46.0,
-      "lat": 18.1898,
-      "lon": -94.7696,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 46, dirección Isla. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 46, dirección Isla. El ac",
-      "link": "https://nitter.net/CAPUFE/status/2032172167689843133#m",
-      "date": "2026-03-12T19:09:35+00:00"
-    },
-    {
       "id": "5fcb903fe362",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -435,20 +449,6 @@
       "text": "#Tomeprecauciones en #Hidalgo se registra cierre parcial tras #AccidenteVíal cerca del Km 124+400 de la carretera Libramiento Norte. Atienda indicación vial. #Tomeprecauciones en #Hidalgo se registra cierre parcial tras #AccidenteVíal cerca del Km 124+400 de la carretera Libramie",
       "link": "https://nitter.net/GN_Carreteras/status/2032093836277878835#m",
       "date": "2026-03-12T13:58:19+00:00"
-    },
-    {
-      "id": "503218358ea1",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 57.0,
-      "lat": 20.1192,
-      "lon": -99.3956,
-      "resolved": true,
-      "text": "#Tomeprecauciones en #Chiapas se registra cierre parcial tras #AccidenteVial cerca del km 057+000, de la carretera Tapanatepec -Tuxtla Gutiérrez. Atienda indicación vial. #Tomeprecauciones en #Chiapas se registra cierre parcial tras #AccidenteVial cerca del km 057+000, de la carr",
-      "link": "https://nitter.net/GN_Carreteras/status/2031972148475032027#m",
-      "date": "2026-03-12T05:54:47+00:00"
     }
   ]
 }
