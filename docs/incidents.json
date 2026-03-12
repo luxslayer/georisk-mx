@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-12T22:55:49.979876+00:00",
-  "count": 32,
+  "updated": "2026-03-12T23:32:39.746192+00:00",
+  "count": 20,
   "incidents": [
+    {
+      "id": "3b28a45fba2f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 73.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Campeche se registra cierre parcial tras #AccidenteVial cerca del km 073+500, de la carretera Chencollí-Uman. Atienda indicación vial. #Tomeprecauciones en #Campeche se registra cierre parcial tras #AccidenteVial cerca del km 073+500, de la carretera Chencol",
+      "link": "https://nitter.net/GN_Carreteras/status/2032234934534910313#m",
+      "date": "2026-03-12T23:19:00+00:00"
+    },
     {
       "id": "5e2a0a1f3b05",
       "account": "@GN_carreteras",
@@ -17,34 +31,6 @@
       "date": "2026-03-12T22:52:34+00:00"
     },
     {
-      "id": "6acf49e9c921",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 104.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 104. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (incendio de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCUL",
-      "link": "https://nitter.net/CAPUFE/status/2032224779562823739#m",
-      "date": "2026-03-12T22:38:39+00:00"
-    },
-    {
-      "id": "54016727022e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 46.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 46, dirección Córdoba. Reducción de carriles por atención de accidente (salida de neumático). Maneja con precaución 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 46, dirección Córdoba. Reducci",
-      "link": "https://nitter.net/CAPUFE/status/2032221047450186233#m",
-      "date": "2026-03-12T22:23:49+00:00"
-    },
-    {
       "id": "8d657f2b101a",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -57,118 +43,6 @@
       "text": "#Tomeprecauciones en #Oaxaca se registra cierre total tras #AccidenteVial cerca del km 104+500, de la carretera Cuacnopalan-Oaxaca. Atienda indicación vial. #Tomeprecauciones en #Oaxaca se registra cierre total tras #AccidenteVial cerca del km 104+500, de la carretera Cuacnopalan",
       "link": "https://nitter.net/GN_Carreteras/status/2032220875760513437#m",
       "date": "2026-03-12T22:23:08+00:00"
-    },
-    {
-      "id": "6f37de41a069",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 104.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 104. Cierre a la circulación en ambos sentidos por atención de accidente (incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 1",
-      "link": "https://nitter.net/CAPUFE/status/2032216637672137033#m",
-      "date": "2026-03-12T22:06:17+00:00"
-    },
-    {
-      "id": "b0158c0ff639",
-      "account": "@capufe",
-      "type": "fire",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 76.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 76, dirección CDMX. Reducción de carriles por atención de incidente (incendio de pastizal). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 76, dirección CDMX. Reducción de carriles por ",
-      "link": "https://nitter.net/CAPUFE/status/2032215261236117940#m",
-      "date": "2026-03-12T22:00:49+00:00"
-    },
-    {
-      "id": "7897e813ede4",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 277.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Autopista Cd. Mendoza - Córdoba, km 277, dirección Córdoba. Reducción de carriles por labores de mantenimiento. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Autopista Cd. Mendoza - Córdoba, km 277, dirección Córdoba. Reducción de ca",
-      "link": "https://nitter.net/CAPUFE/status/2032215066079015413#m",
-      "date": "2026-03-12T22:00:03+00:00"
-    },
-    {
-      "id": "da7c2ec93fbf",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Aut. Nuevo Teapa - Cosoleacaque, km 16. Reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMI",
-      "link": "https://nitter.net/CAPUFE/status/2032215065559015490#m",
-      "date": "2026-03-12T22:00:03+00:00"
-    },
-    {
-      "id": "b44c84705a25",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 194.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 #AutMéxicoQuerétaro , del",
-      "link": "https://nitter.net/CAPUFE/status/2032215061968601463#m",
-      "date": "2026-03-12T22:00:02+00:00"
-    },
-    {
-      "id": "a49c309ee8d3",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 185.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 #AutMéxicoQuerétaro, km 185, dirección Querétaro. Reducción de carriles por labores de mantenimiento. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 #AutMéxicoQuerétaro , km 185, dirección Querétaro. Reducción de carriles por labores ",
-      "link": "https://nitter.net/CAPUFE/status/2032215061075231064#m",
-      "date": "2026-03-12T22:00:01+00:00"
-    },
-    {
-      "id": "b9f704e3d0e5",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 297.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Autopista Cd. Mendoza - Córdoba, del km 297 al 301, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Autopista Cd. Mendoza - Córdoba, del km 297 al 301, direcció",
-      "link": "https://nitter.net/CAPUFE/status/2032215055413232062#m",
-      "date": "2026-03-12T22:00:00+00:00"
-    },
-    {
-      "id": "d234af26a0b0",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 38.0,
-      "lat": 18.206,
-      "lon": -94.8585,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 38, dirección Isla. Continúa reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 38, dirección Isla. Continúa",
-      "link": "https://nitter.net/CAPUFE/status/2032204842333081921#m",
-      "date": "2026-03-12T21:19:25+00:00"
     },
     {
       "id": "7fc2b0a0d116",
@@ -199,20 +73,6 @@
       "date": "2026-03-12T20:54:39+00:00"
     },
     {
-      "id": "c7accae9ccfe",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 277.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Autopista Cd. Mendoza - Córdoba, km 277, dirección Córdoba. Reducción de carriles por labores de mantenimiento. Circulación lenta en la zona. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Autopista Cd. Mendoza - Córdoba, km 277, dire",
-      "link": "https://nitter.net/CAPUFE/status/2032182793233445142#m",
-      "date": "2026-03-12T19:51:48+00:00"
-    },
-    {
       "id": "1611978c9904",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -239,20 +99,6 @@
       "text": "#Tomeprecauciones en #QuintanaRoo se registra cierre parcial tras #AccidenteVial cerca del km 333+000, de la carretera Reforma Agraria-Puerto Juárez. Atienda indicación vial. #Tomeprecauciones en #QuintanaRoo se registra cierre parcial tras #AccidenteVial cerca del km 333+000, de",
       "link": "https://nitter.net/GN_Carreteras/status/2032174844935098404#m",
       "date": "2026-03-12T19:20:13+00:00"
-    },
-    {
-      "id": "d50fe3873153",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 38.0,
-      "lat": 18.206,
-      "lon": -94.8585,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 38, dirección Isla. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 38, dirección Isla. Reducción de carr",
-      "link": "https://nitter.net/CAPUFE/status/2032173628725322211#m",
-      "date": "2026-03-12T19:15:23+00:00"
     },
     {
       "id": "5fcb903fe362",
@@ -435,20 +281,6 @@
       "text": "#Tomeprecauciones en #NuevoLeón se registra cierre parcial tras #AccidenteVial cerca del km 100+200, de la carretera Monterrey-Castaños . Atienda indicación vial. #Tomeprecauciones en #NuevoLeón se registra cierre parcial tras #AccidenteVial cerca del km 100+200, de la carretera ",
       "link": "https://nitter.net/GN_Carreteras/status/2032108619903250750#m",
       "date": "2026-03-12T14:57:04+00:00"
-    },
-    {
-      "id": "fa6eb59ad793",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 124.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Hidalgo se registra cierre parcial tras #AccidenteVíal cerca del Km 124+400 de la carretera Libramiento Norte. Atienda indicación vial. #Tomeprecauciones en #Hidalgo se registra cierre parcial tras #AccidenteVíal cerca del Km 124+400 de la carretera Libramie",
-      "link": "https://nitter.net/GN_Carreteras/status/2032093836277878835#m",
-      "date": "2026-03-12T13:58:19+00:00"
     }
   ]
 }
