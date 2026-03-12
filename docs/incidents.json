@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-12T06:59:14.569187+00:00",
+  "updated": "2026-03-12T07:51:35.221791+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "2f5363bad0c9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 55.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 55. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - M",
+      "link": "https://nitter.net/CAPUFE/status/2032001337634812093#m",
+      "date": "2026-03-12T07:50:46+00:00"
+    },
     {
       "id": "503218358ea1",
       "account": "@GN_carreteras",
@@ -337,20 +351,6 @@
       "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección CDMX. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección CDMX. Registra carga vehicular a l",
       "link": "https://nitter.net/CAPUFE/status/2031895304723915005#m",
       "date": "2026-03-12T00:49:26+00:00"
-    },
-    {
-      "id": "df12ccaf13d1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 197.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 197, dirección Acatzingo. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camiones siniestrados). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULA",
-      "link": "https://nitter.net/CAPUFE/status/2031893389000806685#m",
-      "date": "2026-03-12T00:41:49+00:00"
     },
     {
       "id": "6678ac2cd99a",
