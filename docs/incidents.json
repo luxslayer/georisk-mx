@@ -1,7 +1,77 @@
 {
-  "updated": "2026-03-12T08:49:03.473979+00:00",
-  "count": 20,
+  "updated": "2026-03-12T09:47:08.526911+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "09788e8babdf",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 55.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 55. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 55. El accidente ha sido aten",
+      "link": "https://nitter.net/CAPUFE/status/2032020516014281016#m",
+      "date": "2026-03-12T09:06:58+00:00"
+    },
+    {
+      "id": "afa27ad7bb8b",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 108.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 108, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 108, dirección La Tinaja. El ",
+      "link": "https://nitter.net/CAPUFE/status/2032013297084489928#m",
+      "date": "2026-03-12T08:38:17+00:00"
+    },
+    {
+      "id": "a6fa5525570f",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 82.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 82, dirección Acapulco. Continúa reducción de carriles por labores de mantenimiento. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 82, dirección Acapulco. Continúa reducción de carr",
+      "link": "https://nitter.net/CAPUFE/status/2032008076107084119#m",
+      "date": "2026-03-12T08:17:32+00:00"
+    },
+    {
+      "id": "42856bd24ada",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 108.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 108, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 108, dir",
+      "link": "https://nitter.net/CAPUFE/status/2032007827221250130#m",
+      "date": "2026-03-12T08:16:33+00:00"
+    },
+    {
+      "id": "2f5363bad0c9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 55.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 55. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - M",
+      "link": "https://nitter.net/CAPUFE/status/2032001337634812093#m",
+      "date": "2026-03-12T07:50:46+00:00"
+    },
     {
       "id": "503218358ea1",
       "account": "@GN_carreteras",
@@ -17,6 +87,20 @@
       "date": "2026-03-12T05:54:47+00:00"
     },
     {
+      "id": "96dc316c205d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 210.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Navojoa - Cd. Obregón, km 210. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Navojoa - Cd. Obregón, km 210. El accidente ha s",
+      "link": "https://nitter.net/CAPUFE/status/2031967187326652467#m",
+      "date": "2026-03-12T05:35:04+00:00"
+    },
+    {
       "id": "380630b3f7dc",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -29,6 +113,20 @@
       "text": "#Tomeprecauciones en #SanLuisPotosí se registra cierre total tras #AccidenteVial cerca del km 144+000, de la carretera Querétaro-San Luis Potosí. Atienda indicación vial. #Tomeprecauciones en #SanLuisPotosí se registra cierre total tras #AccidenteVial cerca del km 144+000, de la ",
       "link": "https://nitter.net/GN_Carreteras/status/2031966633913434392#m",
       "date": "2026-03-12T05:32:52+00:00"
+    },
+    {
+      "id": "1f6a6d067b11",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 82.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 82, dirección Acapulco. Registra reducción de carriles por labores de mantenimiento. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 82, dirección Acapulco. Registra reducción de carr",
+      "link": "https://nitter.net/CAPUFE/status/2031966225652429194#m",
+      "date": "2026-03-12T05:31:14+00:00"
     },
     {
       "id": "47758c8703f0",
@@ -59,6 +157,34 @@
       "date": "2026-03-12T05:01:24+00:00"
     },
     {
+      "id": "e5f0323108e6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 55.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 55. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 ",
+      "link": "https://nitter.net/CAPUFE/status/2031958370220196331#m",
+      "date": "2026-03-12T05:00:02+00:00"
+    },
+    {
+      "id": "f2667b8cb6d4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 55.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Durango - Mazatlán, km 55. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista",
+      "link": "https://nitter.net/CAPUFE/status/2031954211383177642#m",
+      "date": "2026-03-12T04:43:30+00:00"
+    },
+    {
       "id": "6e274295051a",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -71,6 +197,34 @@
       "text": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 028+500, de la carretera Tuxtepec-Oaxaca. Maneje con precaución. #VíaLibre en #Oaxaca tras presencia de personas cerca del km 028+500, de la carretera Tuxtepec-Oaxaca. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2031952186335256658#m",
       "date": "2026-03-12T04:35:27+00:00"
+    },
+    {
+      "id": "9704671f36a5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 197.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 197, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 197, dirección A",
+      "link": "https://nitter.net/CAPUFE/status/2031947291196543013#m",
+      "date": "2026-03-12T04:16:00+00:00"
+    },
+    {
+      "id": "f919ee7f4b3c",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 108.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 108, dirección La Tinaja. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 108, dirección La",
+      "link": "https://nitter.net/CAPUFE/status/2031941825439916235#m",
+      "date": "2026-03-12T03:54:17+00:00"
     },
     {
       "id": "b85a30336ce7",
@@ -87,6 +241,20 @@
       "date": "2026-03-12T03:51:47+00:00"
     },
     {
+      "id": "a2898eb579e2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 55.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 55. Circulación intermitente en ambos sentidos por atención de accidente (incendio de remolque). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 55. Circulación intermiten",
+      "link": "https://nitter.net/CAPUFE/status/2031932448460751127#m",
+      "date": "2026-03-12T03:17:01+00:00"
+    },
+    {
       "id": "0fa87a731599",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -101,6 +269,62 @@
       "date": "2026-03-12T03:15:08+00:00"
     },
     {
+      "id": "38c15287787b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 210.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 210. Circulación a contraflujo por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 210. Circulación a contraflujo por at",
+      "link": "https://nitter.net/CAPUFE/status/2031931960990347358#m",
+      "date": "2026-03-12T03:15:05+00:00"
+    },
+    {
+      "id": "b3d7c9e9f6d0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 210.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 210, dirección Cd. Obregón. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 210, dirección Cd.",
+      "link": "https://nitter.net/CAPUFE/status/2031928408540922348#m",
+      "date": "2026-03-12T03:00:58+00:00"
+    },
+    {
+      "id": "7530b3c18345",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 197.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 197, dirección Acatzingo. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 197, dirección Acatzingo. El accidente ha si",
+      "link": "https://nitter.net/CAPUFE/status/2031925628216467583#m",
+      "date": "2026-03-12T02:49:55+00:00"
+    },
+    {
+      "id": "e86ffc4fd35f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 197.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 197, dirección Acatzingo. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camiones siniestrados). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULA",
+      "link": "https://nitter.net/CAPUFE/status/2031915358148255978#m",
+      "date": "2026-03-12T02:09:07+00:00"
+    },
+    {
       "id": "875e30fd7c0d",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -113,6 +337,20 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre total tras presencia de personas cerca del km 110+000, de la carretera Paso del toro - Acayucan. Se orienta a la ciudadanía #rutaalterna por la carretera Santiago Tuxtla - San Vicente. #TomePrecauciones en #Veracruz se registra ci",
       "link": "https://nitter.net/GN_Carreteras/status/2031910024843301017#m",
       "date": "2026-03-12T01:47:55+00:00"
+    },
+    {
+      "id": "434522b1752a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 70.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 70, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 70, dirección CDMX. El accidente ha sido atendido",
+      "link": "https://nitter.net/CAPUFE/status/2031909240684888471#m",
+      "date": "2026-03-12T01:44:48+00:00"
     },
     {
       "id": "2feb66002ece",
