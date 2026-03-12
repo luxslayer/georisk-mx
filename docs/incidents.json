@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-12T05:35:32.181808+00:00",
+  "updated": "2026-03-12T06:59:14.569187+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "503218358ea1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 57.0,
+      "lat": 20.1192,
+      "lon": -99.3956,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #Chiapas se registra cierre parcial tras #AccidenteVial cerca del km 057+000, de la carretera Tapanatepec -Tuxtla Gutiérrez. Atienda indicación vial. #Tomeprecauciones en #Chiapas se registra cierre parcial tras #AccidenteVial cerca del km 057+000, de la carr",
+      "link": "https://nitter.net/GN_Carreteras/status/2031972148475032027#m",
+      "date": "2026-03-12T05:54:47+00:00"
+    },
     {
       "id": "96dc316c205d",
       "account": "@capufe",
@@ -491,20 +505,6 @@
       "text": "#Tomeprecauciones en #Oaxaca se registra cierre total presencia de personas cerca del km 014+500, de la carretera Oaxaca-Puerto Ángel. Atienda indicación vial. #TomePrecauciones #Tomeprecauciones en #Oaxaca se registra cierre total presencia de personas cerca del km 014+500, de l",
       "link": "https://nitter.net/GN_Carreteras/status/2031812701069197568#m",
       "date": "2026-03-11T19:21:11+00:00"
-    },
-    {
-      "id": "a7097dce06d7",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Gdl–Tepic",
-      "route_key": "guadalajara-tepic",
-      "km": 89.0,
-      "lat": 21.0672,
-      "lon": -104.073,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Nayarit se registra cierre total tras #AccidenteVíal cerca del km 089+800, de la autopista Guadalajara - Tepic. Atienda indicación vial. #TomePrecauciones en #Nayarit se registra cierre total tras #AccidenteVíal cerca del km 089+800, de la autopista Guadalaj",
-      "link": "https://nitter.net/GN_Carreteras/status/2031796043512496609#m",
-      "date": "2026-03-11T18:15:00+00:00"
     }
   ]
 }
