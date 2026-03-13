@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-13T19:08:19.967638+00:00",
-  "count": 34,
+  "updated": "2026-03-13T19:55:53.112522+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "506abca1a076",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 40.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Puebla tras presencia de personas, cerca del km 040+100, en la carretera Cuacnopalan-Oaxaca. Maneje con precaución. #VíaLibre en #Puebla tras presencia de personas, cerca del km 040+100, en la carretera Cuacnopalan-Oaxaca. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2032545725851062293#m",
+      "date": "2026-03-13T19:53:58+00:00"
+    },
+    {
+      "id": "0a20991e9c72",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 5.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 005+700, de la carretera Libramiento Veracruz. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del k",
+      "link": "https://nitter.net/GN_Carreteras/status/2032534457031237967#m",
+      "date": "2026-03-13T19:09:11+00:00"
+    },
     {
       "id": "c240190bc4ce",
       "account": "@GN_carreteras",
@@ -283,20 +311,6 @@
       "date": "2026-03-13T16:49:33+00:00"
     },
     {
-      "id": "74eb147b9408",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 100.0,
-      "lat": 18.182718,
-      "lon": -99.538082,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cuernavaca - Acapulco, km 100, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida del camino y volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cuernavaca - Acapulco, km 100, d",
-      "link": "https://nitter.net/CAPUFE/status/2032497716404646236#m",
-      "date": "2026-03-13T16:43:12+00:00"
-    },
-    {
       "id": "4fbca996f886",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -309,20 +323,6 @@
       "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial tras #AccidenteVial cerca del km 264+800, de la carretera Puebla-Córdoba, con dirección a Puebla. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre parcial tras #AccidenteVial cerca del km 264+800,",
       "link": "https://nitter.net/GN_Carreteras/status/2032494693813035466#m",
       "date": "2026-03-13T16:31:11+00:00"
-    },
-    {
-      "id": "1e2dd9986de9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 265.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 265, dirección Córdoba. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 265, dirección Córdoba. El accidente ",
-      "link": "https://nitter.net/CAPUFE/status/2032494438967111747#m",
-      "date": "2026-03-13T16:30:10+00:00"
     },
     {
       "id": "850742970d84",
@@ -449,34 +449,6 @@
       "text": "#Tomeprecauciones en #Chiapas se registra cierre parcial tras #AccidenteVial cerca del km 009+150, de la carretera Libramiento de Ocozocoautla. Atienda indicación vial. #Tomeprecauciones en #Chiapas se registra cierre parcial tras #AccidenteVial cerca del km 009+150, de la carret",
       "link": "https://nitter.net/GN_Carreteras/status/2032336432677675438#m",
       "date": "2026-03-13T06:02:19+00:00"
-    },
-    {
-      "id": "fb2137369f0a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 122.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Zacatecas se registra cierre parcial tras #AccidenteVial cerca del km 122+800, de la carretera Aguascalientes-Zacatecas. Atienda indicación vial. #Tomeprecauciones en #Zacatecas se registra cierre parcial tras #AccidenteVial cerca del km 122+800, de la carre",
-      "link": "https://nitter.net/GN_Carreteras/status/2032333347956146521#m",
-      "date": "2026-03-13T05:50:03+00:00"
-    },
-    {
-      "id": "53e22cc35b48",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 104.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Chiapas se registra cierre parcial tras #AccidenteVial cerca del km 104+000, de la carretera Tapanatepec-Talismán. Atienda indicación vial. #Tomeprecauciones en #Chiapas se registra cierre parcial tras #AccidenteVial cerca del km 104+000, de la carretera Tap",
-      "link": "https://nitter.net/GN_Carreteras/status/2032332076679340542#m",
-      "date": "2026-03-13T05:45:00+00:00"
     }
   ]
 }
