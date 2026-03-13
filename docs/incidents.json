@@ -1,7 +1,91 @@
 {
-  "updated": "2026-03-13T22:30:30.035918+00:00",
-  "count": 30,
+  "updated": "2026-03-13T23:31:30.057070+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "8c9715ef6c46",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaució",
+      "link": "https://nitter.net/CAPUFE/status/2032598920493252885#m",
+      "date": "2026-03-13T23:25:21+00:00"
+    },
+    {
+      "id": "df61fb8aedf7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 203.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Hermosillo - Magdalena, km 203, dirección Hermosillo. Reducción de carriles por atención de accidente (volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Hermosillo - Magdalena, km 203, direc",
+      "link": "https://nitter.net/CAPUFE/status/2032596015954399576#m",
+      "date": "2026-03-13T23:13:48+00:00"
+    },
+    {
+      "id": "f66a7959b80f",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Nuevo Teapa - Cosoleacaque, km 16, dirección Nuevo Teapa. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Dirección Cosoleacaque, continúa reducción de carriles. En la zona se registra carga vehicular.",
+      "link": "https://nitter.net/CAPUFE/status/2032589623889662328#m",
+      "date": "2026-03-13T22:48:24+00:00"
+    },
+    {
+      "id": "25218f71b67a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 193.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 193. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Maz",
+      "link": "https://nitter.net/CAPUFE/status/2032587352728592586#m",
+      "date": "2026-03-13T22:39:23+00:00"
+    },
+    {
+      "id": "86bee40df048",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidente. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Continúa carga vehi",
+      "link": "https://nitter.net/CAPUFE/status/2032586052481761690#m",
+      "date": "2026-03-13T22:34:13+00:00"
+    },
+    {
+      "id": "7004426b456a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 102.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de la circulación por #AccidenteVial cerca del km 102+000, en la carretera Coatzacoalcos- Villahermosa. Atienda indicación vial. #TomePrecauciones en #Tabasco se registra cierre parcial de la circulación por #AccidenteVial ",
+      "link": "https://nitter.net/GN_Carreteras/status/2032585947053789496#m",
+      "date": "2026-03-13T22:33:48+00:00"
+    },
     {
       "id": "84dd93e9aee3",
       "account": "@capufe",
@@ -129,20 +213,6 @@
       "date": "2026-03-13T20:56:07+00:00"
     },
     {
-      "id": "cc6801b0f4a9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 104.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 104. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 104. El accidente ha sido atend",
-      "link": "https://nitter.net/CAPUFE/status/2032560614485205207#m",
-      "date": "2026-03-13T20:53:08+00:00"
-    },
-    {
       "id": "bb76bbb336ee",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -155,34 +225,6 @@
       "text": "#VíaLibre en #Oaxaca tras #AccidenteVial cerca del km 104+500, de la carretera Cuacnopalan-Oaxaca. Maneje con precaución. #VíaLibre en #Oaxaca tras #AccidenteVial cerca del km 104+500, de la carretera Cuacnopalan-Oaxaca. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2032558400169480230#m",
       "date": "2026-03-13T20:44:20+00:00"
-    },
-    {
-      "id": "bfdcdf15bf2d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 104.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 104. Continúa circulación intermitente en ambos sentidos por atención de accidente (labores de limpieza). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 104. Continúa circu",
-      "link": "https://nitter.net/CAPUFE/status/2032553592356266305#m",
-      "date": "2026-03-13T20:25:14+00:00"
-    },
-    {
-      "id": "75531e2898b5",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 19 al 27. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 19 al 27. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2032551209949626719#m",
-      "date": "2026-03-13T20:15:46+00:00"
     },
     {
       "id": "506abca1a076",
@@ -407,20 +449,6 @@
       "text": "#Tomeprecauciones en #Chihuahua se registra cierre parcial tras #AccidenteVial cerca del km 105+367, de la carretera Chihuahua-Cd. Juárez. Atienda indicación vial. #Tomeprecauciones en #Chihuahua se registra cierre parcial tras #AccidenteVial cerca del km 105+367, de la carretera",
       "link": "https://nitter.net/GN_Carreteras/status/2032434333072474308#m",
       "date": "2026-03-13T12:31:20+00:00"
-    },
-    {
-      "id": "6d6a40fbffe9",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 284.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial tras #AccidenteVial cerca del km 284+600, de la carretera Córdoba-puebla. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre parcial tras #AccidenteVial cerca del km 284+600, de la carretera Córdoba",
-      "link": "https://nitter.net/GN_Carreteras/status/2032433364150419661#m",
-      "date": "2026-03-13T12:27:29+00:00"
     }
   ]
 }
