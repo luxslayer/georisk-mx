@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-14T22:29:18.456008+00:00",
+  "updated": "2026-03-14T22:55:43.099691+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "ac8dd6f5dda4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 12.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Rancho Viejo - Taxco, km 12. Circulación intermitente en ambos sentidos, por atención de accidente (salida del camino y choque contra talud). Toma tus precauciones. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Rancho Viejo - Taxco, km 12",
+      "link": "https://nitter.net/CAPUFE/status/2032949858210877512#m",
+      "date": "2026-03-14T22:39:51+00:00"
+    },
+    {
+      "id": "454b7543ffb7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 98.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, dirección CDMX. Se informa a las personas usuarias que se registran diversos eventos que afectan la circulación: 🔘 Km 98, se restablece la circulación con reducción de carriles por atención de accidente (trasvase de carga). 🔘 Km 98, ",
+      "link": "https://nitter.net/CAPUFE/status/2032949148794716643#m",
+      "date": "2026-03-14T22:37:02+00:00"
+    },
     {
       "id": "b93e8ec12c24",
       "account": "@capufe",
@@ -59,7 +87,7 @@
       "date": "2026-03-14T21:48:42+00:00"
     },
     {
-      "id": "a99c9053da5a",
+      "id": "fb56695209d6",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -68,7 +96,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, dirección CDMX. Se informa a las personas usuarias que se registran diversos eventos que afectan la circulación: 🔘 Km 98, cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). 🔘 Km 98, re",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, dirección CDMX. Se informa a las personas usuarias que se registran diversos eventos que afectan la circulación: 🔘 Km 98, cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). 🔘 Km ",
       "link": "https://nitter.net/CAPUFE/status/2032936428355653734#m",
       "date": "2026-03-14T21:46:29+00:00"
     },
@@ -295,34 +323,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 23. Se restablece la circulación de manera normal en ambos sentidos. Sin embargo, continúa la atención del accidente, por el momento sin afectación a los carriles de rodamiento. Maneja con precaución. 🟢 RESTABLEC",
       "link": "https://nitter.net/CAPUFE/status/2032912896045338998#m",
       "date": "2026-03-14T20:12:58+00:00"
-    },
-    {
-      "id": "fac0e42b0d3d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 267.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 267, dirección Córdoba. Reducción de carriles por atención de accidente (volcadura de tracto camión). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista C",
-      "link": "https://nitter.net/CAPUFE/status/2032910365764571318#m",
-      "date": "2026-03-14T20:02:55+00:00"
-    },
-    {
-      "id": "ea4812565fb2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 83.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "⚠️ AVISO IMPORTANTE ⚠️ #AutMéxicoQuerétaro, dirección CDMX. Se informa a las personas usuarias que se registran diversos eventos que afectan la circulación: 🔘 Km 83, cierre a la circulación por atención de accidente (choque por alcance). 🔘 Km 98, reducción de carriles por atenció",
-      "link": "https://nitter.net/CAPUFE/status/2032909855447728511#m",
-      "date": "2026-03-14T20:00:53+00:00"
     },
     {
       "id": "3ec16911060b",
