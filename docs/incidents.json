@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-14T19:29:23.705237+00:00",
-  "count": 35,
+  "updated": "2026-03-14T19:50:43.114779+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "af0a089a3249",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 98.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 98, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de remolque). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 98, dir",
+      "link": "https://nitter.net/CAPUFE/status/2032903172482580538#m",
+      "date": "2026-03-14T19:34:20+00:00"
+    },
     {
       "id": "3ec16911060b",
       "account": "@GN_carreteras",
