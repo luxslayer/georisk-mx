@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-14T08:39:02.363869+00:00",
-  "count": 37,
+  "updated": "2026-03-14T09:36:21.913558+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "b9de1ba5c14c",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 20, dirección Cosoleacaque. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque",
+      "link": "https://nitter.net/CAPUFE/status/2032748122875572677#m",
+      "date": "2026-03-14T09:18:13+00:00"
+    },
+    {
+      "id": "93f353b88580",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 154.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla- Acayucan, km 154, dirección Acayucan. Reducción de carriles por atención de accidente (choque contra objeto). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla- Acayucan, km 154, dirección Acayucan. Reducción",
+      "link": "https://nitter.net/CAPUFE/status/2032744476699975709#m",
+      "date": "2026-03-14T09:03:44+00:00"
+    },
     {
       "id": "1a9be82818c4",
       "account": "@capufe",
@@ -253,20 +281,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaució",
       "link": "https://nitter.net/CAPUFE/status/2032686297173655721#m",
       "date": "2026-03-14T05:12:33+00:00"
-    },
-    {
-      "id": "338f3cb46019",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Nuevo Teapa - Cosoleacaque, km 17. Cierre a la circulación en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Nuevo Te",
-      "link": "https://nitter.net/CAPUFE/status/2032679840986304626#m",
-      "date": "2026-03-14T04:46:54+00:00"
     },
     {
       "id": "7a3cee7c59f6",
