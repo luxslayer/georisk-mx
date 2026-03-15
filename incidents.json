@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-15T06:33:31.391529+00:00",
-  "count": 39,
+  "updated": "2026-03-15T07:46:36.404907+00:00",
+  "count": 40,
   "incidents": [
+    {
+      "id": "655b99c52d63",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 48.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Amecameca - Nepantla, km 48, dirección Nepantla. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULAC",
+      "link": "https://nitter.net/CAPUFE/status/2033083586975510604#m",
+      "date": "2026-03-15T07:31:14+00:00"
+    },
+    {
+      "id": "97b2e0afc26d",
+      "account": "@capufe",
+      "type": "fire",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 36.0,
+      "lat": 18.11176,
+      "lon": -94.71552,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 36, dirección Acayucan. Reducción de carriles por atención de incidente (incendio de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 36, direcció",
+      "link": "https://nitter.net/CAPUFE/status/2033082069580923384#m",
+      "date": "2026-03-15T07:25:12+00:00"
+    },
     {
       "id": "abfb33fec070",
       "account": "@GN_carreteras",
@@ -351,20 +379,6 @@
       "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 98, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular intensa. Toma tus p",
       "link": "https://nitter.net/CAPUFE/status/2032978410692080035#m",
       "date": "2026-03-15T00:33:18+00:00"
-    },
-    {
-      "id": "22d3fb0cebc8",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 52.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 52, dirección Querétaro. Cierre a la circulación por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro , km 52, dirección Queréta",
-      "link": "https://nitter.net/CAPUFE/status/2032976490023784715#m",
-      "date": "2026-03-15T00:25:40+00:00"
     },
     {
       "id": "4d7c16c83f34",
