@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-15T05:07:38.042217+00:00",
+  "updated": "2026-03-15T06:33:31.391529+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "abfb33fec070",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 163.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #AccidenteVial cerca del km 163+000, en la carretera La Tinaja - Cosoleacaque. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #AccidenteVial c",
+      "link": "https://nitter.net/GN_Carreteras/status/2033067898332123210#m",
+      "date": "2026-03-15T06:28:54+00:00"
+    },
+    {
+      "id": "9f7d013aff79",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 64.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación por #AccidenteVial cerca del km 064+900, en la carretera Acámbaro - Celaya. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación por #AccidenteVial cerc",
+      "link": "https://nitter.net/GN_Carreteras/status/2033059847076196582#m",
+      "date": "2026-03-15T05:56:54+00:00"
+    },
+    {
+      "id": "f241d6e848b0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 48.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Amecameca - Nepantla, km 48, dirección Nepantla. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULAC",
+      "link": "https://nitter.net/CAPUFE/status/2033055877381407088#m",
+      "date": "2026-03-15T05:41:08+00:00"
+    },
     {
       "id": "5b73bc8c46ec",
       "account": "@GN_carreteras",
@@ -325,20 +367,6 @@
       "date": "2026-03-15T00:25:40+00:00"
     },
     {
-      "id": "82ac920e749c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Rancho Viejo - Taxco, km 12. El accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Rancho Vie",
-      "link": "https://nitter.net/CAPUFE/status/2032973552094163340#m",
-      "date": "2026-03-15T00:14:00+00:00"
-    },
-    {
       "id": "4d7c16c83f34",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -519,34 +547,6 @@
       "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de la circulación por #AccidenteVial cerca del km 003+000, en la carretera Los Reyes-Zacatepec. Atienda indicación vial. #TomePrecauciones en #Tlaxcala se registra cierre parcial de la circulación por #AccidenteVial cerca ",
       "link": "https://nitter.net/GN_Carreteras/status/2032873983712882812#m",
       "date": "2026-03-14T17:38:21+00:00"
-    },
-    {
-      "id": "e2c4bf02c844",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 70.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación por #AccidenteVial cerca del km 070+400, en la carretera Cuacnopalan-Oaxaca. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de la circulación por #AccidenteVial cerca del k",
-      "link": "https://nitter.net/GN_Carreteras/status/2032871857829859479#m",
-      "date": "2026-03-14T17:29:54+00:00"
-    },
-    {
-      "id": "6e4cda400137",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 115.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #AccidenteVial cerca del km 115+100, en la carretera San Hipólito - Xalapa. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #AccidenteVial cerc",
-      "link": "https://nitter.net/GN_Carreteras/status/2032865867818528819#m",
-      "date": "2026-03-14T17:06:06+00:00"
     }
   ]
 }
