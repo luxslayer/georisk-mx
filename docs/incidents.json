@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-15T11:28:25.543877+00:00",
+  "updated": "2026-03-15T11:50:51.313183+00:00",
   "count": 40,
   "incidents": [
+    {
+      "id": "1a1ca1254dc0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 36.0,
+      "lat": 18.11176,
+      "lon": -94.71552,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 36, dirección Acayucan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 36, dirección Acay",
+      "link": "https://nitter.net/CAPUFE/status/2033148895090680240#m",
+      "date": "2026-03-15T11:50:45+00:00"
+    },
+    {
+      "id": "6d342e844bc2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 48.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Amecameca - Nepantla, km 48, dirección Nepantla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Amecameca - Nepantla, km 48, dirección Nepant",
+      "link": "https://nitter.net/CAPUFE/status/2033148584401535318#m",
+      "date": "2026-03-15T11:49:31+00:00"
+    },
     {
       "id": "08cafeef687f",
       "account": "@capufe",
@@ -337,34 +365,6 @@
       "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 76, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular intensa. Toma tus precauciones. Para",
       "link": "https://nitter.net/CAPUFE/status/2032998924437352503#m",
       "date": "2026-03-15T01:54:49+00:00"
-    },
-    {
-      "id": "a515df3d14bb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 36.0,
-      "lat": 18.212,
-      "lon": -94.867,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 36, dirección La Tinaja. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Maneja con precaución. Para más i",
-      "link": "https://nitter.net/CAPUFE/status/2032993246796718322#m",
-      "date": "2026-03-15T01:32:15+00:00"
-    },
-    {
-      "id": "06164042433b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 26.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 26, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 26, dirección CDMX. El accidente ha sido atendi",
-      "link": "https://nitter.net/CAPUFE/status/2032988969852441053#m",
-      "date": "2026-03-15T01:15:16+00:00"
     },
     {
       "id": "77a71f2bacf5",
