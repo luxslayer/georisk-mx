@@ -1,7 +1,77 @@
 {
-  "updated": "2026-03-15T21:30:49.989843+00:00",
-  "count": 37,
+  "updated": "2026-03-15T22:31:16.401335+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "b2bb33b3c500",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 40.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 40 al 50. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 40 al 50. Disminuye tu velocidad y maneja con precaución.",
+      "link": "https://nitter.net/CAPUFE/status/2033309281185911184#m",
+      "date": "2026-03-15T22:28:04+00:00"
+    },
+    {
+      "id": "885a6774bb69",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 35.0,
+      "lat": 19.233333,
+      "lon": -98.68,
+      "resolved": true,
+      "text": "#TomePrecauciones en #EdoMex se registra cierre parcial de la circulación por #AccidenteVial cerca del km 035+800, en la carretera México - Puebla. Atienda indicación vial. #TomePrecauciones en #EdoMex se registra cierre parcial de la circulación por #AccidenteVial cerca del km 0",
+      "link": "https://nitter.net/GN_Carreteras/status/2033308045476786219#m",
+      "date": "2026-03-15T22:23:09+00:00"
+    },
+    {
+      "id": "46675980a42b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 309.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuernavaca - Acapulco, km 309, dirección Acapulco. Cierre a la circulación por atención de accidente (servicios periciales). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuernavaca - Acapulco,",
+      "link": "https://nitter.net/CAPUFE/status/2033306942991368679#m",
+      "date": "2026-03-15T22:18:46+00:00"
+    },
+    {
+      "id": "7771496962c0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 254.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 254, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Circulación lenta en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Aca",
+      "link": "https://nitter.net/CAPUFE/status/2033303235629322512#m",
+      "date": "2026-03-15T22:04:02+00:00"
+    },
+    {
+      "id": "6095a811c836",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 75.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 75, dirección Isla. Reducción de carriles por atención de accidente (caída de carga de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 75, dirección Isla. Redu",
+      "link": "https://nitter.net/CAPUFE/status/2033296580317495335#m",
+      "date": "2026-03-15T21:37:36+00:00"
+    },
     {
       "id": "5c07d193da58",
       "account": "@capufe",
@@ -269,48 +339,6 @@
       "date": "2026-03-15T16:48:27+00:00"
     },
     {
-      "id": "a64c58398298",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 141.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 141, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camioneta). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla",
-      "link": "https://nitter.net/CAPUFE/status/2033211063844458885#m",
-      "date": "2026-03-15T15:57:47+00:00"
-    },
-    {
-      "id": "30810dc2e0c4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 53.0,
-      "lat": 29.1518,
-      "lon": -106.2578,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 53, dirección Cd. Obregón. Circulación intermitente por atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIA",
-      "link": "https://nitter.net/CAPUFE/status/2033207713623118082#m",
-      "date": "2026-03-15T15:44:28+00:00"
-    },
-    {
-      "id": "c2cbe055e67b",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 #AVISO a las personas usuarias de la autopista #MéxicoPuebla 🚧 Se realizará cierre temporal de carriles centrales en el km 20, por montaje de estructura metálica. Tome sus precauciones. 🚧 #AVISO a las personas usuarias de la autopista #MéxicoPuebla 🚧 Se realizará cierre tempora",
-      "link": "https://nitter.net/CAPUFE/status/2033206510059131048#m",
-      "date": "2026-03-15T15:39:41+00:00"
-    },
-    {
       "id": "4f21a32831cf",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -505,20 +533,6 @@
       "text": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 081+200, de la carretera Puebla-Huajuapan de León. Atienda indicación vial. #Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del k",
       "link": "https://nitter.net/GN_Carreteras/status/2032945333085352160#m",
       "date": "2026-03-14T22:21:52+00:00"
-    },
-    {
-      "id": "fb13c5a8fda6",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 98.0,
-      "lat": 20.3488,
-      "lon": -99.8384,
-      "resolved": true,
-      "text": "#Tomeprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del km 098+000, de la carretera México - Querétaro. Atienda indicación vial. #Tomeprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del km 098+",
-      "link": "https://nitter.net/GN_Carreteras/status/2032919113677394074#m",
-      "date": "2026-03-14T20:37:41+00:00"
     }
   ]
 }
