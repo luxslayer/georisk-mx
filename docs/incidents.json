@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-15T09:37:17.947713+00:00",
+  "updated": "2026-03-15T10:32:27.267077+00:00",
   "count": 40,
   "incidents": [
+    {
+      "id": "9e37d3e54966",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 187.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 187, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 187, dirección Isla. El accidente ha ",
+      "link": "https://nitter.net/CAPUFE/status/2033121779204387204#m",
+      "date": "2026-03-15T10:03:00+00:00"
+    },
     {
       "id": "f55c3f6f580b",
       "account": "@capufe",
@@ -365,20 +379,6 @@
       "text": "#Tomeprecauciones en #EdoMex se registra cierre total de circulación por #AccidenteVial cerca del km 052+500, de la carretera México - Querétaro. Se orienta a la ciudadanía #rutaalterna carretera Antigua México-Querétaro. #Tomeprecauciones en #EdoMex se registra cierre total de c",
       "link": "https://nitter.net/GN_Carreteras/status/2032987007161438425#m",
       "date": "2026-03-15T01:07:28+00:00"
-    },
-    {
-      "id": "eee08855518b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 36.0,
-      "lat": 18.212,
-      "lon": -94.867,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 36, dirección La Tinaja. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista L",
-      "link": "https://nitter.net/CAPUFE/status/2032984640588493063#m",
-      "date": "2026-03-15T00:58:04+00:00"
     },
     {
       "id": "4d7c16c83f34",
