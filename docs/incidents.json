@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T07:46:36.404907+00:00",
+  "updated": "2026-03-15T08:39:24.979076+00:00",
   "count": 40,
   "incidents": [
     {
@@ -255,20 +255,6 @@
       "date": "2026-03-15T02:25:24+00:00"
     },
     {
-      "id": "e8b4239b72e0",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 98.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 98, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por atención de accidente. En la zona se registra carga vehicular intensa. Toma tus precauciones. Para más información llama al 0",
-      "link": "https://nitter.net/CAPUFE/status/2033004291191878127#m",
-      "date": "2026-03-15T02:16:09+00:00"
-    },
-    {
       "id": "7703eb525389",
       "account": "@capufe",
       "type": "accident",
@@ -463,6 +449,20 @@
       "text": "#Tomeprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del km 052+500, de la carretera México - Querétaro. Atienda indicación vial. #Tomeprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del km 052+",
       "link": "https://nitter.net/GN_Carreteras/status/2032917146867486854#m",
       "date": "2026-03-14T20:29:52+00:00"
+    },
+    {
+      "id": "ea4812565fb2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 83.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "⚠️ AVISO IMPORTANTE ⚠️ #AutMéxicoQuerétaro, dirección CDMX. Se informa a las personas usuarias que se registran diversos eventos que afectan la circulación: 🔘 Km 83, cierre a la circulación por atención de accidente (choque por alcance). 🔘 Km 98, reducción de carriles por atenció",
+      "link": "https://nitter.net/CAPUFE/status/2032909855447728511#m",
+      "date": "2026-03-14T20:00:53+00:00"
     },
     {
       "id": "3ec16911060b",
