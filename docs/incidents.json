@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-16T09:40:29.088761+00:00",
-  "count": 37,
+  "updated": "2026-03-16T10:55:17.712375+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "f7467d38a3f1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 45.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 45, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 45, dirección CDMX. El accidente ha sido atendi",
+      "link": "https://nitter.net/CAPUFE/status/2033492227976986862#m",
+      "date": "2026-03-16T10:35:02+00:00"
+    },
+    {
+      "id": "87046cf32073",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 45.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 45, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 45, dirección CDMX. El accidente ha sido atendido. En la zona se registra c",
+      "link": "https://nitter.net/CAPUFE/status/2033481860420948261#m",
+      "date": "2026-03-16T09:53:50+00:00"
+    },
+    {
+      "id": "0f2b510bb64a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 138.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 138, dirección Acatzingo. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 138, dirección Acatzingo. ",
+      "link": "https://nitter.net/CAPUFE/status/2033480329843834968#m",
+      "date": "2026-03-16T09:47:45+00:00"
+    },
     {
       "id": "38a4d04d0968",
       "account": "@capufe",
@@ -297,20 +339,6 @@
       "date": "2026-03-16T05:21:35+00:00"
     },
     {
-      "id": "d5ab88818564",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 35.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 35, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 35, dirección Veracruz. El a",
-      "link": "https://nitter.net/CAPUFE/status/2033412865126735911#m",
-      "date": "2026-03-16T05:19:40+00:00"
-    },
-    {
       "id": "901e3ae3e0b4",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -323,20 +351,6 @@
       "text": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial tras #AccidenteVíal cerca del km 237+500, en la carretera Rio Verde - San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #SanLuisPotosí se registra cierre parcial tras #AccidenteVíal cerca del km 237+500, ",
       "link": "https://nitter.net/GN_Carreteras/status/2033408773973295274#m",
       "date": "2026-03-16T05:03:25+00:00"
-    },
-    {
-      "id": "991aabce6673",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 64.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 64, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance entre autobús y automóvil). Circulación lenta en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCu",
-      "link": "https://nitter.net/CAPUFE/status/2033408580636811342#m",
-      "date": "2026-03-16T05:02:39+00:00"
     },
     {
       "id": "ec116bacf89a",
