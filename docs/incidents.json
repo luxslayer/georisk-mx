@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-16T10:55:17.712375+00:00",
+  "updated": "2026-03-16T11:50:28.524861+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "6e8bdd6fb854",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 130.0,
+      "lat": 17.980727,
+      "lon": -94.884909,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 130, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 130, dirección A",
+      "link": "https://nitter.net/CAPUFE/status/2033504549588111509#m",
+      "date": "2026-03-16T11:23:59+00:00"
+    },
     {
       "id": "f7467d38a3f1",
       "account": "@capufe",
@@ -323,20 +337,6 @@
       "text": "#TomePrecauciones en #Nayarit se registra cierre parcial tras #AccidenteVíal cerca del km 135+000, en la carretera Tepic - Puerto Vallarta. Atienda indicación vial. #TomePrecauciones en #Nayarit se registra cierre parcial tras #AccidenteVíal cerca del km 135+000, en la carretera ",
       "link": "https://nitter.net/GN_Carreteras/status/2033414776915660935#m",
       "date": "2026-03-16T05:27:16+00:00"
-    },
-    {
-      "id": "c31007ffc0f1",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 242.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 242, dirección Acapulco. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 242, dirección",
-      "link": "https://nitter.net/CAPUFE/status/2033413347597586763#m",
-      "date": "2026-03-16T05:21:35+00:00"
     },
     {
       "id": "901e3ae3e0b4",
