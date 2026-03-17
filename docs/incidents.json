@@ -1,62 +1,34 @@
 {
-  "updated": "2026-03-17T10:28:16.027800+00:00",
-  "count": 26,
+  "updated": "2026-03-17T11:25:44.334502+00:00",
+  "count": 20,
   "incidents": [
     {
-      "id": "470e57609600",
-      "account": "@capufe",
+      "id": "b81574c6b6ff",
+      "account": "@GN_carreteras",
       "type": "accident",
       "highway": "?",
       "route_key": "unknown",
-      "km": 229.0,
+      "km": 124.0,
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 229, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (salida del camino y choque contra talud). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoz",
-      "link": "https://nitter.net/CAPUFE/status/2033836375150366855#m",
-      "date": "2026-03-17T09:22:33+00:00"
+      "text": "#ViaLibre en #Puebla tras #AccidenteVial cerca del km 124+200, en la carretera Tulancingo-Tihuatlán. Maneje con precaución. #ViaLibre en #Puebla tras #AccidenteVial cerca del km 124+200, en la carretera Tulancingo-Tihuatlán. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2033861247397961861#m",
+      "date": "2026-03-17T11:01:23+00:00"
     },
     {
-      "id": "12e51315b52b",
-      "account": "@capufe",
+      "id": "af4270738357",
+      "account": "@GN_carreteras",
       "type": "accident",
       "highway": "?",
       "route_key": "unknown",
-      "km": 53.0,
+      "km": 86.0,
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 53, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 53, dirección Puebla. El accidente ha sido atendido.",
-      "link": "https://nitter.net/CAPUFE/status/2033832946226889031#m",
-      "date": "2026-03-17T09:08:55+00:00"
-    },
-    {
-      "id": "4e7eacd1b7cb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 197.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Las Choapas - Ocozocoautla, km 197. El accidente en la gasa de incorporación en dirección Las Choapas, ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Las Cho",
-      "link": "https://nitter.net/CAPUFE/status/2033831775101678073#m",
-      "date": "2026-03-17T09:04:16+00:00"
-    },
-    {
-      "id": "ae15a771692e",
-      "account": "@capufe",
-      "type": "rollover",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 7.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 7. Registra circulación a contraflujo por atención de salida del camino y volcadura de vagoneta. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/UG9xeHJ5ghummJfc8 🟠 CIERRE ",
-      "link": "https://nitter.net/CAPUFE/status/2033830652919820521#m",
-      "date": "2026-03-17T08:59:49+00:00"
+      "text": "#TomePrecauciones en #Nayarit continúa cierre parcial de la circulación por maniobras tras #AccidenteVial cerca del km 086+200, en la carretera de la carretera Tepic-Mazatlán. Atienda indicación vial. #TomePrecauciones en #Nayarit continúa cierre parcial de la circulación por man",
+      "link": "https://nitter.net/GN_Carreteras/status/2033860318820974705#m",
+      "date": "2026-03-17T10:57:41+00:00"
     },
     {
       "id": "860ae20a7416",
@@ -143,20 +115,6 @@
       "date": "2026-03-17T07:51:24+00:00"
     },
     {
-      "id": "ff7ab8a018dd",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 197.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 197. Continúa el cierre a la circulación en la gasa de incorporación en dirección Las Choapas, por atención de accidente (servicios periciales). ➡️ Se recomienda a la ciudadanía continuar por el tramo libre (San P",
-      "link": "https://nitter.net/CAPUFE/status/2033810958888669329#m",
-      "date": "2026-03-17T07:41:33+00:00"
-    },
-    {
       "id": "7f6abb92a65a",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -169,20 +127,6 @@
       "text": "#TomePrecauciones en #Tlaxacala se registra cierre parcial de la circulación por #AccidenteVial cerca del km 202+400, en la carretera Libramiento Norte De La Ciudad De México. Atienda indicación vial. #TomePrecauciones en #Tlaxacala se registra cierre parcial de la circulación po",
       "link": "https://nitter.net/GN_Carreteras/status/2033809195045155326#m",
       "date": "2026-03-17T07:34:33+00:00"
-    },
-    {
-      "id": "3dad7dfd45ad",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 53.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 53, dirección Puebla. Continúa cierre a la circulación por atención de accidente (labores de limpieza). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla , km 53, dirección Puebla",
-      "link": "https://nitter.net/CAPUFE/status/2033805405575348558#m",
-      "date": "2026-03-17T07:19:29+00:00"
     },
     {
       "id": "67d94cea82cf",
@@ -337,34 +281,6 @@
       "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación por #AccidenteVial cerca del km 190+700, en la carretera Monterrey-Reynosa Guadalajara. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación por #Accide",
       "link": "https://nitter.net/GN_Carreteras/status/2033699172319162457#m",
       "date": "2026-03-17T00:17:21+00:00"
-    },
-    {
-      "id": "04b56879499f",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Lib. Sur Qro.",
-      "route_key": "libramiento-queretaro",
-      "km": 80.0,
-      "lat": 20.588,
-      "lon": -100.39,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de la circulación por #AccidenteVial cerca del km 080+800, en la carretera Libramiento Sur Guadalajara. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre parcial de la circulación por #AccidenteVial ",
-      "link": "https://nitter.net/GN_Carreteras/status/2033680573504356750#m",
-      "date": "2026-03-16T23:03:27+00:00"
-    },
-    {
-      "id": "d97f28a22df3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 39.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Aguascalientes se registra cierre parcial de la circulación por #AccidenteVial cerca del km 039+800, en la carretera Aguascalientes-Jalpa. Atienda indicación vial. #TomePrecauciones en #Aguascalientes se registra cierre parcial de la circulación por #Acciden",
-      "link": "https://nitter.net/GN_Carreteras/status/2033675120892318000#m",
-      "date": "2026-03-16T22:41:47+00:00"
     }
   ]
 }
