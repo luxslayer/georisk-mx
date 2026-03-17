@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-17T05:43:59.431530+00:00",
-  "count": 34,
+  "updated": "2026-03-17T07:08:17.039333+00:00",
+  "count": 30,
   "incidents": [
+    {
+      "id": "8f51b8ec9556",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 85.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 85, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 85, dirección CDMX. El accidente ha sido at",
+      "link": "https://nitter.net/CAPUFE/status/2033787272391274634#m",
+      "date": "2026-03-17T06:07:26+00:00"
+    },
+    {
+      "id": "b12521f9453b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 85.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 85, dirección CDMX. Reducción en carriles centrales por atención de accidente (choque por alcance múltiple). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 85, dirección CDMX. Reducc",
+      "link": "https://nitter.net/CAPUFE/status/2033785308248940763#m",
+      "date": "2026-03-17T05:59:38+00:00"
+    },
+    {
+      "id": "9117b3265b19",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 197.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 197. Continúa el cierre a la circulación en la gasa de incorporación en dirección Las Choapas, por atención de accidente (salida del camino de automóvil). ➡️Se recomienda a la ciudadanía continuar por el tramo lib",
+      "link": "https://nitter.net/CAPUFE/status/2033784706420941033#m",
+      "date": "2026-03-17T05:57:14+00:00"
+    },
     {
       "id": "d641f9ff8122",
       "account": "@capufe",
@@ -115,34 +157,6 @@
       "date": "2026-03-17T04:03:29+00:00"
     },
     {
-      "id": "79a9b8437df6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 90.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 90, dirección Acapulco. Reducción de carriles laterales por atención de accidente (choque de costado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 90, dirección Acapulco. Reducció",
-      "link": "https://nitter.net/CAPUFE/status/2033751944594956456#m",
-      "date": "2026-03-17T03:47:03+00:00"
-    },
-    {
-      "id": "e054913061e9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 149.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 149, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 149, dirección Querétaro. El accidente ha s",
-      "link": "https://nitter.net/CAPUFE/status/2033745834152456658#m",
-      "date": "2026-03-17T03:22:46+00:00"
-    },
-    {
       "id": "ac85c76cf8e4",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -185,48 +199,6 @@
       "date": "2026-03-17T03:12:28+00:00"
     },
     {
-      "id": "103c8990313f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 27.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Las Choapas - Ocozocoautla, km 27. Circulación intermitente en ambos sentidos por atención de accidente (choque contra semoviente). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Las Choapas - Ocozocoautla, km 27. Ci",
-      "link": "https://nitter.net/CAPUFE/status/2033742240309248323#m",
-      "date": "2026-03-17T03:08:29+00:00"
-    },
-    {
-      "id": "34e3a10fb750",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 68.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 68, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 68, dirección Querétaro. El accidente ha sid",
-      "link": "https://nitter.net/CAPUFE/status/2033741745616302528#m",
-      "date": "2026-03-17T03:06:31+00:00"
-    },
-    {
-      "id": "0244604bec6a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 70.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 70, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 70, dirección Querétaro. El accidente ha sid",
-      "link": "https://nitter.net/CAPUFE/status/2033740559580385603#m",
-      "date": "2026-03-17T03:01:49+00:00"
-    },
-    {
       "id": "b00521ac9904",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -241,20 +213,6 @@
       "date": "2026-03-17T03:00:16+00:00"
     },
     {
-      "id": "d3658fc18aab",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 149.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 149, dirección Querétaro. Cierre a la circulación por atención de accidente (salida del camino de vagoneta). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro , km 149, dire",
-      "link": "https://nitter.net/CAPUFE/status/2033739484429160945#m",
-      "date": "2026-03-17T02:57:32+00:00"
-    },
-    {
       "id": "295867d70de3",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,20 +225,6 @@
       "text": "#TomePrecauciones en #Yucatán se registra cierre parcial de la circulación por #AccidenteVial cerca del km 118+150, en la carretera Reforma-Agraria Pto. Juárez. Atienda indicación vial. #TomePrecauciones en #Yucatán se registra cierre parcial de la circulación por #AccidenteVial ",
       "link": "https://nitter.net/GN_Carreteras/status/2033738745610997928#m",
       "date": "2026-03-17T02:54:36+00:00"
-    },
-    {
-      "id": "9e1ae4bdf324",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 70.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 70, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 7",
-      "link": "https://nitter.net/CAPUFE/status/2033738525636448445#m",
-      "date": "2026-03-17T02:53:44+00:00"
     },
     {
       "id": "713288aed7cb",
