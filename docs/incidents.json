@@ -1,7 +1,91 @@
 {
-  "updated": "2026-03-18T20:51:19.693269+00:00",
-  "count": 27,
+  "updated": "2026-03-18T21:37:44.329716+00:00",
+  "count": 28,
   "incidents": [
+    {
+      "id": "20cfd462f1f8",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 80.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 80, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles por maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja co",
+      "link": "https://nitter.net/CAPUFE/status/2034382272791785637#m",
+      "date": "2026-03-18T21:31:45+00:00"
+    },
+    {
+      "id": "39bdc7d6198d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 15.0,
+      "lat": 19.37065,
+      "lon": -99.2958,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 015+250, en la carretera Libramiento Guadalupe. Atienda indicación vial. #TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación tras #AccidenteVíal",
+      "link": "https://nitter.net/GN_Carreteras/status/2034381671332548831#m",
+      "date": "2026-03-18T21:29:22+00:00"
+    },
+    {
+      "id": "7b1c4f2384df",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 278.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "⚠️ AVISO IMPORTANTE ⚠️ Libramiento Chilpancingo, km 278. Parador del Marqués (fuera de la cobertura de CAPUFE), dirección Cuernavaca. Se restablece la circulación con reducción de carriles por presencia de manifestantes. Dir. Acapulco, opera de manera normal. Toma tus precaucione",
+      "link": "https://nitter.net/CAPUFE/status/2034380037823049970#m",
+      "date": "2026-03-18T21:22:52+00:00"
+    },
+    {
+      "id": "e30a8bd11fc4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 22.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Lagos de Moreno - San Luis Potosí, km 22. Circulación intermitente en ambos sentidos por atención de accidente (volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Lagos de Moreno - San Luis P",
+      "link": "https://nitter.net/CAPUFE/status/2034378333169889639#m",
+      "date": "2026-03-18T21:16:06+00:00"
+    },
+    {
+      "id": "2ecb321c6521",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 74.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 074+800, en la carretera Zacatecas–San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación tras #Accidente",
+      "link": "https://nitter.net/GN_Carreteras/status/2034378056324747561#m",
+      "date": "2026-03-18T21:15:00+00:00"
+    },
+    {
+      "id": "a0afbb490277",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 80.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 80, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de las unidades siniestradas. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. ☑",
+      "link": "https://nitter.net/CAPUFE/status/2034374857459224791#m",
+      "date": "2026-03-18T21:02:17+00:00"
+    },
     {
       "id": "f8524865bee8",
       "account": "@GN_carreteras",
@@ -17,7 +101,7 @@
       "date": "2026-03-18T20:46:42+00:00"
     },
     {
-      "id": "502af68f60f6",
+      "id": "92a424886de5",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -26,7 +110,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 80, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y camioneta de carga. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación",
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 80, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y camioneta de carga. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: h",
       "link": "https://nitter.net/CAPUFE/status/2034370845695754658#m",
       "date": "2026-03-18T20:46:21+00:00"
     },
@@ -115,34 +199,6 @@
       "date": "2026-03-18T18:40:06+00:00"
     },
     {
-      "id": "03fef99cb7a3",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoPuebla, km 17, dirección CDMX. Registra carga vehicular por presencia de manifestantes a la altura de Calzada Ignacio Zaragoza (fuera de la cobertura de CAPUFE). Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones. ⚠️ AVISO I",
-      "link": "https://nitter.net/CAPUFE/status/2034334662236189025#m",
-      "date": "2026-03-18T18:22:34+00:00"
-    },
-    {
-      "id": "cc6ba34eee69",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 16, dirección Nuevo Teapa. Se restablece la circulación con reducción de carriles, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con prec",
-      "link": "https://nitter.net/CAPUFE/status/2034332968102277149#m",
-      "date": "2026-03-18T18:15:50+00:00"
-    },
-    {
       "id": "b8111cb1f07f",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -155,20 +211,6 @@
       "text": "#TomePrecauciones en #Chihuahua se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 184+500, en la carretera Palomas - Parral. Atienda indicación vial. #TomePrecauciones en #Chihuahua se registra cierre parcial de la circulación tras #AccidenteVíal , ce",
       "link": "https://nitter.net/GN_Carreteras/status/2034330205989617957#m",
       "date": "2026-03-18T18:04:51+00:00"
-    },
-    {
-      "id": "e79414f3330b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 19, dirección Chamapa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 19, dirección Chamapa. El acc",
-      "link": "https://nitter.net/CAPUFE/status/2034329142377025549#m",
-      "date": "2026-03-18T18:00:38+00:00"
     },
     {
       "id": "e8511680885d",
@@ -351,34 +393,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre total de la circulación tras #AccidenteVíal cerca del km 207+500, de la carretera Puebla - Orizaba a la altura de la Caseta de Cobro La Esperanza. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre total de la ",
       "link": "https://nitter.net/GN_Carreteras/status/2034142831409877145#m",
       "date": "2026-03-18T05:40:18+00:00"
-    },
-    {
-      "id": "184e449b747d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 6.0,
-      "lat": 18.302,
-      "lon": -94.9945,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 006+500, en la carretera ent. La Tinaja - Santa Cruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #Accidente",
-      "link": "https://nitter.net/GN_Carreteras/status/2034141073790922888#m",
-      "date": "2026-03-18T05:33:19+00:00"
-    },
-    {
-      "id": "516c6ad6be33",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 012+080, en la carretera Xalapa-Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVíal , cerca",
-      "link": "https://nitter.net/GN_Carreteras/status/2034138800373354978#m",
-      "date": "2026-03-18T05:24:17+00:00"
     }
   ]
 }
