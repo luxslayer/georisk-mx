@@ -1,7 +1,63 @@
 {
-  "updated": "2026-03-18T22:34:49.113112+00:00",
-  "count": 33,
+  "updated": "2026-03-18T23:32:35.895214+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "60a3d0852d8b",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 269.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Chiapas tras presencia de personas cerca del km 269+500, de la carretera libre Tapanatepec - Talismán. Maneje con precaución. #VíaLibre en #Chiapas tras presencia de personas cerca del km 269+500, de la carretera libre Tapanatepec - Talismán. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2034410788836757712#m",
+      "date": "2026-03-18T23:25:04+00:00"
+    },
+    {
+      "id": "29e91dd08a41",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Veracruz",
+      "route_key": "puebla-veracruz",
+      "km": 84.0,
+      "lat": 18.964,
+      "lon": -96.9056,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Guanajuato +se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 084+150, en la carretera Acámbaro – Celaya. Atienda indicación vial. #TomePrecauciones en #Guanajuato +se registra cierre parcial de la circulación tras #AccidenteVíal",
+      "link": "https://nitter.net/GN_Carreteras/status/2034402915310346555#m",
+      "date": "2026-03-18T22:53:47+00:00"
+    },
+    {
+      "id": "a89085b87930",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación de manera intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Toma tus precaucio",
+      "link": "https://nitter.net/CAPUFE/status/2034400705818271805#m",
+      "date": "2026-03-18T22:45:00+00:00"
+    },
+    {
+      "id": "01c7d57bda2b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 71.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz cierre parcial por #AccidenteVial cerca del km 071+200, de la carretera Poza Rica-Cardel. Atienda indicación vial. #TomePrecauciones en #Veracruz cierre parcial por #AccidenteVial cerca del km 071+200, de la carretera Poza Rica-Cardel. Atienda indic",
+      "link": "https://nitter.net/GN_Carreteras/status/2034398514659078534#m",
+      "date": "2026-03-18T22:36:17+00:00"
+    },
     {
       "id": "a9cf3cfb4fb7",
       "account": "@capufe",
@@ -171,6 +227,20 @@
       "date": "2026-03-18T21:40:29+00:00"
     },
     {
+      "id": "37668096cff1",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 80.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 80, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles por maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Man",
+      "link": "https://nitter.net/CAPUFE/status/2034382272791785637#m",
+      "date": "2026-03-18T21:31:45+00:00"
+    },
+    {
       "id": "39bdc7d6198d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -227,6 +297,20 @@
       "date": "2026-03-18T21:15:00+00:00"
     },
     {
+      "id": "a0afbb490277",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 80.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 80, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de las unidades siniestradas. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. ☑",
+      "link": "https://nitter.net/CAPUFE/status/2034374857459224791#m",
+      "date": "2026-03-18T21:02:17+00:00"
+    },
+    {
       "id": "f8524865bee8",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -281,34 +365,6 @@
       "text": "#TomePrecauciones en #Guerrero se registra cierre total de la circulación tras presencia de personas cerca del km 272+000, de la carretera Chilpancingo - Acapulco. Atienda indicación vial. #TomePrecauciones en #Guerrero se registra cierre total de la circulación tras presencia de",
       "link": "https://nitter.net/GN_Carreteras/status/2034369491703103665#m",
       "date": "2026-03-18T20:40:58+00:00"
-    },
-    {
-      "id": "57f2f0d848eb",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 154.0,
-      "lat": 17.949309,
-      "lon": -94.912836,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Isla - Acayucan, km 154, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Isla - Acayucan, km 154, dirección Isla. Reducción de ",
-      "link": "https://nitter.net/CAPUFE/status/2034364865746210871#m",
-      "date": "2026-03-18T20:22:35+00:00"
-    },
-    {
-      "id": "9c82df136034",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 289.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Autopista Cd. Mendoza - Córdoba, km 289, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Autopista Cd. Mendoza - Córdoba",
-      "link": "https://nitter.net/CAPUFE/status/2034361890214723770#m",
-      "date": "2026-03-18T20:10:45+00:00"
     },
     {
       "id": "a7e5e81d11d4",
@@ -421,48 +477,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 194+200, en la carretera Tulancingo- Tihuatlán. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVíal , cer",
       "link": "https://nitter.net/GN_Carreteras/status/2034294603743203778#m",
       "date": "2026-03-18T15:43:23+00:00"
-    },
-    {
-      "id": "23aa17e198f2",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Córdoba",
-      "route_key": "puebla-cordoba",
-      "km": 132.0,
-      "lat": 18.8882,
-      "lon": -96.9769,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 132+500, en la carretera Puebla - Córdoba. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVíal , cerca de",
-      "link": "https://nitter.net/GN_Carreteras/status/2034294215195415035#m",
-      "date": "2026-03-18T15:41:50+00:00"
-    },
-    {
-      "id": "ab37ff5e35e8",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 67.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "En #Oaxaca continúa cierre total de la circulación por presencia de personas, cerca del km 067+000, en la carretera La Ventosa - Tapanatepec. Atienda indicación vial. En #Oaxaca continúa cierre total de la circulación por presencia de personas, cerca del km 067+000, en la carrete",
-      "link": "https://nitter.net/GN_Carreteras/status/2034293853705085239#m",
-      "date": "2026-03-18T15:40:24+00:00"
-    },
-    {
-      "id": "8faa540167db",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 80.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 080+000, en la carretera Acámbaro – Celaya. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVíal ,",
-      "link": "https://nitter.net/GN_Carreteras/status/2034290235602014414#m",
-      "date": "2026-03-18T15:26:02+00:00"
     }
   ]
 }
