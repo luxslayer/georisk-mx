@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-18T06:07:59.189125+00:00",
+  "updated": "2026-03-18T07:35:47.125571+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "5ec3e06eec77",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 238.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 238, dirección Cd. Mendoza. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. ",
+      "link": "https://nitter.net/CAPUFE/status/2034170232936255510#m",
+      "date": "2026-03-18T07:29:11+00:00"
+    },
+    {
+      "id": "90598383b2a2",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 52.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Queretaro tras #AccidenteVíal, cerca del km 052+800, en la carretera Macro Libramiento de Querétaro. Maneje con precaución. #VíaLibre en #Queretaro tras #AccidenteVíal , cerca del km 052+800, en la carretera Macro Libramiento de Querétaro. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2034163171921969464#m",
+      "date": "2026-03-18T07:01:07+00:00"
+    },
     {
       "id": "506fb1d9b069",
       "account": "@capufe",
@@ -171,7 +199,7 @@
       "date": "2026-03-18T04:01:45+00:00"
     },
     {
-      "id": "99ee848b143b",
+      "id": "66060dc7161c",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -180,7 +208,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 238, dirección Cd. Mendoza. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación desde la Plaza de Cobro Esperanza. Sin embargo, en la zona se registra carga v",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 238, dirección Cd. Mendoza. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación desde la Plaza de Cobro Esperanza. Sin embargo, en la zona se registra c",
       "link": "https://nitter.net/CAPUFE/status/2034116118390898861#m",
       "date": "2026-03-18T03:54:09+00:00"
     },
@@ -353,20 +381,6 @@
       "date": "2026-03-18T01:52:16+00:00"
     },
     {
-      "id": "0a20802949a5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 76.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 76, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 76, dirección Querétaro",
-      "link": "https://nitter.net/CAPUFE/status/2034084117201969473#m",
-      "date": "2026-03-18T01:46:59+00:00"
-    },
-    {
       "id": "4caf25212e69",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -533,20 +547,6 @@
       "text": "#TómePrecauciones en #Puebla continúa cierre parcial de circulación por desprendimiento de la carpeta asfáltica, cerca del km 140+300 carretera Tulancingo - Tihuatlán, Tramo Tejocotal - Nuevo Necaxa. Atienda indicación vial. #TómePrecauciones en #Puebla continúa cierre parcial de",
       "link": "https://nitter.net/GN_Carreteras/status/2034019541831893119#m",
       "date": "2026-03-17T21:30:23+00:00"
-    },
-    {
-      "id": "821c71e07f9b",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 92.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TómePrecauciones en #Puebla continúa cierre parcial de circulación por desprendimiento de la carpeta asfáltica, cerca del km 092+200 carretera Pachuca - Tuxpan, Tramo ent. Lib. Tulancingo - Cañada Rica. Atienda indicación vial. #TómePrecauciones en #Puebla continúa cierre parcia",
-      "link": "https://nitter.net/GN_Carreteras/status/2034011107212263613#m",
-      "date": "2026-03-17T20:56:52+00:00"
     }
   ]
 }
