@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-18T09:58:00.672628+00:00",
+  "updated": "2026-03-18T11:00:12.077828+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "12a26cedf14c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 52.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 52. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 52. El accidente ha sido atendi",
+      "link": "https://nitter.net/CAPUFE/status/2034217454411579901#m",
+      "date": "2026-03-18T10:36:49+00:00"
+    },
+    {
+      "id": "526c97542ade",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 20. Concluyen labores de mantenimiento (no a cargo de CAPUFE). Se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla",
+      "link": "https://nitter.net/CAPUFE/status/2034214347090595865#m",
+      "date": "2026-03-18T10:24:28+00:00"
+    },
+    {
+      "id": "cd05ca20b471",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 8.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Plan de Ayala - El Porvenir, km 8, dirección El Porvenir. Reducción de carriles por atención de accidente (choque contra semoviente). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Plan de Ayala - El Porvenir, km 8, ",
+      "link": "https://nitter.net/CAPUFE/status/2034212065548607515#m",
+      "date": "2026-03-18T10:15:24+00:00"
+    },
     {
       "id": "c6a6a81d271d",
       "account": "@capufe",
@@ -339,20 +381,6 @@
       "date": "2026-03-18T03:27:24+00:00"
     },
     {
-      "id": "7da00f9a7088",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 36.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Puente de Ixtla - Iguala registra #lluvia del km 36 al 62. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Puente de Ixtla - Iguala registra #lluvia del km 36 al 62. Disminuye tu velocidad y man",
-      "link": "https://nitter.net/CAPUFE/status/2034108845551767594#m",
-      "date": "2026-03-18T03:25:15+00:00"
-    },
-    {
       "id": "240af9398865",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -365,34 +393,6 @@
       "text": "#VíaLibre en #Zacatecas tras presencia de personas cerca del Km 057+050, a la altura de la caseta de cobro Morfin Chavez en la carretera Zacatecas - Durango. Maneje con precaución. #VíaLibre en #Zacatecas tras presencia de personas cerca del Km 057+050, a la altura de la caseta d",
       "link": "https://nitter.net/GN_Carreteras/status/2034105248197775707#m",
       "date": "2026-03-18T03:10:57+00:00"
-    },
-    {
-      "id": "5a8515441320",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 31.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, continúa #lluvia del km 31 al 58. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , continúa #lluvia del km 31 al 58. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2034104015248638448#m",
-      "date": "2026-03-18T03:06:03+00:00"
-    },
-    {
-      "id": "e75c6c78e290",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 52.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla, km 52, dirección Puebla. El incidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla , km 52, dirección Puebla. El incidente ha sido atendido. En la zona se registra carga",
-      "link": "https://nitter.net/CAPUFE/status/2034099922379624565#m",
-      "date": "2026-03-18T02:49:47+00:00"
     },
     {
       "id": "4caf25212e69",
