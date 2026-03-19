@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-19T19:01:37.133444+00:00",
+  "updated": "2026-03-19T20:00:24.218466+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "152faf6386af",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 9.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 9, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 9, dirección Córd",
+      "link": "https://nitter.net/CAPUFE/status/2034717243146109168#m",
+      "date": "2026-03-19T19:42:48+00:00"
+    },
+    {
+      "id": "c7488d7d6f75",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 40.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Nayarit se registra cierre total de la circulación tras #AccidenteVíal, cerca del km 040+000, en la carretera Tepic - Mazatlán. Atienda indicación vial. #TomePrecauciones en #Nayarit se registra cierre total de la circulación tras #AccidenteVíal , cerca del ",
+      "link": "https://nitter.net/GN_Carreteras/status/2034708920585875685#m",
+      "date": "2026-03-19T19:09:44+00:00"
+    },
+    {
+      "id": "4fe8b8aafd51",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Coatza–Salina Cruz",
+      "route_key": "coatzacoalcos-salinaCruz",
+      "km": 0.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Oaxaca se registra cierre total de la circulación por presencia de personas cerca del Km 000+100 de la carretera Coatzacoalcos - Salina Cruz a la altura de la Refinería. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre total de la cir",
+      "link": "https://nitter.net/GN_Carreteras/status/2034707158713991561#m",
+      "date": "2026-03-19T19:02:44+00:00"
+    },
     {
       "id": "175e612a99d1",
       "account": "@capufe",
@@ -297,20 +339,6 @@
       "date": "2026-03-19T16:32:53+00:00"
     },
     {
-      "id": "1120d0ab6277",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 50.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 50, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 50, dirección CDMX. El accidente ha sido atendido. Tram",
-      "link": "https://nitter.net/CAPUFE/status/2034668487486964118#m",
-      "date": "2026-03-19T16:29:04+00:00"
-    },
-    {
       "id": "973beee4f6a5",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -449,34 +477,6 @@
       "text": "En #Oaxaca continúa cierre parcial de la circulación tras presencia de personas cerca del km 090+100, de la carretera Barranca larga-ventanilla. En #Oaxaca continúa cierre parcial de la circulación tras presencia de personas cerca del km 090+100, de la carretera Barranca larga-ve",
       "link": "https://nitter.net/GN_Carreteras/status/2034464639828812151#m",
       "date": "2026-03-19T02:59:03+00:00"
-    },
-    {
-      "id": "5b4e5fd13675",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 67.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Oaxaca tras presencia de personas, cerca del km 067+000, en la carretera La Ventosa - Tapanatepec. Maneje con precaución. #VíaLibre en #Oaxaca tras presencia de personas, cerca del km 067+000, en la carretera La Ventosa - Tapanatepec. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2034464230569578867#m",
-      "date": "2026-03-19T02:57:25+00:00"
-    },
-    {
-      "id": "2f0fa08d5401",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "Méx–Cuernavaca",
-      "route_key": "mexico-cuernavaca",
-      "km": 38.0,
-      "lat": 18.93197,
-      "lon": -99.22735,
-      "resolved": true,
-      "text": "#VíaLibre en #CDMX tras #ActividadesdeReparación, derivado a la caída de cables de alta tensión cerca del km 038+150, de la carretera México-Cuernavaca. Maneje con precaución. #VíaLibre en #CDMX tras #ActividadesdeReparación , derivado a la caída de cables de alta tensión cerca d",
-      "link": "https://nitter.net/GN_Carreteras/status/2034459730819567720#m",
-      "date": "2026-03-19T02:39:32+00:00"
     }
   ]
 }
