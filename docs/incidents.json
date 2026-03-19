@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-19T09:10:07.131683+00:00",
-  "count": 34,
+  "updated": "2026-03-19T10:07:58.268384+00:00",
+  "count": 33,
   "incidents": [
     {
       "id": "00593df651b8",
@@ -309,20 +309,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 38. El incidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 38. El incidente ha sido atendido. Tramo oper",
       "link": "https://nitter.net/CAPUFE/status/2034456922166796676#m",
       "date": "2026-03-19T02:28:23+00:00"
-    },
-    {
-      "id": "c97150af9aed",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 16. Continúa reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Aut. Nuevo Teap",
-      "link": "https://nitter.net/CAPUFE/status/2034453778607272320#m",
-      "date": "2026-03-19T02:15:53+00:00"
     },
     {
       "id": "45c0e5eb1d34",
