@@ -1,7 +1,77 @@
 {
-  "updated": "2026-03-19T04:35:03.388991+00:00",
+  "updated": "2026-03-19T05:59:42.857929+00:00",
   "count": 32,
   "incidents": [
+    {
+      "id": "b68186f854c1",
+      "account": "@GN_carreteras",
+      "type": "alert",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 0.0,
+      "lat": 18.32,
+      "lon": -95.02,
+      "resolved": true,
+      "text": "#VíaLibre en #Veracruz tras #Incidente cerca del km 000+200, de la carretera Ent la Tinaja- Santa Cruz. Maneje con precaución. #VíaLibre en #Veracruz tras #Incidente cerca del km 000+200, de la carretera Ent la Tinaja- Santa Cruz. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2034500650915045606#m",
+      "date": "2026-03-19T05:22:09+00:00"
+    },
+    {
+      "id": "41d033a21261",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 50.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Veracruz tras presencia de personas cerca del km 50+500, de la carretera Paso del Toro - Acayucan. Maneje con precaución. #VíaLibre en #Veracruz tras presencia de personas cerca del km 50+500, de la carretera Paso del Toro - Acayucan. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2034498583496462778#m",
+      "date": "2026-03-19T05:13:56+00:00"
+    },
+    {
+      "id": "f2a09a09d7bc",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 184.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 184. Reducción de carriles en ambos sentidos por atención de accidente (choque contra objeto y muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 184. Reducción de c",
+      "link": "https://nitter.net/CAPUFE/status/2034495455896187051#m",
+      "date": "2026-03-19T05:01:30+00:00"
+    },
+    {
+      "id": "1fd3bda5f396",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 183.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por presencia de personas cerca del km 183+500, de la carretera Ent. La Tinaja-Cosoleacaque. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por presencia de",
+      "link": "https://nitter.net/GN_Carreteras/status/2034494004050432134#m",
+      "date": "2026-03-19T04:55:44+00:00"
+    },
+    {
+      "id": "fb0c18146a68",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 3.0,
+      "lat": 18.311,
+      "lon": -95.00725,
+      "resolved": true,
+      "text": "🟠CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 3. Continúa carga vehicular en ambos sentidos por atención de accidente fuera de la jurisdicción a cargo de CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones. 🟠CARGA VEHICULAR 🟠 Autopista La Tinaja",
+      "link": "https://nitter.net/CAPUFE/status/2034490070242152957#m",
+      "date": "2026-03-19T04:40:06+00:00"
+    },
     {
       "id": "52622ae93bb5",
       "account": "@capufe",
@@ -311,20 +381,6 @@
       "date": "2026-03-19T00:57:57+00:00"
     },
     {
-      "id": "caaa2672672e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 22.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Lagos de Moreno - San Luis Potosí, km 22. Se restablece la circulación de manera intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Maneja con precaución. 🟠 CIERRE PARCIAL D",
-      "link": "https://nitter.net/CAPUFE/status/2034431800458564087#m",
-      "date": "2026-03-19T00:48:33+00:00"
-    },
-    {
       "id": "3013b1af73b9",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -337,20 +393,6 @@
       "text": "#TomePrecauciones en #EdoMéx se registra cierre total de la circulación tras presencia de personas cerca del km 043+000, de la carretera Barranca México-Querétaro, proporcionando ruta alterna a la altura de Jorobas con dirección a Ecatepec. Atienda indicación vial. #TomePrecaucio",
       "link": "https://nitter.net/GN_Carreteras/status/2034428487898103984#m",
       "date": "2026-03-19T00:35:24+00:00"
-    },
-    {
-      "id": "0f11a3b339ec",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 38.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 38, dirección CDMX. Cierre a la circulación por atención de incidente (caída de cables de alta tensión). Por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carretera libre a la altura del km 53 (poblado",
-      "link": "https://nitter.net/CAPUFE/status/2034428086515609609#m",
-      "date": "2026-03-19T00:33:48+00:00"
     },
     {
       "id": "4e837d6b5f75",
@@ -407,48 +449,6 @@
       "text": "#VíaLibre en #Chiapas tras presencia de personas cerca del km 269+500, de la carretera libre Tapanatepec - Talismán. Maneje con precaución. #VíaLibre en #Chiapas tras presencia de personas cerca del km 269+500, de la carretera libre Tapanatepec - Talismán. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2034410788836757712#m",
       "date": "2026-03-18T23:25:04+00:00"
-    },
-    {
-      "id": "29e91dd08a41",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Veracruz",
-      "route_key": "puebla-veracruz",
-      "km": 84.0,
-      "lat": 18.964,
-      "lon": -96.9056,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Guanajuato +se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 084+150, en la carretera Acámbaro – Celaya. Atienda indicación vial. #TomePrecauciones en #Guanajuato +se registra cierre parcial de la circulación tras #AccidenteVíal",
-      "link": "https://nitter.net/GN_Carreteras/status/2034402915310346555#m",
-      "date": "2026-03-18T22:53:47+00:00"
-    },
-    {
-      "id": "01c7d57bda2b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 71.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz cierre parcial por #AccidenteVial cerca del km 071+200, de la carretera Poza Rica-Cardel. Atienda indicación vial. #TomePrecauciones en #Veracruz cierre parcial por #AccidenteVial cerca del km 071+200, de la carretera Poza Rica-Cardel. Atienda indic",
-      "link": "https://nitter.net/GN_Carreteras/status/2034398514659078534#m",
-      "date": "2026-03-18T22:36:17+00:00"
-    },
-    {
-      "id": "a16749dade6d",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 272.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Guerrero tras presencia de personas cerca del km 272+000, de la carretera Chilpancingo - Acapulco. Maneje con precaución. #VíaLibre en #Guerrero tras presencia de personas cerca del km 272+000, de la carretera Chilpancingo - Acapulco. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2034396995859644901#m",
-      "date": "2026-03-18T22:30:15+00:00"
     }
   ]
 }
