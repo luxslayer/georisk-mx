@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-20T10:40:35.256469+00:00",
+  "updated": "2026-03-20T11:33:49.195258+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "2a9bc51211cc",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 6.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 6, dirección La Pera. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 6, dirección La Pera. Red",
+      "link": "https://nitter.net/CAPUFE/status/2034956256356569232#m",
+      "date": "2026-03-20T11:32:33+00:00"
+    },
+    {
+      "id": "d6602e139f1c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 27.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Las Choapas - Ocozocoautla, km 27. Se restablece la circulación con cierres intermitentes para ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se r",
+      "link": "https://nitter.net/CAPUFE/status/2034954230146969731#m",
+      "date": "2026-03-20T11:24:30+00:00"
+    },
     {
       "id": "535395e4bca4",
       "account": "@capufe",
@@ -185,20 +213,6 @@
       "date": "2026-03-20T05:37:28+00:00"
     },
     {
-      "id": "63bea727e006",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 260.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 260, dirección Acatzingo. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 A",
-      "link": "https://nitter.net/CAPUFE/status/2034856527304036497#m",
-      "date": "2026-03-20T04:56:16+00:00"
-    },
-    {
       "id": "d6e4dba99c27",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -239,20 +253,6 @@
       "text": "#TomePrecauciones en #Chihuahua se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 052+100, de la carretera Chihuahua - Cd. Juárez. Atienda indicación vial. #TomePrecauciones en #Chihuahua se registra cierre parcial de la circulación tras #AccidenteVial",
       "link": "https://nitter.net/GN_Carreteras/status/2034845005081161882#m",
       "date": "2026-03-20T04:10:29+00:00"
-    },
-    {
-      "id": "647a403c51bb",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 23.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 23. Circulación intermitente en ambos sentidos por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 23",
-      "link": "https://nitter.net/CAPUFE/status/2034843908564210170#m",
-      "date": "2026-03-20T04:06:08+00:00"
     },
     {
       "id": "f941121b7036",
