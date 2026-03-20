@@ -1,7 +1,91 @@
 {
-  "updated": "2026-03-20T20:39:13.026035+00:00",
-  "count": 31,
+  "updated": "2026-03-20T21:32:55.816385+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "c9b7c9963bf7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 136.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, km 136, dirección Puebla. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, km 136, dirección Puebla. El accidente ha sido atendido. En ",
+      "link": "https://nitter.net/CAPUFE/status/2035106926866923731#m",
+      "date": "2026-03-20T21:31:16+00:00"
+    },
+    {
+      "id": "6b028d9e554d",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 1.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Chiapas tras presencia de personas cerca del km 001+300, en la carretera San Cristóbal de Las Casas–Tuxtla Gutiérrez. Maneje con precaución #VíaLibre en #Chiapas tras presencia de personas cerca del km 001+300, en la carretera San Cristóbal de Las Casas–Tuxtla Gutié",
+      "link": "https://nitter.net/GN_Carreteras/status/2035106660688044051#m",
+      "date": "2026-03-20T21:30:13+00:00"
+    },
+    {
+      "id": "c613e9d7799a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 131.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Puebla - Acatzingo, km 131, dirección Puebla. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más in",
+      "link": "https://nitter.net/CAPUFE/status/2035105222184284220#m",
+      "date": "2026-03-20T21:24:30+00:00"
+    },
+    {
+      "id": "57ed55deb891",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 136.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 136, dirección Puebla. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra caga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatz",
+      "link": "https://nitter.net/CAPUFE/status/2035103796192326041#m",
+      "date": "2026-03-20T21:18:50+00:00"
+    },
+    {
+      "id": "03641301960a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 29.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Aut. Querétaro - Irapuato, km 29, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Aut. Querétaro - Irapuato, km 29, dirección Querétaro. El accidente ha sido atendido. En la",
+      "link": "https://nitter.net/CAPUFE/status/2035097414097674677#m",
+      "date": "2026-03-20T20:53:28+00:00"
+    },
+    {
+      "id": "50e656338615",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 16. Continúa circulación intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARC",
+      "link": "https://nitter.net/CAPUFE/status/2035094264712249362#m",
+      "date": "2026-03-20T20:40:57+00:00"
+    },
     {
       "id": "e8aa27513400",
       "account": "@capufe",
@@ -31,7 +115,7 @@
       "date": "2026-03-20T20:21:49+00:00"
     },
     {
-      "id": "ce4d70cc9bf3",
+      "id": "ff54679c4fc1",
       "account": "@capufe",
       "type": "accident",
       "highway": "Puebla–Acatzingo",
@@ -40,7 +124,7 @@
       "lat": 18.948,
       "lon": -97.45,
       "resolved": true,
-      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 131, dirección Puebla. Reducción de carriles por atención de choque por alcance múltiple entre tracto camión y vagonetas. En la zona se registra caga vehicular. Maneja con precaución. Consulta la ubicación",
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 131, dirección Puebla. Reducción de carriles por atención de choque por alcance múltiple entre tracto camión y vagonetas. En la zona se registra caga vehicular. Maneja con precaución. Consulta la ubicación aquí: h",
       "link": "https://nitter.net/CAPUFE/status/2035087433759694937#m",
       "date": "2026-03-20T20:13:48+00:00"
     },
@@ -227,20 +311,6 @@
       "date": "2026-03-20T18:57:53+00:00"
     },
     {
-      "id": "650b1ccfc0bc",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 55.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 55, dirección Córdoba. Reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 55, dirección Córdo",
-      "link": "https://nitter.net/CAPUFE/status/2035067381362385196#m",
-      "date": "2026-03-20T18:54:08+00:00"
-    },
-    {
       "id": "1568669018d8",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -253,20 +323,6 @@
       "text": "#TomePrecauciones en #BajaCalifornia se registra cierre total por presencia de personas a la altura de la colonia Santo Domingo, B.C.S., cerca del Km 162+200 de la carretera Ensenada-Lázaro Cárdenas, sin ruta alterna. Atienda indicación vial. #TomePrecauciones en #BajaCalifornia ",
       "link": "https://nitter.net/GN_Carreteras/status/2035064150141862279#m",
       "date": "2026-03-20T18:41:17+00:00"
-    },
-    {
-      "id": "47ee99bb1085",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 190.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 190, dirección CDMX. Reducción de carriles por atención del accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 190, dir",
-      "link": "https://nitter.net/CAPUFE/status/2035063712323682583#m",
-      "date": "2026-03-20T18:39:33+00:00"
     },
     {
       "id": "ffc7b70064b2",
@@ -325,20 +381,6 @@
       "date": "2026-03-20T17:50:37+00:00"
     },
     {
-      "id": "4ae7f2fe4450",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 29.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 29, dirección Querétaro. Continúa reducción de carriles por atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PAR",
-      "link": "https://nitter.net/CAPUFE/status/2035049259871895800#m",
-      "date": "2026-03-20T17:42:07+00:00"
-    },
-    {
       "id": "8c35f5e2fd84",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -367,18 +409,18 @@
       "date": "2026-03-20T17:33:04+00:00"
     },
     {
-      "id": "290a6daeae7f",
+      "id": "2e788933e955",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
       "route_key": "unknown",
-      "km": 29.0,
+      "km": 181.0,
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 29, dirección Querétaro. Reducción de carriles por atención del accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétar",
-      "link": "https://nitter.net/CAPUFE/status/2035045757766467775#m",
-      "date": "2026-03-20T17:28:12+00:00"
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Libramiento Magdalena, km 181, dirección Hermosillo. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las labores de atención del accidente. En la zona se registra carga ",
+      "link": "https://nitter.net/CAPUFE/status/2035043106735755324#m",
+      "date": "2026-03-20T17:17:40+00:00"
     },
     {
       "id": "c42b660868ff",
@@ -409,6 +451,20 @@
       "date": "2026-03-20T15:59:42+00:00"
     },
     {
+      "id": "fb0df6e297a2",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 181.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Magdalena, km 181, dirección Hermosillo. Cierre a la circulación por atención de salida del camino de tracto camión. En la zona se registra derrame de aceite y combustible. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.g",
+      "link": "https://nitter.net/CAPUFE/status/2035020955722883452#m",
+      "date": "2026-03-20T15:49:39+00:00"
+    },
+    {
       "id": "c947c0f9b701",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -421,20 +477,6 @@
       "text": "#TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 160+000, de la carretera Zacatecas-Saltillo. Atienda indicación vial. #TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación tras #AccidenteVial cer",
       "link": "https://nitter.net/GN_Carreteras/status/2035018414775820309#m",
       "date": "2026-03-20T15:39:33+00:00"
-    },
-    {
-      "id": "ebecf4380f76",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 90.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "En #Oaxaca continua cierre parcial de la circulación tras presencia de personas cerca del km 090+100, de la carretera Barranca larga-ventanilla. En #Oaxaca continua cierre parcial de la circulación tras presencia de personas cerca del km 090+100, de la carretera Barranca larga-ve",
-      "link": "https://nitter.net/GN_Carreteras/status/2034985875650572350#m",
-      "date": "2026-03-20T13:30:15+00:00"
     }
   ]
 }
