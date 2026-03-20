@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-20T06:59:16.123687+00:00",
-  "count": 31,
+  "updated": "2026-03-20T07:51:08.033492+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "557db33daf88",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 162.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 162, dirección CDMX. Continúa la reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 162, d",
+      "link": "https://nitter.net/CAPUFE/status/2034898882296008879#m",
+      "date": "2026-03-20T07:44:34+00:00"
+    },
+    {
+      "id": "4e9ca20e165f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 170.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Las Choapas - Ocozocoautla, km 170. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos, por atención de choque por alcance múltiple entre autobuses y un tracto camión. Atiende las indica",
+      "link": "https://nitter.net/CAPUFE/status/2034894091507425602#m",
+      "date": "2026-03-20T07:25:32+00:00"
+    },
+    {
+      "id": "ea3493da43d7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 162.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 162, dirección CDMX. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 162, dirección CDMX. Reducción de carriles por ate",
+      "link": "https://nitter.net/CAPUFE/status/2034888152972767541#m",
+      "date": "2026-03-20T07:01:56+00:00"
+    },
     {
       "id": "58f4f162da89",
       "account": "@capufe",
@@ -171,6 +213,20 @@
       "date": "2026-03-20T03:18:46+00:00"
     },
     {
+      "id": "e325ee197f91",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 260.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 260, dirección Acatzingo. Se informa a las personas usuarias que continúa cierre a la circulación en por maniobras de grúa para el retiro de las unidades siniestradas. Toma tus precauciones. Para más informació",
+      "link": "https://nitter.net/CAPUFE/status/2034829836435202092#m",
+      "date": "2026-03-20T03:10:12+00:00"
+    },
+    {
       "id": "72e1369a726e",
       "account": "@capufe",
       "type": "roadwork",
@@ -197,34 +253,6 @@
       "text": "#VíaLibre en #Oaxaca tras presencia de personas en la Caseta de Cobro No. 29 El Caracol cerca del Km 113+100 de la carretera Buena Vista - Tuxtepec. Maneje con cuidado. #VíaLibre en #Oaxaca tras presencia de personas en la Caseta de Cobro No. 29 El Caracol cerca del Km 113+100 de",
       "link": "https://nitter.net/GN_Carreteras/status/2034813789254697319#m",
       "date": "2026-03-20T02:06:27+00:00"
-    },
-    {
-      "id": "8c3fb75ae8e6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 28.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Querétaro - Irapuato, km 28, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Querétaro - Irapuato, km 28, dirección Querétaro. El accidente ha sido atend",
-      "link": "https://nitter.net/CAPUFE/status/2034807677532999832#m",
-      "date": "2026-03-20T01:42:09+00:00"
-    },
-    {
-      "id": "3385c4096dea",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 260.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 260, dirección Acatzingo. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóvil. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/uhXoBR4fudGN",
-      "link": "https://nitter.net/CAPUFE/status/2034804638705127715#m",
-      "date": "2026-03-20T01:30:05+00:00"
     },
     {
       "id": "cd1f0cb7c24c",
