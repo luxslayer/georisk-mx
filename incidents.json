@@ -1,7 +1,63 @@
 {
-  "updated": "2026-03-20T08:44:26.053975+00:00",
+  "updated": "2026-03-20T09:44:00.086743+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "535395e4bca4",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 5.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Viaducto Elevado Tlalpan, km 5, dirección CDMX. Concluyen labores de mantenimiento. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Viaducto Elevado Tlalpan, km 5, dirección CDMX. Concluyen labore",
+      "link": "https://nitter.net/CAPUFE/status/2034926368333734244#m",
+      "date": "2026-03-20T09:33:47+00:00"
+    },
+    {
+      "id": "e73e6d2cee18",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 27.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 27. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Auto",
+      "link": "https://nitter.net/CAPUFE/status/2034920670782791871#m",
+      "date": "2026-03-20T09:11:09+00:00"
+    },
+    {
+      "id": "00159f3b95a4",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Lib. Sur Qro.",
+      "route_key": "libramiento-queretaro",
+      "km": 7.0,
+      "lat": 20.524,
+      "lon": -100.394,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 007+700, en la carretera Libramiento Sur de Guadalajara. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre parcial de la circulación tras #Accident",
+      "link": "https://nitter.net/GN_Carreteras/status/2034917309836665093#m",
+      "date": "2026-03-20T08:57:48+00:00"
+    },
+    {
+      "id": "f1c4138cf28a",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 5.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Viaducto Elevado Tlalpan, km 5, dirección CDMX. Registra cierre a la circulación por labores de mantenimiento. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Viaducto Elevado Tlalpan, km 5, dirección CDMX. Registra",
+      "link": "https://nitter.net/CAPUFE/status/2034917183214535092#m",
+      "date": "2026-03-20T08:57:18+00:00"
+    },
     {
       "id": "9a88d99ebf18",
       "account": "@capufe",
@@ -213,34 +269,6 @@
       "date": "2026-03-20T03:48:40+00:00"
     },
     {
-      "id": "7190034c590b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 28.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 28, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 28, dirección Querétaro",
-      "link": "https://nitter.net/CAPUFE/status/2034838319327068509#m",
-      "date": "2026-03-20T03:43:55+00:00"
-    },
-    {
-      "id": "5344ca4c5286",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 260.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 260, dirección Acatzingo. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaució",
-      "link": "https://nitter.net/CAPUFE/status/2034831988843045005#m",
-      "date": "2026-03-20T03:18:46+00:00"
-    },
-    {
       "id": "141c1e5c23e0",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -253,20 +281,6 @@
       "text": "#VíaLibre en #Oaxaca tras presencia de personas en la Caseta de Cobro No. 29 El Caracol cerca del Km 113+100 de la carretera Buena Vista - Tuxtepec. Maneje con cuidado. #VíaLibre en #Oaxaca tras presencia de personas en la Caseta de Cobro No. 29 El Caracol cerca del Km 113+100 de",
       "link": "https://nitter.net/GN_Carreteras/status/2034813789254697319#m",
       "date": "2026-03-20T02:06:27+00:00"
-    },
-    {
-      "id": "3385c4096dea",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 260.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 260, dirección Acatzingo. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóvil. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/uhXoBR4fudGN",
-      "link": "https://nitter.net/CAPUFE/status/2034804638705127715#m",
-      "date": "2026-03-20T01:30:05+00:00"
     },
     {
       "id": "cd1f0cb7c24c",
@@ -463,20 +477,6 @@
       "text": "#TomePrecauciones en #Oaxaca se registra cierre total de la circulación por presencia de personas cerca del Km 000+100 de la carretera Coatzacoalcos - Salina Cruz a la altura de la Refinería. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre total de la cir",
       "link": "https://nitter.net/GN_Carreteras/status/2034707158713991561#m",
       "date": "2026-03-19T19:02:44+00:00"
-    },
-    {
-      "id": "15b25a909ca2",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 219.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "En #Oaxaca continua cierre parcial de la circulación tras presencia de personas cerca del km 219+900, de la carretera Cuacnopalan - Oaxaca. Atienda indicación vial. En #Oaxaca continua cierre parcial de la circulación tras presencia de personas cerca del km 219+900, de la carrete",
-      "link": "https://nitter.net/GN_Carreteras/status/2034703184128622806#m",
-      "date": "2026-03-19T18:46:56+00:00"
     }
   ]
 }
