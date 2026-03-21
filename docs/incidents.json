@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-21T09:35:00.642221+00:00",
+  "updated": "2026-03-21T10:30:00.569589+00:00",
   "count": 30,
   "incidents": [
+    {
+      "id": "e2e2a5c696f8",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 20. Continúa cierre a la circulación en carriles centrales y laterales de ambos sentidos, por labores de mantenimiento (no a cargo de CAPUFE). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #Au",
+      "link": "https://nitter.net/CAPUFE/status/2035293095768543241#m",
+      "date": "2026-03-21T09:51:02+00:00"
+    },
     {
       "id": "08b741eb72f7",
       "account": "@capufe",
@@ -155,20 +169,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 3, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 3, dirección Córd",
       "link": "https://nitter.net/CAPUFE/status/2035208898555080987#m",
       "date": "2026-03-21T04:16:28+00:00"
-    },
-    {
-      "id": "b850b3f864b4",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 41.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 41, dirección Querétaro. Continúa reducción de carriles por atención de incidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 41, dirección Qu",
-      "link": "https://nitter.net/CAPUFE/status/2035202565244125694#m",
-      "date": "2026-03-21T03:51:18+00:00"
     },
     {
       "id": "4246516ec44d",
