@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-21T22:53:53.536053+00:00",
+  "updated": "2026-03-21T23:28:12.597331+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "49f0035bb581",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 20, dirección CDMX. Concluyen labores de mantenimiento (no a cargo de CAPUFE). Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 20, dirección CDMX. Concluy",
+      "link": "https://nitter.net/CAPUFE/status/2035496432535576757#m",
+      "date": "2026-03-21T23:19:01+00:00"
+    },
+    {
+      "id": "accfb39c4f42",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Villahermosa, km 20. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Villahermosa, km 20. El accidente ha sido atendido. Tra",
+      "link": "https://nitter.net/CAPUFE/status/2035494447514083622#m",
+      "date": "2026-03-21T23:11:08+00:00"
+    },
+    {
+      "id": "4f61bf1d0a9c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Villahermosa, km 20, dirección Cárdenas. Cierre a la circulación por atención de accidente (desprendimiento de caja de tracto camión). Dirección Frontera, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣",
+      "link": "https://nitter.net/CAPUFE/status/2035490933471637514#m",
+      "date": "2026-03-21T22:57:10+00:00"
+    },
     {
       "id": "302c4ce776a4",
       "account": "@GN_carreteras",
@@ -297,34 +339,6 @@
       "date": "2026-03-21T19:23:03+00:00"
     },
     {
-      "id": "6e4743e48611",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 266.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 266. Cierre a la circulación en ambos sentidos por atención de incidente (caída de carga). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 266.",
-      "link": "https://nitter.net/CAPUFE/status/2035436768346980674#m",
-      "date": "2026-03-21T19:21:56+00:00"
-    },
-    {
-      "id": "f0d48e9a605b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 15.0,
-      "lat": 32.389312,
-      "lon": -116.997625,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tijuana - Ensenada, km 15, dirección Tijuana. Cierre a la circulación por atención de accidente (choque por alcance y volcadura de automóvil). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tiju",
-      "link": "https://nitter.net/CAPUFE/status/2035435247655960895#m",
-      "date": "2026-03-21T19:15:54+00:00"
-    },
-    {
       "id": "380f1c7069eb",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -351,20 +365,6 @@
       "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 189+000, en la carretera Monterrey -Nuevo Laredo. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerc",
       "link": "https://nitter.net/GN_Carreteras/status/2035430301439045644#m",
       "date": "2026-03-21T18:56:14+00:00"
-    },
-    {
-      "id": "05520328ce42",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 20, dir. CDMX. Continúa reducción de carriles por labores de mantenimiento (no a cargo de CAPUFE). Dirección Puebla, se restablece la circulación en carriles centrales y laterales. Sin embargo, en la zona se registra carga ve",
-      "link": "https://nitter.net/CAPUFE/status/2035429640509251719#m",
-      "date": "2026-03-21T18:53:37+00:00"
     },
     {
       "id": "418d63e82b43",
