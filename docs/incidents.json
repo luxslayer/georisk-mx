@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-21T22:28:27.188006+00:00",
-  "count": 37,
+  "updated": "2026-03-21T22:53:53.536053+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "302c4ce776a4",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 32.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Querétaro se registra cierre parcial de circulación por #AccidenteVial cerca del km 032+100, en la carretera Querétaro-San Luis. Atienda indicación vial. #TomePrecauciones en #Querétaro se registra cierre parcial de circulación por #AccidenteVial cerca del k",
+      "link": "https://nitter.net/GN_Carreteras/status/2035488050520723531#m",
+      "date": "2026-03-21T22:45:43+00:00"
+    },
+    {
+      "id": "3909e79ca20f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 266.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 266, dirección Cd. Mendoza. Continúa cierre a la circulación por atención de accidente (labores de limpieza). Dirección Córdoba, se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Toma t",
+      "link": "https://nitter.net/CAPUFE/status/2035487218371006530#m",
+      "date": "2026-03-21T22:42:25+00:00"
+    },
+    {
+      "id": "56daa5e685de",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 017+400, en la carretera Irapuato-Zapotlanejo. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca d",
+      "link": "https://nitter.net/GN_Carreteras/status/2035485790327750839#m",
+      "date": "2026-03-21T22:36:44+00:00"
+    },
     {
       "id": "0f21477d3b69",
       "account": "@capufe",
@@ -325,20 +367,6 @@
       "date": "2026-03-21T18:53:37+00:00"
     },
     {
-      "id": "a4e2f474ef2a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 44.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 44, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIEN",
-      "link": "https://nitter.net/CAPUFE/status/2035426314866544922#m",
-      "date": "2026-03-21T18:40:24+00:00"
-    },
-    {
       "id": "418d63e82b43",
       "account": "@capufe",
       "type": "accident",
@@ -365,6 +393,20 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 280+200, en la carretera Reforma Agraria - Puerto Juárez. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerc",
       "link": "https://nitter.net/GN_Carreteras/status/2035424001934139433#m",
       "date": "2026-03-21T18:31:13+00:00"
+    },
+    {
+      "id": "c5da1b530df9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 281.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 281, dirección Cd. Mendoza. Reducción de carriles por atención de choque por alcance múltiple entre un tracto camión, camioneta y automóvil. En la zona se registra carga vehicular. Maneja con precaución. Consul",
+      "link": "https://nitter.net/CAPUFE/status/2035416012275823022#m",
+      "date": "2026-03-21T17:59:28+00:00"
     },
     {
       "id": "531a5e1b5fce",
@@ -493,32 +535,18 @@
       "date": "2026-03-21T16:11:01+00:00"
     },
     {
-      "id": "5e507ee00b2a",
-      "account": "@GN_carreteras",
+      "id": "a72c4e73f37d",
+      "account": "@capufe",
       "type": "accident",
-      "highway": "Lib. Sur Qro.",
-      "route_key": "libramiento-queretaro",
-      "km": 97.0,
-      "lat": 20.588,
-      "lon": -100.39,
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 46.0,
+      "lat": 29.08096,
+      "lon": -106.23552,
       "resolved": true,
-      "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 097+100, en la carretera Ent. Tula - Ciudad Victoria. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial ",
-      "link": "https://nitter.net/GN_Carreteras/status/2035385836922146939#m",
-      "date": "2026-03-21T15:59:33+00:00"
-    },
-    {
-      "id": "0fb4c77c3ae9",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 206.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Zactecas se registra cierre parcial de circulación cerca del km 206+000, en la carretera Zacatecas - Saltillo. Atienda indicación vial. #TomePrecauciones en #Zactecas se registra cierre parcial de circulación cerca del km 206+000, en la carretera Zacatecas -",
-      "link": "https://nitter.net/GN_Carreteras/status/2035376470785425499#m",
-      "date": "2026-03-21T15:22:20+00:00"
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 46. Circulación a contraflujo por atención de choque por alcance entre tracto camiones. En la zona se registra carga vehicular y derrame de combustible. Maneja con precaución. Consulta la ubicación aquí: https:",
+      "link": "https://nitter.net/CAPUFE/status/2035366320443621708#m",
+      "date": "2026-03-21T14:42:00+00:00"
     }
   ]
 }
