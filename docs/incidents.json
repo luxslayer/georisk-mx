@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-21T06:03:39.114044+00:00",
+  "updated": "2026-03-21T07:08:59.107338+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "2ae0b041aeea",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 20. Cierre a la circulación en carriles centrales y laterales de ambos sentidos, por labores de mantenimiento (no a cargo de CAPUFE). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPu",
+      "link": "https://nitter.net/CAPUFE/status/2035246310735929772#m",
+      "date": "2026-03-21T06:45:08+00:00"
+    },
+    {
+      "id": "9070cf24bdac",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 102.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 102+650, de la carretera Morelia-Salamanca. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVial ce",
+      "link": "https://nitter.net/GN_Carreteras/status/2035239373508141060#m",
+      "date": "2026-03-21T06:17:34+00:00"
+    },
     {
       "id": "303577ac5dcb",
       "account": "@capufe",
@@ -255,20 +283,6 @@
       "date": "2026-03-21T00:49:30+00:00"
     },
     {
-      "id": "6de776d5ad91",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 134.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, km 134, dirección Puebla. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, km 134, dirección Puebla. El accidente ha sido atendido. En ",
-      "link": "https://nitter.net/CAPUFE/status/2035156215924498640#m",
-      "date": "2026-03-21T00:47:07+00:00"
-    },
-    {
       "id": "6b552300e8cb",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,20 +505,6 @@
       "text": "#TomePrecauciones en #EdoMéx se registra cierre total de la circulación tras #AccidenteVial cerca del km 012+500, de la carretera Libramiento Norte Ciudad de México. Ruta alterna Aut. Acambay-Atlacomulco. Atienda indicación vial. #TomePrecauciones en #EdoMéx se registra cierre to",
       "link": "https://nitter.net/GN_Carreteras/status/2035084995195175165#m",
       "date": "2026-03-20T20:04:07+00:00"
-    },
-    {
-      "id": "27b8f763dedd",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 28.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 028+500, de la carretera Libramiento Oriente-San Luis Potosí . Atienda indicación vial. #TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulaci",
-      "link": "https://nitter.net/GN_Carreteras/status/2035083296246292626#m",
-      "date": "2026-03-20T19:57:22+00:00"
     }
   ]
 }
