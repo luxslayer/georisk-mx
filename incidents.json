@@ -1,7 +1,63 @@
 {
-  "updated": "2026-03-21T21:50:03.316108+00:00",
+  "updated": "2026-03-21T22:28:27.188006+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "0f21477d3b69",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 13.0,
+      "lat": 18.013867,
+      "lon": -94.8646,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Continúa reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleaca",
+      "link": "https://nitter.net/CAPUFE/status/2035482384749969483#m",
+      "date": "2026-03-21T22:23:12+00:00"
+    },
+    {
+      "id": "740470351ccb",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 116.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 116, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 116, dirección CDMX. El incidente ha sido atendi",
+      "link": "https://nitter.net/CAPUFE/status/2035479118649721002#m",
+      "date": "2026-03-21T22:10:13+00:00"
+    },
+    {
+      "id": "2b483b651dca",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 32.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 032+000, en la carretera Libramiento- Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del ",
+      "link": "https://nitter.net/GN_Carreteras/status/2035476209740693752#m",
+      "date": "2026-03-21T21:58:40+00:00"
+    },
+    {
+      "id": "9b6fea33bfe4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 266.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 266. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopist",
+      "link": "https://nitter.net/CAPUFE/status/2035475974704316560#m",
+      "date": "2026-03-21T21:57:44+00:00"
+    },
     {
       "id": "c6665693bc2f",
       "account": "@capufe",
@@ -311,48 +367,6 @@
       "date": "2026-03-21T18:31:13+00:00"
     },
     {
-      "id": "3be1b1503b1d",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Nuevo Teapa - Cosoleacaque, km 16, dirección Nuevo Teapa. Continúa cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Se restablece la circulación con reducción de carriles en dirección Cosoleacaque. En l",
-      "link": "https://nitter.net/CAPUFE/status/2035422680082739347#m",
-      "date": "2026-03-21T18:25:57+00:00"
-    },
-    {
-      "id": "9d6944faa810",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 55.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 55, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 55, dirección Puebla. El accidente ha sido atendido. ",
-      "link": "https://nitter.net/CAPUFE/status/2035421423871602867#m",
-      "date": "2026-03-21T18:20:58+00:00"
-    },
-    {
-      "id": "534da147196a",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Nuevo Teapa - Cosoleacaque, km 16. Cierre a la circulación en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Nuevo Te",
-      "link": "https://nitter.net/CAPUFE/status/2035419915335675992#m",
-      "date": "2026-03-21T18:14:58+00:00"
-    },
-    {
       "id": "531a5e1b5fce",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -505,20 +519,6 @@
       "text": "#TomePrecauciones en #Zactecas se registra cierre parcial de circulación cerca del km 206+000, en la carretera Zacatecas - Saltillo. Atienda indicación vial. #TomePrecauciones en #Zactecas se registra cierre parcial de circulación cerca del km 206+000, en la carretera Zacatecas -",
       "link": "https://nitter.net/GN_Carreteras/status/2035376470785425499#m",
       "date": "2026-03-21T15:22:20+00:00"
-    },
-    {
-      "id": "e46e2899f060",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 63.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación cerca del km 063+200, en la carretera Acapulco–Zihuatanejo. Atienda indicación vial. #TomePrecauciones en #Chiapas se registra cierre parcial de circulación cerca del km 063+200, en la carretera Acapulco–Zihu",
-      "link": "https://nitter.net/GN_Carreteras/status/2035374648397791439#m",
-      "date": "2026-03-21T15:15:06+00:00"
     }
   ]
 }
