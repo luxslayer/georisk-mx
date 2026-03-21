@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-21T04:16:57.220165+00:00",
+  "updated": "2026-03-21T05:27:29.421352+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "ad08a6ccc071",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 3.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 3, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 3, dirección Córdoba. El inci",
+      "link": "https://nitter.net/CAPUFE/status/2035225816339001701#m",
+      "date": "2026-03-21T05:23:41+00:00"
+    },
+    {
+      "id": "53eb0a25a5f2",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 142.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracuz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 142+200, de la carretera Paso del Toro-Acayucan. Atienda indicación vial. #TomePrecauciones en #Veracuz se registra cierre parcial de la circulación tras #AccidenteVial cer",
+      "link": "https://nitter.net/GN_Carreteras/status/2035218237676265949#m",
+      "date": "2026-03-21T04:53:35+00:00"
+    },
+    {
+      "id": "db59f4001deb",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 76.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 76, dirección Querétaro. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULAC",
+      "link": "https://nitter.net/CAPUFE/status/2035215932319015080#m",
+      "date": "2026-03-21T04:44:25+00:00"
+    },
     {
       "id": "3ee4782fa7e6",
       "account": "@capufe",
@@ -45,7 +87,7 @@
       "date": "2026-03-21T03:10:34+00:00"
     },
     {
-      "id": "67c5c13dfea8",
+      "id": "16a96fb72be7",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -54,7 +96,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 76, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #Au",
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 76, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQ",
       "link": "https://nitter.net/CAPUFE/status/2035186738788757637#m",
       "date": "2026-03-21T02:48:25+00:00"
     },
@@ -269,34 +311,6 @@
       "date": "2026-03-21T00:09:45+00:00"
     },
     {
-      "id": "122b91554bf8",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 41.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 41, dirección Querétaro. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 41, direcc",
-      "link": "https://nitter.net/CAPUFE/status/2035141420403560530#m",
-      "date": "2026-03-20T23:48:20+00:00"
-    },
-    {
-      "id": "7775561bd0e1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 134.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 134. Reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 134. ",
-      "link": "https://nitter.net/CAPUFE/status/2035137137977294923#m",
-      "date": "2026-03-20T23:31:19+00:00"
-    },
-    {
       "id": "f9382e1a87e6",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -323,20 +337,6 @@
       "text": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 000+100, en la carretera Coatzacoalcos-Salina Cruz, tramo Ramal Refinería Pemex. Maneje con precaución. #VíaLibre en #Oaxaca tras presencia de personas cerca del km 000+100, en la carretera Coatzacoalcos-Salina Cruz, tr",
       "link": "https://nitter.net/GN_Carreteras/status/2035135170718618080#m",
       "date": "2026-03-20T23:23:30+00:00"
-    },
-    {
-      "id": "98a89e174366",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 78.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 78. Cierre a la circulación en ambos sentidos por atención de tracto camión tipo pipa con fuga de gas. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/5qCeoyP6aRR1TKwC9 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxi",
-      "link": "https://nitter.net/CAPUFE/status/2035134746473136254#m",
-      "date": "2026-03-20T23:21:49+00:00"
     },
     {
       "id": "74d92ae9c910",
