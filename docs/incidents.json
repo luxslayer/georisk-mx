@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-21T05:27:29.421352+00:00",
+  "updated": "2026-03-21T06:03:39.114044+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "303577ac5dcb",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 76.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 76, dirección Querétaro. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad en el lugar. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutM",
+      "link": "https://nitter.net/CAPUFE/status/2035233333357981844#m",
+      "date": "2026-03-21T05:53:34+00:00"
+    },
+    {
+      "id": "8033f3409890",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 76.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 76, dirección Querétaro. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga ve",
+      "link": "https://nitter.net/CAPUFE/status/2035228574102237243#m",
+      "date": "2026-03-21T05:34:39+00:00"
+    },
+    {
+      "id": "1f11d0e61f09",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 41.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 41, dirección Querétaro. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 41, dirección Querétar",
+      "link": "https://nitter.net/CAPUFE/status/2035227489157386302#m",
+      "date": "2026-03-21T05:30:20+00:00"
+    },
     {
       "id": "ad08a6ccc071",
       "account": "@capufe",
@@ -31,7 +73,7 @@
       "date": "2026-03-21T04:53:35+00:00"
     },
     {
-      "id": "db59f4001deb",
+      "id": "ad746cec6c73",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -40,7 +82,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 76, dirección Querétaro. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULAC",
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 76, dirección Querétaro. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #A",
       "link": "https://nitter.net/CAPUFE/status/2035215932319015080#m",
       "date": "2026-03-21T04:44:25+00:00"
     },
@@ -267,48 +309,6 @@
       "text": "#TomePrecauciones en #Campeche se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 030+000, de la carretera Escárcega-Champotón. Atienda indicación vial. #TomePrecauciones en #Campeche se registra cierre parcial de la circulación tras #AccidenteVial cerc",
       "link": "https://nitter.net/GN_Carreteras/status/2035152830185570465#m",
       "date": "2026-03-21T00:33:40+00:00"
-    },
-    {
-      "id": "b5c1b63ae1d3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 134.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 134, dirección Puebla. Continúa reducción de carriles por atención de accidente (labores de limpieza). Dir. Acatzingo, se restablece la circulación de manera normal. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRC",
-      "link": "https://nitter.net/CAPUFE/status/2035151093148099033#m",
-      "date": "2026-03-21T00:26:46+00:00"
-    },
-    {
-      "id": "e465cc14611d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 76.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 76, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQ",
-      "link": "https://nitter.net/CAPUFE/status/2035148782506037690#m",
-      "date": "2026-03-21T00:17:35+00:00"
-    },
-    {
-      "id": "c6c0ad88c370",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 78.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 78. Se informa a las personas usuarias que el incidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. ",
-      "link": "https://nitter.net/CAPUFE/status/2035146811510346045#m",
-      "date": "2026-03-21T00:09:45+00:00"
     },
     {
       "id": "f9382e1a87e6",
