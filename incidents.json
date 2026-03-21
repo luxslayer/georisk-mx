@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-21T17:27:56.074384+00:00",
-  "count": 32,
+  "updated": "2026-03-21T17:52:47.559733+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "6576e3c8f32c",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 20, dir. Puebla. Continúa cierre a la circulación en carriles centrales por labores de mantenimiento (no a cargo de CAPUFE), circulación por carriles laterales. Dirección CDMX, registra reducción de carriles. En la zona se re",
+      "link": "https://nitter.net/CAPUFE/status/2035412659890184440#m",
+      "date": "2026-03-21T17:46:08+00:00"
+    },
+    {
+      "id": "531a5e1b5fce",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 215.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 215+300, en la carretera Tihuatlán-El Palmar Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km ",
+      "link": "https://nitter.net/GN_Carreteras/status/2035409001035272261#m",
+      "date": "2026-03-21T17:31:36+00:00"
+    },
     {
       "id": "77fb10022594",
       "account": "@capufe",
@@ -367,34 +395,6 @@
       "date": "2026-03-21T14:23:28+00:00"
     },
     {
-      "id": "02f1ca0a22f9",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 20, dirección Puebla. Continúa cierre a la circulación en carriles centrales por labores de mantenimiento (no a cargo de CAPUFE), se restablece la circulación en carriles laterales. Dirección CDMX, registra reducción de carri",
-      "link": "https://nitter.net/CAPUFE/status/2035358144239460596#m",
-      "date": "2026-03-21T14:09:31+00:00"
-    },
-    {
-      "id": "6743fcb5cbdc",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Acayucan–Cosoleacaque",
-      "route_key": "acayucan-cosoleacaque",
-      "km": 13.0,
-      "lat": 18.013867,
-      "lon": -94.8646,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Maneja con precaución. Para",
-      "link": "https://nitter.net/CAPUFE/status/2035355867235692652#m",
-      "date": "2026-03-21T14:00:28+00:00"
-    },
-    {
       "id": "33829014ee01",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -435,20 +435,6 @@
       "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 102+650, de la carretera Morelia-Salamanca. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVial ce",
       "link": "https://nitter.net/GN_Carreteras/status/2035239373508141060#m",
       "date": "2026-03-21T06:17:34+00:00"
-    },
-    {
-      "id": "53eb0a25a5f2",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 142.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracuz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 142+200, de la carretera Paso del Toro-Acayucan. Atienda indicación vial. #TomePrecauciones en #Veracuz se registra cierre parcial de la circulación tras #AccidenteVial cer",
-      "link": "https://nitter.net/GN_Carreteras/status/2035218237676265949#m",
-      "date": "2026-03-21T04:53:35+00:00"
     }
   ]
 }
