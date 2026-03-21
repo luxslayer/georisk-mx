@@ -1,7 +1,77 @@
 {
-  "updated": "2026-03-21T19:47:12.571628+00:00",
-  "count": 34,
+  "updated": "2026-03-21T20:30:13.458501+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "2b67034ff8e1",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 116.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 116, dirección CDMX. Reducción de carriles por atención de incidente (falla mecánica de tracto camión). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro ,",
+      "link": "https://nitter.net/CAPUFE/status/2035450484727730232#m",
+      "date": "2026-03-21T20:16:27+00:00"
+    },
+    {
+      "id": "e6dc727341f2",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaució",
+      "link": "https://nitter.net/CAPUFE/status/2035448441451720876#m",
+      "date": "2026-03-21T20:08:19+00:00"
+    },
+    {
+      "id": "8e6abe75e5f2",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 15.0,
+      "lat": 19.37065,
+      "lon": -99.2958,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 015+000, en la carretera Irapuato-Zapotlanejo. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca d",
+      "link": "https://nitter.net/GN_Carreteras/status/2035448096268894260#m",
+      "date": "2026-03-21T20:06:57+00:00"
+    },
+    {
+      "id": "8bf2dffaec06",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 13.0,
+      "lat": 18.013867,
+      "lon": -94.8646,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Continúa reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleaca",
+      "link": "https://nitter.net/CAPUFE/status/2035446654946431186#m",
+      "date": "2026-03-21T20:01:13+00:00"
+    },
+    {
+      "id": "70a8342ac01c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 15.0,
+      "lat": 32.389312,
+      "lon": -116.997625,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 15, dirección Tijuana. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 15, dirección Tijuana. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2035444483274264719#m",
+      "date": "2026-03-21T19:52:36+00:00"
+    },
     {
       "id": "bde2e9c70552",
       "account": "@capufe",
@@ -227,34 +297,6 @@
       "date": "2026-03-21T17:31:36+00:00"
     },
     {
-      "id": "77fb10022594",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 55.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 55, dirección Puebla. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 ",
-      "link": "https://nitter.net/CAPUFE/status/2035405038005469371#m",
-      "date": "2026-03-21T17:15:51+00:00"
-    },
-    {
-      "id": "de7385881b0f",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaució",
-      "link": "https://nitter.net/CAPUFE/status/2035404610752708891#m",
-      "date": "2026-03-21T17:14:09+00:00"
-    },
-    {
       "id": "90b1a4fa5a34",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -325,20 +367,6 @@
       "date": "2026-03-21T16:47:36+00:00"
     },
     {
-      "id": "a2104175a108",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Dirección Nuevo Teapa, continúa reducción de carriles. En la zona se registra carga vehicular.",
-      "link": "https://nitter.net/CAPUFE/status/2035396454294925736#m",
-      "date": "2026-03-21T16:41:45+00:00"
-    },
-    {
       "id": "16ccf6586fce",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -379,6 +407,20 @@
       "text": "#TomePrecauciones en #Colima se registra cierre total de circulación por presencia de personas cerca del km 263+000, en la carretera Acapilcan-Manzanillo. Atienda indicación vial. #TomePrecauciones en #Colima se registra cierre total de circulación por presencia de personas cerca",
       "link": "https://nitter.net/GN_Carreteras/status/2035388722879873089#m",
       "date": "2026-03-21T16:11:01+00:00"
+    },
+    {
+      "id": "068a662c6f23",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 44, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más informac",
+      "link": "https://nitter.net/CAPUFE/status/2035388392360325251#m",
+      "date": "2026-03-21T16:09:43+00:00"
     },
     {
       "id": "5e507ee00b2a",
@@ -465,18 +507,32 @@
       "date": "2026-03-21T15:11:19+00:00"
     },
     {
-      "id": "4b9aaf3cdb32",
-      "account": "@GN_carreteras",
-      "type": "closure",
+      "id": "a72c4e73f37d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 46.0,
+      "lat": 29.08096,
+      "lon": -106.23552,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 46. Circulación a contraflujo por atención de choque por alcance entre tracto camiones. En la zona se registra carga vehicular y derrame de combustible. Maneja con precaución. Consulta la ubicación aquí: https:",
+      "link": "https://nitter.net/CAPUFE/status/2035366320443621708#m",
+      "date": "2026-03-21T14:42:00+00:00"
+    },
+    {
+      "id": "7c319807b5eb",
+      "account": "@capufe",
+      "type": "accident",
       "highway": "?",
       "route_key": "unknown",
-      "km": 59.0,
+      "km": 44.0,
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación cerca del km 059+400, en la carretera San Hipólito - Xalapa. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación cerca del km 059+400, en la carretera San Hipólito -",
-      "link": "https://nitter.net/GN_Carreteras/status/2035368690900775247#m",
-      "date": "2026-03-21T14:51:25+00:00"
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 44, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y camioneta. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://ma",
+      "link": "https://nitter.net/CAPUFE/status/2035353018858602746#m",
+      "date": "2026-03-21T13:49:09+00:00"
     }
   ]
 }
