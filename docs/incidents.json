@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-21T15:29:11.279811+00:00",
-  "count": 36,
+  "updated": "2026-03-21T15:51:22.628341+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "e7e9c8f7066e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 44, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. En ",
+      "link": "https://nitter.net/CAPUFE/status/2035382869552697658#m",
+      "date": "2026-03-21T15:47:46+00:00"
+    },
     {
       "id": "0fb4c77c3ae9",
       "account": "@GN_carreteras",
@@ -309,34 +323,6 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 33, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopis",
       "link": "https://nitter.net/CAPUFE/status/2035347920241741825#m",
       "date": "2026-03-21T13:28:53+00:00"
-    },
-    {
-      "id": "7837a11cc273",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 4.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴CIERRE DE CIRCULACIÓN🔴 Autopista Puente de Ixtla - Iguala, km 4. Cierre de circulación en ambos sentidos por atención de accidente (choque de frente). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴CIERRE DE CIRCULACIÓN🔴 Autopista Puente de Ixtla - Iguala, km 4. C",
-      "link": "https://nitter.net/CAPUFE/status/2035346835154346163#m",
-      "date": "2026-03-21T13:24:35+00:00"
-    },
-    {
-      "id": "9797dce5d82d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 46.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 46. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más informaci",
-      "link": "https://nitter.net/CAPUFE/status/2035346259771277647#m",
-      "date": "2026-03-21T13:22:17+00:00"
     },
     {
       "id": "9070cf24bdac",
