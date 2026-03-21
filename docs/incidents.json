@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-21T07:52:55.633810+00:00",
-  "count": 35,
+  "updated": "2026-03-21T08:36:44.365079+00:00",
+  "count": 33,
   "incidents": [
     {
       "id": "4056e72263a6",
@@ -45,7 +45,7 @@
       "date": "2026-03-21T06:17:34+00:00"
     },
     {
-      "id": "303577ac5dcb",
+      "id": "795d1f8f48dc",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -54,7 +54,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 76, dirección Querétaro. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad en el lugar. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutM",
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 76, dirección Querétaro. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad en el lugar. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQue",
       "link": "https://nitter.net/CAPUFE/status/2035233333357981844#m",
       "date": "2026-03-21T05:53:34+00:00"
     },
@@ -225,34 +225,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 136, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 136, dirección Puebla. El acc",
       "link": "https://nitter.net/CAPUFE/status/2035178269218095536#m",
       "date": "2026-03-21T02:14:45+00:00"
-    },
-    {
-      "id": "3a2ca67bc5be",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 133.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 133, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 133, dirección Puebla. El acc",
-      "link": "https://nitter.net/CAPUFE/status/2035178109490610545#m",
-      "date": "2026-03-21T02:14:07+00:00"
-    },
-    {
-      "id": "fc6c7b917468",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 131.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 131, dirección Puebla. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista",
-      "link": "https://nitter.net/CAPUFE/status/2035177792204132767#m",
-      "date": "2026-03-21T02:12:52+00:00"
     },
     {
       "id": "0ab2962ff56e",
