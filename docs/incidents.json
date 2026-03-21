@@ -1,9 +1,23 @@
 {
-  "updated": "2026-03-21T10:55:24.776220+00:00",
-  "count": 29,
+  "updated": "2026-03-21T11:26:25.432577+00:00",
+  "count": 30,
   "incidents": [
     {
-      "id": "6984b3df332e",
+      "id": "75fa78bad7c9",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 46.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 46. Se informa a las personas usuarias que continúa la reducción de carriles en ambos sentidos, debido a que el personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registr",
+      "link": "https://nitter.net/CAPUFE/status/2035311478975164730#m",
+      "date": "2026-03-21T11:04:05+00:00"
+    },
+    {
+      "id": "3aff385812dd",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -12,7 +26,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 46. Registra reducción de carriles en ambos sentidos, por atención de choque por alcance entre un camión de carga y un autobús. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí",
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 46. Registra reducción de carriles en ambos sentidos, por atención de choque por alcance entre un camión de carga y un autobús. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https:",
       "link": "https://nitter.net/CAPUFE/status/2035305958138638623#m",
       "date": "2026-03-21T10:42:09+00:00"
     },
