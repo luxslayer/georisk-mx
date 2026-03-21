@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-21T19:26:45.688670+00:00",
-  "count": 37,
+  "updated": "2026-03-21T19:47:12.571628+00:00",
+  "count": 34,
   "incidents": [
     {
       "id": "bde2e9c70552",
@@ -381,20 +381,6 @@
       "date": "2026-03-21T16:11:01+00:00"
     },
     {
-      "id": "068a662c6f23",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 44.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 44, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más informac",
-      "link": "https://nitter.net/CAPUFE/status/2035388392360325251#m",
-      "date": "2026-03-21T16:09:43+00:00"
-    },
-    {
       "id": "5e507ee00b2a",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,34 +477,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación cerca del km 059+400, en la carretera San Hipólito - Xalapa. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación cerca del km 059+400, en la carretera San Hipólito -",
       "link": "https://nitter.net/GN_Carreteras/status/2035368690900775247#m",
       "date": "2026-03-21T14:51:25+00:00"
-    },
-    {
-      "id": "a72c4e73f37d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 46.0,
-      "lat": 29.08096,
-      "lon": -106.23552,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 46. Circulación a contraflujo por atención de choque por alcance entre tracto camiones. En la zona se registra carga vehicular y derrame de combustible. Maneja con precaución. Consulta la ubicación aquí: https:",
-      "link": "https://nitter.net/CAPUFE/status/2035366320443621708#m",
-      "date": "2026-03-21T14:42:00+00:00"
-    },
-    {
-      "id": "7c319807b5eb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 44.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 44, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y camioneta. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://ma",
-      "link": "https://nitter.net/CAPUFE/status/2035353018858602746#m",
-      "date": "2026-03-21T13:49:09+00:00"
     }
   ]
 }
