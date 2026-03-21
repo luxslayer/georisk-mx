@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-21T23:28:12.597331+00:00",
-  "count": 39,
+  "updated": "2026-03-21T23:50:59.816084+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "523810467d49",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 13.0,
+      "lat": 18.013867,
+      "lon": -94.8646,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 13, direcci",
+      "link": "https://nitter.net/CAPUFE/status/2035501746282270965#m",
+      "date": "2026-03-21T23:40:08+00:00"
+    },
+    {
+      "id": "ccf7dfeab8ab",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 46.0,
+      "lat": 29.08096,
+      "lon": -106.23552,
+      "resolved": true,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cd. Obregón - Guaymas, km 46, dirección Guaymas. Se informa a las personas usuarias que continúa reducción de carriles. El personal de CAPUFE se encuentra realizando las labores de trasvase de carga. Circulación lenta en la zona. Maneja c",
+      "link": "https://nitter.net/CAPUFE/status/2035498808982040839#m",
+      "date": "2026-03-21T23:28:28+00:00"
+    },
     {
       "id": "49f0035bb581",
       "account": "@capufe",
@@ -311,34 +339,6 @@
       "date": "2026-03-21T20:01:13+00:00"
     },
     {
-      "id": "70a8342ac01c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 15.0,
-      "lat": 32.389312,
-      "lon": -116.997625,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 15, dirección Tijuana. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 15, dirección Tijuana. El acc",
-      "link": "https://nitter.net/CAPUFE/status/2035444483274264719#m",
-      "date": "2026-03-21T19:52:36+00:00"
-    },
-    {
-      "id": "bde2e9c70552",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 281.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 281, dirección Cd. Mendoza. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙",
-      "link": "https://nitter.net/CAPUFE/status/2035437046752244076#m",
-      "date": "2026-03-21T19:23:03+00:00"
-    },
-    {
       "id": "380f1c7069eb",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -367,20 +367,6 @@
       "date": "2026-03-21T18:56:14+00:00"
     },
     {
-      "id": "418d63e82b43",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 46.0,
-      "lat": 29.08096,
-      "lon": -106.23552,
-      "resolved": true,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cd. Obregón - Guaymas, km 46, dirección Guaymas. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal de CAPUFE continúa realizando las labores de atención del accidente. En la zona se",
-      "link": "https://nitter.net/CAPUFE/status/2035425078616142056#m",
-      "date": "2026-03-21T18:35:29+00:00"
-    },
-    {
       "id": "2a94ec6df185",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -393,20 +379,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 280+200, en la carretera Reforma Agraria - Puerto Juárez. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerc",
       "link": "https://nitter.net/GN_Carreteras/status/2035424001934139433#m",
       "date": "2026-03-21T18:31:13+00:00"
-    },
-    {
-      "id": "c5da1b530df9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 281.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 281, dirección Cd. Mendoza. Reducción de carriles por atención de choque por alcance múltiple entre un tracto camión, camioneta y automóvil. En la zona se registra carga vehicular. Maneja con precaución. Consul",
-      "link": "https://nitter.net/CAPUFE/status/2035416012275823022#m",
-      "date": "2026-03-21T17:59:28+00:00"
     },
     {
       "id": "531a5e1b5fce",
@@ -533,20 +505,6 @@
       "text": "#TomePrecauciones en #Colima se registra cierre total de circulación por presencia de personas cerca del km 263+000, en la carretera Acapilcan-Manzanillo. Atienda indicación vial. #TomePrecauciones en #Colima se registra cierre total de circulación por presencia de personas cerca",
       "link": "https://nitter.net/GN_Carreteras/status/2035388722879873089#m",
       "date": "2026-03-21T16:11:01+00:00"
-    },
-    {
-      "id": "a72c4e73f37d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 46.0,
-      "lat": 29.08096,
-      "lon": -106.23552,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 46. Circulación a contraflujo por atención de choque por alcance entre tracto camiones. En la zona se registra carga vehicular y derrame de combustible. Maneja con precaución. Consulta la ubicación aquí: https:",
-      "link": "https://nitter.net/CAPUFE/status/2035366320443621708#m",
-      "date": "2026-03-21T14:42:00+00:00"
     }
   ]
 }
