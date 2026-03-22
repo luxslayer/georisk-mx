@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-22T11:26:05.536473+00:00",
-  "count": 37,
+  "updated": "2026-03-22T11:47:48.187326+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "b9e7dfcd2199",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 40.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 40, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance entre un tracto camion y una camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 40, di",
+      "link": "https://nitter.net/CAPUFE/status/2035684226511642936#m",
+      "date": "2026-03-22T11:45:15+00:00"
+    },
     {
       "id": "6b7adbdf8d9e",
       "account": "@capufe",
