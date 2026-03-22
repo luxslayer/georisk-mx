@@ -1,7 +1,77 @@
 {
-  "updated": "2026-03-22T17:27:53.969601+00:00",
+  "updated": "2026-03-22T17:53:01.324619+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "182aac9f93cf",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 89.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tecate - La Rumorosa, km 89, dirección Tecate. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tecate - La Rumorosa, km 89, dirección Tecate. El a",
+      "link": "https://nitter.net/CAPUFE/status/2035774610025668930#m",
+      "date": "2026-03-22T17:44:24+00:00"
+    },
+    {
+      "id": "793eb878073c",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 75.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 75, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 75, dirección CDMX. El incidente ha sido atendi",
+      "link": "https://nitter.net/CAPUFE/status/2035774444635861343#m",
+      "date": "2026-03-22T17:43:45+00:00"
+    },
+    {
+      "id": "f724c5fc30e5",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 17, dirección Nuevo Teapa. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Dir. Cosoleacaque, registra reducción de carriles. Toma tus precauciones. Para más informa",
+      "link": "https://nitter.net/CAPUFE/status/2035774044604190808#m",
+      "date": "2026-03-22T17:42:09+00:00"
+    },
+    {
+      "id": "0678bd5894ad",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 021+500, en la carretera Morelia-Salamanca. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km",
+      "link": "https://nitter.net/GN_Carreteras/status/2035771492575674398#m",
+      "date": "2026-03-22T17:32:01+00:00"
+    },
+    {
+      "id": "3beb8d412030",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 18.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 018+800, en la carretera Tehuacán- Huajuapan de León. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca de",
+      "link": "https://nitter.net/GN_Carreteras/status/2035770839040250352#m",
+      "date": "2026-03-22T17:29:25+00:00"
+    },
     {
       "id": "a87b44858ce9",
       "account": "@GN_carreteras",
@@ -353,48 +423,6 @@
       "date": "2026-03-22T12:10:44+00:00"
     },
     {
-      "id": "c2c519e9ed18",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 40.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 40, dirección Querétaro. Reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 40, direcc",
-      "link": "https://nitter.net/CAPUFE/status/2035688740249559046#m",
-      "date": "2026-03-22T12:03:11+00:00"
-    },
-    {
-      "id": "b9e7dfcd2199",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 40.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 40, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance entre un tracto camion y una camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 40, di",
-      "link": "https://nitter.net/CAPUFE/status/2035684226511642936#m",
-      "date": "2026-03-22T11:45:15+00:00"
-    },
-    {
-      "id": "6b7adbdf8d9e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 188.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 188, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 188, dirección CDMX. El accidente ha sido atendi",
-      "link": "https://nitter.net/CAPUFE/status/2035672294442352876#m",
-      "date": "2026-03-22T10:57:50+00:00"
-    },
-    {
       "id": "58b9da094819",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -519,34 +547,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 265+580, en la carretera Puebla - Córdoba. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 26",
       "link": "https://nitter.net/GN_Carreteras/status/2035465607790104681#m",
       "date": "2026-03-21T21:16:32+00:00"
-    },
-    {
-      "id": "8e6abe75e5f2",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 15.0,
-      "lat": 19.37065,
-      "lon": -99.2958,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 015+000, en la carretera Irapuato-Zapotlanejo. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca d",
-      "link": "https://nitter.net/GN_Carreteras/status/2035448096268894260#m",
-      "date": "2026-03-21T20:06:57+00:00"
-    },
-    {
-      "id": "380f1c7069eb",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 281.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 281+300, en la carretera Córdoba- Puebla. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 281",
-      "link": "https://nitter.net/GN_Carreteras/status/2035430446599733695#m",
-      "date": "2026-03-21T18:56:49+00:00"
     }
   ]
 }
