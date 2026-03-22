@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-22T13:48:45.828498+00:00",
-  "count": 39,
+  "updated": "2026-03-22T14:30:21.871744+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "8b8690b1948b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 45.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 045+200, en la Autopista Cardel - Poza Rica. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km ",
+      "link": "https://nitter.net/GN_Carreteras/status/2035720336361046090#m",
+      "date": "2026-03-22T14:08:44+00:00"
+    },
     {
       "id": "dae5cc36dd1a",
       "account": "@capufe",
@@ -283,20 +297,6 @@
       "date": "2026-03-22T06:57:09+00:00"
     },
     {
-      "id": "16c016668d14",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Acayucan–Cosoleacaque",
-      "route_key": "acayucan-cosoleacaque",
-      "km": 13.0,
-      "lat": 18.013867,
-      "lon": -94.8646,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 13, direcci",
-      "link": "https://nitter.net/CAPUFE/status/2035606082316357985#m",
-      "date": "2026-03-22T06:34:44+00:00"
-    },
-    {
       "id": "58b9da094819",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -533,20 +533,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 110+900, en la carretera Paso del Toro - Acayucan. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca d",
       "link": "https://nitter.net/GN_Carreteras/status/2035402633767219669#m",
       "date": "2026-03-21T17:06:18+00:00"
-    },
-    {
-      "id": "9674979410b6",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 46.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 046+300, en la carretera Hermosillo - Cd. Obregón. Atienda indicación vial. #TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del k",
-      "link": "https://nitter.net/GN_Carreteras/status/2035402474635268504#m",
-      "date": "2026-03-21T17:05:40+00:00"
     }
   ]
 }
