@@ -1,7 +1,77 @@
 {
-  "updated": "2026-03-22T21:52:30.057318+00:00",
-  "count": 36,
+  "updated": "2026-03-22T22:28:26.421780+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "e5bbd1bb3d4e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 4.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, Plaza de Cobro Palmillas, dirección Querétaro. Reducción de carriles por atención de choque contra cabina. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/uhf",
+      "link": "https://nitter.net/CAPUFE/status/2035846086045163723#m",
+      "date": "2026-03-22T22:28:25+00:00"
+    },
+    {
+      "id": "0445086b82af",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 1.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+300, en la carretera Paso del Toro - Acayucan. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca d",
+      "link": "https://nitter.net/GN_Carreteras/status/2035845280596214232#m",
+      "date": "2026-03-22T22:25:13+00:00"
+    },
+    {
+      "id": "a8d4ebd73610",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 193.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 193+600, en la carretera Pachuca-Tuxpan. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 193+",
+      "link": "https://nitter.net/GN_Carreteras/status/2035844979411595645#m",
+      "date": "2026-03-22T22:24:01+00:00"
+    },
+    {
+      "id": "b15344e2ce4f",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 73.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
+      "link": "https://nitter.net/CAPUFE/status/2035839386470781026#m",
+      "date": "2026-03-22T22:01:48+00:00"
+    },
+    {
+      "id": "d1762ed05b1e",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 194.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , del km 194 al 207, dirección Querétaro. Re",
+      "link": "https://nitter.net/CAPUFE/status/2035838642803954148#m",
+      "date": "2026-03-22T21:58:51+00:00"
+    },
     {
       "id": "f36fcfce93f0",
       "account": "@capufe",
@@ -185,34 +255,6 @@
       "date": "2026-03-22T19:51:44+00:00"
     },
     {
-      "id": "2c4cf5c5dc19",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 33.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 33, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance múltiple). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km",
-      "link": "https://nitter.net/CAPUFE/status/2035804817919001086#m",
-      "date": "2026-03-22T19:44:26+00:00"
-    },
-    {
-      "id": "01b028a9a9d1",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 24 al 27. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 24 al 27. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2035801078126596564#m",
-      "date": "2026-03-22T19:29:35+00:00"
-    },
-    {
       "id": "d3cc517fe0e4",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -225,34 +267,6 @@
       "text": "#TomePrecauciones en #Sinaloa se registra cierre parcial de circulación por #AccidenteVial cerca del km 190+600, en la carretera Tepic-Mazatlán. Atienda indicación vial. #TomePrecauciones en #Sinaloa se registra cierre parcial de circulación por #AccidenteVial cerca del km 190+60",
       "link": "https://nitter.net/GN_Carreteras/status/2035795744678924721#m",
       "date": "2026-03-22T19:08:23+00:00"
-    },
-    {
-      "id": "14078a96a15b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 3.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 3, dirección Irapuato. Reducción de carriles por atención de accidente (volcadura de automóvil). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Queréta",
-      "link": "https://nitter.net/CAPUFE/status/2035793069241663906#m",
-      "date": "2026-03-22T18:57:45+00:00"
-    },
-    {
-      "id": "657638b09596",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 163.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 163, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 163, dirección Isla. El incidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2035786726434537881#m",
-      "date": "2026-03-22T18:32:33+00:00"
     },
     {
       "id": "5fd654ce5998",
@@ -281,20 +295,6 @@
       "text": "#TomePrecauciones en #Sinaloa se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+800, en la carretera Culiacán-Las Brisas. Atienda indicación vial. #TomePrecauciones en #Sinaloa se registra cierre parcial de circulación por #AccidenteVial cerca del km 0",
       "link": "https://nitter.net/GN_Carreteras/status/2035784996619698661#m",
       "date": "2026-03-22T18:25:40+00:00"
-    },
-    {
-      "id": "7ca68326ffba",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaució",
-      "link": "https://nitter.net/CAPUFE/status/2035784452882731044#m",
-      "date": "2026-03-22T18:23:31+00:00"
     },
     {
       "id": "843b7ba45aaf",
@@ -477,34 +477,6 @@
       "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+000, en la carretera Ciudad Victoria - Matamoros. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial ",
       "link": "https://nitter.net/GN_Carreteras/status/2035578584480325966#m",
       "date": "2026-03-22T04:45:28+00:00"
-    },
-    {
-      "id": "a43d1ec7e9fc",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 255.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 255+000, en la carretera Zacatecas - Saltillo. Atienda indicación vial. #TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del",
-      "link": "https://nitter.net/GN_Carreteras/status/2035566622698512648#m",
-      "date": "2026-03-22T03:57:56+00:00"
-    },
-    {
-      "id": "5790ae8f0315",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 4.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 004+300, en la carretera Villahermosa - Francisco Escárcega. Atienda indicación vial. #TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial",
-      "link": "https://nitter.net/GN_Carreteras/status/2035546853958119565#m",
-      "date": "2026-03-22T02:39:23+00:00"
     }
   ]
 }
