@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-22T05:55:28.956711+00:00",
-  "count": 33,
+  "updated": "2026-03-22T06:56:48.795561+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "16c016668d14",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 13.0,
+      "lat": 18.013867,
+      "lon": -94.8646,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 13, direcci",
+      "link": "https://nitter.net/CAPUFE/status/2035606082316357985#m",
+      "date": "2026-03-22T06:34:44+00:00"
+    },
+    {
+      "id": "9bd7843bc7ab",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 82.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 82, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 82, dirección Acapulco. Reducción",
+      "link": "https://nitter.net/CAPUFE/status/2035596448897618210#m",
+      "date": "2026-03-22T05:56:27+00:00"
+    },
     {
       "id": "f0879c6ea714",
       "account": "@capufe",
@@ -225,20 +253,6 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Dirección Córdoba, continúa reducción de carriles. Toma tus precauciones. Para más info",
       "link": "https://nitter.net/CAPUFE/status/2035541068498780570#m",
       "date": "2026-03-22T02:16:23+00:00"
-    },
-    {
-      "id": "cf5aa50e7386",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 297.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 297. Reducción de carriles en ambos sentidos por atención de accidente (choque por alcance y contra muro central). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN ",
-      "link": "https://nitter.net/CAPUFE/status/2035528201212973199#m",
-      "date": "2026-03-22T01:25:16+00:00"
     },
     {
       "id": "302c4ce776a4",
