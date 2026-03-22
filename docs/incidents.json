@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-22T15:28:58.070876+00:00",
+  "updated": "2026-03-22T15:51:58.471585+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "9ed42d5b9ef1",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 16, dirección Nuevo Teapa. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Dir. Cosoleacaque, registra reducción de carriles. Toma tus precauciones. Para más informa",
+      "link": "https://nitter.net/CAPUFE/status/2035744445711171883#m",
+      "date": "2026-03-22T15:44:32+00:00"
+    },
     {
       "id": "5a0fd4bcb39c",
       "account": "@GN_carreteras",
@@ -365,20 +379,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cuernavaca - Acapulco, km 291, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra semoviente). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cuernavaca - Acapulco, km 291, dirección Cuernavac",
       "link": "https://nitter.net/CAPUFE/status/2035615488143737145#m",
       "date": "2026-03-22T07:12:06+00:00"
-    },
-    {
-      "id": "6c380bd878fa",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 82.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 82, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 82, dirección Acapulco. El accidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2035614915629658485#m",
-      "date": "2026-03-22T07:09:50+00:00"
     },
     {
       "id": "58b9da094819",
