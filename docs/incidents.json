@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-22T18:40:16.475253+00:00",
+  "updated": "2026-03-22T19:28:20.825651+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "d3cc517fe0e4",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 190.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Sinaloa se registra cierre parcial de circulación por #AccidenteVial cerca del km 190+600, en la carretera Tepic-Mazatlán. Atienda indicación vial. #TomePrecauciones en #Sinaloa se registra cierre parcial de circulación por #AccidenteVial cerca del km 190+60",
+      "link": "https://nitter.net/GN_Carreteras/status/2035795744678924721#m",
+      "date": "2026-03-22T19:08:23+00:00"
+    },
+    {
+      "id": "14078a96a15b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 3.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 3, dirección Irapuato. Reducción de carriles por atención de accidente (volcadura de automóvil). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Queréta",
+      "link": "https://nitter.net/CAPUFE/status/2035793069241663906#m",
+      "date": "2026-03-22T18:57:45+00:00"
+    },
     {
       "id": "657638b09596",
       "account": "@capufe",
@@ -437,20 +465,6 @@
       "date": "2026-03-22T13:09:45+00:00"
     },
     {
-      "id": "2dcc50e97940",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 283.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 283, dirección Cuernavaca. Reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca ",
-      "link": "https://nitter.net/CAPUFE/status/2035702281849508241#m",
-      "date": "2026-03-22T12:57:00+00:00"
-    },
-    {
       "id": "58b9da094819",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -519,20 +533,6 @@
       "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 017+400, en la carretera Irapuato-Zapotlanejo. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca d",
       "link": "https://nitter.net/GN_Carreteras/status/2035485790327750839#m",
       "date": "2026-03-21T22:36:44+00:00"
-    },
-    {
-      "id": "2b483b651dca",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 32.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 032+000, en la carretera Libramiento- Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del ",
-      "link": "https://nitter.net/GN_Carreteras/status/2035476209740693752#m",
-      "date": "2026-03-21T21:58:40+00:00"
     }
   ]
 }
