@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-22T22:28:26.421780+00:00",
-  "count": 34,
+  "updated": "2026-03-22T22:54:57.575036+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "0280ab4316d4",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 38.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, dirección CDMX. Registra carga vehicular intensa del km 38 al 51, sin reporte de incidente. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , dirección CDMX. Registra carga vehicular intensa del km 38 al 51, sin reporte de",
+      "link": "https://nitter.net/CAPUFE/status/2035852754220978680#m",
+      "date": "2026-03-22T22:54:55+00:00"
+    },
+    {
+      "id": "fc83c3945f16",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 92.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Autopista Tecate - La Rumorosa, km 92, dirección La Rumorosa. Continúa reducción de carriles por atención de accidente (incendio de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Autopista Tecate - La",
+      "link": "https://nitter.net/CAPUFE/status/2035847816615022918#m",
+      "date": "2026-03-22T22:35:18+00:00"
+    },
+    {
+      "id": "459092fc4834",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 219.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Oaxacase registra cierre parcial de circulación por #AccidenteVial cerca del km 219+300, en la carretera Cuacnopalan - Oaxaca. Atienda indicación vial. #TomePrecauciones en #Oaxacase registra cierre parcial de circulación por #AccidenteVial cerca del km 219+",
+      "link": "https://nitter.net/GN_Carreteras/status/2035846949287424431#m",
+      "date": "2026-03-22T22:31:51+00:00"
+    },
     {
       "id": "e5bbd1bb3d4e",
       "account": "@capufe",
@@ -227,20 +269,6 @@
       "date": "2026-03-22T20:27:41+00:00"
     },
     {
-      "id": "9f01921a5312",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 3.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 3, dirección Irapuato. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7",
-      "link": "https://nitter.net/CAPUFE/status/2035813520260972889#m",
-      "date": "2026-03-22T20:19:01+00:00"
-    },
-    {
       "id": "752f7c9c7999",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -463,20 +491,6 @@
       "text": "#TomesusPrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 012+900, de la carretera Ent. La Tinaja - Cosoleacaque. Atienda indicación vial. #TomesusPrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteV",
       "link": "https://nitter.net/GN_Carreteras/status/2035709604886147146#m",
       "date": "2026-03-22T13:26:06+00:00"
-    },
-    {
-      "id": "58b9da094819",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 1.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+000, en la carretera Ciudad Victoria - Matamoros. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial ",
-      "link": "https://nitter.net/GN_Carreteras/status/2035578584480325966#m",
-      "date": "2026-03-22T04:45:28+00:00"
     }
   ]
 }
