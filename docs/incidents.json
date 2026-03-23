@@ -1,7 +1,77 @@
 {
-  "updated": "2026-03-23T22:40:57.999807+00:00",
+  "updated": "2026-03-23T23:34:58.173901+00:00",
   "count": 32,
   "incidents": [
+    {
+      "id": "697ab5d8923a",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 27.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro, km 27, dirección CDMX. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro, km 27, direcci",
+      "link": "https://nitter.net/CAPUFE/status/2036221019564724254#m",
+      "date": "2026-03-23T23:18:16+00:00"
+    },
+    {
+      "id": "d8f096475b1b",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 194.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 #AutMéxicoQuerétaro , del",
+      "link": "https://nitter.net/CAPUFE/status/2036219471862620172#m",
+      "date": "2026-03-23T23:12:07+00:00"
+    },
+    {
+      "id": "5ad0e90d80be",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Aut. Nuevo Teapa - Cosoleacaque, km 16. Continúa reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular en dirección Cosoleacaque. Maneja con precau",
+      "link": "https://nitter.net/CAPUFE/status/2036219429755953463#m",
+      "date": "2026-03-23T23:11:57+00:00"
+    },
+    {
+      "id": "a1fdc45a0946",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "Coatza–Salina Cruz",
+      "route_key": "coatzacoalcos-salinaCruz",
+      "km": 16.0,
+      "lat": 17.9192,
+      "lon": -94.5584,
+      "resolved": true,
+      "text": "#Tomesusprecauciones en #Veracruz tras presencia de personas cerca del Km 016+000 de la carretera el Coatzacoalcos - Salina. Atienda indicación Vial. #Tomesusprecauciones en #Veracruz tras presencia de personas cerca del Km 016+000 de la carretera el Coatzacoalcos - Salina. Atien",
+      "link": "https://nitter.net/GN_Carreteras/status/2036215841025364181#m",
+      "date": "2026-03-23T22:57:42+00:00"
+    },
+    {
+      "id": "af3ef8c495ff",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 51.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, dirección CDMX. Se informa a las personas que se registran diversos eventos, que afectan la circulación: 🔘Km 51. Continúa reducción de carriles por atención de choque contra muro central. 🔘Km 66. Continúa reducción de carriles por l",
+      "link": "https://nitter.net/CAPUFE/status/2036215095240573380#m",
+      "date": "2026-03-23T22:54:44+00:00"
+    },
     {
       "id": "5125c1c94583",
       "account": "@capufe",
@@ -45,7 +115,7 @@
       "date": "2026-03-23T22:29:05+00:00"
     },
     {
-      "id": "b52cb9aff54d",
+      "id": "816ff268954a",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -54,7 +124,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación: 🔘Km 51, dirección CDMX. Reducción de carriles por atención de choque contra muro central. 🔘Km 66, dirección CDMX. Se restablece la circulación ",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación: 🔘Km 51, dirección CDMX. Reducción de carriles por atención de choque contra muro central. 🔘Km 66, dirección CDMX. Se restablece la circul",
       "link": "https://nitter.net/CAPUFE/status/2036203823711035834#m",
       "date": "2026-03-23T22:09:57+00:00"
     },
@@ -227,48 +297,6 @@
       "date": "2026-03-23T20:09:29+00:00"
     },
     {
-      "id": "b600e3fbb089",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Acapulco",
-      "route_key": "mexico-acapulco",
-      "km": 295.0,
-      "lat": 16.945423,
-      "lon": -99.76005,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 295, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 295, dirección Córdoba",
-      "link": "https://nitter.net/CAPUFE/status/2036169511150174264#m",
-      "date": "2026-03-23T19:53:36+00:00"
-    },
-    {
-      "id": "432400985b86",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 66.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación: 🔘Km 66, continúa cierre a la circulación en ambos sentidos por maniobras de trasvase de carga. Dir. Cuernavaca, se da vialidad por el Cam",
-      "link": "https://nitter.net/CAPUFE/status/2036168810609221938#m",
-      "date": "2026-03-23T19:50:49+00:00"
-    },
-    {
-      "id": "38df7ecf1583",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 64.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 64, dirección Querétaro. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se regist",
-      "link": "https://nitter.net/CAPUFE/status/2036168375093592390#m",
-      "date": "2026-03-23T19:49:05+00:00"
-    },
-    {
       "id": "eec84c881233",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -281,20 +309,6 @@
       "text": "#ViaLibre en #Veracruz tras presencia de personas cerca del km 063+000, de la carretera Poza Rica - Veracruz. Maneje con precaución. #ViaLibre en #Veracruz tras presencia de personas cerca del km 063+000, de la carretera Poza Rica - Veracruz. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2036164959831212246#m",
       "date": "2026-03-23T19:35:31+00:00"
-    },
-    {
-      "id": "5c2f50d9e334",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 284.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 284, dirección Córdoba. El incidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 284, direcc",
-      "link": "https://nitter.net/CAPUFE/status/2036163071690133522#m",
-      "date": "2026-03-23T19:28:01+00:00"
     },
     {
       "id": "f23d1229baf9",
@@ -435,20 +449,6 @@
       "text": "#TomesusPrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 016+300, de la carretera Nuevo Teapa - Cosoleacaque. Atienda indicación vial. #TomesusPrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial",
       "link": "https://nitter.net/GN_Carreteras/status/2036086243402870859#m",
       "date": "2026-03-23T14:22:43+00:00"
-    },
-    {
-      "id": "d195a5b626fb",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 205.0,
-      "lat": 20.588,
-      "lon": -100.39,
-      "resolved": true,
-      "text": "#TómePrecauciones en #Oaxaca continúa cierre de circulación por deslave de Talud sobre la carpeta asfáltica, cerca del km 205+000 autopista (570) Cuacnopalan-Oaxaca, tramo Huitzo-Oaxaca (San Pablo Etla). Atienda indicación vial. #TómePrecauciones en #Oaxaca continúa cierre de cir",
-      "link": "https://nitter.net/GN_Carreteras/status/2036078857455898938#m",
-      "date": "2026-03-23T13:53:22+00:00"
     }
   ]
 }
