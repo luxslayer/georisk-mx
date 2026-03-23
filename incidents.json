@@ -1,7 +1,77 @@
 {
-  "updated": "2026-03-23T19:27:47.101946+00:00",
-  "count": 38,
+  "updated": "2026-03-23T20:04:22.778928+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "b600e3fbb089",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Acapulco",
+      "route_key": "mexico-acapulco",
+      "km": 295.0,
+      "lat": 16.945423,
+      "lon": -99.76005,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 295, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 295, dirección Córdoba",
+      "link": "https://nitter.net/CAPUFE/status/2036169511150174264#m",
+      "date": "2026-03-23T19:53:36+00:00"
+    },
+    {
+      "id": "a583c491a04b",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 66.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación: 🔘Km 66, continúa cierre a la circulación en ambos sentidos por maniobras de trasvase de carga. Dir. Cuernavaca, se da vialidad por el Campament",
+      "link": "https://nitter.net/CAPUFE/status/2036168810609221938#m",
+      "date": "2026-03-23T19:50:49+00:00"
+    },
+    {
+      "id": "38df7ecf1583",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 64.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 64, dirección Querétaro. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se regist",
+      "link": "https://nitter.net/CAPUFE/status/2036168375093592390#m",
+      "date": "2026-03-23T19:49:05+00:00"
+    },
+    {
+      "id": "eec84c881233",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 63.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Veracruz tras presencia de personas cerca del km 063+000, de la carretera Poza Rica - Veracruz. Maneje con precaución. #ViaLibre en #Veracruz tras presencia de personas cerca del km 063+000, de la carretera Poza Rica - Veracruz. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2036164959831212246#m",
+      "date": "2026-03-23T19:35:31+00:00"
+    },
+    {
+      "id": "5c2f50d9e334",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 284.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 284, dirección Córdoba. El incidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 284, direcc",
+      "link": "https://nitter.net/CAPUFE/status/2036163071690133522#m",
+      "date": "2026-03-23T19:28:01+00:00"
+    },
     {
       "id": "8532ecc4bf2a",
       "account": "@capufe",
@@ -227,7 +297,7 @@
       "date": "2026-03-23T17:51:14+00:00"
     },
     {
-      "id": "9ac5ddd6fc04",
+      "id": "0db6f46d24fa",
       "account": "@capufe",
       "type": "closure",
       "highway": "?",
@@ -236,7 +306,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación: 🔘Km 66, continúa cierre a la circulación en ambos sentidos por maniobras para el retiro de unidad siniestrada. Dir. Cuernavaca, se da vialidad ",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación: 🔘Km 66, continúa cierre a la circulación en ambos sentidos por maniobras para el retiro de unidad siniestrada. Dir. Cuernavaca, se da via",
       "link": "https://nitter.net/CAPUFE/status/2036137066828841387#m",
       "date": "2026-03-23T17:44:40+00:00"
     },
@@ -339,62 +409,6 @@
       "date": "2026-03-23T16:48:40+00:00"
     },
     {
-      "id": "e52182048975",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 47.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Las Choapas - Ocozocoautla, km 47. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precau",
-      "link": "https://nitter.net/CAPUFE/status/2036121506388811853#m",
-      "date": "2026-03-23T16:42:51+00:00"
-    },
-    {
-      "id": "2de5e9a480e5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 47.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 47. Continúa cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACI",
-      "link": "https://nitter.net/CAPUFE/status/2036119473040802028#m",
-      "date": "2026-03-23T16:34:46+00:00"
-    },
-    {
-      "id": "b791dd48a04d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 298.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 298, dirección Córdoba. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (labores de limpieza). En la zona se registra carga vehicular. Maneja ",
-      "link": "https://nitter.net/CAPUFE/status/2036117234242994232#m",
-      "date": "2026-03-23T16:25:52+00:00"
-    },
-    {
-      "id": "efdd42d020b7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 166.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 166, dirección Isla. Reducción de carriles por atención de accidente (choque por alcance y salida del camino de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 166, ",
-      "link": "https://nitter.net/CAPUFE/status/2036115302392725695#m",
-      "date": "2026-03-23T16:18:11+00:00"
-    },
-    {
       "id": "1e7a5837b661",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -421,6 +435,20 @@
       "text": "#TomesusPrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 016+300, de la carretera Nuevo Teapa - Cosoleacaque. Atienda indicación vial. #TomesusPrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial",
       "link": "https://nitter.net/GN_Carreteras/status/2036086243402870859#m",
       "date": "2026-03-23T14:22:43+00:00"
+    },
+    {
+      "id": "2d5802d34424",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 66.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 66. Cierre a la circulación en ambos sentidos por atención de accidente (volcadura de tracto camión). Dirección Cuernavaca, se da vialidad por el Campamento La Pera CAPUFE. Toma tus precauciones. Para más información llama al 0⃣7",
+      "link": "https://nitter.net/CAPUFE/status/2036080564516581612#m",
+      "date": "2026-03-23T14:00:09+00:00"
     },
     {
       "id": "d195a5b626fb",
@@ -519,20 +547,6 @@
       "text": "#VíaLibre en #Oaxaca tras #AccidenteVial cerca del km 227+500, en la carretera Oaxaca - Tehuantepec. Maneje con precaución. #VíaLibre en #Oaxaca tras #AccidenteVial cerca del km 227+500, en la carretera Oaxaca - Tehuantepec. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2035961405543686337#m",
       "date": "2026-03-23T06:06:40+00:00"
-    },
-    {
-      "id": "6bc47a424e1c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 144.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación por #AccidenteVial cerca del km 144+000, en la carretera Querétaro – San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación por #Accident",
-      "link": "https://nitter.net/GN_Carreteras/status/2035957422154543502#m",
-      "date": "2026-03-23T05:50:50+00:00"
     }
   ]
 }
