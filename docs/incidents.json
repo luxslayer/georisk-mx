@@ -1,7 +1,77 @@
 {
-  "updated": "2026-03-23T21:03:24.344387+00:00",
-  "count": 39,
+  "updated": "2026-03-23T21:57:09.637147+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "30bc89b8189f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Cuernavaca",
+      "route_key": "mexico-cuernavaca",
+      "km": 66.0,
+      "lat": 18.916236,
+      "lon": -99.234,
+      "resolved": true,
+      "text": "#ViaLibre en #Morelos tras #AccidenteVial cerca del km 066+500, de la carretera México - Cuernavaca. Maneje con precaución. #ViaLibre en #Morelos tras #AccidenteVial cerca del km 066+500, de la carretera México - Cuernavaca. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2036199712454316097#m",
+      "date": "2026-03-23T21:53:36+00:00"
+    },
+    {
+      "id": "40a9d8963f92",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 105.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Guerrero tras presencia de personas cerca del km 105+000, de la carretera Las Cruces - Pinotepa Nacional. Maneje con cuidado. #ViaLibre en #Guerrero tras presencia de personas cerca del km 105+000, de la carretera Las Cruces - Pinotepa Nacional. Maneje con cuidado.",
+      "link": "https://nitter.net/GN_Carreteras/status/2036195769573638323#m",
+      "date": "2026-03-23T21:37:56+00:00"
+    },
+    {
+      "id": "b02ba95f32e4",
+      "account": "@capufe",
+      "type": "fire",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 25.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 25, dirección Nuevo Teapa. Reducción de carriles por atención de incidente (incendio de pastizal). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 25, dire",
+      "link": "https://nitter.net/CAPUFE/status/2036195770018279870#m",
+      "date": "2026-03-23T21:37:56+00:00"
+    },
+    {
+      "id": "65bd62811493",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 51.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación: 🔘Km 51, dirección CDMX. Reducción de carriles por atención de choque contra muro central. 🔘Km 66, dirección CDMX. Se restablece la circulación ",
+      "link": "https://nitter.net/CAPUFE/status/2036195294015074400#m",
+      "date": "2026-03-23T21:36:03+00:00"
+    },
+    {
+      "id": "7ca4b98ff729",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 66.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación: 🔘Km 66, dirección CDMX. Continúa cierre a la circulación por atención del accidente (labores de limpieza). Dir. Cuernavaca, se restablece",
+      "link": "https://nitter.net/CAPUFE/status/2036187415757422885#m",
+      "date": "2026-03-23T21:04:45+00:00"
+    },
     {
       "id": "b304d6e6dcc4",
       "account": "@GN_carreteras",
@@ -87,7 +157,7 @@
       "date": "2026-03-23T19:53:36+00:00"
     },
     {
-      "id": "a583c491a04b",
+      "id": "432400985b86",
       "account": "@capufe",
       "type": "closure",
       "highway": "?",
@@ -96,7 +166,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación: 🔘Km 66, continúa cierre a la circulación en ambos sentidos por maniobras de trasvase de carga. Dir. Cuernavaca, se da vialidad por el Campament",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación: 🔘Km 66, continúa cierre a la circulación en ambos sentidos por maniobras de trasvase de carga. Dir. Cuernavaca, se da vialidad por el Cam",
       "link": "https://nitter.net/CAPUFE/status/2036168810609221938#m",
       "date": "2026-03-23T19:50:49+00:00"
     },
@@ -353,34 +423,6 @@
       "date": "2026-03-23T17:52:47+00:00"
     },
     {
-      "id": "2c2f228c567c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 292.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cd. Mendoza - Córdoba, km 292, dirección Córdoba. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en la zona. Sin embargo, se registra carga vehicular. Maneja con precaución. P",
-      "link": "https://nitter.net/CAPUFE/status/2036138717354631220#m",
-      "date": "2026-03-23T17:51:14+00:00"
-    },
-    {
-      "id": "0db6f46d24fa",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 66.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación: 🔘Km 66, continúa cierre a la circulación en ambos sentidos por maniobras para el retiro de unidad siniestrada. Dir. Cuernavaca, se da via",
-      "link": "https://nitter.net/CAPUFE/status/2036137066828841387#m",
-      "date": "2026-03-23T17:44:40+00:00"
-    },
-    {
       "id": "af9b1a9a26a3",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -393,20 +435,6 @@
       "text": "#TomesusPrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 066+500, de la carretera México - Cuernavaca. Atienda indicación vial. #TomesusPrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca de",
       "link": "https://nitter.net/GN_Carreteras/status/2036134608996122755#m",
       "date": "2026-03-23T17:34:54+00:00"
-    },
-    {
-      "id": "46bbfdedacc8",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 292.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 292, dirección Córdoba. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y automóvil. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación ",
-      "link": "https://nitter.net/CAPUFE/status/2036134213183832090#m",
-      "date": "2026-03-23T17:33:20+00:00"
     },
     {
       "id": "eb00703fdd21",
@@ -435,20 +463,6 @@
       "text": "#TomesusPrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 035+100, de la carretera ent. La Chicharrona - Cuencamé. Atienda indicación vial. #TomesusPrecauciones en #Zacatecas se registra cierre parcial de circulación por #Acciden",
       "link": "https://nitter.net/GN_Carreteras/status/2036125589631824059#m",
       "date": "2026-03-23T16:59:04+00:00"
-    },
-    {
-      "id": "c2050c38177a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 97.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomesusPrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 097+700, de la carretera San Hipólito- Xalapa. Atienda indicación vial. #TomesusPrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca",
-      "link": "https://nitter.net/GN_Carreteras/status/2036124396541079852#m",
-      "date": "2026-03-23T16:54:20+00:00"
     },
     {
       "id": "d24b0a76ae4d",
@@ -519,34 +533,6 @@
       "text": "#VíaLibre en #Guerrero tras #AccidenteVial cerca del km 170+000, en la carretera Cuernavaca-Chilpancingo, con dirección a Chilpancingo, Gro. Maneje con precaución. #VíaLibre en #Guerrero tras #AccidenteVial cerca del km 170+000, en la carretera Cuernavaca-Chilpancingo, con direcc",
       "link": "https://nitter.net/GN_Carreteras/status/2036061023145246972#m",
       "date": "2026-03-23T12:42:30+00:00"
-    },
-    {
-      "id": "fb529f2880c4",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 46.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 046+500, en la carretera Las Choapas-Ocozocoautla. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca d",
-      "link": "https://nitter.net/GN_Carreteras/status/2036058868745109611#m",
-      "date": "2026-03-23T12:33:57+00:00"
-    },
-    {
-      "id": "7b9e02679dd8",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 64.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 064+500, en la carretera Querétaro-Irapuato. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del",
-      "link": "https://nitter.net/GN_Carreteras/status/2035976163617562882#m",
-      "date": "2026-03-23T07:05:18+00:00"
     }
   ]
 }
