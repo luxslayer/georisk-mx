@@ -1,7 +1,119 @@
 {
-  "updated": "2026-03-24T04:30:41.006744+00:00",
-  "count": 41,
+  "updated": "2026-03-24T06:01:32.706933+00:00",
+  "count": 40,
   "incidents": [
+    {
+      "id": "7e6816d122d3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 232.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en la zona. Sin embargo, se registra carga vehicular. Maneja con precauc",
+      "link": "https://nitter.net/CAPUFE/status/2036320626676253175#m",
+      "date": "2026-03-24T05:54:05+00:00"
+    },
+    {
+      "id": "60dff20be3cb",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 101.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Aeropuerto Los Cabos - San José del Cabo, km 101. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. ☑️ AC",
+      "link": "https://nitter.net/CAPUFE/status/2036318888447635631#m",
+      "date": "2026-03-24T05:47:10+00:00"
+    },
+    {
+      "id": "62922dc2b3af",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 23.0,
+      "lat": 32.322333,
+      "lon": -116.975985,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 23, dirección Tijuana. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 23, dirección Tijuana. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2036317673588469765#m",
+      "date": "2026-03-24T05:42:20+00:00"
+    },
+    {
+      "id": "12cb5763704f",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 28.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 28, dirección Puente de Ixtla. Reducción de carriles por atención de incidente (vehículo abandonado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 28, direc",
+      "link": "https://nitter.net/CAPUFE/status/2036311376776335747#m",
+      "date": "2026-03-24T05:17:19+00:00"
+    },
+    {
+      "id": "a81ecb392714",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidente. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Continúa carga vehi",
+      "link": "https://nitter.net/CAPUFE/status/2036305785752322379#m",
+      "date": "2026-03-24T04:55:06+00:00"
+    },
+    {
+      "id": "bd534f630750",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 62.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 62, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 62, dirección Puebla. El accidente ha sido atendido. ",
+      "link": "https://nitter.net/CAPUFE/status/2036305076214517965#m",
+      "date": "2026-03-24T04:52:17+00:00"
+    },
+    {
+      "id": "345d3ac58020",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 59.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 59, dirección Puebla. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km ",
+      "link": "https://nitter.net/CAPUFE/status/2036304689029898680#m",
+      "date": "2026-03-24T04:50:45+00:00"
+    },
+    {
+      "id": "b8dbb74e3610",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 191.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 191, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 191, dirección CDMX. El accidente ha sido atendi",
+      "link": "https://nitter.net/CAPUFE/status/2036301116766318867#m",
+      "date": "2026-03-24T04:36:33+00:00"
+    },
     {
       "id": "06a345deefe1",
       "account": "@capufe",
@@ -31,7 +143,7 @@
       "date": "2026-03-24T04:23:21+00:00"
     },
     {
-      "id": "9514d38c1692",
+      "id": "c3f337830436",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -40,7 +152,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Se informa a las personas usuarias que continúa cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de la uni",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Se informa a las personas usuarias que continúa cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de ",
       "link": "https://nitter.net/CAPUFE/status/2036295467370250681#m",
       "date": "2026-03-24T04:14:06+00:00"
     },
@@ -85,20 +197,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 62, dirección Puebla. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se registra carga v",
       "link": "https://nitter.net/CAPUFE/status/2036291289180713320#m",
       "date": "2026-03-24T03:57:30+00:00"
-    },
-    {
-      "id": "d5d485a014e2",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 59.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 59, dirección Puebla. Se informa a las personas usuarias que continúa reducción de carriles por maniobras de grúa para el retiro de la unidad siniestrada. En la zona se registra carga vehicular. Maneja con precaución. Para más ",
-      "link": "https://nitter.net/CAPUFE/status/2036289267912053065#m",
-      "date": "2026-03-24T03:49:28+00:00"
     },
     {
       "id": "5ab03a9c126a",
@@ -157,20 +255,6 @@
       "date": "2026-03-24T03:41:43+00:00"
     },
     {
-      "id": "7e5c26d2e565",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 232.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Se informa a las personas usuarias que continúa cierre a la circulación por labores de limpieza. Dir. Puerto México, se restablece el tránsito vehicular de manera normal. Por s",
-      "link": "https://nitter.net/CAPUFE/status/2036286951192506399#m",
-      "date": "2026-03-24T03:40:16+00:00"
-    },
-    {
       "id": "74e1a44852ef",
       "account": "@capufe",
       "type": "accident",
@@ -183,76 +267,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 27, dirección Nuevo Teapa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 27, direc",
       "link": "https://nitter.net/CAPUFE/status/2036283123604857295#m",
       "date": "2026-03-24T03:25:03+00:00"
-    },
-    {
-      "id": "6c894da083ed",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 66.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 66, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIE",
-      "link": "https://nitter.net/CAPUFE/status/2036281875098964220#m",
-      "date": "2026-03-24T03:20:05+00:00"
-    },
-    {
-      "id": "09214fe1bbd9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 27.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 27, dirección Nuevo Teapa. Continúa reducción de carriles por atención de accidente (choque contra base de puente). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleac",
-      "link": "https://nitter.net/CAPUFE/status/2036271850632683832#m",
-      "date": "2026-03-24T02:40:15+00:00"
-    },
-    {
-      "id": "3c65742b73ca",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 1.0,
-      "lat": 18.317,
-      "lon": -95.01575,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 1, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 1, dirección Isla. El incidente ha si",
-      "link": "https://nitter.net/CAPUFE/status/2036271344879337782#m",
-      "date": "2026-03-24T02:38:15+00:00"
-    },
-    {
-      "id": "fa6843a92ef8",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 66.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 66, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles por labores de limpieza. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. ☑️ ACTU",
-      "link": "https://nitter.net/CAPUFE/status/2036270572905099556#m",
-      "date": "2026-03-24T02:35:11+00:00"
-    },
-    {
-      "id": "2ba1b73d2a51",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 56.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56. Registra carga vehicular en ambos sentidos a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56. Registra carga vehicular en ambos sentidos",
-      "link": "https://nitter.net/CAPUFE/status/2036269045381546077#m",
-      "date": "2026-03-24T02:29:07+00:00"
     },
     {
       "id": "bd2dd0137e4f",
@@ -295,20 +309,6 @@
       "text": "#ViaLibre en #Veracruz tras presencia de personas cerca del Km 097+700 de la carretera San Hipólito - Xalapa. Maneje con precaución. #ViaLibre en #Veracruz tras presencia de personas cerca del Km 097+700 de la carretera San Hipólito - Xalapa. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2036254205862617371#m",
       "date": "2026-03-24T01:30:09+00:00"
-    },
-    {
-      "id": "dba902f919c7",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 101.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Aeropuerto Los Cabos - San José del Cabo, km 101. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. ☑️ AC",
-      "link": "https://nitter.net/CAPUFE/status/2036250633599062042#m",
-      "date": "2026-03-24T01:15:57+00:00"
     },
     {
       "id": "c3b9a557e6a7",
@@ -561,20 +561,6 @@
       "text": "#TomesusPrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 035+100, de la carretera ent. La Chicharrona - Cuencamé. Atienda indicación vial. #TomesusPrecauciones en #Zacatecas se registra cierre parcial de circulación por #Acciden",
       "link": "https://nitter.net/GN_Carreteras/status/2036125589631824059#m",
       "date": "2026-03-23T16:59:04+00:00"
-    },
-    {
-      "id": "2d5802d34424",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 66.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 66. Cierre a la circulación en ambos sentidos por atención de accidente (volcadura de tracto camión). Dirección Cuernavaca, se da vialidad por el Campamento La Pera CAPUFE. Toma tus precauciones. Para más información llama al 0⃣7",
-      "link": "https://nitter.net/CAPUFE/status/2036080564516581612#m",
-      "date": "2026-03-23T14:00:09+00:00"
     }
   ]
 }
