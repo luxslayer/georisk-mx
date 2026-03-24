@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-24T07:35:57.553216+00:00",
+  "updated": "2026-03-24T08:56:07.766428+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "84205e098f14",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 254.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 254, dirección Acatzingo. Se restablece la circulación con reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopi",
+      "link": "https://nitter.net/CAPUFE/status/2036347505261064664#m",
+      "date": "2026-03-24T07:40:53+00:00"
+    },
     {
       "id": "f4020bed3939",
       "account": "@capufe",
@@ -267,20 +281,6 @@
       "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 59, dirección Puebla. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Toma tus precauciones. Para más informaci",
       "link": "https://nitter.net/CAPUFE/status/2036294667034153055#m",
       "date": "2026-03-24T04:10:55+00:00"
-    },
-    {
-      "id": "a9aa79179497",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 95.0,
-      "lat": 18.271359,
-      "lon": -99.519041,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Registra cierre a la circulación en el Distribuidor vial Palmira por labores de mantenimiento. Circulación por carriles laterales. En la zona se registra carga vehicular. Maneja con pr",
-      "link": "https://nitter.net/CAPUFE/status/2036292656389599711#m",
-      "date": "2026-03-24T04:02:56+00:00"
     },
     {
       "id": "5ab03a9c126a",
