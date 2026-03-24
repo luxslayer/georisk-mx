@@ -1,9 +1,93 @@
 {
-  "updated": "2026-03-24T20:02:34.938225+00:00",
-  "count": 34,
+  "updated": "2026-03-24T21:05:04.451392+00:00",
+  "count": 35,
   "incidents": [
     {
-      "id": "9d8e2a7af943",
+      "id": "8ec662f0bf1a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 209.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 209, dirección Cd. Mendoza. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 209, di",
+      "link": "https://nitter.net/CAPUFE/status/2036548011090723263#m",
+      "date": "2026-03-24T20:57:37+00:00"
+    },
+    {
+      "id": "2c365b73fe28",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 331.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 331, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 331, dirección",
+      "link": "https://nitter.net/CAPUFE/status/2036544168994980045#m",
+      "date": "2026-03-24T20:42:21+00:00"
+    },
+    {
+      "id": "c3de02f1d724",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 77.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 77, dirección Veracruz. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopis",
+      "link": "https://nitter.net/CAPUFE/status/2036542560760443243#m",
+      "date": "2026-03-24T20:35:58+00:00"
+    },
+    {
+      "id": "e837820ea06d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 76.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 076+800, de la carretera Ent. La Tinaja- Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca d",
+      "link": "https://nitter.net/GN_Carreteras/status/2036539243409924514#m",
+      "date": "2026-03-24T20:22:47+00:00"
+    },
+    {
+      "id": "6e9e28a50047",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 236.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 236+400, de la carretera Pachuca-Tempoal. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 236",
+      "link": "https://nitter.net/GN_Carreteras/status/2036538928262500622#m",
+      "date": "2026-03-24T20:21:32+00:00"
+    },
+    {
+      "id": "7c061c8e9e59",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 13.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Libramiento Noreste de Querétaro, km 13, dirección San Luis Potosí. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Libramiento Noreste de Quer",
+      "link": "https://nitter.net/CAPUFE/status/2036538802215244148#m",
+      "date": "2026-03-24T20:21:02+00:00"
+    },
+    {
+      "id": "bdef44b317be",
       "account": "@GN_carreteras",
       "type": "accident",
       "highway": "La Tinaja–Cosoleacaque",
@@ -12,9 +96,23 @@
       "lat": 18.275,
       "lon": -94.95625,
       "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra total parcial de circulación por #AccidenteVial cerca del km 015+800, de la carretera Córdoba-Ent. La Tinaja. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra total parcial de circulación por #AccidenteVial cerca del k",
-      "link": "https://nitter.net/GN_Carreteras/status/2036533964131676555#m",
-      "date": "2026-03-24T20:01:48+00:00"
+      "text": "#TomesusPrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 015+800, de la carretera Córdoba-Ent. La Tinaja. Atienda indicación vial. #TomesusPrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cer",
+      "link": "https://nitter.net/GN_Carreteras/status/2036538703607165342#m",
+      "date": "2026-03-24T20:20:38+00:00"
+    },
+    {
+      "id": "14a64afebc19",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 156.0,
+      "lat": 17.189936,
+      "lon": -99.751344,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 156, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 156, dirección Cuer",
+      "link": "https://nitter.net/CAPUFE/status/2036536193119035822#m",
+      "date": "2026-03-24T20:10:40+00:00"
     },
     {
       "id": "f1ac0641e19c",
@@ -283,20 +381,6 @@
       "date": "2026-03-24T17:57:03+00:00"
     },
     {
-      "id": "50f4654d0071",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 131.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Gómez Palacio - Corralitos, km 131, dirección Gómez Palacio. Continúa cierre a la circulación por atención del accidente. El personal de conservación realiza labores de limpieza en la zona. Toma tus precauciones. Para más información llama al 0",
-      "link": "https://nitter.net/CAPUFE/status/2036499586257395875#m",
-      "date": "2026-03-24T17:45:12+00:00"
-    },
-    {
       "id": "264754792d4c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -325,20 +409,6 @@
       "date": "2026-03-24T17:28:33+00:00"
     },
     {
-      "id": "575cb32356eb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 95.0,
-      "lat": 18.271359,
-      "lon": -99.519041,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Aut. Cuernavaca - Acapulco, km 95, dirección Acapulco. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular, derivado de las labores de mantenimiento del km 96. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Aut. Cuernavaca - Acapulco",
-      "link": "https://nitter.net/CAPUFE/status/2036488341567537388#m",
-      "date": "2026-03-24T17:00:31+00:00"
-    },
-    {
       "id": "999eb807b4d3",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -351,34 +421,6 @@
       "text": "#TomesusPrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 063+200, de la carretera San Hipólito - Xalapa Atienda indicación vial. #TomesusPrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del",
       "link": "https://nitter.net/GN_Carreteras/status/2036488268489892263#m",
       "date": "2026-03-24T17:00:13+00:00"
-    },
-    {
-      "id": "c712e534bf01",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 96.0,
-      "lat": 18.253631,
-      "lon": -99.522849,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 96, dirección Cuerna",
-      "link": "https://nitter.net/CAPUFE/status/2036486921762083022#m",
-      "date": "2026-03-24T16:54:52+00:00"
-    },
-    {
-      "id": "d2e4cd906a6f",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 5.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Viaducto Elevado Tlalpan, km 5, dirección Cuernavaca. Reducción de carriles por labores de mantenimiento. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Viaducto Elevado Tlalpan, km 5, dirección Cuernavaca. Reducción de carriles por l",
-      "link": "https://nitter.net/CAPUFE/status/2036483133655437454#m",
-      "date": "2026-03-24T16:39:49+00:00"
     },
     {
       "id": "44abe28439eb",
@@ -449,34 +491,6 @@
       "text": "#TomesusPrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 331+800, de la carretera Puerto México - Ojo Caliente. Atienda indicación vial. #TomesusPrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVi",
       "link": "https://nitter.net/GN_Carreteras/status/2036288890001072315#m",
       "date": "2026-03-24T03:47:58+00:00"
-    },
-    {
-      "id": "e0e8deae2b36",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 97.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Veracruz tras presencia de personas cerca del Km 097+700 de la carretera San Hipólito - Xalapa. Maneje con precaución. #ViaLibre en #Veracruz tras presencia de personas cerca del Km 097+700 de la carretera San Hipólito - Xalapa. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2036254205862617371#m",
-      "date": "2026-03-24T01:30:09+00:00"
-    },
-    {
-      "id": "c3b9a557e6a7",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomesusPrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 000+500, de la carretera Querétaro - León. Atienda indicación vial. #TomesusPrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca",
-      "link": "https://nitter.net/GN_Carreteras/status/2036237743739515068#m",
-      "date": "2026-03-24T00:24:44+00:00"
     }
   ]
 }
