@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-25T08:54:56.262381+00:00",
-  "count": 36,
+  "updated": "2026-03-25T09:56:25.975663+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "b501c6ce9dc4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 92.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tecate - La Rumorosa, km 92, dirección La Rumorosa. Reducción de carriles por atención de accidente (incendio de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tecate - La Rumorosa, km 92, dirección L",
+      "link": "https://nitter.net/CAPUFE/status/2036731756246651136#m",
+      "date": "2026-03-25T09:07:45+00:00"
+    },
+    {
+      "id": "7fea0fb7b5f8",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 254.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Veracruz tras presencia de personas cerca del km 254+000, de la carretera Ramal Orizaba - Zongolica. Maneje con precaución. #VíaLibre en #Veracruz tras presencia de personas cerca del km 254+000, de la carretera Ramal Orizaba - Zongolica. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2036731034520236341#m",
+      "date": "2026-03-25T09:04:53+00:00"
+    },
+    {
+      "id": "579158bb52f9",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 145.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #SanLuiPotosí se registra cierre parcial de la circulación por #AccidenteVial cerca del km 145+900, de la carretera San Luis Potosí-Matehuala. Atienda indicación vial. #TomePrecauciones en #SanLuiPotosí se registra cierre parcial de la circulación por #Accide",
+      "link": "https://nitter.net/GN_Carreteras/status/2036730788058689541#m",
+      "date": "2026-03-25T09:03:55+00:00"
+    },
     {
       "id": "0c66c52559af",
       "account": "@capufe",
@@ -255,34 +297,6 @@
       "date": "2026-03-25T04:58:21+00:00"
     },
     {
-      "id": "6e30b4ee9e6a",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Barranca Larga - Ventanilla, continúa #lluvia intensa del km 0 al 44. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Barranca Larga - Ventanilla, continúa #lluvia intensa del km 0 al 44. Dismin",
-      "link": "https://nitter.net/CAPUFE/status/2036654612623831350#m",
-      "date": "2026-03-25T04:01:13+00:00"
-    },
-    {
-      "id": "ba94bab717f7",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación con cierres intermitentes en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con prec",
-      "link": "https://nitter.net/CAPUFE/status/2036653840750231569#m",
-      "date": "2026-03-25T03:58:09+00:00"
-    },
-    {
       "id": "69bc4611125c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,34 +491,6 @@
       "text": "#TomePrecauciones en #QuintanaRoo se registra cierre parcial de circulación por #IncendioForestal cerca del km 294+500, de la carretera Reforma agraria - Puerto Juárez. Atienda indicación vial. #TomePrecauciones en #QuintanaRoo se registra cierre parcial de circulación por #Incen",
       "link": "https://nitter.net/GN_Carreteras/status/2036599292052353496#m",
       "date": "2026-03-25T00:21:24+00:00"
-    },
-    {
-      "id": "f81f8be9f235",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Teziutlán–Nautla",
-      "route_key": "teziutlan-nautla",
-      "km": 54.0,
-      "lat": 20.1025,
-      "lon": -96.9625,
-      "resolved": true,
-      "text": "#TomesusPrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 054+800, de la carretera Teziutlán-Nautla. Atienda indicación vial. #TomesusPrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del",
-      "link": "https://nitter.net/GN_Carreteras/status/2036595588502798736#m",
-      "date": "2026-03-25T00:06:41+00:00"
-    },
-    {
-      "id": "0bf604dc5397",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 138.0,
-      "lat": 19.048,
-      "lon": -97.87,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 138+100, de la carretera Amozoc-Teziutlán. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 138+10",
-      "link": "https://nitter.net/GN_Carreteras/status/2036586848257274180#m",
-      "date": "2026-03-24T23:31:57+00:00"
     }
   ]
 }
