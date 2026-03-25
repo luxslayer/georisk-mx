@@ -1,7 +1,77 @@
 {
-  "updated": "2026-03-25T04:33:21.885764+00:00",
+  "updated": "2026-03-25T06:02:29.670841+00:00",
   "count": 32,
   "incidents": [
+    {
+      "id": "7f400beaf739",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 254.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomesusPrecauciones en #Veracruz se registra cierre total de circulación por presencia de personas cerca del km 254+000, de la carretera Ramal Orizaba - Zongolica. Atienda indicación vial. #TomesusPrecauciones en #Veracruz se registra cierre total de circulación por presencia de",
+      "link": "https://nitter.net/GN_Carreteras/status/2036684422775185574#m",
+      "date": "2026-03-25T05:59:40+00:00"
+    },
+    {
+      "id": "663b03321e75",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 87.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 87, dirección Isla. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopis",
+      "link": "https://nitter.net/CAPUFE/status/2036682832282574918#m",
+      "date": "2026-03-25T05:53:21+00:00"
+    },
+    {
+      "id": "c95463f17177",
+      "account": "@GN_carreteras",
+      "type": "fire",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 294.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #QuintanaRoo tras #IncendioForestal cerca del km 294+500, de la carretera Reforma agraria - Puerto Juárez. Maneje con precaución. #VíaLibre en #QuintanaRoo tras #IncendioForestal cerca del km 294+500, de la carretera Reforma agraria - Puerto Juárez. Maneje con precau",
+      "link": "https://nitter.net/GN_Carreteras/status/2036680622987448604#m",
+      "date": "2026-03-25T05:44:34+00:00"
+    },
+    {
+      "id": "a17f5f6cceaf",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 87.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87, dirección Isla. Reducción de carriles por atención de accidente (salida del camino y volcadura). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87, dirección Isla. Reducc",
+      "link": "https://nitter.net/CAPUFE/status/2036671856338444796#m",
+      "date": "2026-03-25T05:09:44+00:00"
+    },
+    {
+      "id": "932d34c548ac",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 96.0,
+      "lat": 18.253631,
+      "lon": -99.522849,
+      "resolved": true,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, registra #lluvia del km 96 al 100. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, registra #lluvia del km 96 al 100. Disminuye tu velocidad y man",
+      "link": "https://nitter.net/CAPUFE/status/2036668989662007301#m",
+      "date": "2026-03-25T04:58:21+00:00"
+    },
     {
       "id": "6e30b4ee9e6a",
       "account": "@capufe",
@@ -311,48 +381,6 @@
       "date": "2026-03-25T00:44:45+00:00"
     },
     {
-      "id": "6d6efa49a8f3",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 42.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, continúa #lluvia del km 42 al 80. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , continúa #lluvia del km 42 al 80. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2036604751740329989#m",
-      "date": "2026-03-25T00:43:05+00:00"
-    },
-    {
-      "id": "c90ff6a199fe",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 8.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 8, dirección La Pera. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 8, dirección La Pera. El inciden",
-      "link": "https://nitter.net/CAPUFE/status/2036603142088057096#m",
-      "date": "2026-03-25T00:36:41+00:00"
-    },
-    {
-      "id": "f4f2ac869c43",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 86.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Agua Dulce - Cárdenas, km 86, dirección Cárdenas. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN ",
-      "link": "https://nitter.net/CAPUFE/status/2036602709047124200#m",
-      "date": "2026-03-25T00:34:58+00:00"
-    },
-    {
       "id": "1f26cdffcc09",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -421,34 +449,6 @@
       "text": "#TomesusPrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 068+500, de la carretera Jalpan de Serra-Rioverde. Atienda indicación vial. #TomesusPrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cer",
       "link": "https://nitter.net/GN_Carreteras/status/2036575710714753353#m",
       "date": "2026-03-24T22:47:41+00:00"
-    },
-    {
-      "id": "5a2cc13f85c5",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Gdl–Tepic",
-      "route_key": "guadalajara-tepic",
-      "km": 85.0,
-      "lat": 21.048,
-      "lon": -104.045,
-      "resolved": true,
-      "text": "#TomesusPrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 085+950, de la carretera Coatzacoalcos- Villahermosa. Atienda indicación vial. #TomesusPrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial ",
-      "link": "https://nitter.net/GN_Carreteras/status/2036575262725296616#m",
-      "date": "2026-03-24T22:45:55+00:00"
-    },
-    {
-      "id": "81e16ad027e6",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 60.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomesusPrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 060+000, de la carretera Las Cruces-Pinotepa. Atienda indicación vial. #TomesusPrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca ",
-      "link": "https://nitter.net/GN_Carreteras/status/2036569226786324858#m",
-      "date": "2026-03-24T22:21:55+00:00"
     }
   ]
 }
