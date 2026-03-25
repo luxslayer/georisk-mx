@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-25T10:54:45.262103+00:00",
+  "updated": "2026-03-25T11:42:51.113827+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "5529ca50e6af",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 167.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 167, dirección Acayucan. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 167, dirección Acayu",
+      "link": "https://nitter.net/CAPUFE/status/2036765454740394194#m",
+      "date": "2026-03-25T11:21:40+00:00"
+    },
     {
       "id": "6855a006beea",
       "account": "@capufe",
@@ -295,20 +309,6 @@
       "text": "#VíaLibre en #QuintanaRoo tras #IncendioForestal cerca del km 294+500, de la carretera Reforma agraria - Puerto Juárez. Maneje con precaución. #VíaLibre en #QuintanaRoo tras #IncendioForestal cerca del km 294+500, de la carretera Reforma agraria - Puerto Juárez. Maneje con precau",
       "link": "https://nitter.net/GN_Carreteras/status/2036680622987448604#m",
       "date": "2026-03-25T05:44:34+00:00"
-    },
-    {
-      "id": "a17f5f6cceaf",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 87.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87, dirección Isla. Reducción de carriles por atención de accidente (salida del camino y volcadura). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87, dirección Isla. Reducc",
-      "link": "https://nitter.net/CAPUFE/status/2036671856338444796#m",
-      "date": "2026-03-25T05:09:44+00:00"
     },
     {
       "id": "69bc4611125c",
