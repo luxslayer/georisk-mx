@@ -1,7 +1,63 @@
 {
-  "updated": "2026-03-25T19:50:23.125788+00:00",
-  "count": 30,
+  "updated": "2026-03-25T20:41:31.961573+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "c8523b206ef5",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 90.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 90, dirección Veracruz. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopist",
+      "link": "https://nitter.net/CAPUFE/status/2036902074185859467#m",
+      "date": "2026-03-25T20:24:32+00:00"
+    },
+    {
+      "id": "f9fcbec75700",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 84.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 84, dirección CDMX. Reducción de carriles laterales por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca",
+      "link": "https://nitter.net/CAPUFE/status/2036901276488024127#m",
+      "date": "2026-03-25T20:21:22+00:00"
+    },
+    {
+      "id": "701a5b463405",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 84.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Libramiento Cuernavaca, km 84, dirección Acapulco. Cierre de carriles centrales por labores de mantenimiento. Circulación por carriles laterales. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Libramiento Cuernavaca, km 84, direcc",
+      "link": "https://nitter.net/CAPUFE/status/2036899280154448374#m",
+      "date": "2026-03-25T20:13:26+00:00"
+    },
+    {
+      "id": "5f393beaf735",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 143.0,
+      "lat": 17.963709,
+      "lon": -94.900036,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 143, dirección Isla. Cierre a la circulación por atención de accidente (incendio de remolque). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 143, direcci",
+      "link": "https://nitter.net/CAPUFE/status/2036895851386474621#m",
+      "date": "2026-03-25T19:59:49+00:00"
+    },
     {
       "id": "6208f24b2ee5",
       "account": "@capufe",
@@ -241,20 +297,6 @@
       "date": "2026-03-25T17:44:48+00:00"
     },
     {
-      "id": "2298c0bf1b94",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 99.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Estación Don - Navojoa, km 99, dirección Navojoa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Estación Don - Navojoa, km 99, dirección Navojoa",
-      "link": "https://nitter.net/CAPUFE/status/2036849939251109972#m",
-      "date": "2026-03-25T16:57:23+00:00"
-    },
-    {
       "id": "3df85167367e",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,34 +309,6 @@
       "text": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 182+500, de la carretera Saltillo-Torreón. Atienda indicación vial. #TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 18",
       "link": "https://nitter.net/GN_Carreteras/status/2036849260117860863#m",
       "date": "2026-03-25T16:54:41+00:00"
-    },
-    {
-      "id": "b2bed9237896",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 167.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 167, dirección Acayucan. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 167, dirección Acayucan. El incid",
-      "link": "https://nitter.net/CAPUFE/status/2036847894368538626#m",
-      "date": "2026-03-25T16:49:15+00:00"
-    },
-    {
-      "id": "b65a28c41caf",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaució",
-      "link": "https://nitter.net/CAPUFE/status/2036841828930965760#m",
-      "date": "2026-03-25T16:25:09+00:00"
     },
     {
       "id": "1461e31a705e",
