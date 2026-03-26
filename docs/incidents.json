@@ -1,7 +1,77 @@
 {
-  "updated": "2026-03-26T05:08:38.610107+00:00",
+  "updated": "2026-03-26T06:45:15.432441+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "4181710b11a3",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 171.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 171+020, de la carretera Quiroga-Tepalcatepec. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del",
+      "link": "https://nitter.net/GN_Carreteras/status/2037058197811327335#m",
+      "date": "2026-03-26T06:44:55+00:00"
+    },
+    {
+      "id": "91b9d15cebae",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 205.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Carbonera - Puerto México, km 205, dirección Puerto México. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Carbonera - Puerto México, km 2",
+      "link": "https://nitter.net/CAPUFE/status/2037045766280143216#m",
+      "date": "2026-03-26T05:55:31+00:00"
+    },
+    {
+      "id": "bcf08939687e",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 30.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 030+700, de la carretera Tuxtla Gutiérrez-Ciudad Cuauhtémoc. Atienda indicación vial. #TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial",
+      "link": "https://nitter.net/GN_Carreteras/status/2037044438141149542#m",
+      "date": "2026-03-26T05:50:15+00:00"
+    },
+    {
+      "id": "66b1db49f56b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 159.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 159+400, de la carretera Saltillo-Torreón. Atienda indicación vial. #TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 15",
+      "link": "https://nitter.net/GN_Carreteras/status/2037040385625604523#m",
+      "date": "2026-03-26T05:34:08+00:00"
+    },
+    {
+      "id": "a918906a31b0",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 72.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 072+800, de la carretera San Hipólito-Xalapa. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 072",
+      "link": "https://nitter.net/GN_Carreteras/status/2037034429705498777#m",
+      "date": "2026-03-26T05:10:28+00:00"
+    },
     {
       "id": "3bd743bec6dc",
       "account": "@GN_carreteras",
@@ -283,20 +353,6 @@
       "date": "2026-03-26T00:26:18+00:00"
     },
     {
-      "id": "58c50aa2ff2e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 100.0,
-      "lat": 18.182718,
-      "lon": -99.538082,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 100, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 100, dirección Cuer",
-      "link": "https://nitter.net/CAPUFE/status/2036960583312945311#m",
-      "date": "2026-03-26T00:17:02+00:00"
-    },
-    {
       "id": "524483cf1a6c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -421,62 +477,6 @@
       "text": "#TomePrecauciones en #Monterrey se registra cierre total de circulación en dirección a Cadereyta, N.L. por #AccidenteVial cerca del km 061+700, de la carretera Saltillo-Monterrey. Ruta alterna en la carretera Monterrey–Reynosa. Atienda indicación vial. #TomePrecauciones en #Monte",
       "link": "https://nitter.net/GN_Carreteras/status/2036889466904674471#m",
       "date": "2026-03-25T19:34:27+00:00"
-    },
-    {
-      "id": "9b303ddb0c2b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Veracruz",
-      "route_key": "puebla-veracruz",
-      "km": 209.0,
-      "lat": 19.173,
-      "lon": -96.134,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Yucatán se registra cierre parcial de circulación por #AccidenteVial cerca del km 209+150, de la carretera Mérida-Puerto Juárez. Atienda indicación vial. #TomePrecauciones en #Yucatán se registra cierre parcial de circulación por #AccidenteVial cerca del km ",
-      "link": "https://nitter.net/GN_Carreteras/status/2036885560074395799#m",
-      "date": "2026-03-25T19:18:55+00:00"
-    },
-    {
-      "id": "cb9214fd83f5",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 254.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomesusPrecauciones en #Veracruz se registra cierre total de circulación por presencia de personas cerca del km 254+000, de la carretera Ramal Orizaba-Zongolica. Sin ruta alterna. Atienda indicación vial. #TomesusPrecauciones en #Veracruz se registra cierre total de circulación ",
-      "link": "https://nitter.net/GN_Carreteras/status/2036884288990568624#m",
-      "date": "2026-03-25T19:13:52+00:00"
-    },
-    {
-      "id": "edba9ea2e4d0",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 307.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 307+273, de la carretera Maravatio-Zapotlanejo. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca de",
-      "link": "https://nitter.net/GN_Carreteras/status/2036883283175219622#m",
-      "date": "2026-03-25T19:09:52+00:00"
-    },
-    {
-      "id": "a09f64505da5",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #EdoMéx tras presencia de personas cerca del km 000+000, de la carretera Santa Barbara-Amecameca. Maneje con precaución. #VíaLibre en #EdoMéx tras presencia de personas cerca del km 000+000, de la carretera Santa Barbara-Amecameca. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2036881853336924621#m",
-      "date": "2026-03-25T19:04:11+00:00"
     }
   ]
 }
