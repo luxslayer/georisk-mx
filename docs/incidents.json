@@ -1,7 +1,105 @@
 {
-  "updated": "2026-03-26T22:32:49.622107+00:00",
-  "count": 32,
+  "updated": "2026-03-26T23:34:56.352729+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "5fe5d62dcaec",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 66.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoCuernavaca, km 66, dirección Cuernavaca. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoCuernavaca , km 66, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2037312310897684586#m",
+      "date": "2026-03-26T23:34:41+00:00"
+    },
+    {
+      "id": "9977fb1f74f7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 144.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 144, dirección Puebla. Reducción de carriles por atención de choque por alcance múltiple entre tracto camión tipo pipa que transporta material peligroso, autobús y camioneta. Maneja con precaución. Consulta la ubi",
+      "link": "https://nitter.net/CAPUFE/status/2037307863148748974#m",
+      "date": "2026-03-26T23:17:00+00:00"
+    },
+    {
+      "id": "1f0c18e8000c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 111.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Aguascalientes tras #AccidenteVial cerca del km 111+000, de la carretera León - Aguascalientes. Maneje con precaución. #VíaLibre en #Aguascalientes tras #AccidenteVial cerca del km 111+000, de la carretera León - Aguascalientes. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2037305778034327573#m",
+      "date": "2026-03-26T23:08:43+00:00"
+    },
+    {
+      "id": "5d5f84a040eb",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 6.0,
+      "lat": 18.302,
+      "lon": -94.9945,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 6, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 6, dirección Isla. El incidente ha si",
+      "link": "https://nitter.net/CAPUFE/status/2037303782443225126#m",
+      "date": "2026-03-26T23:00:47+00:00"
+    },
+    {
+      "id": "b7c35b09b2eb",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 17. Continúa circulación intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARC",
+      "link": "https://nitter.net/CAPUFE/status/2037302432191975652#m",
+      "date": "2026-03-26T22:55:25+00:00"
+    },
+    {
+      "id": "92efefac0334",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 6.0,
+      "lat": 18.302,
+      "lon": -94.9945,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 6, dirección Isla. Continúa reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 6, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2037302368224583808#m",
+      "date": "2026-03-26T22:55:10+00:00"
+    },
+    {
+      "id": "0ba72943af3d",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 227.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "En #Chiapas continúa cierre parcial de circulación por #Caravana cerca del km 227+000, de la carretera Tapanatepec-Talismán con Ramales, disminuya su velocidad. GN_Carreteras monitorea y abandera el avance del contingente. En #Chiapas continúa cierre parcial de circulación por #C",
+      "link": "https://nitter.net/GN_Carreteras/status/2037297896224100406#m",
+      "date": "2026-03-26T22:37:24+00:00"
+    },
     {
       "id": "524a600bcf28",
       "account": "@capufe",
@@ -171,34 +269,6 @@
       "date": "2026-03-26T20:49:47+00:00"
     },
     {
-      "id": "0db54a489f14",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Barranca Larga - Ventanilla, km 48. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Barranca Larga - Ventanilla, km 48. El accidente ha si",
-      "link": "https://nitter.net/CAPUFE/status/2037266808139391447#m",
-      "date": "2026-03-26T20:33:52+00:00"
-    },
-    {
-      "id": "60c52cb6467c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 190.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 190, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camioneta). Circulación lenta en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo -",
-      "link": "https://nitter.net/CAPUFE/status/2037262770215747664#m",
-      "date": "2026-03-26T20:17:49+00:00"
-    },
-    {
       "id": "1e6f27c8a388",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -211,20 +281,6 @@
       "text": "#VíaLibre en #CDMX tras #AccidenteVial cerca del km 035+500, de la carretera México-Cuernavaca. Maneje con precaución. #VíaLibre en #CDMX tras #AccidenteVial cerca del km 035+500, de la carretera México-Cuernavaca. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2037259798442328416#m",
       "date": "2026-03-26T20:06:01+00:00"
-    },
-    {
-      "id": "3c8b9a494474",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 17. Continúa circulación intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARC",
-      "link": "https://nitter.net/CAPUFE/status/2037259553360736264#m",
-      "date": "2026-03-26T20:05:02+00:00"
     },
     {
       "id": "37cabec810f8",
@@ -253,20 +309,6 @@
       "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 002+500, de la carretera Matamoros - Reynosa. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca de",
       "link": "https://nitter.net/GN_Carreteras/status/2037257892600975471#m",
       "date": "2026-03-26T19:58:26+00:00"
-    },
-    {
-      "id": "93bced874810",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 194.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 #AutMéxicoQuerétaro , del km 194 a",
-      "link": "https://nitter.net/CAPUFE/status/2037257640128999775#m",
-      "date": "2026-03-26T19:57:26+00:00"
     },
     {
       "id": "4fb635bda4d6",
@@ -421,34 +463,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 040+500, de la carretera Ent. La Tinaja- Santa Cruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca",
       "link": "https://nitter.net/GN_Carreteras/status/2037224514765881374#m",
       "date": "2026-03-26T17:45:48+00:00"
-    },
-    {
-      "id": "91bb01d44c21",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 145.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del km 145+000, de la carretera Oaxaca - Tehuantepec. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del km 14",
-      "link": "https://nitter.net/GN_Carreteras/status/2037223779798057101#m",
-      "date": "2026-03-26T17:42:53+00:00"
-    },
-    {
-      "id": "d0145eba0874",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "Toluca–Palmillas",
-      "route_key": "toluca-palmillas",
-      "km": 62.0,
-      "lat": 20.078,
-      "lon": -100.031,
-      "resolved": true,
-      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por presencia de personas cerca del km 062+100, de la carretera Toluca-Palmillas, mismas que avanzan con dirección a Toluca, Edo. Méx. Atienda indicación vial. #TomePrecauciones en #EdoMéx se registra cierre p",
-      "link": "https://nitter.net/GN_Carreteras/status/2037221247373779312#m",
-      "date": "2026-03-26T17:32:49+00:00"
     }
   ]
 }
