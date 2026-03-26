@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-26T14:48:43.709494+00:00",
-  "count": 35,
+  "updated": "2026-03-26T16:12:48.091573+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "4902089dcd84",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Lib. Sur Qro.",
+      "route_key": "libramiento-queretaro",
+      "km": 14.0,
+      "lat": 20.503,
+      "lon": -100.338,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 014+200, de la carretera Ent. Tula - Cd. Victoria. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cer",
+      "link": "https://nitter.net/GN_Carreteras/status/2037197087004090774#m",
+      "date": "2026-03-26T15:56:49+00:00"
+    },
+    {
+      "id": "f325bc0f2b02",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 111.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #SanLuisPotosí tras #AccidenteVial cerca del km 111+900, de la carretera San Luis Potosí-Matehuala. Maneje con precación. #VíaLibre en #SanLuisPotosí tras #AccidenteVial cerca del km 111+900, de la carretera San Luis Potosí-Matehuala. Maneje con precación.",
+      "link": "https://nitter.net/GN_Carreteras/status/2037190481314971967#m",
+      "date": "2026-03-26T15:30:34+00:00"
+    },
+    {
+      "id": "d9c3478d60d3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 109.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 109, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 109, dirección Querétaro. El accidente ha s",
+      "link": "https://nitter.net/CAPUFE/status/2037190306043486653#m",
+      "date": "2026-03-26T15:29:52+00:00"
+    },
     {
       "id": "47446d60de10",
       "account": "@GN_carreteras",
@@ -311,34 +353,6 @@
       "date": "2026-03-26T11:18:23+00:00"
     },
     {
-      "id": "8df26ee48ac9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 45.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Amecameca - Nepantla, km 45, dirección Amecameca. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIR",
-      "link": "https://nitter.net/CAPUFE/status/2037120690378150392#m",
-      "date": "2026-03-26T10:53:15+00:00"
-    },
-    {
-      "id": "648e6eac51c2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 13, dirección Irapuato. Continúa cierre a la circulación por atención de accidente (choque contra muro central). Dirección Querétaro, registra reducción de carriles. Toma tus precauciones. Para más información llama al ",
-      "link": "https://nitter.net/CAPUFE/status/2037114807124480140#m",
-      "date": "2026-03-26T10:29:52+00:00"
-    },
-    {
       "id": "4181710b11a3",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -463,34 +477,6 @@
       "text": "#TomePrecauciones en #Hidalgo se registra cierre de circulación en dos carriles con dirección a Tula de Allende, Hgo. #AccidenteVial cerca del km 067+500, de la carretera Libramiento Norte de la Ciudad de México Arco Norte. Atienda indicación vial. #TomePrecauciones en #Hidalgo s",
       "link": "https://nitter.net/GN_Carreteras/status/2036967074678083723#m",
       "date": "2026-03-26T00:42:50+00:00"
-    },
-    {
-      "id": "524483cf1a6c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 69.0,
-      "lat": 19.128175,
-      "lon": -98.413175,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 069+700, de la carretera México-Puebla Directo. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 0",
-      "link": "https://nitter.net/GN_Carreteras/status/2036941811017527637#m",
-      "date": "2026-03-25T23:02:26+00:00"
-    },
-    {
-      "id": "36705919bf3b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 316.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #QuintanaRoo se registra cierre parcial de circulación por #AccidenteVial cerca del km 316+200, de la carretera Reforma Agraria-Puerto Juárez. Atienda indicación vial. #TomePrecauciones en #QuintanaRoo se registra cierre parcial de circulación por #AccidenteV",
-      "link": "https://nitter.net/GN_Carreteras/status/2036937605606965456#m",
-      "date": "2026-03-25T22:45:44+00:00"
     }
   ]
 }
