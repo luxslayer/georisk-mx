@@ -1,7 +1,63 @@
 {
-  "updated": "2026-03-27T16:58:48.313510+00:00",
+  "updated": "2026-03-27T17:55:47.294545+00:00",
   "count": 31,
   "incidents": [
+    {
+      "id": "6977cf6527de",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 272.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación cerca del km 272+000 de la carretera Guadalajara - Zacatecas. Atienda indicación vial. #TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación cerca del km 272+000 de la carretera Gu",
+      "link": "https://nitter.net/GN_Carreteras/status/2037587507664035923#m",
+      "date": "2026-03-27T17:48:13+00:00"
+    },
+    {
+      "id": "8994cdc64d4b",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 32.0,
+      "lat": 19.243333,
+      "lon": -98.704,
+      "resolved": true,
+      "text": "#ViaLibre en #EdoMéx tras presencia de personas cerca del km 032+000 de la Autopista México - Puebla a la altura de la Plaza de cobro No. 71. Maneje con precaución. #ViaLibre en #EdoMéx tras presencia de personas cerca del km 032+000 de la Autopista México - Puebla a la altura de",
+      "link": "https://nitter.net/GN_Carreteras/status/2037580651004658160#m",
+      "date": "2026-03-27T17:20:58+00:00"
+    },
+    {
+      "id": "3ae4cc97e189",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 234.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 234, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (camioneta siniestrada). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista ",
+      "link": "https://nitter.net/CAPUFE/status/2037579694527111415#m",
+      "date": "2026-03-27T17:17:10+00:00"
+    },
+    {
+      "id": "75932f954a20",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 14.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #EdoMéx tras presencia de personas cerca del km 014+480 de la carretera Peñón - Texcoco a la altura de la caseta de cobro Texcoco. Maneje con precaución. #ViaLibre en #EdoMéx tras presencia de personas cerca del km 014+480 de la carretera Peñón - Texcoco a la altura ",
+      "link": "https://nitter.net/GN_Carreteras/status/2037576404330508403#m",
+      "date": "2026-03-27T17:04:05+00:00"
+    },
     {
       "id": "ca7cc75407f3",
       "account": "@capufe",
@@ -227,20 +283,6 @@
       "date": "2026-03-27T14:26:51+00:00"
     },
     {
-      "id": "e7613b071fa5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 151.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 151, dirección Acatzingo. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL ",
-      "link": "https://nitter.net/CAPUFE/status/2037536099782860881#m",
-      "date": "2026-03-27T14:23:56+00:00"
-    },
-    {
       "id": "6dc32fdb66cc",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -393,48 +435,6 @@
       "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 058+800, de la carretera Querétaro - San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial ",
       "link": "https://nitter.net/GN_Carreteras/status/2037341626733903893#m",
       "date": "2026-03-27T01:31:10+00:00"
-    },
-    {
-      "id": "6d153be4c052",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #CDMX se registra cierre parcial de circulación por #AccidenteVial cerca del km 024+300, de la carretera México (Ent. Constituyentes) - La Marquesa. Atienda indicación vial. #TomePrecauciones en #CDMX se registra cierre parcial de circulación por #AccidenteVi",
-      "link": "https://nitter.net/GN_Carreteras/status/2037341157995217306#m",
-      "date": "2026-03-27T01:29:18+00:00"
-    },
-    {
-      "id": "8f676f595183",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Córdoba",
-      "route_key": "puebla-cordoba",
-      "km": 144.0,
-      "lat": 18.8864,
-      "lon": -96.9538,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 144+200, de la carretera Puebla-Córdoba. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 144+200,",
-      "link": "https://nitter.net/GN_Carreteras/status/2037324571179630611#m",
-      "date": "2026-03-27T00:23:24+00:00"
-    },
-    {
-      "id": "1f0c18e8000c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 111.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Aguascalientes tras #AccidenteVial cerca del km 111+000, de la carretera León - Aguascalientes. Maneje con precaución. #VíaLibre en #Aguascalientes tras #AccidenteVial cerca del km 111+000, de la carretera León - Aguascalientes. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2037305778034327573#m",
-      "date": "2026-03-26T23:08:43+00:00"
     }
   ]
 }
