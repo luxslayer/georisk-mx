@@ -1,7 +1,63 @@
 {
-  "updated": "2026-03-27T15:55:42.415415+00:00",
-  "count": 32,
+  "updated": "2026-03-27T16:58:48.313510+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "ca7cc75407f3",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 32.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla, km 32. Se informa a las personas usuarias que se retiran los manifestantes. Por lo que se restablece la circulación en la Plaza de Cobro Chalco. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 SE RETIRAN MA",
+      "link": "https://nitter.net/CAPUFE/status/2037570240041672712#m",
+      "date": "2026-03-27T16:39:36+00:00"
+    },
+    {
+      "id": "5550b632569b",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 32.0,
+      "lat": 19.243333,
+      "lon": -98.704,
+      "resolved": true,
+      "text": "#TomePrecauciones en #EdoMéx se registra presencia de personas cerca del km 032+000 de la Autopista México - Puebla a la altura de la Plaza de cobro No. 71 Maneje con precaución. #TomePrecauciones en #EdoMéx se registra presencia de personas cerca del km 032+000 de la Autopista M",
+      "link": "https://nitter.net/GN_Carreteras/status/2037566531580698951#m",
+      "date": "2026-03-27T16:24:51+00:00"
+    },
+    {
+      "id": "8d010d0618c2",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 14.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por presencia de personas cerca del km 014+480 de la carretera Peñón - Texcoco a la altura de la caseta de cobro Texcoco. Maneje con precaución. #TomePrecauciones en #EdoMéx se registra cierre parcial de circu",
+      "link": "https://nitter.net/GN_Carreteras/status/2037561978621677717#m",
+      "date": "2026-03-27T16:06:46+00:00"
+    },
+    {
+      "id": "74250eb8ef24",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 145.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #SanLuisPotosí tras #AccidenteVial cerca del km 145+750, de la carretera Querétaro - San Luis Potosí. Maneje con precaución. #ViaLibre en #SanLuisPotosí tras #AccidenteVial cerca del km 145+750, de la carretera Querétaro - San Luis Potosí. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2037560331187220842#m",
+      "date": "2026-03-27T16:00:13+00:00"
+    },
     {
       "id": "7b124e490e09",
       "account": "@capufe",
@@ -85,20 +141,6 @@
       "text": "🟠 CARGA VEHICULAR 🟠 Autopista Chamapa - Lechería, km 13, dirección Chamapa. Registra carga vehicular a la altura de la Plaza de Cobro Madín, sin reporte de incidente. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Chamapa - Lechería, km 13, dirección Chamapa. Registra carga",
       "link": "https://nitter.net/CAPUFE/status/2037549044055089491#m",
       "date": "2026-03-27T15:15:22+00:00"
-    },
-    {
-      "id": "00f5d9515afb",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 32.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 32. Continúa presencia de manifestantes. Sin embargo, se restablece la circulación con reducción de carriles en la gaza de salida hacia Chalco. Dirección Puebla, opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ ☑️ ACTUALIZA",
-      "link": "https://nitter.net/CAPUFE/status/2037547085130543575#m",
-      "date": "2026-03-27T15:07:35+00:00"
     },
     {
       "id": "4fe65cbc3558",
@@ -197,20 +239,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 151, dirección Acatzingo. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL ",
       "link": "https://nitter.net/CAPUFE/status/2037536099782860881#m",
       "date": "2026-03-27T14:23:56+00:00"
-    },
-    {
-      "id": "32a2d924ff8d",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 96.0,
-      "lat": 18.253631,
-      "lon": -99.522849,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Aut. Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 96 al 98, sin reporte de incidente. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Aut. Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 96 al 98, sin rep",
-      "link": "https://nitter.net/CAPUFE/status/2037535764485984428#m",
-      "date": "2026-03-27T14:22:36+00:00"
     },
     {
       "id": "6dc32fdb66cc",
@@ -407,48 +435,6 @@
       "text": "#VíaLibre en #Aguascalientes tras #AccidenteVial cerca del km 111+000, de la carretera León - Aguascalientes. Maneje con precaución. #VíaLibre en #Aguascalientes tras #AccidenteVial cerca del km 111+000, de la carretera León - Aguascalientes. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2037305778034327573#m",
       "date": "2026-03-26T23:08:43+00:00"
-    },
-    {
-      "id": "0ba72943af3d",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 227.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "En #Chiapas continúa cierre parcial de circulación por #Caravana cerca del km 227+000, de la carretera Tapanatepec-Talismán con Ramales, disminuya su velocidad. GN_Carreteras monitorea y abandera el avance del contingente. En #Chiapas continúa cierre parcial de circulación por #C",
-      "link": "https://nitter.net/GN_Carreteras/status/2037297896224100406#m",
-      "date": "2026-03-26T22:37:24+00:00"
-    },
-    {
-      "id": "a25f18924092",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 22.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 022+200, de la carretera Zihuatanejo - La Mira. Atienda indicación vial. #TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del ",
-      "link": "https://nitter.net/GN_Carreteras/status/2037279357916344584#m",
-      "date": "2026-03-26T21:23:44+00:00"
-    },
-    {
-      "id": "73916113647f",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 34.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 034+800, de la carretera León- Aguascalientes. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km ",
-      "link": "https://nitter.net/GN_Carreteras/status/2037279020656587060#m",
-      "date": "2026-03-26T21:22:23+00:00"
     }
   ]
 }
