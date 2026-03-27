@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-27T19:58:56.229727+00:00",
-  "count": 31,
+  "updated": "2026-03-27T20:51:24.418631+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "4cb323cc6e10",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 90.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠CARGA VEHICULAR🟠 #AutMéxicoQuerétaro, km 90, dirección CDMX. Carga vehicular a la altura de la gasa de incorporación a la Autopista Arco Norte, por incidente fuera de la cobertura de CAPUFE. Para más información llama al 8003272666 de @arconorte. Maneja con precaución. 🟠CARGA VE",
+      "link": "https://nitter.net/CAPUFE/status/2037629325512503619#m",
+      "date": "2026-03-27T20:34:23+00:00"
+    },
+    {
+      "id": "728ec501eb5a",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 105.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación cerca del km 105+800 de la carretera Uruapan - Lázaro Cárdenas. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre parcial de la circulación cerca del km 105+800 de la carretera ",
+      "link": "https://nitter.net/GN_Carreteras/status/2037621163778519376#m",
+      "date": "2026-03-27T20:01:57+00:00"
+    },
+    {
+      "id": "e18e072935c4",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 78.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 78. Carga vehicular en dirección Cuernavaca, por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 78. Carga vehicular en dirección Cuernavaca, por periodo vacacional. Maneja con precaución.",
+      "link": "https://nitter.net/CAPUFE/status/2037620893220766100#m",
+      "date": "2026-03-27T20:00:52+00:00"
+    },
     {
       "id": "79dec1f77d68",
       "account": "@capufe",
@@ -283,20 +325,6 @@
       "date": "2026-03-27T16:00:13+00:00"
     },
     {
-      "id": "7b124e490e09",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 151.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 151, dirección Acatzingo. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 151, dirección ",
-      "link": "https://nitter.net/CAPUFE/status/2037557696040259935#m",
-      "date": "2026-03-27T15:49:45+00:00"
-    },
-    {
       "id": "4fe65cbc3558",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -421,20 +449,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 092+200, de la carretera Xalapa - Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 0",
       "link": "https://nitter.net/GN_Carreteras/status/2037399112518099026#m",
       "date": "2026-03-27T05:19:36+00:00"
-    },
-    {
-      "id": "df2806c07307",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 11.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 011+500, de la carretera Xalapa - Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 0",
-      "link": "https://nitter.net/GN_Carreteras/status/2037391225381146859#m",
-      "date": "2026-03-27T04:48:15+00:00"
     }
   ]
 }
