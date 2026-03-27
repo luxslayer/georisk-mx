@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-27T08:00:09.751676+00:00",
+  "updated": "2026-03-27T09:04:28.552753+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "e662936f403a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 35.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Noreste de Querétaro (Chichimequillas), km 35, dirección San Luis Potosí. El accidente fuera de la jurisdicción a cargo de CAPUFE ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CI",
+      "link": "https://nitter.net/CAPUFE/status/2037453454499553720#m",
+      "date": "2026-03-27T08:55:32+00:00"
+    },
     {
       "id": "b41fdad4cf8c",
       "account": "@capufe",
@@ -295,20 +309,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 20, dirección Puebla. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 20, dirección Puebla. Reducción de carriles por atenc",
       "link": "https://nitter.net/CAPUFE/status/2037385078922162407#m",
       "date": "2026-03-27T04:23:50+00:00"
-    },
-    {
-      "id": "18f6dbaf8a00",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 94.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 94, dirección Acapulco. Cierre a la circulación en el Distribuidor vial Palmira por labores de mantenimiento. Circulación por carriles laterales. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE P",
-      "link": "https://nitter.net/CAPUFE/status/2037371764704006388#m",
-      "date": "2026-03-27T03:30:55+00:00"
     },
     {
       "id": "37e85f7cc75f",
