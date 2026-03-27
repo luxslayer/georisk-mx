@@ -1,7 +1,91 @@
 {
-  "updated": "2026-03-27T17:55:47.294545+00:00",
-  "count": 31,
+  "updated": "2026-03-27T19:00:25.048923+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "741c618740bc",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 233.0,
+      "lat": 18.884,
+      "lon": -96.923,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 233+700, de la autopista Puebla - Cordoba. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 23",
+      "link": "https://nitter.net/GN_Carreteras/status/2037604004755050691#m",
+      "date": "2026-03-27T18:53:46+00:00"
+    },
+    {
+      "id": "f0d8556887b8",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 22.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla, km 22, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla , km 22, dirección CDMX. Reducción de carriles por labores de mante",
+      "link": "https://nitter.net/CAPUFE/status/2037599400499798527#m",
+      "date": "2026-03-27T18:35:28+00:00"
+    },
+    {
+      "id": "eca07af7ea11",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 234.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 234, dirección Cd. Mendoza. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 234, dirección Cd. Mendoza. El accidente h",
+      "link": "https://nitter.net/CAPUFE/status/2037594135826162117#m",
+      "date": "2026-03-27T18:14:33+00:00"
+    },
+    {
+      "id": "5a02f7ef462e",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 43.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla, km 43, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla , km 43, dirección Puebla. Reducción de carriles por labores de m",
+      "link": "https://nitter.net/CAPUFE/status/2037592552870711797#m",
+      "date": "2026-03-27T18:08:15+00:00"
+    },
+    {
+      "id": "b869285e552e",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 278.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 278, dirección Cd. Mendoza. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Tránsito lento en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. ",
+      "link": "https://nitter.net/CAPUFE/status/2037591581125955938#m",
+      "date": "2026-03-27T18:04:24+00:00"
+    },
+    {
+      "id": "e70c60f4d161",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "Méx–Cuernavaca",
+      "route_key": "mexico-cuernavaca",
+      "km": 23.0,
+      "lat": 19.074245,
+      "lon": -99.177475,
+      "resolved": true,
+      "text": "#ViaLibre en #CdMéx tras presencia de personas cerca del km 023+200, de la carretera México - Cuernavaca. Maneje con precaución. #ViaLibre en #CdMéx tras presencia de personas cerca del km 023+200, de la carretera México - Cuernavaca. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2037589975835820528#m",
+      "date": "2026-03-27T17:58:01+00:00"
+    },
     {
       "id": "6977cf6527de",
       "account": "@GN_carreteras",
@@ -213,20 +297,6 @@
       "date": "2026-03-27T15:05:46+00:00"
     },
     {
-      "id": "c29d5e22c64d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 151.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, km 151, dirección Acatzingo. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, km 151, dirección Acatzingo. El accidente ha sido atendid",
-      "link": "https://nitter.net/CAPUFE/status/2037544899613011997#m",
-      "date": "2026-03-27T14:58:54+00:00"
-    },
-    {
       "id": "2e59b8a63a9b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -241,20 +311,6 @@
       "date": "2026-03-27T14:55:54+00:00"
     },
     {
-      "id": "51d05552e8fa",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Nu",
-      "link": "https://nitter.net/CAPUFE/status/2037541531700085174#m",
-      "date": "2026-03-27T14:45:31+00:00"
-    },
-    {
       "id": "ad073d12fbf9",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,20 +323,6 @@
       "text": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación por #AccidenteVial cerca del km 145+750, de la carretera Querétaro - San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación por #Accident",
       "link": "https://nitter.net/GN_Carreteras/status/2037538865829781987#m",
       "date": "2026-03-27T14:34:55+00:00"
-    },
-    {
-      "id": "c304446b569e",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 32.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 32, dirección Puebla. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/1Wvwvk4Bgun9EKsw6 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla , km 32, dirección ",
-      "link": "https://nitter.net/CAPUFE/status/2037536835908317376#m",
-      "date": "2026-03-27T14:26:51+00:00"
     },
     {
       "id": "6dc32fdb66cc",
@@ -407,34 +449,6 @@
       "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 146+800, de la carretera Lagos - Guadalajara. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 1",
       "link": "https://nitter.net/GN_Carreteras/status/2037367665929396553#m",
       "date": "2026-03-27T03:14:38+00:00"
-    },
-    {
-      "id": "7f6bcaef20c5",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 227.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Chiapas tras #Caravana cerca del km 227+000, de la carretera Tapanatepec-Talismán con Ramales. Maneje con precaución. #VíaLibre en #Chiapas tras #Caravana cerca del km 227+000, de la carretera Tapanatepec-Talismán con Ramales. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2037343855469568264#m",
-      "date": "2026-03-27T01:40:01+00:00"
-    },
-    {
-      "id": "a8769a3ac61e",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 58.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 058+800, de la carretera Querétaro - San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial ",
-      "link": "https://nitter.net/GN_Carreteras/status/2037341626733903893#m",
-      "date": "2026-03-27T01:31:10+00:00"
     }
   ]
 }
