@@ -1,7 +1,91 @@
 {
-  "updated": "2026-03-28T19:31:29.405892+00:00",
-  "count": 33,
+  "updated": "2026-03-28T20:34:11.701133+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "37e19f1c155e",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "Méx–Acapulco",
+      "route_key": "mexico-acapulco",
+      "km": 95.0,
+      "lat": 18.584,
+      "lon": -99.234,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Libramiento Cuernavaca, km 95, dirección Acapulco. Registra carga vehicular, por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Libramiento Cuernavaca, km 95, dirección Acapulco. Registra carga vehicular, por periodo vacacional. Maneja con prec",
+      "link": "https://nitter.net/CAPUFE/status/2037990390427496774#m",
+      "date": "2026-03-28T20:29:07+00:00"
+    },
+    {
+      "id": "7ef228cf4b9d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Gdl–Tepic",
+      "route_key": "guadalajara-tepic",
+      "km": 30.0,
+      "lat": 20.79188,
+      "lon": -103.61984,
+      "resolved": true,
+      "text": "#ViaLibre en #Veracruz tras #Accidentevial cerca del km 030+950 de la carretera Coatzacoalcos-Villahermosa. Maneje con precaución. #ViaLibre en #Veracruz tras #Accidentevial cerca del km 030+950 de la carretera Coatzacoalcos-Villahermosa. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2037989827585401220#m",
+      "date": "2026-03-28T20:26:53+00:00"
+    },
+    {
+      "id": "0c7c755cb159",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 91.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Libramiento Cuernavaca, km 91, dirección Acapulco. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Libramiento Cuernavaca, km 91, dirección Acapulco. El accidente ha sido atendido. En la zona se",
+      "link": "https://nitter.net/CAPUFE/status/2037987680974233884#m",
+      "date": "2026-03-28T20:18:21+00:00"
+    },
+    {
+      "id": "09981090de25",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 266.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 266, dirección Córdoba. Reducción de carriles por atención de accidente (choque por alcance múltiple). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista ",
+      "link": "https://nitter.net/CAPUFE/status/2037985318012330184#m",
+      "date": "2026-03-28T20:08:58+00:00"
+    },
+    {
+      "id": "d7b140d6bfed",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 91.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 91, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance múltiple). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernav",
+      "link": "https://nitter.net/CAPUFE/status/2037981515515060313#m",
+      "date": "2026-03-28T19:53:51+00:00"
+    },
+    {
+      "id": "c3ba57990d39",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 219.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 219+900, de la carretera Cuacnopalan-Oaxaca. Maneje con precaución. #VíaLibre en #Oaxaca tras presencia de personas cerca del km 219+900, de la carretera Cuacnopalan-Oaxaca. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2037980969529995452#m",
+      "date": "2026-03-28T19:51:41+00:00"
+    },
     {
       "id": "2191ebc1655c",
       "account": "@capufe",
@@ -143,34 +227,6 @@
       "date": "2026-03-28T17:31:37+00:00"
     },
     {
-      "id": "cdcf255076fd",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 232.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Carbonera - Puerto México, km 232",
-      "link": "https://nitter.net/CAPUFE/status/2037944200176550344#m",
-      "date": "2026-03-28T17:25:35+00:00"
-    },
-    {
-      "id": "26aab77f40e7",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Se restablece la circulación con reducción de carriles, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja co",
-      "link": "https://nitter.net/CAPUFE/status/2037941101831569852#m",
-      "date": "2026-03-28T17:13:16+00:00"
-    },
-    {
       "id": "3cd96e8acf1c",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -183,34 +239,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial a la circulación por presencia de personas cerca del km 028+300 de la carretera Teziutlan-Perote, se proporciona vialidad por lapsos de tiempo indefinido. Maneje con precaución. #TomePrecauciones en #Veracruz se registra c",
       "link": "https://nitter.net/GN_Carreteras/status/2037939530980868428#m",
       "date": "2026-03-28T17:07:01+00:00"
-    },
-    {
-      "id": "24c20e2b2ce2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 24, dirección CDMX. Registra reducción de carriles por atención de accidente (salida de neumático). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 24, dirección CDMX. Registra reducción",
-      "link": "https://nitter.net/CAPUFE/status/2037937589143871602#m",
-      "date": "2026-03-28T16:59:18+00:00"
-    },
-    {
-      "id": "a610601b8429",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 151.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 151, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 151, dirección Puebla. El acc",
-      "link": "https://nitter.net/CAPUFE/status/2037937335635996947#m",
-      "date": "2026-03-28T16:58:18+00:00"
     },
     {
       "id": "f11dab98364c",
@@ -253,20 +281,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por maniobras tras #Accidentevial cerca del km 030+950 de la carretera Coatzacoalcos-Villahermosa. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por ",
       "link": "https://nitter.net/GN_Carreteras/status/2037932602930135167#m",
       "date": "2026-03-28T16:39:30+00:00"
-    },
-    {
-      "id": "0d67eb682934",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 5.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Ent. San José - Ent. Corral de Piedra, km 5. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Ent. San José - Ent. Corral de Piedra, km 5. El acciden",
-      "link": "https://nitter.net/CAPUFE/status/2037930618571342322#m",
-      "date": "2026-03-28T16:31:37+00:00"
     },
     {
       "id": "8911b7320642",
@@ -435,34 +449,6 @@
       "text": "#ViaLibre en #Veracruz tras #Accidentevial cerca del km 036+600 de la carretera Fortín - Conejos. Maneje con precaución. #ViaLibre en #Veracruz tras #Accidentevial cerca del km 036+600 de la carretera Fortín - Conejos. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2037780453562736931#m",
       "date": "2026-03-28T06:34:54+00:00"
-    },
-    {
-      "id": "fa29f48e6858",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 31.0,
-      "lat": 18.227,
-      "lon": -94.88825,
-      "resolved": true,
-      "text": "#ViaLibre en #Veracruz tras #Accidentevial cerca del km 031+500 de la carretera Tinaja - Cosoleacaque. Maneje con precaución. #ViaLibre en #Veracruz tras #Accidentevial cerca del km 031+500 de la carretera Tinaja - Cosoleacaque. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2037770439192170855#m",
-      "date": "2026-03-28T05:55:07+00:00"
-    },
-    {
-      "id": "4486fafedd04",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 141.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Veracruz tras #AccidenteVial cerca del km 141+200, de la carretera Perote - Banderilla. Maneje con precaución. #ViaLibre en #Veracruz tras #AccidenteVial cerca del km 141+200, de la carretera Perote - Banderilla. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2037758533261775135#m",
-      "date": "2026-03-28T05:07:48+00:00"
     }
   ]
 }
