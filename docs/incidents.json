@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-28T08:00:36.260593+00:00",
-  "count": 35,
+  "updated": "2026-03-28T09:04:58.822121+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "ecac7ef22464",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 232.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Registra cierre a la circulación por atención de accidente (maniobras para retiro de la unidad siniestrada). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros",
+      "link": "https://nitter.net/CAPUFE/status/2037809155256291341#m",
+      "date": "2026-03-28T08:28:57+00:00"
+    },
+    {
+      "id": "9e0c0ebc7511",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Acapulco",
+      "route_key": "mexico-acapulco",
+      "km": 95.0,
+      "lat": 18.584,
+      "lon": -99.234,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 95, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 95, dirección CDMX. El accidente ha sido atendid",
+      "link": "https://nitter.net/CAPUFE/status/2037802539526017391#m",
+      "date": "2026-03-28T08:02:40+00:00"
+    },
     {
       "id": "af0065af78ea",
       "account": "@capufe",
@@ -297,20 +325,6 @@
       "date": "2026-03-28T02:56:05+00:00"
     },
     {
-      "id": "6829583335a4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 246.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 246, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 246, dirección A",
-      "link": "https://nitter.net/CAPUFE/status/2037724904032768121#m",
-      "date": "2026-03-28T02:54:10+00:00"
-    },
-    {
       "id": "7363fb8ead3b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -351,48 +365,6 @@
       "text": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de la circulación tras #Accidentevial cerca del km 177+000 de la carretera Monterrey - Nvo. Laredo. Atienda indicación vial. #TomePrecauciones en #NuevoLeón se registra cierre parcial de la circulación tras #Accidentevial",
       "link": "https://nitter.net/GN_Carreteras/status/2037723386617467068#m",
       "date": "2026-03-28T02:48:09+00:00"
-    },
-    {
-      "id": "474a944b986f",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 54.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 54, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 54, dirección CDMX. El incidente ha sido atendi",
-      "link": "https://nitter.net/CAPUFE/status/2037721731561820418#m",
-      "date": "2026-03-28T02:41:34+00:00"
-    },
-    {
-      "id": "4e50f7008891",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 167.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 167, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 167, dirección A",
-      "link": "https://nitter.net/CAPUFE/status/2037719773480452412#m",
-      "date": "2026-03-28T02:33:47+00:00"
-    },
-    {
-      "id": "ad6d14b52f06",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 64.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 64, dirección Cuernavaca. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 64, dirección Cuernavaca. El accidente ha sido atendido. En la zona s",
-      "link": "https://nitter.net/CAPUFE/status/2037717068284358943#m",
-      "date": "2026-03-28T02:23:02+00:00"
     },
     {
       "id": "7f6e313edeea",
