@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-28T18:44:06.428367+00:00",
-  "count": 34,
+  "updated": "2026-03-28T19:31:29.405892+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "2191ebc1655c",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga vehicu",
+      "link": "https://nitter.net/CAPUFE/status/2037968505333584056#m",
+      "date": "2026-03-28T19:02:09+00:00"
+    },
     {
       "id": "e95838aaaaa2",
       "account": "@capufe",
@@ -255,20 +269,6 @@
       "date": "2026-03-28T16:31:37+00:00"
     },
     {
-      "id": "95b2c398839d",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Nu",
-      "link": "https://nitter.net/CAPUFE/status/2037926882016956720#m",
-      "date": "2026-03-28T16:16:46+00:00"
-    },
-    {
       "id": "8911b7320642",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -281,20 +281,6 @@
       "text": "#TomePrecauciones en #BajaCaliforniaSur se registra cierre parcial de la circulación tras #Accidentevial cerca del km 075+950 de la carretera Cd. Insurgentes - Loreto. Atienda indicación vial. #TomePrecauciones en #BajaCaliforniaSur se registra cierre parcial de la circulación tr",
       "link": "https://nitter.net/GN_Carreteras/status/2037925819721408807#m",
       "date": "2026-03-28T16:12:32+00:00"
-    },
-    {
-      "id": "2ab1674d258e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 5.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Ent. San José - Ent. Corral de Piedra, km 5. Circulación intermitente en ambos sentidos por atención de accidente (volcadura de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Ent. San José - Ent. Corral de Piedra, km 5. Circ",
-      "link": "https://nitter.net/CAPUFE/status/2037925059721830547#m",
-      "date": "2026-03-28T16:09:31+00:00"
     },
     {
       "id": "64cbd512e4c4",
