@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-28T09:04:58.822121+00:00",
+  "updated": "2026-03-28T10:00:29.691935+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "4fce97235de2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 136.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 136, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 136, dirección CDMX. Reducción de carriles por at",
+      "link": "https://nitter.net/CAPUFE/status/2037830709985808759#m",
+      "date": "2026-03-28T09:54:36+00:00"
+    },
     {
       "id": "ecac7ef22464",
       "account": "@capufe",
@@ -281,20 +295,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 96, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 96, dirección Acapulco",
       "link": "https://nitter.net/CAPUFE/status/2037727451405508727#m",
       "date": "2026-03-28T03:04:18+00:00"
-    },
-    {
-      "id": "199b75fcfb63",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 57.0,
-      "lat": 20.1192,
-      "lon": -99.3956,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 57, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance múltiple). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavac",
-      "link": "https://nitter.net/CAPUFE/status/2037726933216002066#m",
-      "date": "2026-03-28T03:02:14+00:00"
     },
     {
       "id": "cea7e42773ee",
