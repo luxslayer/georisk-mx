@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-29T09:39:31.195951+00:00",
+  "updated": "2026-03-29T10:37:19.012886+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "1cfe155e35a0",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 80.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 80, dirección Veracruz. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 80, dirección Verac",
+      "link": "https://nitter.net/CAPUFE/status/2038192625514156180#m",
+      "date": "2026-03-29T09:52:44+00:00"
+    },
     {
       "id": "2877c05f78a0",
       "account": "@capufe",
@@ -339,20 +353,6 @@
       "date": "2026-03-29T04:37:18+00:00"
     },
     {
-      "id": "73cbb5236740",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 166.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 166, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 166, dirección Querétaro. El accidente ha sido atendido. En la zona se ",
-      "link": "https://nitter.net/CAPUFE/status/2038112136379916429#m",
-      "date": "2026-03-29T04:32:54+00:00"
-    },
-    {
       "id": "a683a27599f7",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -479,20 +479,6 @@
       "date": "2026-03-29T00:10:30+00:00"
     },
     {
-      "id": "1803d8690d45",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 18.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @GN_Carreteras: Habilitando el carril con sentido a Guadalajara un carril para cada sentido a la altura del km 18+800 Habilitando el carril con sentido a Guadalajara un carril para cada sentido a la altura del km 18+800",
-      "link": "https://nitter.net/GN_Carreteras/status/2038042260613341686#m",
-      "date": "2026-03-28T23:55:14+00:00"
-    },
-    {
       "id": "8f9767a586e2",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -504,6 +490,20 @@
       "resolved": false,
       "text": "#TomePrecauciones en #Jalisco continúa cierre parcial de la circulación por maniobras tras #FugadeHidrocarburo cerca del km 018+000 de la carretera Ameca-Mascota. Atienda indicación vial. #TomePrecauciones en #Jalisco continúa cierre parcial de la circulación por maniobras tras #",
       "link": "https://nitter.net/GN_Carreteras/status/2038042258314809799#m",
+      "date": "2026-03-28T23:55:14+00:00"
+    },
+    {
+      "id": "1803d8690d45",
+      "account": "@GN_carreteras",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 18.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @GN_Carreteras: Habilitando el carril con sentido a Guadalajara un carril para cada sentido a la altura del km 18+800 Habilitando el carril con sentido a Guadalajara un carril para cada sentido a la altura del km 18+800",
+      "link": "https://nitter.net/GN_Carreteras/status/2038042260613341686#m",
       "date": "2026-03-28T23:55:14+00:00"
     }
   ]
