@@ -1,7 +1,63 @@
 {
-  "updated": "2026-03-29T20:35:57.169863+00:00",
-  "count": 31,
+  "updated": "2026-03-29T21:34:43.753976+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "eae3fe577ab0",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 194.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , del km 194 al 207, dirección Querétaro. Re",
+      "link": "https://nitter.net/CAPUFE/status/2038368803420090810#m",
+      "date": "2026-03-29T21:32:48+00:00"
+    },
+    {
+      "id": "b7504c145e35",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 18.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Puente de Ixtla - Iguala, km 18. El accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Puente de Ixtla - Igu",
+      "link": "https://nitter.net/CAPUFE/status/2038359231959580673#m",
+      "date": "2026-03-29T20:54:46+00:00"
+    },
+    {
+      "id": "d0d96cce846e",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 13.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de la circulación tras #Accidentevial cerca del km 013+500, de la carretera Libramiento Guadalajara Sur. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre parcial de la circulación tras #Accidentevia",
+      "link": "https://nitter.net/GN_Carreteras/status/2038354766737084522#m",
+      "date": "2026-03-29T20:37:01+00:00"
+    },
+    {
+      "id": "840ecddb38ac",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 267.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 267, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 267, dire",
+      "link": "https://nitter.net/CAPUFE/status/2038354745660780744#m",
+      "date": "2026-03-29T20:36:56+00:00"
+    },
     {
       "id": "df7bac86e8e3",
       "account": "@capufe",
@@ -421,20 +477,6 @@
       "text": "#TomePrecauciones en #Campeche se registra cierre parcial de la circulación tras #Accidentevial cerca del km 048+500, de la carretera Francisco Escárcega-Champotón. Atienda indicación vial. #TomePrecauciones en #Campeche se registra cierre parcial de la circulación tras #Accident",
       "link": "https://nitter.net/GN_Carreteras/status/2038272892425671109#m",
       "date": "2026-03-29T15:11:41+00:00"
-    },
-    {
-      "id": "abbc1566a4cb",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 67.0,
-      "lat": 18.1541,
-      "lon": -94.4882,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #Accidentevial cerca del km 067+800, de la carretera Ent. La Tinaja-Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #Accidentevial ",
-      "link": "https://nitter.net/GN_Carreteras/status/2038255688707695022#m",
-      "date": "2026-03-29T14:03:19+00:00"
     }
   ]
 }
