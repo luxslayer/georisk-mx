@@ -1,7 +1,63 @@
 {
-  "updated": "2026-03-29T10:37:19.012886+00:00",
-  "count": 36,
+  "updated": "2026-03-29T11:31:54.066835+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "69e2b76bf8e3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 48.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "⚠️ AVISO IMPORTANTE ⚠️ Aut. Barranca Larga - Ventanilla, km 48, dirección Barranca Larga. Se atiende accidente (salida del camino de tracto camión), por el momento sin afectar los carriles de circulación. Maneja con precaución. ⚠️ AVISO IMPORTANTE ⚠️ Aut. Barranca Larga - Ventani",
+      "link": "https://nitter.net/CAPUFE/status/2038214733929586755#m",
+      "date": "2026-03-29T11:20:35+00:00"
+    },
+    {
+      "id": "486d8f618591",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 102.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 102, dirección Isla. Continúa circulación intermitente por atención de accidente (maniobras para el retiro de la unidad siniestrada). Dirección La Tinaja, registra reducción de carriles. Toma tus precauciones. Para ",
+      "link": "https://nitter.net/CAPUFE/status/2038212287538790848#m",
+      "date": "2026-03-29T11:10:52+00:00"
+    },
+    {
+      "id": "c6cb41307bee",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 80.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 80, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 80, dirección Veracruz. El i",
+      "link": "https://nitter.net/CAPUFE/status/2038206471767204080#m",
+      "date": "2026-03-29T10:47:45+00:00"
+    },
+    {
+      "id": "dd5d95bee9a8",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 237.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuacnopalan - Oaxaca, km 237, dirección Oaxaca. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuacnopalan - Oaxaca, km 237, dirección Oaxaca. ",
+      "link": "https://nitter.net/CAPUFE/status/2038205703639199790#m",
+      "date": "2026-03-29T10:44:42+00:00"
+    },
     {
       "id": "1cfe155e35a0",
       "account": "@capufe",
@@ -325,34 +381,6 @@
       "date": "2026-03-29T04:38:49+00:00"
     },
     {
-      "id": "377112c3e184",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 166.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 166, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 166, dirección Querétaro. El accidente ha s",
-      "link": "https://nitter.net/CAPUFE/status/2038113383392702959#m",
-      "date": "2026-03-29T04:37:51+00:00"
-    },
-    {
-      "id": "61372ff29c19",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 20, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 20, dir",
-      "link": "https://nitter.net/CAPUFE/status/2038113243248378162#m",
-      "date": "2026-03-29T04:37:18+00:00"
-    },
-    {
       "id": "a683a27599f7",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -479,20 +507,6 @@
       "date": "2026-03-29T00:10:30+00:00"
     },
     {
-      "id": "8f9767a586e2",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 18.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Jalisco continúa cierre parcial de la circulación por maniobras tras #FugadeHidrocarburo cerca del km 018+000 de la carretera Ameca-Mascota. Atienda indicación vial. #TomePrecauciones en #Jalisco continúa cierre parcial de la circulación por maniobras tras #",
-      "link": "https://nitter.net/GN_Carreteras/status/2038042258314809799#m",
-      "date": "2026-03-28T23:55:14+00:00"
-    },
-    {
       "id": "1803d8690d45",
       "account": "@GN_carreteras",
       "type": "alert",
@@ -504,6 +518,20 @@
       "resolved": false,
       "text": "R to @GN_Carreteras: Habilitando el carril con sentido a Guadalajara un carril para cada sentido a la altura del km 18+800 Habilitando el carril con sentido a Guadalajara un carril para cada sentido a la altura del km 18+800",
       "link": "https://nitter.net/GN_Carreteras/status/2038042260613341686#m",
+      "date": "2026-03-28T23:55:14+00:00"
+    },
+    {
+      "id": "8f9767a586e2",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 18.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Jalisco continúa cierre parcial de la circulación por maniobras tras #FugadeHidrocarburo cerca del km 018+000 de la carretera Ameca-Mascota. Atienda indicación vial. #TomePrecauciones en #Jalisco continúa cierre parcial de la circulación por maniobras tras #",
+      "link": "https://nitter.net/GN_Carreteras/status/2038042258314809799#m",
       "date": "2026-03-28T23:55:14+00:00"
     }
   ]
