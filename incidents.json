@@ -1,7 +1,63 @@
 {
-  "updated": "2026-03-29T06:42:02.905638+00:00",
+  "updated": "2026-03-29T07:52:43.350441+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "ae742fdd062d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 17, dirección Irapuato. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 17, dirección Irapuato. ",
+      "link": "https://nitter.net/CAPUFE/status/2038158379068084550#m",
+      "date": "2026-03-29T07:36:39+00:00"
+    },
+    {
+      "id": "5ad26bfa0d09",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 109.0,
+      "lat": 18.023164,
+      "lon": -99.572356,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 109, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 109, dirección Cuer",
+      "link": "https://nitter.net/CAPUFE/status/2038157586030022728#m",
+      "date": "2026-03-29T07:33:30+00:00"
+    },
+    {
+      "id": "9e1a4c026801",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 309.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #Accidentevial cerca del km 309+000, de la carretera Uruapan - Lzc, Ent. Autopista Pátzcuaro- Uruapan- Lzc. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre parcial de la ",
+      "link": "https://nitter.net/GN_Carreteras/status/2038151988773331317#m",
+      "date": "2026-03-29T07:11:15+00:00"
+    },
+    {
+      "id": "25d31a1ac5e2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 102.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 102, dirección Isla. Circulación intermitente por atención de accidente (maniobras para el retiro de la unidad siniestrada). Dirección La Tinaja, registra reducción de carriles. Toma tus precauciones. Para más infor",
+      "link": "https://nitter.net/CAPUFE/status/2038146301628432879#m",
+      "date": "2026-03-29T06:48:39+00:00"
+    },
     {
       "id": "2ee5b120c3a3",
       "account": "@capufe",
@@ -325,20 +381,6 @@
       "date": "2026-03-29T03:13:10+00:00"
     },
     {
-      "id": "526252244316",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 18.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 18, dirección Cosoleacaque. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 18, dire",
-      "link": "https://nitter.net/CAPUFE/status/2038091471182545127#m",
-      "date": "2026-03-29T03:10:47+00:00"
-    },
-    {
       "id": "9d5f47998f31",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -351,34 +393,6 @@
       "text": "#TomePrecauciones en #Yucatán se registra cierre parcial de la circulación tras #Accidentevial cerca del km 098+500, de la carretera Teya-Felipe Carrillo Puerto. Atienda indicación vial. #TomePrecauciones en #Yucatán se registra cierre parcial de la circulación tras #Accidentevia",
       "link": "https://nitter.net/GN_Carreteras/status/2038089392489717944#m",
       "date": "2026-03-29T03:02:31+00:00"
-    },
-    {
-      "id": "87f1f6cc70d3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 49.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 49, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance entre tracto camión y automóvil). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN ",
-      "link": "https://nitter.net/CAPUFE/status/2038086579030302863#m",
-      "date": "2026-03-29T02:51:20+00:00"
-    },
-    {
-      "id": "d56335521e6a",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 166.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 166, dirección Querétaro. Reducción de carriles por atención de incidente (tracto camión siniestrado). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , ",
-      "link": "https://nitter.net/CAPUFE/status/2038085925129863512#m",
-      "date": "2026-03-29T02:48:45+00:00"
     },
     {
       "id": "b2eb18bb9bb3",
@@ -519,20 +533,6 @@
       "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de la circulación tras #Accidentevial cerca del km 162+300, de la carretera Coatzacoalcos-Villahermosa. Atienda indicación vial. #TomePrecauciones en #Tabasco se registra cierre parcial de la circulación tras #Accidentevial",
       "link": "https://nitter.net/GN_Carreteras/status/2038019098269958434#m",
       "date": "2026-03-28T22:23:12+00:00"
-    },
-    {
-      "id": "f79f2c3abadb",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Durango se registra cierre parcial de la circulación tras #Accidentevial cerca del km 093+000, de la carretera Durango-Villa Unión. Atienda indicación vial. #TomePrecauciones en #Durango se registra cierre parcial de la circulación tras #Accidentevial cerca ",
-      "link": "https://nitter.net/GN_Carreteras/status/2038018242283712983#m",
-      "date": "2026-03-28T22:19:48+00:00"
     }
   ]
 }
