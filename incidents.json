@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-29T14:05:16.551250+00:00",
+  "updated": "2026-03-29T15:00:32.887240+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "9c0559c6bc67",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 12.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 12, dirección CDMX. Reducción de carriles por atención de incidente (falla mecánica de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétar",
+      "link": "https://nitter.net/CAPUFE/status/2038269140784332813#m",
+      "date": "2026-03-29T14:56:47+00:00"
+    },
+    {
+      "id": "e4423e2bb0df",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 67.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 67, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 67, dirección Córdoba. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2038257022051786907#m",
+      "date": "2026-03-29T14:08:37+00:00"
+    },
     {
       "id": "abbc1566a4cb",
       "account": "@GN_carreteras",
@@ -197,34 +225,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 80, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 80, dirección Veracruz. El i",
       "link": "https://nitter.net/CAPUFE/status/2038206471767204080#m",
       "date": "2026-03-29T10:47:45+00:00"
-    },
-    {
-      "id": "dd5d95bee9a8",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 237.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuacnopalan - Oaxaca, km 237, dirección Oaxaca. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuacnopalan - Oaxaca, km 237, dirección Oaxaca. ",
-      "link": "https://nitter.net/CAPUFE/status/2038205703639199790#m",
-      "date": "2026-03-29T10:44:42+00:00"
-    },
-    {
-      "id": "1cfe155e35a0",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 80.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 80, dirección Veracruz. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 80, dirección Verac",
-      "link": "https://nitter.net/CAPUFE/status/2038192625514156180#m",
-      "date": "2026-03-29T09:52:44+00:00"
     },
     {
       "id": "0c6f77040145",
