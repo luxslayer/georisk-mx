@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-29T22:33:38.229439+00:00",
-  "count": 33,
+  "updated": "2026-03-29T23:36:04.816390+00:00",
+  "count": 25,
   "incidents": [
+    {
+      "id": "2773031b5215",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #Accidentevial cerca del km 020+500, de la carretera México (Ecatepec) Ent. Tizayuca. Atienda indicación vial. #TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #Accidentev",
+      "link": "https://nitter.net/GN_Carreteras/status/2038399285343973774#m",
+      "date": "2026-03-29T23:33:55+00:00"
+    },
+    {
+      "id": "ef48f979b817",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 8.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Campeche se registra cierre parcial de la circulación tras #Accidentevial cerca del km 008+300, de la carretera libramiento de Campeche. Atienda indicación vial. #TomePrecauciones en #Campeche se registra cierre parcial de la circulación tras #Accidentevial ",
+      "link": "https://nitter.net/GN_Carreteras/status/2038398263154384917#m",
+      "date": "2026-03-29T23:29:52+00:00"
+    },
+    {
+      "id": "4b790bab14e5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Acapulco",
+      "route_key": "mexico-acapulco",
+      "km": 195.0,
+      "lat": 17.395,
+      "lon": -99.522222,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 195, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance múltiple). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro ",
+      "link": "https://nitter.net/CAPUFE/status/2038396036264112633#m",
+      "date": "2026-03-29T23:21:01+00:00"
+    },
     {
       "id": "560b51ce0809",
       "account": "@capufe",
@@ -87,90 +129,6 @@
       "date": "2026-03-29T20:36:56+00:00"
     },
     {
-      "id": "df7bac86e8e3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 18.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Puente de Ixtla - Iguala, km 18. Cierre a la circulación en ambos sentidos por atención de accidente (servicios periciales). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Puente de Ixtla - Igua",
-      "link": "https://nitter.net/CAPUFE/status/2038344298903580820#m",
-      "date": "2026-03-29T19:55:26+00:00"
-    },
-    {
-      "id": "eb1dc59acf90",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 189.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 189. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RES",
-      "link": "https://nitter.net/CAPUFE/status/2038342136530149802#m",
-      "date": "2026-03-29T19:46:50+00:00"
-    },
-    {
-      "id": "f4f7ca067f71",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 189.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 189. Se informa a las personas usuarias que concluyen las labores de limpieza, por lo que se restablece la circulación en ambos sentidos. El personal continúa con la atención del accidente, por el momento sin afectar",
-      "link": "https://nitter.net/CAPUFE/status/2038339923326206202#m",
-      "date": "2026-03-29T19:38:02+00:00"
-    },
-    {
-      "id": "60dcf196ef15",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 18.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 18, dirección Puente de Ixtla. Reducción de carriles por atención de accidente (salida del camino de motociclista). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala",
-      "link": "https://nitter.net/CAPUFE/status/2038336023835353505#m",
-      "date": "2026-03-29T19:22:33+00:00"
-    },
-    {
-      "id": "fa5e8ea3f893",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 120.0,
-      "lat": 17.993818,
-      "lon": -94.873273,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 120, dirección Acayucan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 120, dirección Acayucan. El accid",
-      "link": "https://nitter.net/CAPUFE/status/2038335063515898302#m",
-      "date": "2026-03-29T19:18:44+00:00"
-    },
-    {
-      "id": "42c8b38d72ec",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 51.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Puente de Ixtla - Iguala, km 51. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Puente de Ixtla - Iguala, km 51. El accidente ha sido ate",
-      "link": "https://nitter.net/CAPUFE/status/2038334922683785279#m",
-      "date": "2026-03-29T19:18:10+00:00"
-    },
-    {
       "id": "158ed6f259e9",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -185,20 +143,6 @@
       "date": "2026-03-29T19:09:27+00:00"
     },
     {
-      "id": "21c1508e63a2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 36.0,
-      "lat": 18.212,
-      "lon": -94.867,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 36, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 36, dirección La Tinaja. El acc",
-      "link": "https://nitter.net/CAPUFE/status/2038331794068554068#m",
-      "date": "2026-03-29T19:05:44+00:00"
-    },
-    {
       "id": "70e4c99c9e19",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -211,20 +155,6 @@
       "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de la circulación tras #Accidentevial cerca del km 076+100, de la carretera Coatzacoalcos-Villahermosa. Atienda indicación vial. #TomePrecauciones en #Tabasco se registra cierre parcial de la circulación tras #Accidentevial",
       "link": "https://nitter.net/GN_Carreteras/status/2038331002297135294#m",
       "date": "2026-03-29T19:02:35+00:00"
-    },
-    {
-      "id": "0a82c3abcf28",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 120.0,
-      "lat": 17.993818,
-      "lon": -94.873273,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 120, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino y volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 120, direc",
-      "link": "https://nitter.net/CAPUFE/status/2038329983228125296#m",
-      "date": "2026-03-29T18:58:32+00:00"
     },
     {
       "id": "024021cd8dd7",
@@ -409,20 +339,6 @@
       "date": "2026-03-29T15:52:15+00:00"
     },
     {
-      "id": "181fccc5bbe1",
-      "account": "@capufe",
-      "type": "rollover",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 189.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 189. Cierre a la circulación en ambos sentidos por atención de desenganche y volcadura de remolque de tracto camión tipo pipa. En la zona se registra derrame de combustible. Toma tus precauciones. Consulta la ubicación aqu",
-      "link": "https://nitter.net/CAPUFE/status/2038277469044634048#m",
-      "date": "2026-03-29T15:29:52+00:00"
-    },
-    {
       "id": "12c54069f3cd",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -435,34 +351,6 @@
       "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación tras #Accidentevial cerca del km 023+800, de la carretera Matamoros-Reynosa. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación tras #Accidentevial ce",
       "link": "https://nitter.net/GN_Carreteras/status/2038274718638248358#m",
       "date": "2026-03-29T15:18:56+00:00"
-    },
-    {
-      "id": "71fb875128b9",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 281.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #QuintanaRoo se registra cierre parcial de la circulación tras #Accidentevial cerca del km 281+500, de la carretera Reforma Agraria-Puerto Juárez. Atienda indicación vial. #TomePrecauciones en #QuintanaRoo se registra cierre parcial de la circulación tras #Ac",
-      "link": "https://nitter.net/GN_Carreteras/status/2038273852732494050#m",
-      "date": "2026-03-29T15:15:30+00:00"
-    },
-    {
-      "id": "3e4890002b4f",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Campeche se registra cierre parcial de la circulación tras #Accidentevial cerca del km 048+500, de la carretera Francisco Escárcega-Champotón. Atienda indicación vial. #TomePrecauciones en #Campeche se registra cierre parcial de la circulación tras #Accident",
-      "link": "https://nitter.net/GN_Carreteras/status/2038272892425671109#m",
-      "date": "2026-03-29T15:11:41+00:00"
     }
   ]
 }
