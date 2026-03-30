@@ -1,7 +1,49 @@
 {
-  "updated": "2026-03-30T10:20:07.027444+00:00",
+  "updated": "2026-03-30T11:34:08.374687+00:00",
   "count": 31,
   "incidents": [
+    {
+      "id": "d52ba5753d5a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Acapulco",
+      "route_key": "mexico-acapulco",
+      "km": 95.0,
+      "lat": 18.584,
+      "lon": -99.234,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Durango se registra cierre parcial de la circulación tras #Accidentevial cerca del km 095+600, de la carretera Durango-Torreón. Atienda indicación vial. #TomePrecauciones en #Durango se registra cierre parcial de la circulación tras #Accidentevial cerca del ",
+      "link": "https://nitter.net/GN_Carreteras/status/2038579090312024575#m",
+      "date": "2026-03-30T11:28:24+00:00"
+    },
+    {
+      "id": "83643edd7d4c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 243.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 243, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 243, dirección",
+      "link": "https://nitter.net/CAPUFE/status/2038565926484717664#m",
+      "date": "2026-03-30T10:36:06+00:00"
+    },
+    {
+      "id": "df1b92298694",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 11.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 11, dirección Veracruz. Continúan cierres intermitentes por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - V",
+      "link": "https://nitter.net/CAPUFE/status/2038564383589007738#m",
+      "date": "2026-03-30T10:29:58+00:00"
+    },
     {
       "id": "d795be1d6bc6",
       "account": "@GN_carreteras",
@@ -71,20 +113,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #Accidentevial cerca del km 011+200, de la carretera Córdoba-Entr. La Tinaja. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #Accidentevial ",
       "link": "https://nitter.net/GN_Carreteras/status/2038518453791801669#m",
       "date": "2026-03-30T07:27:27+00:00"
-    },
-    {
-      "id": "5afa15d95dc1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades sinie",
-      "link": "https://nitter.net/CAPUFE/status/2038517982553346296#m",
-      "date": "2026-03-30T07:25:35+00:00"
     },
     {
       "id": "b83ea6f119b0",
@@ -269,20 +297,6 @@
       "date": "2026-03-30T04:03:06+00:00"
     },
     {
-      "id": "c0b7294764bf",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 34.0,
-      "lat": 18.218,
-      "lon": -94.8755,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 34, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 34, dirección",
-      "link": "https://nitter.net/CAPUFE/status/2038461754309554589#m",
-      "date": "2026-03-30T03:42:09+00:00"
-    },
-    {
       "id": "c13f2abcdde0",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -421,20 +435,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre total a la circulación por presencia de personas cerca del km 009+800, de la carretera Coatzacoalcos-Villahermosa, a la altura de la localidad de Nuevo Teapa, Ver., sin ruta alterna. Atienda indicación vial. #TomePrecauciones en #",
       "link": "https://nitter.net/GN_Carreteras/status/2038408879650775152#m",
       "date": "2026-03-30T00:12:03+00:00"
-    },
-    {
-      "id": "8dededd87b3a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 239.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz continúa cierre parcial de la circulación por maniobras tras #Accidentevial cerca del km 239+800, de la carretera Tihuatlán-Tulancingo. Atienda indicación vial. #TomePrecauciones en #Veracruz continúa cierre parcial de la circulación por maniobras t",
-      "link": "https://nitter.net/GN_Carreteras/status/2038404863449591847#m",
-      "date": "2026-03-29T23:56:05+00:00"
     }
   ]
 }
