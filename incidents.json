@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-30T08:55:29.716140+00:00",
-  "count": 32,
+  "updated": "2026-03-30T10:20:07.027444+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "d795be1d6bc6",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 28.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #Accidentevial cerca del km 028+600, de la carretera Querétaro-León. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #Accidentevial cerca",
+      "link": "https://nitter.net/GN_Carreteras/status/2038556930411499576#m",
+      "date": "2026-03-30T10:00:21+00:00"
+    },
+    {
+      "id": "f88ebb594b30",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 160.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulación tras #Accidentevial cerca del km 160+000, de la carretera Querétaro-San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulación tras #Ac",
+      "link": "https://nitter.net/GN_Carreteras/status/2038556039226814625#m",
+      "date": "2026-03-30T09:56:48+00:00"
+    },
     {
       "id": "87286fa6845c",
       "account": "@capufe",
@@ -269,20 +297,6 @@
       "date": "2026-03-30T03:37:30+00:00"
     },
     {
-      "id": "dadba9faee09",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Acapulco",
-      "route_key": "mexico-acapulco",
-      "km": 195.0,
-      "lat": 17.395,
-      "lon": -99.522222,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 195, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 195, dirección Querétaro. El accidente ha s",
-      "link": "https://nitter.net/CAPUFE/status/2038460390166725098#m",
-      "date": "2026-03-30T03:36:44+00:00"
-    },
-    {
       "id": "6c0f495e7a10",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -421,34 +435,6 @@
       "text": "#TomePrecauciones en #Veracruz continúa cierre parcial de la circulación por maniobras tras #Accidentevial cerca del km 239+800, de la carretera Tihuatlán-Tulancingo. Atienda indicación vial. #TomePrecauciones en #Veracruz continúa cierre parcial de la circulación por maniobras t",
       "link": "https://nitter.net/GN_Carreteras/status/2038404863449591847#m",
       "date": "2026-03-29T23:56:05+00:00"
-    },
-    {
-      "id": "72873d04b495",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Gdl–Tepic",
-      "route_key": "guadalajara-tepic",
-      "km": 183.0,
-      "lat": 21.424486,
-      "lon": -104.7655,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Nayarit se registra cierre parcial de la circulación tras #Accidentevial cerca del km 183+000, de la carretera Guadalajara-Tepic. Atienda indicación vial. #TomePrecauciones en #Nayarit se registra cierre parcial de la circulación tras #Accidentevial cerca de",
-      "link": "https://nitter.net/GN_Carreteras/status/2038401407473136022#m",
-      "date": "2026-03-29T23:42:21+00:00"
-    },
-    {
-      "id": "0285451728f9",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 189.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Oaxaca tras #Accidentevial cerca del km 189+200, de la carretera Coacnopala-Oaxaca. Maneje con precaución. #VíaLibre en #Oaxaca tras #Accidentevial cerca del km 189+200, de la carretera Coacnopala-Oaxaca. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2038400232841478592#m",
-      "date": "2026-03-29T23:37:41+00:00"
     }
   ]
 }
