@@ -1,7 +1,63 @@
 {
-  "updated": "2026-03-30T07:07:30.877988+00:00",
+  "updated": "2026-03-30T08:55:29.716140+00:00",
   "count": 32,
   "incidents": [
+    {
+      "id": "87286fa6845c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 11.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 11, dirección Veracruz. Cierres intermitentes por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, k",
+      "link": "https://nitter.net/CAPUFE/status/2038529882246807606#m",
+      "date": "2026-03-30T08:12:52+00:00"
+    },
+    {
+      "id": "e42eab880af3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 243.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 243, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (salida del camino y choque contra talud). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoz",
+      "link": "https://nitter.net/CAPUFE/status/2038529286177448143#m",
+      "date": "2026-03-30T08:10:30+00:00"
+    },
+    {
+      "id": "897b02114f01",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 11.0,
+      "lat": 18.287,
+      "lon": -94.97325,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #Accidentevial cerca del km 011+200, de la carretera Córdoba-Entr. La Tinaja. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #Accidentevial ",
+      "link": "https://nitter.net/GN_Carreteras/status/2038518453791801669#m",
+      "date": "2026-03-30T07:27:27+00:00"
+    },
+    {
+      "id": "5afa15d95dc1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 13.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades sinie",
+      "link": "https://nitter.net/CAPUFE/status/2038517982553346296#m",
+      "date": "2026-03-30T07:25:35+00:00"
+    },
     {
       "id": "b83ea6f119b0",
       "account": "@capufe",
@@ -17,7 +73,7 @@
       "date": "2026-03-30T06:53:44+00:00"
     },
     {
-      "id": "f98e0d80420a",
+      "id": "5788678ef034",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -26,7 +82,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que continúa el cierre a la circulación por atención de accidente. El personal se encuentra en la zona realizando las labores del trasvase de carga. Toma tus prec",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que continúa el cierre a la circulación por atención de accidente. El personal se encuentra en la zona realizando las labores del trasvase de carga. Toma tu",
       "link": "https://nitter.net/CAPUFE/status/2038509741626761474#m",
       "date": "2026-03-30T06:52:50+00:00"
     },
@@ -227,20 +283,6 @@
       "date": "2026-03-30T03:36:44+00:00"
     },
     {
-      "id": "5cfad65f86b1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. En la zona se registra derrame de combustible. Maneja con precaución. Para más información ll",
-      "link": "https://nitter.net/CAPUFE/status/2038456994265264257#m",
-      "date": "2026-03-30T03:23:14+00:00"
-    },
-    {
       "id": "6c0f495e7a10",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -267,34 +309,6 @@
       "text": "#TomePrecauciones en #Morelos se registra cierre parcial de la circulación tras #Accidentevial cerca del km 018+080, de la carretera Cuernavaca-Iguala. Atienda indicación vial. #TomePrecauciones en #Morelos se registra cierre parcial de la circulación tras #Accidentevial cerca de",
       "link": "https://nitter.net/GN_Carreteras/status/2038455972868342057#m",
       "date": "2026-03-30T03:19:11+00:00"
-    },
-    {
-      "id": "7f68f03944e2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 46.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 46, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 46, dirección Cuernavaca. El accidente ha",
-      "link": "https://nitter.net/CAPUFE/status/2038452481533866005#m",
-      "date": "2026-03-30T03:05:18+00:00"
-    },
-    {
-      "id": "403cf21320c5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 67.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 67, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 67, dirección Cuernavaca. El accidente ha",
-      "link": "https://nitter.net/CAPUFE/status/2038446922122338379#m",
-      "date": "2026-03-30T02:43:13+00:00"
     },
     {
       "id": "3ec8f627edc2",
@@ -435,20 +449,6 @@
       "text": "#VíaLibre en #Oaxaca tras #Accidentevial cerca del km 189+200, de la carretera Coacnopala-Oaxaca. Maneje con precaución. #VíaLibre en #Oaxaca tras #Accidentevial cerca del km 189+200, de la carretera Coacnopala-Oaxaca. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2038400232841478592#m",
       "date": "2026-03-29T23:37:41+00:00"
-    },
-    {
-      "id": "2773031b5215",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #Accidentevial cerca del km 020+500, de la carretera México (Ecatepec) Ent. Tizayuca. Atienda indicación vial. #TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #Accidentev",
-      "link": "https://nitter.net/GN_Carreteras/status/2038399285343973774#m",
-      "date": "2026-03-29T23:33:55+00:00"
     }
   ]
 }
