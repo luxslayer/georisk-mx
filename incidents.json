@@ -1,7 +1,105 @@
 {
-  "updated": "2026-03-30T19:56:23.038384+00:00",
+  "updated": "2026-03-30T20:52:59.589083+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "184ebb6e0566",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Nayarit se registra cierre parcial de la circulación tras #Accidentevial cerca del km 019+700, de la carretera Jala-Compostela Bahía de Banderas. Atienda indicación vial. #TomePrecauciones en #Nayarit se registra cierre parcial de la circulación tras #Accide",
+      "link": "https://nitter.net/GN_Carreteras/status/2038716634068664656#m",
+      "date": "2026-03-30T20:34:57+00:00"
+    },
+    {
+      "id": "7dc2644a02d4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 127.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 127, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 127, dirección Querétaro. El accidente ha s",
+      "link": "https://nitter.net/CAPUFE/status/2038714769272603012#m",
+      "date": "2026-03-30T20:27:33+00:00"
+    },
+    {
+      "id": "ee22e6890532",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 43.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 43, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles, por maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular y #lluvia. Disminuye tu vel",
+      "link": "https://nitter.net/CAPUFE/status/2038713467218297239#m",
+      "date": "2026-03-30T20:22:22+00:00"
+    },
+    {
+      "id": "afaa5fc3b76b",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla, km 20, dirección Puebla. Reducción de carriles por labores de mantenimiento (no a cargo de CAPUFE). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla , km 20, dirección Puebla. Reducción de ca",
+      "link": "https://nitter.net/CAPUFE/status/2038712770158334433#m",
+      "date": "2026-03-30T20:19:36+00:00"
+    },
+    {
+      "id": "44c2a7d9246a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 60.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, dirección Puebla. Se informa a las personas que se registran diversos eventos, que afectan la circulación: 🔘 Km 60, reducción de carriles por atención de choque por alcance. 🔘 Km 61, reducción de carriles por atención de choque por alca",
+      "link": "https://nitter.net/CAPUFE/status/2038710454508474837#m",
+      "date": "2026-03-30T20:10:24+00:00"
+    },
+    {
+      "id": "b5bc59e79aa2",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 43.0,
+      "lat": 20.0016,
+      "lon": -99.2976,
+      "resolved": true,
+      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #Accidentevial cerca del km 043+000, de la autopista México-Querétaro. Atienda indicación vial. #TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #Accidentevial cerca del k",
+      "link": "https://nitter.net/GN_Carreteras/status/2038710179592540279#m",
+      "date": "2026-03-30T20:09:18+00:00"
+    },
+    {
+      "id": "21c9d681046c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 89.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de la circulación tras #Accidentevial cerca del km 089+800, de la carretera Tapanatepec-Talismán con Ramales a Unión Juárez y Cd. Hidalgo, con dirección a Tapanatepec, Chis. Atienda #TomePrecauciones en #Chiapas se registra",
+      "link": "https://nitter.net/GN_Carreteras/status/2038709479278006726#m",
+      "date": "2026-03-30T20:06:31+00:00"
+    },
     {
       "id": "03d8b369ae46",
       "account": "@GN_carreteras",
@@ -45,7 +143,7 @@
       "date": "2026-03-30T19:35:54+00:00"
     },
     {
-      "id": "767a5f88e94d",
+      "id": "e1d94ef9124f",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -54,7 +152,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, dirección Puebla. Se informa a las personas que se registran diversos eventos, que afectan la circulación: 🔘 Km 61, reducción de carriles por atención de choque por alcance múltiple. 🔘 Km 69, continúa circulación intermitente, por manio",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, dirección Puebla. Se informa a las personas que se registran diversos eventos, que afectan la circulación: 🔘 Km 61, reducción de carriles por atención de choque por alcance múltiple. 🔘 Km 69, continúa circulación intermitente, por",
       "link": "https://nitter.net/CAPUFE/status/2038700867331793132#m",
       "date": "2026-03-30T19:32:18+00:00"
     },
@@ -269,20 +367,6 @@
       "date": "2026-03-30T17:40:04+00:00"
     },
     {
-      "id": "4392c21bbaac",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 205.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 205. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 205. El accidente ha sido atend",
-      "link": "https://nitter.net/CAPUFE/status/2038671614326243472#m",
-      "date": "2026-03-30T17:36:04+00:00"
-    },
-    {
       "id": "5b05ee93a067",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -297,34 +381,6 @@
       "date": "2026-03-30T17:24:26+00:00"
     },
     {
-      "id": "a31db91b9a11",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 101.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 101, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 101, dirección Queréta",
-      "link": "https://nitter.net/CAPUFE/status/2038665546766377269#m",
-      "date": "2026-03-30T17:11:57+00:00"
-    },
-    {
-      "id": "b1d6693bfe4e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 102.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 102, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 102, dirección Queréta",
-      "link": "https://nitter.net/CAPUFE/status/2038665267182526682#m",
-      "date": "2026-03-30T17:10:50+00:00"
-    },
-    {
       "id": "aac306bfa14e",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -337,20 +393,6 @@
       "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de la circulación tras #Accidentevial cerca del km 006+585, de la carretera Ocozocoautla-Arriaga, con dirección Arriaga, Chis. Atienda indicación vial. #TomePrecauciones en #Chiapas se registra cierre parcial de la circulac",
       "link": "https://nitter.net/GN_Carreteras/status/2038664780471222657#m",
       "date": "2026-03-30T17:08:54+00:00"
-    },
-    {
-      "id": "f7954d82aeb9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 11.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 11, dirección Irapuato. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 11, dirección Irapuato. ",
-      "link": "https://nitter.net/CAPUFE/status/2038662847597568045#m",
-      "date": "2026-03-30T17:01:14+00:00"
     },
     {
       "id": "dc1941468440",
@@ -435,48 +477,6 @@
       "text": "#TomePrecauciones en #Guanajuato se registra cierre total de la circulación por #Accidentevial cerca del km 011+000, de la carretera Querétaro- Irapuato con dirección a Irapuato, Gto. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre total de la circula",
       "link": "https://nitter.net/GN_Carreteras/status/2038642147843264639#m",
       "date": "2026-03-30T15:38:58+00:00"
-    },
-    {
-      "id": "ac05c2052da8",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Lib. Sur Qro.",
-      "route_key": "libramiento-queretaro",
-      "km": 9.0,
-      "lat": 20.518,
-      "lon": -100.378,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación tras #Accidentevial cerca del km 009+700, de la carretera Ent. Matamoros-Reynosa con dirección a Matamoros, Tamps. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre parcial de",
-      "link": "https://nitter.net/GN_Carreteras/status/2038641400380633143#m",
-      "date": "2026-03-30T15:36:00+00:00"
-    },
-    {
-      "id": "adde7e14c461",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 74.0,
-      "lat": 19.11605,
-      "lon": -98.37605,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #Accidentevial cerca del km 074+000, de la carretera México-Puebla con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #Accid",
-      "link": "https://nitter.net/GN_Carreteras/status/2038637577830273116#m",
-      "date": "2026-03-30T15:20:49+00:00"
-    },
-    {
-      "id": "55a73a88982d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 237.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #Accidentevial cerca del km 237+000, de la carretera Maravatío - Zapotlanejo con dirección a Maravatio, Mich. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre parcial de l",
-      "link": "https://nitter.net/GN_Carreteras/status/2038636244586975624#m",
-      "date": "2026-03-30T15:15:31+00:00"
     }
   ]
 }
