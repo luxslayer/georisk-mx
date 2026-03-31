@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-31T08:09:42.459361+00:00",
-  "count": 36,
+  "updated": "2026-03-31T09:40:12.577432+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "b9b8f9e6d98f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 36.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación tras #Accidentevial cerca del km 036+000, de la carretera Zacatecas- Saltillo. Atienda indicación vial. #TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación tras #Accidentevial ce",
+      "link": "https://nitter.net/GN_Carreteras/status/2038900628227764298#m",
+      "date": "2026-03-31T08:46:05+00:00"
+    },
     {
       "id": "7ebf24c9945f",
       "account": "@capufe",
@@ -269,20 +283,6 @@
       "date": "2026-03-31T04:56:44+00:00"
     },
     {
-      "id": "6fbb8e963fb8",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 98.0,
-      "lat": 18.218174,
-      "lon": -99.530466,
-      "resolved": true,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, continúa #lluvia del km 98 al 195. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, continúa #lluvia del km 98 al 195. Disminuye tu velocidad y man",
-      "link": "https://nitter.net/CAPUFE/status/2038842577168793613#m",
-      "date": "2026-03-31T04:55:24+00:00"
-    },
-    {
       "id": "298004a27f7a",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,20 +491,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #Accidentevial cerca del km 242+400, de la carretera Puebla-Córdoba, con dirección a Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tra",
       "link": "https://nitter.net/GN_Carreteras/status/2038814987603390880#m",
       "date": "2026-03-31T03:05:47+00:00"
-    },
-    {
-      "id": "f5738b32ac05",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 42.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación tras #Accidentevial cerca del km 042+200, de la carretera La Chicarrona - Cuencamé. Atienda indicación vial. #TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación tras #Accidentevi",
-      "link": "https://nitter.net/GN_Carreteras/status/2038811820308255187#m",
-      "date": "2026-03-31T02:53:11+00:00"
     }
   ]
 }
