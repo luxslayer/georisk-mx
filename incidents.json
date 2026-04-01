@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-01T19:11:41.264156+00:00",
-  "count": 34,
+  "updated": "2026-04-01T20:07:20.271613+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "be4f886b1be9",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 35.0,
+      "lat": 18.215,
+      "lon": -94.87125,
+      "resolved": true,
+      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 35, dirección Isla. Cierre a la circulación por atención de tracto camión siniestrado. En la zona se registra derrame de combustóleo. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/FVA9V6",
+      "link": "https://nitter.net/CAPUFE/status/2039431067342356932#m",
+      "date": "2026-04-01T19:53:51+00:00"
+    },
+    {
+      "id": "82a80ba19c16",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 54, dirección Cuernavaca. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 54, dirección Cuernavaca. El accidente ha sido atendido. En la zona s",
+      "link": "https://nitter.net/CAPUFE/status/2039424855871746095#m",
+      "date": "2026-04-01T19:29:10+00:00"
+    },
+    {
+      "id": "b1f2eaceac2e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 54, dirección Cuernavaca. Se restablece la circulación. El personal continúa con la atención del accidente, por el momento sin afectar los carriles de rodamiento. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA V",
+      "link": "https://nitter.net/CAPUFE/status/2039421680301256803#m",
+      "date": "2026-04-01T19:16:33+00:00"
+    },
     {
       "id": "8da2b45fcbab",
       "account": "@capufe",
@@ -183,34 +225,6 @@
       "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 219, dirección Acapulco. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 219, dirección Acapulco. El accidente ha sido ate",
       "link": "https://nitter.net/CAPUFE/status/2039401032636101067#m",
       "date": "2026-04-01T17:54:31+00:00"
-    },
-    {
-      "id": "e267d5459f00",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 219.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 219, dirección Acapulco. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (labores de limpieza). En la zona se registra carga vehicular. Toma t",
-      "link": "https://nitter.net/CAPUFE/status/2039391548333564191#m",
-      "date": "2026-04-01T17:16:49+00:00"
-    },
-    {
-      "id": "1b61c0f29edc",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Acayucan–Cosoleacaque",
-      "route_key": "acayucan-cosoleacaque",
-      "km": 33.0,
-      "lat": 18.10588,
-      "lon": -94.75776,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 33, dirección Cosoleacaque. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleaca",
-      "link": "https://nitter.net/CAPUFE/status/2039389135199228221#m",
-      "date": "2026-04-01T17:07:14+00:00"
     },
     {
       "id": "9f1e74e0f300",
