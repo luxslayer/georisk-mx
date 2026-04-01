@@ -1,7 +1,63 @@
 {
-  "updated": "2026-04-01T21:08:24.292033+00:00",
+  "updated": "2026-04-01T22:03:34.313005+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "af0d62f34eb3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 21, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 21, dirección CDMX. El accidente ha sido atendido. Tram",
+      "link": "https://nitter.net/CAPUFE/status/2039460371153465567#m",
+      "date": "2026-04-01T21:50:18+00:00"
+    },
+    {
+      "id": "e003c77a0a3e",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 35.0,
+      "lat": 18.215,
+      "lon": -94.87125,
+      "resolved": true,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 35, dirección Isla. Se informa a las personas usuarias que continúa el cierre a la circulación por atención de tracto camión siniestrado. En la zona se registra derrame de combustóleo. Se recomienda utilizar la siguiente ví",
+      "link": "https://nitter.net/CAPUFE/status/2039458578013016455#m",
+      "date": "2026-04-01T21:43:10+00:00"
+    },
+    {
+      "id": "181760619681",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 64.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación tras #vehiculoincendiado cerca del km 064+300, de la carretera Cuacnopalan - Oaxaca. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación tras #vehiculoincendiado cer",
+      "link": "https://nitter.net/GN_Carreteras/status/2039457252663304533#m",
+      "date": "2026-04-01T21:37:54+00:00"
+    },
+    {
+      "id": "efe4ddba67c1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 36.0,
+      "lat": 18.212,
+      "lon": -94.867,
+      "resolved": true,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla. Se registran diversos eventos que afectan la circulación: 🔘Km 36, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino a cuneta central de tracto camión). 🔘Km 36, dirección La ",
+      "link": "https://nitter.net/CAPUFE/status/2039453807214477729#m",
+      "date": "2026-04-01T21:24:13+00:00"
+    },
     {
       "id": "7514bcf44076",
       "account": "@capufe",
@@ -59,7 +115,7 @@
       "date": "2026-04-01T20:36:47+00:00"
     },
     {
-      "id": "be4f886b1be9",
+      "id": "392b4d8e7ca1",
       "account": "@capufe",
       "type": "closure",
       "highway": "La Tinaja–Cosoleacaque",
@@ -68,7 +124,7 @@
       "lat": 18.215,
       "lon": -94.87125,
       "resolved": true,
-      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 35, dirección Isla. Cierre a la circulación por atención de tracto camión siniestrado. En la zona se registra derrame de combustóleo. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/FVA9V6",
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 35, dirección Isla. Cierre a la circulación por atención de tracto camión siniestrado. En la zona se registra derrame de combustóleo. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/FVA9V6PL9Zuqr5",
       "link": "https://nitter.net/CAPUFE/status/2039431067342356932#m",
       "date": "2026-04-01T19:53:51+00:00"
     },
@@ -199,34 +255,6 @@
       "date": "2026-04-01T18:25:10+00:00"
     },
     {
-      "id": "a74551eaa4b3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 192.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 192, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABL",
-      "link": "https://nitter.net/CAPUFE/status/2039407723331117173#m",
-      "date": "2026-04-01T18:21:06+00:00"
-    },
-    {
-      "id": "d0877b375fe7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 110.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Estación Don - Navojoa, km 110, dirección Navojoa. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Aut",
-      "link": "https://nitter.net/CAPUFE/status/2039407381776318788#m",
-      "date": "2026-04-01T18:19:44+00:00"
-    },
-    {
       "id": "1ec7baf9c330",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -239,20 +267,6 @@
       "text": "#TomePrecauciones en #EdoMex se registra presencia de personas cerca del km 043+000, de la carretera México - Querétaro. Atienda indicación vial. #TomePrecauciones en #EdoMex se registra presencia de personas cerca del km 043+000, de la carretera México - Querétaro. Atienda indic",
       "link": "https://nitter.net/GN_Carreteras/status/2039406830162489431#m",
       "date": "2026-04-01T18:17:33+00:00"
-    },
-    {
-      "id": "effca4746746",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 35.0,
-      "lat": 18.215,
-      "lon": -94.87125,
-      "resolved": true,
-      "text": "⚠️ AVISO IMPORTANTE ⚠️ Autopista La Tinaja - Isla. Se registran diversos eventos que afectan la circulación: 🔘Km 35, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). 🔘Km 36, dirección La Tinaja. Continúa reducc",
-      "link": "https://nitter.net/CAPUFE/status/2039403905692352712#m",
-      "date": "2026-04-01T18:05:56+00:00"
     },
     {
       "id": "9f1e74e0f300",
@@ -491,20 +505,6 @@
       "text": "#TomePrecauciones en #Guanajuato #SanLuisdelaPaz cierre parcial de circulación por maniobras tras #AccidenteVial cerca del km 041+900, de la carretera Querétaro-San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #Guanajuato #SanLuisdelaPaz cierre parcial de circulació",
       "link": "https://nitter.net/GN_Carreteras/status/2039220022413873499#m",
       "date": "2026-04-01T05:55:14+00:00"
-    },
-    {
-      "id": "be9a6d3b8428",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 176.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #NuevoLeón cierre parcial de circulación por maniobras tras #AccidenteVial cerca del km 176+800, de la carretera Matehuala-Saltillo. Atienda indicación vial. #TomePrecauciones en #NuevoLeón cierre parcial de circulación por maniobras tras #AccidenteVial cerca",
-      "link": "https://nitter.net/GN_Carreteras/status/2039218950450384979#m",
-      "date": "2026-04-01T05:50:59+00:00"
     }
   ]
 }
