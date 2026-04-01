@@ -1,7 +1,63 @@
 {
-  "updated": "2026-04-01T22:03:34.313005+00:00",
+  "updated": "2026-04-01T23:05:53.768422+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "c4501e16b36d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación tras #AccidenteVial cerca del km 044+500, de la carretera Villahermosa -Ciudad del Carmen. Atienda indicación vial. #TomePrecauciones en #Tabasco se registra cierre parcial de circulación tras #AccidenteVial ",
+      "link": "https://nitter.net/GN_Carreteras/status/2039474698552037882#m",
+      "date": "2026-04-01T22:47:14+00:00"
+    },
+    {
+      "id": "f28ba9a20a84",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 89.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuauhtémoc – Osiris, km 89. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopist",
+      "link": "https://nitter.net/CAPUFE/status/2039472118920773966#m",
+      "date": "2026-04-01T22:36:59+00:00"
+    },
+    {
+      "id": "bbedc462fba2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 19, dirección Querétaro. Cierre a la circulación por atención de accidente (choque contra muro central). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapu",
+      "link": "https://nitter.net/CAPUFE/status/2039471171016536193#m",
+      "date": "2026-04-01T22:33:13+00:00"
+    },
+    {
+      "id": "9a2266875f9a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 35.0,
+      "lat": 18.215,
+      "lon": -94.87125,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 035+000, de la carretera ent. La Tinaja - Cosoleacaque. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial ",
+      "link": "https://nitter.net/GN_Carreteras/status/2039467783910556042#m",
+      "date": "2026-04-01T22:19:45+00:00"
+    },
     {
       "id": "af0d62f34eb3",
       "account": "@capufe",
@@ -227,34 +283,6 @@
       "date": "2026-04-01T18:41:31+00:00"
     },
     {
-      "id": "92c859d59541",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 28.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 28. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 28. El accidente ha sido atendid",
-      "link": "https://nitter.net/CAPUFE/status/2039409610985971845#m",
-      "date": "2026-04-01T18:28:36+00:00"
-    },
-    {
-      "id": "020027576a71",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 200.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 200, dirección Nogales. Continúa reducción de carriles por atención de accidente (salida de neumático). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 200, dirección No",
-      "link": "https://nitter.net/CAPUFE/status/2039408749589196830#m",
-      "date": "2026-04-01T18:25:10+00:00"
-    },
-    {
       "id": "1ec7baf9c330",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -477,34 +505,6 @@
       "text": "#TomePrecauciones Continúa en #Puebla #Huahuichinango cierre parcial de circulación por maniobras tras #AccidenteVial cerca del km 140+200, de la carretera Tulancingo-Tihuatlán. Atienda indicación vial. #TomePrecauciones Continúa en #Puebla #Huahuichinango cierre parcial de circu",
       "link": "https://nitter.net/GN_Carreteras/status/2039225566167982318#m",
       "date": "2026-04-01T06:17:16+00:00"
-    },
-    {
-      "id": "c9bd0ba7f594",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 176.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #NuevoLeón #SanRafael cierre parcial de circulación tras #AccidenteVial cerca del km 176+500, de la carretera Matehuala-Saltillo. Atienda indicación vial. #TomePrecauciones en #NuevoLeón #SanRafael cierre parcial de circulación tras #AccidenteVial cerca del k",
-      "link": "https://nitter.net/GN_Carreteras/status/2039223184981954722#m",
-      "date": "2026-04-01T06:07:48+00:00"
-    },
-    {
-      "id": "b6c69e140e92",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 41.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guanajuato #SanLuisdelaPaz cierre parcial de circulación por maniobras tras #AccidenteVial cerca del km 041+900, de la carretera Querétaro-San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #Guanajuato #SanLuisdelaPaz cierre parcial de circulació",
-      "link": "https://nitter.net/GN_Carreteras/status/2039220022413873499#m",
-      "date": "2026-04-01T05:55:14+00:00"
     }
   ]
 }
