@@ -1,7 +1,63 @@
 {
-  "updated": "2026-04-02T05:09:35.679093+00:00",
-  "count": 33,
+  "updated": "2026-04-02T06:48:47.709431+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "d301ccaec8e5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 98.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 98, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones. En la zona se registra carga vehicular. 🔘 Personal de CAPUFE y Guardia Nacional realizan las labores de a",
+      "link": "https://nitter.net/CAPUFE/status/2039591887724540361#m",
+      "date": "2026-04-02T06:32:54+00:00"
+    },
+    {
+      "id": "cc23184484ff",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 232.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. La Carbonera - Puerto México, km 232, dirección Puerto México. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con preca",
+      "link": "https://nitter.net/CAPUFE/status/2039580054645059907#m",
+      "date": "2026-04-02T05:45:53+00:00"
+    },
+    {
+      "id": "e41ff66bac70",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 232.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. La Carbonera - Puerto México, km 232, dirección Puerto México. Se informa a las personas usuarias que continúa cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las ",
+      "link": "https://nitter.net/CAPUFE/status/2039576177497489741#m",
+      "date": "2026-04-02T05:30:28+00:00"
+    },
+    {
+      "id": "93fb56a42c8a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 25.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 25, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 25, dirección Querétaro",
+      "link": "https://nitter.net/CAPUFE/status/2039572991277777326#m",
+      "date": "2026-04-02T05:17:49+00:00"
+    },
     {
       "id": "41c56d9bac0d",
       "account": "@GN_carreteras",
@@ -17,7 +73,7 @@
       "date": "2026-04-02T05:01:57+00:00"
     },
     {
-      "id": "25d610708aea",
+      "id": "5cc06477d48f",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -26,7 +82,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Carbonera - Puerto México, km 232, dirección Puerto México. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/coB3F7S86nmB",
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Carbonera - Puerto México, km 232, dirección Puerto México. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/coB3F7S86nmB55z89 🔴 ",
       "link": "https://nitter.net/CAPUFE/status/2039566175537922114#m",
       "date": "2026-04-02T04:50:44+00:00"
     },
@@ -185,34 +241,6 @@
       "date": "2026-04-02T02:16:39+00:00"
     },
     {
-      "id": "ba8b7fb30bd9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 86.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 86, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 86, dirección CDMX. El accidente ha sido ate",
-      "link": "https://nitter.net/CAPUFE/status/2039526889027514791#m",
-      "date": "2026-04-02T02:14:37+00:00"
-    },
-    {
-      "id": "952c3d0e2353",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 75.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Barranca Larga - Ventanilla, km 75. Registra circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Ba",
-      "link": "https://nitter.net/CAPUFE/status/2039524984243015980#m",
-      "date": "2026-04-02T02:07:03+00:00"
-    },
-    {
       "id": "8e26728dfc12",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -227,34 +255,6 @@
       "date": "2026-04-02T01:57:33+00:00"
     },
     {
-      "id": "57d022cef5d8",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 43.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 43, dirección CDMX. Reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 43, dirección C",
-      "link": "https://nitter.net/CAPUFE/status/2039521127618269385#m",
-      "date": "2026-04-02T01:51:43+00:00"
-    },
-    {
-      "id": "77c45e142f11",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 142.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 142, dirección Querétaro. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 142, dirección Querétaro. El incidente ha s",
-      "link": "https://nitter.net/CAPUFE/status/2039519287572881746#m",
-      "date": "2026-04-02T01:44:25+00:00"
-    },
-    {
       "id": "b9b2ca7bc15a",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,34 +267,6 @@
       "text": "#ViaLibre en #Veracruz tras #AccidenteVial cerca del km 035+000, de la carretera ent. La Tinaja - Cosoleacaque. Maneje con precaución. #ViaLibre en #Veracruz tras #AccidenteVial cerca del km 035+000, de la carretera ent. La Tinaja - Cosoleacaque. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2039516863143579967#m",
       "date": "2026-04-02T01:34:47+00:00"
-    },
-    {
-      "id": "61ab0386a920",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 19, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 19, dirección Querétaro",
-      "link": "https://nitter.net/CAPUFE/status/2039516374691676183#m",
-      "date": "2026-04-02T01:32:50+00:00"
-    },
-    {
-      "id": "577016b220cd",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 25.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 25, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance múltiple). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 25, dirección Q",
-      "link": "https://nitter.net/CAPUFE/status/2039516096395366544#m",
-      "date": "2026-04-02T01:31:44+00:00"
     },
     {
       "id": "57fac5ecd5e0",
