@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-02T08:07:46.135915+00:00",
-  "count": 30,
+  "updated": "2026-04-02T09:35:11.903100+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "21609e8cbd28",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 98.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 98, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIEN",
+      "link": "https://nitter.net/CAPUFE/status/2039630889924124868#m",
+      "date": "2026-04-02T09:07:53+00:00"
+    },
+    {
+      "id": "74610112ec13",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 232.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. La Carbonera - Puerto México, km 232, dirección Puerto México. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución",
+      "link": "https://nitter.net/CAPUFE/status/2039626291859562624#m",
+      "date": "2026-04-02T08:49:37+00:00"
+    },
     {
       "id": "67c10a5d42ca",
       "account": "@capufe",
@@ -31,7 +59,7 @@
       "date": "2026-04-02T07:05:20+00:00"
     },
     {
-      "id": "909d90fc403c",
+      "id": "0db0a19a555e",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -40,7 +68,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 98, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. En la zon",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 98, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. En ",
       "link": "https://nitter.net/CAPUFE/status/2039598914160972126#m",
       "date": "2026-04-02T07:00:49+00:00"
     },
