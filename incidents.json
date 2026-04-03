@@ -1,7 +1,63 @@
 {
-  "updated": "2026-04-03T21:36:14.216935+00:00",
+  "updated": "2026-04-03T22:36:02.675020+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "e52d8809a02c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 81.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 81, dirección La Tinaja. Reducción de carriles por atención de accidente (choque de costado entre tracto camión y camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 8",
+      "link": "https://nitter.net/CAPUFE/status/2040194647805276437#m",
+      "date": "2026-04-03T22:28:03+00:00"
+    },
+    {
+      "id": "db5af1e37ae9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 230.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 230, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 230, dire",
+      "link": "https://nitter.net/CAPUFE/status/2040192846813139447#m",
+      "date": "2026-04-03T22:20:54+00:00"
+    },
+    {
+      "id": "7c930cd524ee",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 15.0,
+      "lat": 19.37065,
+      "lon": -99.2958,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 015+800, de la carretera Paso del Toro-Acayucan. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del",
+      "link": "https://nitter.net/GN_Carreteras/status/2040190492877496695#m",
+      "date": "2026-04-03T22:11:33+00:00"
+    },
+    {
+      "id": "4fbd7f17411e",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 60.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #BajaCaliforniaSur se registra cierre parcial de circulación por #AccidenteVial cerca del km 060+800, de la carretera San José del Cabo-La Paz. Atienda indicación vial. #TomePrecauciones en #BajaCaliforniaSur se registra cierre parcial de circulación por #Acc",
+      "link": "https://nitter.net/GN_Carreteras/status/2040183421721329748#m",
+      "date": "2026-04-03T21:43:27+00:00"
+    },
     {
       "id": "cbda4c00c850",
       "account": "@GN_carreteras",
@@ -255,34 +311,6 @@
       "date": "2026-04-03T18:00:17+00:00"
     },
     {
-      "id": "174d3b3aad31",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 1.0,
-      "lat": 18.317,
-      "lon": -95.01575,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 1, dirección Isla. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 1, dirección Isla. Red",
-      "link": "https://nitter.net/CAPUFE/status/2040125737617780940#m",
-      "date": "2026-04-03T17:54:14+00:00"
-    },
-    {
-      "id": "eb8a1f57a744",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 54.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 54, dirección Cuernavaca. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 54, dirección Cuernavaca. El accidente ha sido a",
-      "link": "https://nitter.net/CAPUFE/status/2040121521440452995#m",
-      "date": "2026-04-03T17:37:28+00:00"
-    },
-    {
       "id": "4596e0442f55",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,34 +505,6 @@
       "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 123+200, de la carretera Coatzacoalcos-Villahermosa, a la altura del Cárdenas, Tab. Atienda indicación vial. #TomePrecauciones en #Tabasco se registra cierre parcial de circula",
       "link": "https://nitter.net/GN_Carreteras/status/2039943297150431500#m",
       "date": "2026-04-03T05:49:17+00:00"
-    },
-    {
-      "id": "49b6addd9596",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 39.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #SanLuisPotosí tras #AccidenteVial cerca del km 039+500, de la carretera Carbonera Ent. Morelos Saltillo, a la altura del Mpio. Vanegas, SLP. Maneje con precaución. #ViaLibre en #SanLuisPotosí tras #AccidenteVial cerca del km 039+500, de la carretera Carbonera Ent. M",
-      "link": "https://nitter.net/GN_Carreteras/status/2039940541941514569#m",
-      "date": "2026-04-03T05:38:20+00:00"
-    },
-    {
-      "id": "60d36cb97aac",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 216.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 216+100, de la carretera Maravatío-Zapotlanejo, a la altura del Mpio. Zinapécuaro, Mich. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre parcial d",
-      "link": "https://nitter.net/GN_Carreteras/status/2039930500861575550#m",
-      "date": "2026-04-03T04:58:26+00:00"
     }
   ]
 }
