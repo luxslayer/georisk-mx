@@ -1,7 +1,105 @@
 {
-  "updated": "2026-04-03T17:36:06.709968+00:00",
-  "count": 30,
+  "updated": "2026-04-03T18:51:42.748656+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "ff0875ca0955",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 20, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino y choque contra muro lateral). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 20, dirección CDMX. ",
+      "link": "https://nitter.net/CAPUFE/status/2040139975291736075#m",
+      "date": "2026-04-03T18:50:48+00:00"
+    },
+    {
+      "id": "b2825bfeb945",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 47.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Barranca Larga - Ventanilla, km 47. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Ba",
+      "link": "https://nitter.net/CAPUFE/status/2040135307207618587#m",
+      "date": "2026-04-03T18:32:15+00:00"
+    },
+    {
+      "id": "e64df39f2d03",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 54, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 54, dirección Cuernavaca. El accidente ha",
+      "link": "https://nitter.net/CAPUFE/status/2040129111931101389#m",
+      "date": "2026-04-03T18:07:38+00:00"
+    },
+    {
+      "id": "659b1903dcc5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 47.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Barranca Larga - Ventanilla, km 47. Continúa circulación intermitente en ambos sentidos por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Barranca Larga - Ventanil",
+      "link": "https://nitter.net/CAPUFE/status/2040128098083995726#m",
+      "date": "2026-04-03T18:03:36+00:00"
+    },
+    {
+      "id": "48f4bf722401",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 46.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del km 046+500, de la carretera Oaxaca - Puerto Ángel, con dirección a Puerto Escondido, Oax. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre parcial de circul",
+      "link": "https://nitter.net/GN_Carreteras/status/2040127259839692959#m",
+      "date": "2026-04-03T18:00:17+00:00"
+    },
+    {
+      "id": "174d3b3aad31",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 1.0,
+      "lat": 18.317,
+      "lon": -95.01575,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 1, dirección Isla. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 1, dirección Isla. Red",
+      "link": "https://nitter.net/CAPUFE/status/2040125737617780940#m",
+      "date": "2026-04-03T17:54:14+00:00"
+    },
+    {
+      "id": "eb8a1f57a744",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 54, dirección Cuernavaca. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 54, dirección Cuernavaca. El accidente ha sido a",
+      "link": "https://nitter.net/CAPUFE/status/2040121521440452995#m",
+      "date": "2026-04-03T17:37:28+00:00"
+    },
     {
       "id": "e10fb0eb50e7",
       "account": "@capufe",
@@ -241,34 +339,6 @@
       "date": "2026-04-03T15:03:46+00:00"
     },
     {
-      "id": "5528dc24c570",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Lagos de Moreno - San Luis Potosí, km 16. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Lagos de Moreno - San Luis Potosí, km ",
-      "link": "https://nitter.net/CAPUFE/status/2040081540751700311#m",
-      "date": "2026-04-03T14:58:36+00:00"
-    },
-    {
-      "id": "8d23dba02374",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Lagos de Moreno - San Luis Potosí, km 16. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de las unidades siniestradas). Maneja",
-      "link": "https://nitter.net/CAPUFE/status/2040066734778905019#m",
-      "date": "2026-04-03T13:59:46+00:00"
-    },
-    {
       "id": "6ad71515761f",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -407,20 +477,6 @@
       "text": "#ViaLibre en #Michoacán tras #AccidenteVial cerca del km 084+600, de la carretera Carapan-Playa Azul, a la altura del Mpio. de la Loma, Mich. Maneje con precaución. #ViaLibre en #Michoacán tras #AccidenteVial cerca del km 084+600, de la carretera Carapan-Playa Azul, a la altura d",
       "link": "https://nitter.net/GN_Carreteras/status/2039905718204031111#m",
       "date": "2026-04-03T03:19:57+00:00"
-    },
-    {
-      "id": "9297abbb6e3c",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 72.0,
-      "lat": 29.3532,
-      "lon": -106.3072,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por deslave de talud, cerca del km 072+400 de la carretera Cd. Valle-Cd. Victoria,a la altura del Mpio. Piedras Negras, Tamps. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre p",
-      "link": "https://nitter.net/GN_Carreteras/status/2039903141726953587#m",
-      "date": "2026-04-03T03:09:43+00:00"
     }
   ]
 }
