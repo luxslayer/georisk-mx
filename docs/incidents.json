@@ -1,7 +1,63 @@
 {
-  "updated": "2026-04-03T11:11:02.029411+00:00",
-  "count": 35,
+  "updated": "2026-04-03T12:00:29.441234+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "88ed752d89a2",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 126.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 126+000, de la carretera Lagos de Moreno–Guadalajara/con Ramal a Yuhalica. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre parcial de circulación por ",
+      "link": "https://nitter.net/GN_Carreteras/status/2040036698323554680#m",
+      "date": "2026-04-03T12:00:25+00:00"
+    },
+    {
+      "id": "7e837c44d8ae",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 68.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 68, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). Circulación lenta en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 68, dirección CDMX. ",
+      "link": "https://nitter.net/CAPUFE/status/2040036469943701870#m",
+      "date": "2026-04-03T11:59:31+00:00"
+    },
+    {
+      "id": "ac2b8a646a88",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 141.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 141+200, de la carretera Lagos de Moreno–Guadalajara/con Ramal a Yuhalica. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre parcial de circulación por ",
+      "link": "https://nitter.net/GN_Carreteras/status/2040035897974882400#m",
+      "date": "2026-04-03T11:57:14+00:00"
+    },
+    {
+      "id": "114ad4f4f911",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 64.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 64, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 64, dirección CDMX. Reducción de carriles por atenci",
+      "link": "https://nitter.net/CAPUFE/status/2040026006648504815#m",
+      "date": "2026-04-03T11:17:56+00:00"
+    },
     {
       "id": "e6f7aaa16743",
       "account": "@capufe",
@@ -339,20 +395,6 @@
       "date": "2026-04-03T02:57:32+00:00"
     },
     {
-      "id": "4721e6fcbd4c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 8.0,
-      "lat": 18.296,
-      "lon": -94.986,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 8, dirección Isla. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para retiro de la unidad siniestrada). En la zona se registra carga v",
-      "link": "https://nitter.net/CAPUFE/status/2039898149569941590#m",
-      "date": "2026-04-03T02:49:52+00:00"
-    },
-    {
       "id": "622e7b7016b5",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -477,20 +519,6 @@
       "text": "#ViaLibre en #Jalisco tras #AccidenteVial cerca del km 015+200, de la carretera Guadalajara-Tepic. Maneje con precaución. #ViaLibre en #Jalisco tras #AccidenteVial cerca del km 015+200, de la carretera Guadalajara-Tepic. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2039851929744855515#m",
       "date": "2026-04-02T23:46:13+00:00"
-    },
-    {
-      "id": "777448794afc",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 39.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #SanLuisPotosí continúa cierre total de circulación por maniobras tras #AccidenteVial cerca del km 039+500, de la carretera Carbonera Ent. Morelos Saltillo, a la altura del Mpio. Vanegas, SLP. Atienda indicación vial. #TomePrecauciones en #SanLuisPotosí conti",
-      "link": "https://nitter.net/GN_Carreteras/status/2039846949696766245#m",
-      "date": "2026-04-02T23:26:25+00:00"
     }
   ]
 }
