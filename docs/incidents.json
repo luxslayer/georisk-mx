@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-03T13:42:10.963960+00:00",
-  "count": 34,
+  "updated": "2026-04-03T14:44:39.801318+00:00",
+  "count": 30,
   "incidents": [
+    {
+      "id": "8d23dba02374",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Lagos de Moreno - San Luis Potosí, km 16. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de las unidades siniestradas). Maneja",
+      "link": "https://nitter.net/CAPUFE/status/2040066734778905019#m",
+      "date": "2026-04-03T13:59:46+00:00"
+    },
+    {
+      "id": "d14e8531a9be",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 1.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 1, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 1, dirección Veracruz. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2040065140112924834#m",
+      "date": "2026-04-03T13:53:26+00:00"
+    },
     {
       "id": "6ad71515761f",
       "account": "@GN_carreteras",
@@ -171,20 +199,6 @@
       "date": "2026-04-03T12:10:29+00:00"
     },
     {
-      "id": "63683e517606",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Lagos de Moreno - San Luis Potosí, km 16. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (choque frontal e incendio de automóvil). En la zona se registr",
-      "link": "https://nitter.net/CAPUFE/status/2040037781028630656#m",
-      "date": "2026-04-03T12:04:43+00:00"
-    },
-    {
       "id": "88ed752d89a2",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -199,20 +213,6 @@
       "date": "2026-04-03T12:00:25+00:00"
     },
     {
-      "id": "7e837c44d8ae",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 68.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 68, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). Circulación lenta en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 68, dirección CDMX. ",
-      "link": "https://nitter.net/CAPUFE/status/2040036469943701870#m",
-      "date": "2026-04-03T11:59:31+00:00"
-    },
-    {
       "id": "ac2b8a646a88",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -225,62 +225,6 @@
       "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 141+200, de la carretera Lagos de Moreno–Guadalajara/con Ramal a Yuhalica. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre parcial de circulación por ",
       "link": "https://nitter.net/GN_Carreteras/status/2040035897974882400#m",
       "date": "2026-04-03T11:57:14+00:00"
-    },
-    {
-      "id": "114ad4f4f911",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 64.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 64, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 64, dirección CDMX. Reducción de carriles por atenci",
-      "link": "https://nitter.net/CAPUFE/status/2040026006648504815#m",
-      "date": "2026-04-03T11:17:56+00:00"
-    },
-    {
-      "id": "e6f7aaa16743",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Lagos de Moreno - San Luis Potosí, km 16. Cierre a la circulación en ambos sentidos por atención de accidente (choque frontal e incendio de automóvil). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autop",
-      "link": "https://nitter.net/CAPUFE/status/2040013410922848668#m",
-      "date": "2026-04-03T10:27:53+00:00"
-    },
-    {
-      "id": "f9a60fdd9f09",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 8.0,
-      "lat": 18.296,
-      "lon": -94.986,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 8, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 8, dirección Isla. El accidente ha si",
-      "link": "https://nitter.net/CAPUFE/status/2039971019130012082#m",
-      "date": "2026-04-03T07:39:26+00:00"
-    },
-    {
-      "id": "5c2a5e4cd751",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Méx–Acapulco",
-      "route_key": "mexico-acapulco",
-      "km": 195.0,
-      "lat": 17.395,
-      "lon": -99.522222,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 195, dirección Querétaro. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 195, dirección Querétaro. El incidente ha s",
-      "link": "https://nitter.net/CAPUFE/status/2039965325748269482#m",
-      "date": "2026-04-03T07:16:49+00:00"
     },
     {
       "id": "005aead50de3",
