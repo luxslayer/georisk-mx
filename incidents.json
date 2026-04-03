@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-03T10:10:27.273522+00:00",
-  "count": 34,
+  "updated": "2026-04-03T11:11:02.029411+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "e6f7aaa16743",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Lagos de Moreno - San Luis Potosí, km 16. Cierre a la circulación en ambos sentidos por atención de accidente (choque frontal e incendio de automóvil). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autop",
+      "link": "https://nitter.net/CAPUFE/status/2040013410922848668#m",
+      "date": "2026-04-03T10:27:53+00:00"
+    },
     {
       "id": "f9a60fdd9f09",
       "account": "@capufe",
