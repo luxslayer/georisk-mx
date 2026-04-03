@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-03T19:39:10.129470+00:00",
+  "updated": "2026-04-03T20:39:41.890018+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "2307311a69ce",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 96.0,
+      "lat": 18.253631,
+      "lon": -99.522849,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96. Registra carga vehicular en dirección Acapulco, por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96. Registra carga vehicular en dirección Acapulco, por periodo vacac",
+      "link": "https://nitter.net/CAPUFE/status/2040163788406628746#m",
+      "date": "2026-04-03T20:25:26+00:00"
+    },
+    {
+      "id": "ed3a689aebf2",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 113.0,
+      "lat": 19.051143,
+      "lon": -98.066743,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 113+000, de la carretera México-Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 113+000, ",
+      "link": "https://nitter.net/GN_Carreteras/status/2040156249400996258#m",
+      "date": "2026-04-03T19:55:28+00:00"
+    },
     {
       "id": "7be2c0dadcbd",
       "account": "@capufe",
@@ -297,20 +325,6 @@
       "date": "2026-04-03T16:23:06+00:00"
     },
     {
-      "id": "e308062babf3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 66.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Barranca Larga - Ventanilla, km 66. Circulación intermitente en ambos sentidos por atención de accidente (choque contra barrera metálica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Barranca Larga - Ventanilla, k",
-      "link": "https://nitter.net/CAPUFE/status/2040100630845432206#m",
-      "date": "2026-04-03T16:14:28+00:00"
-    },
-    {
       "id": "c5b038b46e1b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,20 +505,6 @@
       "text": "#TomePrecauciones en #SanLuisPotosí continúa cierre total de circulación por maniobras tras #AccidenteVial cerca del km 039+500, de la carretera Carbonera Ent. Morelos Saltillo, a la altura del Mpio. Vanegas, SLP. Atienda indicación vial. #TomePrecauciones en #SanLuisPotosí conti",
       "link": "https://nitter.net/GN_Carreteras/status/2039917434182787125#m",
       "date": "2026-04-03T04:06:30+00:00"
-    },
-    {
-      "id": "243d29deebd1",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 84.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Michoacán tras #AccidenteVial cerca del km 084+600, de la carretera Carapan-Playa Azul, a la altura del Mpio. de la Loma, Mich. Maneje con precaución. #ViaLibre en #Michoacán tras #AccidenteVial cerca del km 084+600, de la carretera Carapan-Playa Azul, a la altura d",
-      "link": "https://nitter.net/GN_Carreteras/status/2039905718204031111#m",
-      "date": "2026-04-03T03:19:57+00:00"
     }
   ]
 }
