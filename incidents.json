@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-04T08:02:47.819958+00:00",
-  "count": 36,
+  "updated": "2026-04-04T09:07:20.147161+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "b9655ffdd942",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 21. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 21. El accidente h",
+      "link": "https://nitter.net/CAPUFE/status/2040349812982473052#m",
+      "date": "2026-04-04T08:44:37+00:00"
+    },
+    {
+      "id": "4647b5e6217f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 93.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que continúa la atención del accidente, al momento sin afectación a los carriles de circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. ☑️ ACTUALIZ",
+      "link": "https://nitter.net/CAPUFE/status/2040348259924005203#m",
+      "date": "2026-04-04T08:38:27+00:00"
+    },
     {
       "id": "3ec1d1b01c6e",
       "account": "@GN_carreteras",
@@ -491,20 +519,6 @@
       "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, continúa #lluvia del km 96 al 118. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, continúa #lluvia del km 96 al 118. Disminuye tu velocidad y man",
       "link": "https://nitter.net/CAPUFE/status/2040259485017477314#m",
       "date": "2026-04-04T02:45:42+00:00"
-    },
-    {
-      "id": "87a8d61026c0",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 171.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 171, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 171, dirección CDMX. El accidente ha sido atend",
-      "link": "https://nitter.net/CAPUFE/status/2040259173816938708#m",
-      "date": "2026-04-04T02:44:27+00:00"
     }
   ]
 }
