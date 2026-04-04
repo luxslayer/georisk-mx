@@ -1,7 +1,63 @@
 {
-  "updated": "2026-04-04T19:32:33.512965+00:00",
-  "count": 37,
+  "updated": "2026-04-04T20:34:53.117678+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "b65db4142bcc",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 93.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro ,",
+      "link": "https://nitter.net/CAPUFE/status/2040520619947659627#m",
+      "date": "2026-04-04T20:03:21+00:00"
+    },
+    {
+      "id": "78a0a9ed8576",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 36.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 36, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 36, dirección CDMX. El accidente ha sido atendi",
+      "link": "https://nitter.net/CAPUFE/status/2040519132861338096#m",
+      "date": "2026-04-04T19:57:26+00:00"
+    },
+    {
+      "id": "4d2fd8bd398e",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 170.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal se encuentra realizando las labores de trasvase de combustible. Maneja con precaución. Para más ",
+      "link": "https://nitter.net/CAPUFE/status/2040514183276773711#m",
+      "date": "2026-04-04T19:37:46+00:00"
+    },
+    {
+      "id": "9e03b5bd5af2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 77.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 77, dirección Navojoa. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 77, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2040513028874027248#m",
+      "date": "2026-04-04T19:33:11+00:00"
+    },
     {
       "id": "3da6bd3f0f9e",
       "account": "@capufe",
@@ -17,7 +73,7 @@
       "date": "2026-04-04T19:23:22+00:00"
     },
     {
-      "id": "3c3290f146d1",
+      "id": "c6a4a098f162",
       "account": "@capufe",
       "type": "closure",
       "highway": "Isla–Acayucan",
@@ -26,7 +82,7 @@
       "lat": 17.948,
       "lon": -94.914,
       "resolved": true,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de tracto camión siniestrado. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. ",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de tracto camión siniestrado. Toma tus precauciones. Para más información llama al 0⃣",
       "link": "https://nitter.net/CAPUFE/status/2040510144941830456#m",
       "date": "2026-04-04T19:21:44+00:00"
     },
@@ -171,20 +227,6 @@
       "date": "2026-04-04T14:58:39+00:00"
     },
     {
-      "id": "9ae67e8c8e74",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 87.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 87, dirección CDMX. El accidente en carriles laterales ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 87, dirección CDMX. El",
-      "link": "https://nitter.net/CAPUFE/status/2040442522770526377#m",
-      "date": "2026-04-04T14:53:01+00:00"
-    },
-    {
       "id": "6734cd77fb36",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -197,20 +239,6 @@
       "text": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 002+300, de la carretera Tierra Colorada - Cruz Grande. Atienda indicación vial. #TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial ce",
       "link": "https://nitter.net/GN_Carreteras/status/2040441481400299986#m",
       "date": "2026-04-04T14:48:53+00:00"
-    },
-    {
-      "id": "1dbf2eabf0b8",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 35.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 35, dirección Cuernavaca. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 35, dirección Cuernavaca. Reducc",
-      "link": "https://nitter.net/CAPUFE/status/2040438359806378295#m",
-      "date": "2026-04-04T14:36:29+00:00"
     },
     {
       "id": "99eb5e8c781e",
@@ -283,20 +311,6 @@
       "date": "2026-04-04T13:38:50+00:00"
     },
     {
-      "id": "2d8b218d1398",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 87.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 87, dirección CDMX. Reducción de carriles laterales por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 87, dirección CDMX. Reducci",
-      "link": "https://nitter.net/CAPUFE/status/2040419473253863926#m",
-      "date": "2026-04-04T13:21:26+00:00"
-    },
-    {
       "id": "aab85973e015",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -351,20 +365,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 069+500, de la carretera México-Puebla, con dirección a Ciudad de México. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #Ac",
       "link": "https://nitter.net/GN_Carreteras/status/2040386807641022578#m",
       "date": "2026-04-04T11:11:38+00:00"
-    },
-    {
-      "id": "4647b5e6217f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que continúa la atención del accidente, al momento sin afectación a los carriles de circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. ☑️ ACTUALIZ",
-      "link": "https://nitter.net/CAPUFE/status/2040348259924005203#m",
-      "date": "2026-04-04T08:38:27+00:00"
     },
     {
       "id": "3ec1d1b01c6e",
@@ -491,34 +491,6 @@
       "text": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 000+500, de la carretera La Chicharrona - Cuencamé. Atienda indicación vial. #TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerc",
       "link": "https://nitter.net/GN_Carreteras/status/2040309716992045178#m",
       "date": "2026-04-04T06:05:18+00:00"
-    },
-    {
-      "id": "58d5f44058d5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 170.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 170. Cierre a la circulación en ambos sentidos por atención de accidente (incendio de tracto camión tipo pipa). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan",
-      "link": "https://nitter.net/CAPUFE/status/2040302194864378327#m",
-      "date": "2026-04-04T05:35:24+00:00"
-    },
-    {
-      "id": "465f1e131d05",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 93, dirección CDMX. Registra reducción de carriles por atención de accidente (incendio de tracto camión). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro",
-      "link": "https://nitter.net/CAPUFE/status/2040247694250160181#m",
-      "date": "2026-04-04T01:58:50+00:00"
     }
   ]
 }
