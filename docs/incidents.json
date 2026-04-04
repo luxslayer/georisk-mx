@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-04T11:00:09.210688+00:00",
-  "count": 37,
+  "updated": "2026-04-04T11:37:54.687630+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "b369cb73d9bf",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 7.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 007+500, de la carretera Puebla - Tlaxcala. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 007+5",
+      "link": "https://nitter.net/GN_Carreteras/status/2040392997494284797#m",
+      "date": "2026-04-04T11:36:13+00:00"
+    },
+    {
+      "id": "d99c5276cfd0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 206.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. La Carbonera - Puerto México, km 206, dirección La Carbonera. El accidente ha sido atendido, por lo que se restablece la circulación desde la Plaza de Cobro Los Chorros. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLE",
+      "link": "https://nitter.net/CAPUFE/status/2040387601895444612#m",
+      "date": "2026-04-04T11:14:47+00:00"
+    },
+    {
+      "id": "9eed95f0e5fb",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 69.0,
+      "lat": 19.128175,
+      "lon": -98.413175,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 069+500, de la carretera México-Puebla, con dirección a Ciudad de México. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #Ac",
+      "link": "https://nitter.net/GN_Carreteras/status/2040386807641022578#m",
+      "date": "2026-04-04T11:11:38+00:00"
+    },
     {
       "id": "b8122cc665c2",
       "account": "@capufe",
@@ -491,34 +533,6 @@
       "text": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 115+000, de la carretera Guadalajara - Tepic, con dirección a Tepic, Nay. Atienda indicación vial. #TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #",
       "link": "https://nitter.net/GN_Carreteras/status/2040274864573907215#m",
       "date": "2026-04-04T03:46:48+00:00"
-    },
-    {
-      "id": "e94cda522592",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 282.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Campeche tras cierre total de circulación por #AccidenteVial cerca del km 282+000, de la carretera Villahermosa-Fco. Escárcega, con dirección a Escárcega. Maneje con precaución. #VíaLibre en #Campeche tras cierre total de circulación por #AccidenteVial cerca del km ",
-      "link": "https://nitter.net/GN_Carreteras/status/2040271967459185014#m",
-      "date": "2026-04-04T03:35:18+00:00"
-    },
-    {
-      "id": "4ccbba35bdd2",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Zac–Durango",
-      "route_key": "zacatecas-durango",
-      "km": 273.0,
-      "lat": 24.029,
-      "lon": -104.6628,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Durango se registra cierre parcial de circulación por #AccidenteVial cerca del km 273+200, de la carretera Zacatecas - Durango. Atienda indicación vial. #TomePrecauciones en #Durango se registra cierre parcial de circulación por #AccidenteVial cerca del km 2",
-      "link": "https://nitter.net/GN_Carreteras/status/2040267356614570150#m",
-      "date": "2026-04-04T03:16:58+00:00"
     }
   ]
 }
