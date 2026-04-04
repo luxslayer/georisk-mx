@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-04T15:42:40.962413+00:00",
-  "count": 37,
+  "updated": "2026-04-04T16:38:28.980517+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "f34576d3836d",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 170.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que continúa reducción de carriles. El personal se encuentra realizando las labores de trasvase de combustible. Maneja con precaución. Para más información llama al 0⃣7",
+      "link": "https://nitter.net/CAPUFE/status/2040465024657817988#m",
+      "date": "2026-04-04T16:22:26+00:00"
+    },
     {
       "id": "b6408c6aaeff",
       "account": "@capufe",
@@ -143,7 +157,7 @@
       "date": "2026-04-04T14:04:26+00:00"
     },
     {
-      "id": "4d90a25bf784",
+      "id": "ab059ac2cd70",
       "account": "@capufe",
       "type": "alert",
       "highway": "Isla–Acayucan",
@@ -152,7 +166,7 @@
       "lat": 17.948,
       "lon": -94.914,
       "resolved": true,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que continúa reducción de carriles. El personal se encuentra realizando las labores de trasvase de combustible. Maneja con precaución. Para más información llama al 0⃣7",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que continúa reducción de carriles. El personal se encuentra realizando las labores de trasvase de combustible. Maneja con precaución. Para más información llama ",
       "link": "https://nitter.net/CAPUFE/status/2040424347991417089#m",
       "date": "2026-04-04T13:40:48+00:00"
     },
