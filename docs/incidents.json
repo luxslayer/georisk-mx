@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-04T09:07:20.147161+00:00",
-  "count": 37,
+  "updated": "2026-04-04T10:01:52.720586+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "06d6a58dab73",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 174.0,
+      "lat": 16.870828,
+      "lon": -99.819892,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 174, dirección Cuernavaca. Reducción de carriles por atención de accidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 174, direc",
+      "link": "https://nitter.net/CAPUFE/status/2040368351428460758#m",
+      "date": "2026-04-04T09:58:17+00:00"
+    },
+    {
+      "id": "f032230b46c4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 261.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 261, dirección Cuernavaca. Reducción de carriles por atención de accidente (tracto camión siniestrado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 261, direcció",
+      "link": "https://nitter.net/CAPUFE/status/2040367884841476477#m",
+      "date": "2026-04-04T09:56:26+00:00"
+    },
+    {
+      "id": "c86dcfc7036b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 206.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Carbonera - Puerto México, km 206, dirección La Carbonera. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 ",
+      "link": "https://nitter.net/CAPUFE/status/2040367311291359636#m",
+      "date": "2026-04-04T09:54:09+00:00"
+    },
     {
       "id": "b9655ffdd942",
       "account": "@capufe",
@@ -491,34 +533,6 @@
       "text": "#TomePrecauciones en #Durango se registra cierre parcial de circulación por #AccidenteVial cerca del km 273+200, de la carretera Zacatecas - Durango. Atienda indicación vial. #TomePrecauciones en #Durango se registra cierre parcial de circulación por #AccidenteVial cerca del km 2",
       "link": "https://nitter.net/GN_Carreteras/status/2040267356614570150#m",
       "date": "2026-04-04T03:16:58+00:00"
-    },
-    {
-      "id": "3767784b44f8",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las labores correspondientes para la atención del accidente. En la zona se re",
-      "link": "https://nitter.net/CAPUFE/status/2040260540073685368#m",
-      "date": "2026-04-04T02:49:53+00:00"
-    },
-    {
-      "id": "22f0e72460b3",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 96.0,
-      "lat": 18.253631,
-      "lon": -99.522849,
-      "resolved": true,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, continúa #lluvia del km 96 al 118. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, continúa #lluvia del km 96 al 118. Disminuye tu velocidad y man",
-      "link": "https://nitter.net/CAPUFE/status/2040259485017477314#m",
-      "date": "2026-04-04T02:45:42+00:00"
     }
   ]
 }
