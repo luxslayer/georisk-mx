@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-04T20:34:53.117678+00:00",
-  "count": 35,
+  "updated": "2026-04-04T21:34:21.923783+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "db9b578e43ba",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 368.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por #AccidenteVial cerca del km 368+300, de la carretera Pinotepa Nacional -Salina Cruz. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre total de circulación por #AccidenteVial cerca del",
+      "link": "https://nitter.net/GN_Carreteras/status/2040542867471425808#m",
+      "date": "2026-04-04T21:31:45+00:00"
+    },
+    {
+      "id": "60c934a17b43",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoCuernavaca, dirección CDMX. Registra carga vehicular en diversos puntos de la autopista, por periodo vacacional: 🔘 Km 19, a la altura del Puente Chimalcoyotl. 🔘 Km 24, a la altura de la incorporación al Viaducto Elevado Tlalpan. 🔘 Km 31, a la altur",
+      "link": "https://nitter.net/CAPUFE/status/2040529620936654987#m",
+      "date": "2026-04-04T20:39:07+00:00"
+    },
     {
       "id": "b65db4142bcc",
       "account": "@capufe",
@@ -197,34 +225,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 35, dirección Cuernavaca. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 35, dirección Cuernavaca. El incidente ha",
       "link": "https://nitter.net/CAPUFE/status/2040451554612793718#m",
       "date": "2026-04-04T15:28:55+00:00"
-    },
-    {
-      "id": "cef6e3f61c9b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 77.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 77, dirección Navojoa. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojo",
-      "link": "https://nitter.net/CAPUFE/status/2040447050915979634#m",
-      "date": "2026-04-04T15:11:01+00:00"
-    },
-    {
-      "id": "00201acc69a2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que continúa la atención del accidente, al momento sin afectación a los carriles de circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. ☑️ ACTUALIZ",
-      "link": "https://nitter.net/CAPUFE/status/2040443938432008369#m",
-      "date": "2026-04-04T14:58:39+00:00"
     },
     {
       "id": "6734cd77fb36",
@@ -477,20 +477,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre total de circulación por #AccidenteVial cerca del km 170+300, de la carretera Etn. la Tinaja-Cosoleacaque. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre total de circulación por #AccidenteVial cerca de",
       "link": "https://nitter.net/GN_Carreteras/status/2040315886389604827#m",
       "date": "2026-04-04T06:29:49+00:00"
-    },
-    {
-      "id": "77a77574d4f5",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 000+500, de la carretera La Chicharrona - Cuencamé. Atienda indicación vial. #TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerc",
-      "link": "https://nitter.net/GN_Carreteras/status/2040309716992045178#m",
-      "date": "2026-04-04T06:05:18+00:00"
     }
   ]
 }
