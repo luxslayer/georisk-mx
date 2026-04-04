@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-04T16:38:28.980517+00:00",
+  "updated": "2026-04-04T17:33:41.144460+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "be11d91534cd",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 77.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 77, dirección Navojoa. Continúa reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don",
+      "link": "https://nitter.net/CAPUFE/status/2040479250680066412#m",
+      "date": "2026-04-04T17:18:58+00:00"
+    },
+    {
+      "id": "29ce3480ab2b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 0.0,
+      "lat": 18.32,
+      "lon": -95.02,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autop",
+      "link": "https://nitter.net/CAPUFE/status/2040472243025711524#m",
+      "date": "2026-04-04T16:51:07+00:00"
+    },
     {
       "id": "f34576d3836d",
       "account": "@capufe",
@@ -365,34 +393,6 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Carbonera - Puerto México, km 206, dirección La Carbonera. Continúa cierre a la circulación por atención del accidente (maniobras para el retiro de unidad siniestrada). 🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Los Chorros perma",
       "link": "https://nitter.net/CAPUFE/status/2040377667396968722#m",
       "date": "2026-04-04T10:35:18+00:00"
-    },
-    {
-      "id": "867db3651727",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 174.0,
-      "lat": 16.870828,
-      "lon": -99.819892,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 174, dirección Cuernavaca. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 174, direc",
-      "link": "https://nitter.net/CAPUFE/status/2040371828430905517#m",
-      "date": "2026-04-04T10:12:06+00:00"
-    },
-    {
-      "id": "05abaac2f847",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 170.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que continúa reducción de carriles. El personal de CAPUFE se encuentra realizando las labores de atención del accidente. Maneja con precaución. Para más información ll",
-      "link": "https://nitter.net/CAPUFE/status/2040371090086596732#m",
-      "date": "2026-04-04T10:09:10+00:00"
     },
     {
       "id": "3ec1d1b01c6e",
