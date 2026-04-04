@@ -1,20 +1,62 @@
 {
-  "updated": "2026-04-04T10:01:52.720586+00:00",
-  "count": 38,
+  "updated": "2026-04-04T11:00:09.210688+00:00",
+  "count": 37,
   "incidents": [
     {
-      "id": "06d6a58dab73",
+      "id": "b8122cc665c2",
       "account": "@capufe",
-      "type": "accident",
+      "type": "alert",
       "highway": "Cuernavaca–Acapulco",
       "route_key": "cuernavaca-acapulco",
       "km": 174.0,
       "lat": 16.870828,
       "lon": -99.819892,
       "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 174, dirección Cuernavaca. Reducción de carriles por atención de accidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 174, direc",
-      "link": "https://nitter.net/CAPUFE/status/2040368351428460758#m",
-      "date": "2026-04-04T09:58:17+00:00"
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 174, dirección Cuernavaca. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 174, dirección Cuer",
+      "link": "https://nitter.net/CAPUFE/status/2040380691976691904#m",
+      "date": "2026-04-04T10:47:20+00:00"
+    },
+    {
+      "id": "9f77c96322f3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 206.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Carbonera - Puerto México, km 206, dirección La Carbonera. Continúa cierre a la circulación por atención del accidente (maniobras para el retiro de unidad siniestrada). 🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Los Chorros perma",
+      "link": "https://nitter.net/CAPUFE/status/2040377667396968722#m",
+      "date": "2026-04-04T10:35:18+00:00"
+    },
+    {
+      "id": "867db3651727",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 174.0,
+      "lat": 16.870828,
+      "lon": -99.819892,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 174, dirección Cuernavaca. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 174, direc",
+      "link": "https://nitter.net/CAPUFE/status/2040371828430905517#m",
+      "date": "2026-04-04T10:12:06+00:00"
+    },
+    {
+      "id": "7d6628ee1f24",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 170.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Aut. Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que continúa reducción de carriles. El personal de CAPUFE se encuentra realizando las labores de atención del accidente. Maneja con precaución. Para más información llama al",
+      "link": "https://nitter.net/CAPUFE/status/2040371090086596732#m",
+      "date": "2026-04-04T10:09:10+00:00"
     },
     {
       "id": "f032230b46c4",
@@ -171,7 +213,7 @@
       "date": "2026-04-04T07:23:41+00:00"
     },
     {
-      "id": "ad3365192780",
+      "id": "f16c1e1d22b3",
       "account": "@capufe",
       "type": "accident",
       "highway": "Isla–Acayucan",
@@ -180,7 +222,7 @@
       "lat": 17.948,
       "lon": -94.914,
       "resolved": true,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Aut. Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El Personal de CAPUFE y Protección Civil, continúan realizando las labores de atención del accidente. Maneja con ",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El Personal de CAPUFE y Protección Civil, continúan realizando las labores de atención del accidente. Manej",
       "link": "https://nitter.net/CAPUFE/status/2040326518245654903#m",
       "date": "2026-04-04T07:12:04+00:00"
     },
@@ -353,20 +395,6 @@
       "date": "2026-04-04T04:45:21+00:00"
     },
     {
-      "id": "e742134ef111",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 21.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 21. Registra circulación intermitente en ambos sentidos por atención de accidente (volcadura de camión de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, ",
-      "link": "https://nitter.net/CAPUFE/status/2040286461690310951#m",
-      "date": "2026-04-04T04:32:53+00:00"
-    },
-    {
       "id": "43f00a639874",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -437,34 +465,6 @@
       "date": "2026-04-04T04:05:45+00:00"
     },
     {
-      "id": "9485411dc297",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 70.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 70, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 70, dirección CDMX. Reducción de carriles por atención d",
-      "link": "https://nitter.net/CAPUFE/status/2040277985249357904#m",
-      "date": "2026-04-04T03:59:12+00:00"
-    },
-    {
-      "id": "0f6336109f45",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación de manera normal. El personal continúa con la atención del accidente, al momento sin afectación a los carriles de rodamiento. Sin embarg",
-      "link": "https://nitter.net/CAPUFE/status/2040276292570898874#m",
-      "date": "2026-04-04T03:52:29+00:00"
-    },
-    {
       "id": "f6f9fa13f2bd",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,20 +491,6 @@
       "text": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 115+000, de la carretera Guadalajara - Tepic, con dirección a Tepic, Nay. Atienda indicación vial. #TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #",
       "link": "https://nitter.net/GN_Carreteras/status/2040274864573907215#m",
       "date": "2026-04-04T03:46:48+00:00"
-    },
-    {
-      "id": "a379911dc842",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 45.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 45, dirección CDMX. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 45, dirección CDMX. Reducción de carriles por atención ",
-      "link": "https://nitter.net/CAPUFE/status/2040273496157139309#m",
-      "date": "2026-04-04T03:41:22+00:00"
     },
     {
       "id": "e94cda522592",
