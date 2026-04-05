@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-05T06:42:38.200072+00:00",
-  "count": 27,
+  "updated": "2026-04-05T07:55:21.567011+00:00",
+  "count": 28,
   "incidents": [
+    {
+      "id": "370a19d56138",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 23.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 23, dirección Querétaro. Reducción de carriles por atención de accidente (camión de carga siniestrado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 23, dirección Q",
+      "link": "https://nitter.net/CAPUFE/status/2040698618328367162#m",
+      "date": "2026-04-05T07:50:39+00:00"
+    },
     {
       "id": "54e6c824522e",
       "account": "@capufe",
