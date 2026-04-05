@@ -1,20 +1,48 @@
 {
-  "updated": "2026-04-05T15:01:56.065757+00:00",
+  "updated": "2026-04-05T15:56:36.531722+00:00",
   "count": 32,
   "incidents": [
     {
-      "id": "89bf03fce89e",
+      "id": "cd05f12e2952",
       "account": "@capufe",
       "type": "traffic",
       "highway": "Cuernavaca–Acapulco",
       "route_key": "cuernavaca-acapulco",
-      "km": 101.0,
-      "lat": 18.164989,
-      "lon": -99.541891,
+      "km": 96.0,
+      "lat": 18.253631,
+      "lon": -99.522849,
       "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 101 al 96 por periodo vacacional, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga",
-      "link": "https://nitter.net/CAPUFE/status/2040806648273416621#m",
-      "date": "2026-04-05T14:59:55+00:00"
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Continúa carga vehicular intensa, por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Continúa carga vehicular intensa, p",
+      "link": "https://nitter.net/CAPUFE/status/2040816449850048798#m",
+      "date": "2026-04-05T15:38:52+00:00"
+    },
+    {
+      "id": "7ca36b64aa49",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 13.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 013+200, de la carretera Libramiento Guaymas. Atienda indicación vial. #TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 013",
+      "link": "https://nitter.net/GN_Carreteras/status/2040808496975806602#m",
+      "date": "2026-04-05T15:07:16+00:00"
+    },
+    {
+      "id": "5c1d70746f6f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 85.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 85, dirección CDMX. Cierre a la circulación en carriles centrales por atención de accidente (choque contra muro central). Circulación por carriles laterales. En la zona se registra carga vehicular. Maneja con precaución",
+      "link": "https://nitter.net/CAPUFE/status/2040808417653145934#m",
+      "date": "2026-04-05T15:06:57+00:00"
     },
     {
       "id": "7a802830ec5a",
@@ -169,20 +197,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 20, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 20, dirección CDMX. Reducción de carriles por atenci",
       "link": "https://nitter.net/CAPUFE/status/2040749417821585865#m",
       "date": "2026-04-05T11:12:31+00:00"
-    },
-    {
-      "id": "0cb86b0b3e27",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 41.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 41, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 41, dirección CDMX. Reducción de carrile",
-      "link": "https://nitter.net/CAPUFE/status/2040727074084679880#m",
-      "date": "2026-04-05T09:43:43+00:00"
     },
     {
       "id": "674c8ba47ffc",
@@ -435,20 +449,6 @@
       "text": "#VíaLibre en #Coahuila tras #AccidenteVial derivado a las condiciones meteorológicas, cerca del km 167+400, de la carretera Monclova - Piedras Negras. Maneje con precaución. #VíaLibre en #Coahuila tras #AccidenteVial derivado a las condiciones meteorológicas, cerca del km 167+400",
       "link": "https://nitter.net/GN_Carreteras/status/2040335925520064699#m",
       "date": "2026-04-04T07:49:26+00:00"
-    },
-    {
-      "id": "a99d5e0e8bae",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 020+500, de la carretera Puente Ixtla-Iguala, con dirección a Iguala, Gro. Atienda indicación vial. #TomePrecauciones en #Guerrero se registra cierre parcial de circulación po",
-      "link": "https://nitter.net/GN_Carreteras/status/2040333843287126446#m",
-      "date": "2026-04-04T07:41:10+00:00"
     }
   ]
 }
