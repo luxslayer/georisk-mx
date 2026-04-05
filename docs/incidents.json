@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-05T13:02:35.994341+00:00",
-  "count": 30,
+  "updated": "2026-04-05T14:05:44.706273+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "b605a511d258",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 14.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Guaymas, km 14, dirección Guaymas. Continúa reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Guaymas, km 14, direcci",
+      "link": "https://nitter.net/CAPUFE/status/2040790251929571345#m",
+      "date": "2026-04-05T13:54:46+00:00"
+    },
+    {
+      "id": "245aa47df4b2",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🚧 #AVISO a las personas usuarias de la autopista #MéxicoPuebla 🚧 Por trabajos de montaje de postes, placas y perfiles de acero en los km 20 y 21, se implementarán desvíos temporales. Tome sus precauciones. 🚧 #AVISO a las personas usuarias de la autopista #MéxicoPuebla 🚧 Por traba",
+      "link": "https://nitter.net/CAPUFE/status/2040785223848194096#m",
+      "date": "2026-04-05T13:34:47+00:00"
+    },
+    {
+      "id": "7323af75706e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 179.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 179, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (volcadura de vagoneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 179, direcci",
+      "link": "https://nitter.net/CAPUFE/status/2040784953718329685#m",
+      "date": "2026-04-05T13:33:43+00:00"
+    },
     {
       "id": "0c5c18ba9406",
       "account": "@GN_carreteras",
@@ -155,20 +197,6 @@
       "text": "#ViaLibre en #Oaxaca tras #AccidenteVial cerca del km 368+300, de la carretera Pinotepa Nacional -Salina Cruz. Maneje con precaución. #ViaLibre en #Oaxaca tras #AccidenteVial cerca del km 368+300, de la carretera Pinotepa Nacional -Salina Cruz. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2040638903187648929#m",
       "date": "2026-04-05T03:53:22+00:00"
-    },
-    {
-      "id": "abeaeb8ea050",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 170.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTAB",
-      "link": "https://nitter.net/CAPUFE/status/2040624608387252694#m",
-      "date": "2026-04-05T02:56:34+00:00"
     },
     {
       "id": "9adb0ef042ab",
