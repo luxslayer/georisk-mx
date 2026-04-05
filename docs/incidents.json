@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-05T15:56:36.531722+00:00",
-  "count": 32,
+  "updated": "2026-04-05T16:43:35.655156+00:00",
+  "count": 30,
   "incidents": [
     {
       "id": "cd05f12e2952",
@@ -169,34 +169,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 20, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 20, dirección CDMX. El accidente ha sido atendido. Tram",
       "link": "https://nitter.net/CAPUFE/status/2040763508401246282#m",
       "date": "2026-04-05T12:08:30+00:00"
-    },
-    {
-      "id": "dac125c62842",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 41.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 41, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 41, dirección CDMX. El accidente ha sido atendi",
-      "link": "https://nitter.net/CAPUFE/status/2040759291326410881#m",
-      "date": "2026-04-05T11:51:45+00:00"
-    },
-    {
-      "id": "8b4d4515f7d8",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 20, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 20, dirección CDMX. Reducción de carriles por atenci",
-      "link": "https://nitter.net/CAPUFE/status/2040749417821585865#m",
-      "date": "2026-04-05T11:12:31+00:00"
     },
     {
       "id": "674c8ba47ffc",
