@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-06T21:59:54.299109+00:00",
-  "count": 30,
+  "updated": "2026-04-06T22:50:33.001152+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "20c2bebe090e",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 165.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán se registra cierre total de circulación por #AccidenteVial cerca del km 165+300, de la carretera Maravatío-Zapotlanejo, con dirección a Maravatío. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre total de circulación por ",
+      "link": "https://nitter.net/GN_Carreteras/status/2041286105484456062#m",
+      "date": "2026-04-06T22:45:07+00:00"
+    },
+    {
+      "id": "ae828ad9af59",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 205.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 205. Registra circulación intermitente en ambos sentidos, por atención de choque por alcance entre tracto camión y automóvil particular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/LE",
+      "link": "https://nitter.net/CAPUFE/status/2041282138557805040#m",
+      "date": "2026-04-06T22:29:21+00:00"
+    },
+    {
+      "id": "1745c7dea5dd",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Chihuahua tras presencia de personas cerca del km 020+000, en la carretera Juárez-Villa Ahumada. Maneje con precaución. #ViaLibre en #Chihuahua tras presencia de personas cerca del km 020+000, en la carretera Juárez-Villa Ahumada. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2041281231254331453#m",
+      "date": "2026-04-06T22:25:45+00:00"
+    },
     {
       "id": "cb07f59f983b",
       "account": "@capufe",
@@ -393,34 +435,6 @@
       "text": "#TomePrecauciones en #Chihuahua se registra cierre parcial de circulación sobre las vías del ferrocarril, por presencia de personas, cerca del km 074+200, en la carretera Jiménez-Camargo Libre. Atienda indicación Vial. #TomePrecauciones en #Chihuahua se registra cierre parcial de",
       "link": "https://nitter.net/GN_Carreteras/status/2041207276376101077#m",
       "date": "2026-04-06T17:31:53+00:00"
-    },
-    {
-      "id": "28b83dc2b9e3",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 18.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 18, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 18, dirección Córdoba. El inc",
-      "link": "https://nitter.net/CAPUFE/status/2041203493428490706#m",
-      "date": "2026-04-06T17:16:51+00:00"
-    },
-    {
-      "id": "094d0f11a8ed",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 194.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Tlaxcala se registra cierre total de circulación por presencia de personas cerca del km 194+800, en la carretera Libramiento Norte de la Ciudad de México, se proporciona vialidad A la altura de la caseta de cobro de Sanctorum, Tlax. Atienda indicación Vial. ",
-      "link": "https://nitter.net/GN_Carreteras/status/2041203181451878715#m",
-      "date": "2026-04-06T17:15:36+00:00"
     }
   ]
 }
