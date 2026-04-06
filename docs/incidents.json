@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-06T20:05:05.003520+00:00",
-  "count": 32,
+  "updated": "2026-04-06T21:04:09.306654+00:00",
+  "count": 30,
   "incidents": [
+    {
+      "id": "b24beef7401b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 125.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Las Choapas - Ocozocoautla, km 125. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙",
+      "link": "https://nitter.net/CAPUFE/status/2041256777254150557#m",
+      "date": "2026-04-06T20:48:35+00:00"
+    },
+    {
+      "id": "71a40316ddb2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 125.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Las Choapas - Ocozocoautla, km 125. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente. En la zona se registra carga ve",
+      "link": "https://nitter.net/CAPUFE/status/2041250710050725963#m",
+      "date": "2026-04-06T20:24:28+00:00"
+    },
+    {
+      "id": "7e1fe1293ae6",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 74.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #BCS #LosCabos tras presencia de personas, cerca del km 074+200, en la carretera Jiménez-Camargo Libre. Maneje con precaución. #ViaLibre en #BCS #LosCabos tras presencia de personas, cerca del km 074+200, en la carretera Jiménez-Camargo Libre. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2041247914966565298#m",
+      "date": "2026-04-06T20:13:22+00:00"
+    },
     {
       "id": "74a28bdc0ad7",
       "account": "@capufe",
@@ -339,20 +381,6 @@
       "date": "2026-04-06T16:58:59+00:00"
     },
     {
-      "id": "36ca924f7d22",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 43.0,
-      "lat": 19.206667,
-      "lon": -98.616,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 043+500, de la carretera Amozoc-Teziutlan. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 043+50",
-      "link": "https://nitter.net/GN_Carreteras/status/2041198578320687434#m",
-      "date": "2026-04-06T16:57:19+00:00"
-    },
-    {
       "id": "8845fd1fad5f",
       "account": "@capufe",
       "type": "accident",
@@ -365,34 +393,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 182, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 182, dirección Isla. El accidente ha ",
       "link": "https://nitter.net/CAPUFE/status/2041197831445188964#m",
       "date": "2026-04-06T16:54:21+00:00"
-    },
-    {
-      "id": "f3e5a65736d9",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chihuahua se registra cierre parcial de circulación por presencia de personas cerca del km 020+000, en la carretera Juárez-Villa Ahumada. Atienda indicación Vial. #TomePrecauciones en #Chihuahua se registra cierre parcial de circulación por presencia de pers",
-      "link": "https://nitter.net/GN_Carreteras/status/2041197211770384420#m",
-      "date": "2026-04-06T16:51:53+00:00"
-    },
-    {
-      "id": "fce08147b8af",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 0.0,
-      "lat": 18.32,
-      "lon": -95.02,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre total de circulación por presencia de personas cerca del km 000+100, en la carretera Córdoba -Ent. La Tinaja. Atienda indicación Vial. #TomePrecauciones en #Veracruz se registra cierre total de circulación por presencia de persona",
-      "link": "https://nitter.net/GN_Carreteras/status/2041196256005910892#m",
-      "date": "2026-04-06T16:48:05+00:00"
     },
     {
       "id": "3a4223a0a444",
@@ -421,34 +421,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 85, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 85, dirección ",
       "link": "https://nitter.net/CAPUFE/status/2041190239788478509#m",
       "date": "2026-04-06T16:24:11+00:00"
-    },
-    {
-      "id": "680490b4fa7e",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 18.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 18, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 18, dir",
-      "link": "https://nitter.net/CAPUFE/status/2041190048981193189#m",
-      "date": "2026-04-06T16:23:25+00:00"
-    },
-    {
-      "id": "3fffcd35feb0",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 111.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 111, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 111, dirección Querétaro. El accidente ha s",
-      "link": "https://nitter.net/CAPUFE/status/2041189057170981311#m",
-      "date": "2026-04-06T16:19:29+00:00"
     }
   ]
 }
