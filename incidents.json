@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-06T11:27:09.398146+00:00",
-  "count": 34,
+  "updated": "2026-04-06T12:06:24.509839+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "0b54f5c09b0c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 78.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 78, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km ",
+      "link": "https://nitter.net/CAPUFE/status/2041123581002744308#m",
+      "date": "2026-04-06T11:59:18+00:00"
+    },
+    {
+      "id": "7578e36ad8ee",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 140.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Puebla - Acatzingo, km 140, dirección Puebla. Continúa reducción de carriles por atención de accidente (persona atropellada). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Puebla - Acat",
+      "link": "https://nitter.net/CAPUFE/status/2041120071934779696#m",
+      "date": "2026-04-06T11:45:21+00:00"
+    },
     {
       "id": "a9fc28c29ab6",
       "account": "@capufe",
@@ -197,20 +225,6 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tijuana - Ensenada, km 51, dirección Tijuana. Continúa cierre a la circulación por atención de accidente (servicios periciales). ➡ Por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carretera libre a la altura del km ",
       "link": "https://nitter.net/CAPUFE/status/2041057146037555557#m",
       "date": "2026-04-06T07:35:19+00:00"
-    },
-    {
-      "id": "8a8d11387700",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 73.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2041041926355374343#m",
-      "date": "2026-04-06T06:34:50+00:00"
     },
     {
       "id": "058e9030c090",
