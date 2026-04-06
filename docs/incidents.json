@@ -1,7 +1,91 @@
 {
-  "updated": "2026-04-06T19:04:28.278564+00:00",
-  "count": 30,
+  "updated": "2026-04-06T20:05:05.003520+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "74a28bdc0ad7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 125.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 125. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camiones. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/9bst74V18CHbCH8n9 🔴 CIER",
+      "link": "https://nitter.net/CAPUFE/status/2041242167755092147#m",
+      "date": "2026-04-06T19:50:31+00:00"
+    },
+    {
+      "id": "753001d158bb",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 235.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista La Carbonera - Puerto México, registra #nebinadensa en el km 235. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista La Carbonera - Puerto México, registra #nebinadensa en el km 235. Disminuye tu v",
+      "link": "https://nitter.net/CAPUFE/status/2041241613951697183#m",
+      "date": "2026-04-06T19:48:19+00:00"
+    },
+    {
+      "id": "14ec522704f2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Acapulco",
+      "route_key": "mexico-acapulco",
+      "km": 95.0,
+      "lat": 18.584,
+      "lon": -99.234,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 95, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 95, dirección CDMX. El accidente ha sido atendido",
+      "link": "https://nitter.net/CAPUFE/status/2041237873395900740#m",
+      "date": "2026-04-06T19:33:28+00:00"
+    },
+    {
+      "id": "472363fd18b0",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 30.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Chiahuahua se registra presencia de personas, en la carretera Chihuahua– Cd. Juarez, cerca del km 030+300, a la altura de la caseta de cobro \"Sacramento\". Atienda indicación Vial. #TomePrecauciones en #Chiahuahua se registra presencia de personas, en la carr",
+      "link": "https://nitter.net/GN_Carreteras/status/2041236392726937931#m",
+      "date": "2026-04-06T19:27:35+00:00"
+    },
+    {
+      "id": "259f8afac3be",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 134.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán se registra cierre de circulación en ambos sentidos por presencia de personas, cerca del km 134+300, en la carretera Maravatío-Contepec, a la altura de la caseta de cobro \"Contepec\". Sin ruta alterna. Atienda indicación Vial. #TomePrecauciones en #",
+      "link": "https://nitter.net/GN_Carreteras/status/2041234572629700616#m",
+      "date": "2026-04-06T19:20:21+00:00"
+    },
+    {
+      "id": "b6b035d480dc",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 297.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 297, dirección Córdoba. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y vagoneta. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/7vpwNDgECzpDnGaNA",
+      "link": "https://nitter.net/CAPUFE/status/2041233544844853705#m",
+      "date": "2026-04-06T19:16:16+00:00"
+    },
     {
       "id": "fd1de9f416b4",
       "account": "@capufe",
@@ -311,20 +395,6 @@
       "date": "2026-04-06T16:48:05+00:00"
     },
     {
-      "id": "28199355501c",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 190.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas cerca del km 190+800, en la carretera Oaxaca-Tehuantepec, con dirección a Oaxaca. Atienda indicación Vial. #TomePrecauciones en #Oaxaca se registra cierre total de circulación por prese",
-      "link": "https://nitter.net/GN_Carreteras/status/2041194973756878891#m",
-      "date": "2026-04-06T16:42:59+00:00"
-    },
-    {
       "id": "3a4223a0a444",
       "account": "@capufe",
       "type": "accident",
@@ -379,48 +449,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 111, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 111, dirección Querétaro. El accidente ha s",
       "link": "https://nitter.net/CAPUFE/status/2041189057170981311#m",
       "date": "2026-04-06T16:19:29+00:00"
-    },
-    {
-      "id": "705a648e6cb4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 111.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 111, dirección Querétaro. Reducción de carriles por atención de accidente (choque de costado y salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 111, dirección Querétaro.",
-      "link": "https://nitter.net/CAPUFE/status/2041177918475227260#m",
-      "date": "2026-04-06T15:35:13+00:00"
-    },
-    {
-      "id": "def75061e1be",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 182.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 182, dirección Isla. Reducción de carriles por atención de accidente (choque contra barrera metálica y volcadura). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 182, dirección",
-      "link": "https://nitter.net/CAPUFE/status/2041172574881644778#m",
-      "date": "2026-04-06T15:13:59+00:00"
-    },
-    {
-      "id": "54b790fb56fb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 29.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 29, dirección Cosoleacaque. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 2",
-      "link": "https://nitter.net/CAPUFE/status/2041171708359405575#m",
-      "date": "2026-04-06T15:10:33+00:00"
     }
   ]
 }
