@@ -1,7 +1,119 @@
 {
-  "updated": "2026-04-07T02:37:12.482734+00:00",
-  "count": 28,
+  "updated": "2026-04-07T05:11:23.438579+00:00",
+  "count": 29,
   "incidents": [
+    {
+      "id": "0686575445d5",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 134.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "En #Michoacán continúa cierre de circulación en ambos sentidos por presencia de personas, cerca del km 134+300, en la carretera Maravatío-Contepec, a la altura de la caseta de cobro \"Contepec\". Sin ruta alterna. Atienda indicación Vial. En #Michoacán continúa cierre de circulació",
+      "link": "https://nitter.net/GN_Carreteras/status/2041378095517626370#m",
+      "date": "2026-04-07T04:50:39+00:00"
+    },
+    {
+      "id": "53112ab1d88f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 94.0,
+      "lat": 18.289087,
+      "lon": -99.515233,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 94, dirección Acapulco. El accidente en el Distribuidor Vial Palmira, ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - A",
+      "link": "https://nitter.net/CAPUFE/status/2041377061072179620#m",
+      "date": "2026-04-07T04:46:32+00:00"
+    },
+    {
+      "id": "485efb70b27f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 15.0,
+      "lat": 19.37065,
+      "lon": -99.2958,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 015+400, de la carretera Pachuca-Tuxpan, a la altura de la Localidad Enrique Rodríguez Cano, Ver. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre p",
+      "link": "https://nitter.net/GN_Carreteras/status/2041370264328368170#m",
+      "date": "2026-04-07T04:19:32+00:00"
+    },
+    {
+      "id": "160c0ef986c4",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 4.0,
+      "lat": 17.968267,
+      "lon": -94.8988,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 4, dirección Cosoleacaque. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaq",
+      "link": "https://nitter.net/CAPUFE/status/2041362995607949492#m",
+      "date": "2026-04-07T03:50:39+00:00"
+    },
+    {
+      "id": "4a439099eed8",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 110.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Sinaloa tras presencia de personas cerca del km 110+300, la autopista Lic. Benito Juárez, a la altura de la caseta de cobro \"Las Brisas\". Maneje con precaución. #ViaLibre en #Sinaloa tras presencia de personas cerca del km 110+300, la autopista Lic. Benito Juárez, a",
+      "link": "https://nitter.net/GN_Carreteras/status/2041361023366562297#m",
+      "date": "2026-04-07T03:42:49+00:00"
+    },
+    {
+      "id": "ddc7b6bad48a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 94.0,
+      "lat": 18.289087,
+      "lon": -99.515233,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 94, dirección Acapulco. Registra cierre a la circulación en el Distribuidor Vial Palmira por atención de accidente (choque por alcance). Circulación por carriles laterales. Maneja con precaución. 🟠 CIERRE PARCI",
+      "link": "https://nitter.net/CAPUFE/status/2041356201879798249#m",
+      "date": "2026-04-07T03:23:39+00:00"
+    },
+    {
+      "id": "34c34b0f7662",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 134.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán continúa cierre de circulación en ambos sentidos por presencia de personas, cerca del km 134+300, en la carretera Maravatío-Contepec, a la altura de la caseta de cobro \"Contepec\". Sin ruta alterna. Atienda indicación Vial. #TomePrecauciones en #Mic",
+      "link": "https://nitter.net/GN_Carreteras/status/2041346294510170514#m",
+      "date": "2026-04-07T02:44:17+00:00"
+    },
+    {
+      "id": "d914bb872b28",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 190.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Oaxaca tras presencia de personas cerca del km 190+800, en la carretera Oaxaca-Tehuantepec. Maneje con precaución. #ViaLibre en #Oaxaca tras presencia de personas cerca del km 190+800, en la carretera Oaxaca-Tehuantepec. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2041344683603841310#m",
+      "date": "2026-04-07T02:37:53+00:00"
+    },
     {
       "id": "a6440d810fb3",
       "account": "@capufe",
@@ -241,20 +353,6 @@
       "date": "2026-04-06T23:43:04+00:00"
     },
     {
-      "id": "1902b238308b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 297.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 297, dirección Córdoba. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "link": "https://nitter.net/CAPUFE/status/2041300289735569594#m",
-      "date": "2026-04-06T23:41:29+00:00"
-    },
-    {
       "id": "c5599b268dd8",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -267,20 +365,6 @@
       "text": "#ViaLibre en #Veracruz tras presencia de personas cerca del km 000+100, en la carretera Córdoba-Ent. La Tinaja. Maneje con precaución. #ViaLibre en #Veracruz tras presencia de personas cerca del km 000+100, en la carretera Córdoba-Ent. La Tinaja. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2041295007747858845#m",
       "date": "2026-04-06T23:20:29+00:00"
-    },
-    {
-      "id": "9ac3be4c24ba",
-      "account": "@capufe",
-      "type": "fog",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 235.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista La Carbonera - Puerto México, continúa #neblina densa a la altura del km 235. Enciende tus luces, disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista La Carbonera - Puerto México, continúa #neblina ",
-      "link": "https://nitter.net/CAPUFE/status/2041294599260409878#m",
-      "date": "2026-04-06T23:18:52+00:00"
     },
     {
       "id": "bd352ffdc4b2",
@@ -297,20 +381,6 @@
       "date": "2026-04-06T23:09:03+00:00"
     },
     {
-      "id": "fcc9d4fa376f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 297.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cd. Mendoza - Córdoba, km 297, dirección Córdoba. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. ☑️ A",
-      "link": "https://nitter.net/CAPUFE/status/2041290820066673144#m",
-      "date": "2026-04-06T23:03:51+00:00"
-    },
-    {
       "id": "20c2bebe090e",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -325,20 +395,6 @@
       "date": "2026-04-06T22:45:07+00:00"
     },
     {
-      "id": "ae828ad9af59",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 205.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 205. Registra circulación intermitente en ambos sentidos, por atención de choque por alcance entre tracto camión y automóvil particular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/LE",
-      "link": "https://nitter.net/CAPUFE/status/2041282138557805040#m",
-      "date": "2026-04-06T22:29:21+00:00"
-    },
-    {
       "id": "1745c7dea5dd",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -351,48 +407,6 @@
       "text": "#ViaLibre en #Chihuahua tras presencia de personas cerca del km 020+000, en la carretera Juárez-Villa Ahumada. Maneje con precaución. #ViaLibre en #Chihuahua tras presencia de personas cerca del km 020+000, en la carretera Juárez-Villa Ahumada. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2041281231254331453#m",
       "date": "2026-04-06T22:25:45+00:00"
-    },
-    {
-      "id": "e3a2f4a543dd",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 58.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #SanLuisPotosí tras presencia de personas, cerca del km 058+000, en la carretera Villa de Arriaga-San Luis Potosí. Maneje con precaución. #ViaLibre en #SanLuisPotosí tras presencia de personas, cerca del km 058+000, en la carretera Villa de Arriaga-San Luis Potosí. M",
-      "link": "https://nitter.net/GN_Carreteras/status/2041261438170186185#m",
-      "date": "2026-04-06T21:07:06+00:00"
-    },
-    {
-      "id": "7e1fe1293ae6",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 74.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #BCS #LosCabos tras presencia de personas, cerca del km 074+200, en la carretera Jiménez-Camargo Libre. Maneje con precaución. #ViaLibre en #BCS #LosCabos tras presencia de personas, cerca del km 074+200, en la carretera Jiménez-Camargo Libre. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2041247914966565298#m",
-      "date": "2026-04-06T20:13:22+00:00"
-    },
-    {
-      "id": "b6b035d480dc",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 297.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 297, dirección Córdoba. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y vagoneta. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/7vpwNDgECzpDnGaNA",
-      "link": "https://nitter.net/CAPUFE/status/2041233544844853705#m",
-      "date": "2026-04-06T19:16:16+00:00"
     }
   ]
 }
