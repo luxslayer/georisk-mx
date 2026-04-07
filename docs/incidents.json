@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-07T08:14:04.487108+00:00",
-  "count": 29,
+  "updated": "2026-04-07T09:44:12.512727+00:00",
+  "count": 30,
   "incidents": [
+    {
+      "id": "9c3757deaa74",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 288.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 288, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance y volcadura). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 288, direc",
+      "link": "https://nitter.net/CAPUFE/status/2041449352074293253#m",
+      "date": "2026-04-07T09:33:48+00:00"
+    },
+    {
+      "id": "b5eb756a74ce",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 134.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "En #Michoacán continúa cierre de circulación en ambos sentidos por presencia de personas, cerca del km 134+300, en la carretera Maravatío-Contepec, a la altura de la caseta de cobro \"Contepec\". Sin ruta alterna. Atienda indicación Vial. En #Michoacán continúa cierre de circulació",
+      "link": "https://nitter.net/GN_Carreteras/status/2041446191322341797#m",
+      "date": "2026-04-07T09:21:14+00:00"
+    },
+    {
+      "id": "86127ff93be4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 33.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 33, dirección Cuernavaca. Continúa reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 33, dirección Cuernavaca. Contin",
+      "link": "https://nitter.net/CAPUFE/status/2041443841819975835#m",
+      "date": "2026-04-07T09:11:54+00:00"
+    },
     {
       "id": "b19d8cfd6a4d",
       "account": "@capufe",
@@ -283,20 +325,6 @@
       "date": "2026-04-07T01:12:56+00:00"
     },
     {
-      "id": "654f966a8b3c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 205.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 205. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RE",
-      "link": "https://nitter.net/CAPUFE/status/2041319516894802383#m",
-      "date": "2026-04-07T00:57:53+00:00"
-    },
-    {
       "id": "ac5a792baad4",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -393,20 +421,6 @@
       "text": "#ViaLibre en #Veracruz tras presencia de personas cerca del km 000+100, en la carretera Córdoba-Ent. La Tinaja. Maneje con precaución. #ViaLibre en #Veracruz tras presencia de personas cerca del km 000+100, en la carretera Córdoba-Ent. La Tinaja. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2041295007747858845#m",
       "date": "2026-04-06T23:20:29+00:00"
-    },
-    {
-      "id": "bd352ffdc4b2",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 200.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "#ViaLibre en #Tamaulipas tras presencia de personas, cerca del km 200+500, en la carretera Cd. Victoria-Matamoros. Maneje con precaución. #ViaLibre en #Tamaulipas tras presencia de personas, cerca del km 200+500, en la carretera Cd. Victoria-Matamoros. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2041292130325254455#m",
-      "date": "2026-04-06T23:09:03+00:00"
     }
   ]
 }
