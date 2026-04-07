@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-07T06:52:23.160883+00:00",
-  "count": 30,
+  "updated": "2026-04-07T08:14:04.487108+00:00",
+  "count": 29,
   "incidents": [
+    {
+      "id": "b19d8cfd6a4d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 33.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 33, dirección Cuernavaca. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 33, dirección Cuernavaca. Reducción de ca",
+      "link": "https://nitter.net/CAPUFE/status/2041425755834290361#m",
+      "date": "2026-04-07T08:00:02+00:00"
+    },
+    {
+      "id": "f4c6ddd662b5",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 89.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación tras #AccidenteVial cerca del km 089+300, de la carretera Zapotlanejo-El Desperdicio, a la altura del Mpio. de la Soledad, Jal. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre parcia",
+      "link": "https://nitter.net/GN_Carreteras/status/2041416638247915885#m",
+      "date": "2026-04-07T07:23:48+00:00"
+    },
     {
       "id": "eadfbf087cc7",
       "account": "@capufe",
@@ -353,20 +381,6 @@
       "date": "2026-04-06T23:50:01+00:00"
     },
     {
-      "id": "b25ce52b9952",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Córdoba - Veracruz, km 0. Se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Córdoba - Veracruz, km 0. Se retiran los manifestantes. Tramo opera ",
-      "link": "https://nitter.net/CAPUFE/status/2041301872552603788#m",
-      "date": "2026-04-06T23:47:46+00:00"
-    },
-    {
       "id": "c5599b268dd8",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -393,34 +407,6 @@
       "text": "#ViaLibre en #Tamaulipas tras presencia de personas, cerca del km 200+500, en la carretera Cd. Victoria-Matamoros. Maneje con precaución. #ViaLibre en #Tamaulipas tras presencia de personas, cerca del km 200+500, en la carretera Cd. Victoria-Matamoros. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2041292130325254455#m",
       "date": "2026-04-06T23:09:03+00:00"
-    },
-    {
-      "id": "20c2bebe090e",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 165.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre total de circulación por #AccidenteVial cerca del km 165+300, de la carretera Maravatío-Zapotlanejo, con dirección a Maravatío. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre total de circulación por ",
-      "link": "https://nitter.net/GN_Carreteras/status/2041286105484456062#m",
-      "date": "2026-04-06T22:45:07+00:00"
-    },
-    {
-      "id": "ae828ad9af59",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 205.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 205. Registra circulación intermitente en ambos sentidos, por atención de choque por alcance entre tracto camión y automóvil particular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/LE",
-      "link": "https://nitter.net/CAPUFE/status/2041282138557805040#m",
-      "date": "2026-04-06T22:29:21+00:00"
     }
   ]
 }
