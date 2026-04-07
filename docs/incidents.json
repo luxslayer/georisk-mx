@@ -1,20 +1,34 @@
 {
-  "updated": "2026-04-07T15:11:23.657515+00:00",
-  "count": 28,
+  "updated": "2026-04-07T16:34:14.380355+00:00",
+  "count": 17,
   "incidents": [
     {
-      "id": "abb0e3dbf91b",
-      "account": "@capufe",
+      "id": "0868661dd6f8",
+      "account": "@GN_carreteras",
       "type": "accident",
       "highway": "?",
       "route_key": "unknown",
-      "km": 33.0,
+      "km": 23.0,
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 33, dirección Cuernavaca. Continúa reducción de carriles por atención de accidente (persona atropellada). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernava",
-      "link": "https://nitter.net/CAPUFE/status/2041528282961625409#m",
-      "date": "2026-04-07T14:47:27+00:00"
+      "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación tras #AccidenteVial cerca del km 023+300, de la autopista León - Aguascalientes. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre parcial de circulación tras #AccidenteVial cerc",
+      "link": "https://nitter.net/GN_Carreteras/status/2041554142053724303#m",
+      "date": "2026-04-07T16:30:12+00:00"
+    },
+    {
+      "id": "a152b07d6a9e",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 134.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "En #Michoacán continúa cierre de circulación tras presencia de personas, cerca del km 134+300, en la carretera Maravatío - Contepec, a la altura de la caseta de cobro \"Contepec\". Se orienta a la ciudadanía se activa la circulación intermitente. Atienda indicación Vial. En #Michoa",
+      "link": "https://nitter.net/GN_Carreteras/status/2041551400866357538#m",
+      "date": "2026-04-07T16:19:18+00:00"
     },
     {
       "id": "cb44002049af",
@@ -73,20 +87,6 @@
       "date": "2026-04-07T13:34:38+00:00"
     },
     {
-      "id": "19dbb1d742ee",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 33.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 33, dirección Cuernavaca. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 33, dirección Cuernavaca. Conti",
-      "link": "https://nitter.net/CAPUFE/status/2041507666061578246#m",
-      "date": "2026-04-07T13:25:31+00:00"
-    },
-    {
       "id": "4946ab0fcd1a",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -115,62 +115,6 @@
       "date": "2026-04-07T12:26:02+00:00"
     },
     {
-      "id": "ef8f26bc92ba",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 288.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 288, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 288, dirección Acapul",
-      "link": "https://nitter.net/CAPUFE/status/2041483793568088231#m",
-      "date": "2026-04-07T11:50:39+00:00"
-    },
-    {
-      "id": "551eaf48219d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 33.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 33, dirección Cuernavaca. Continúa reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 33, dirección Cuernavaca. Contin",
-      "link": "https://nitter.net/CAPUFE/status/2041482561101160527#m",
-      "date": "2026-04-07T11:45:46+00:00"
-    },
-    {
-      "id": "294adc34ad51",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 288.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 288, dirección Acapulco. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidades siniestradas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernava",
-      "link": "https://nitter.net/CAPUFE/status/2041465565475123358#m",
-      "date": "2026-04-07T10:38:14+00:00"
-    },
-    {
-      "id": "9c3757deaa74",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 288.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 288, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance y volcadura). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 288, direc",
-      "link": "https://nitter.net/CAPUFE/status/2041449352074293253#m",
-      "date": "2026-04-07T09:33:48+00:00"
-    },
-    {
       "id": "b5eb756a74ce",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -185,34 +129,6 @@
       "date": "2026-04-07T09:21:14+00:00"
     },
     {
-      "id": "86127ff93be4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 33.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 33, dirección Cuernavaca. Continúa reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 33, dirección Cuernavaca. Contin",
-      "link": "https://nitter.net/CAPUFE/status/2041443841819975835#m",
-      "date": "2026-04-07T09:11:54+00:00"
-    },
-    {
-      "id": "b19d8cfd6a4d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 33.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 33, dirección Cuernavaca. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 33, dirección Cuernavaca. Reducción de ca",
-      "link": "https://nitter.net/CAPUFE/status/2041425755834290361#m",
-      "date": "2026-04-07T08:00:02+00:00"
-    },
-    {
       "id": "f4c6ddd662b5",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -225,20 +141,6 @@
       "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación tras #AccidenteVial cerca del km 089+300, de la carretera Zapotlanejo-El Desperdicio, a la altura del Mpio. de la Soledad, Jal. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre parcia",
       "link": "https://nitter.net/GN_Carreteras/status/2041416638247915885#m",
       "date": "2026-04-07T07:23:48+00:00"
-    },
-    {
-      "id": "eadfbf087cc7",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Acayucan–Cosoleacaque",
-      "route_key": "acayucan-cosoleacaque",
-      "km": 4.0,
-      "lat": 17.968267,
-      "lon": -94.8988,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 4, dirección Cosoleacaque. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 4, dirección Co",
-      "link": "https://nitter.net/CAPUFE/status/2041384191007293760#m",
-      "date": "2026-04-07T05:14:52+00:00"
     },
     {
       "id": "85ba449e73b1",
@@ -269,20 +171,6 @@
       "date": "2026-04-07T04:50:39+00:00"
     },
     {
-      "id": "53112ab1d88f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 94.0,
-      "lat": 18.289087,
-      "lon": -99.515233,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 94, dirección Acapulco. El accidente en el Distribuidor Vial Palmira, ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - A",
-      "link": "https://nitter.net/CAPUFE/status/2041377061072179620#m",
-      "date": "2026-04-07T04:46:32+00:00"
-    },
-    {
       "id": "485efb70b27f",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -295,20 +183,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 015+400, de la carretera Pachuca-Tuxpan, a la altura de la Localidad Enrique Rodríguez Cano, Ver. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre p",
       "link": "https://nitter.net/GN_Carreteras/status/2041370264328368170#m",
       "date": "2026-04-07T04:19:32+00:00"
-    },
-    {
-      "id": "160c0ef986c4",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Acayucan–Cosoleacaque",
-      "route_key": "acayucan-cosoleacaque",
-      "km": 4.0,
-      "lat": 17.968267,
-      "lon": -94.8988,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 4, dirección Cosoleacaque. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaq",
-      "link": "https://nitter.net/CAPUFE/status/2041362995607949492#m",
-      "date": "2026-04-07T03:50:39+00:00"
     },
     {
       "id": "4a439099eed8",
@@ -365,34 +239,6 @@
       "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación tras #AccidenteVial cerca del km 22+500, de la carretera Libramiento Cd. Victoria-Monterrey, a la altura de San Francisco el Alto, Tamps. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se regist",
       "link": "https://nitter.net/GN_Carreteras/status/2041338400771310057#m",
       "date": "2026-04-07T02:12:55+00:00"
-    },
-    {
-      "id": "3515df2a4fa2",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 165.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Michoacán tras #AccidenteVial cerca del km 165+300, de la carretera Maravatío-Zapotlanejo. Maneje con precaución. #ViaLibre en #Michoacán tras #AccidenteVial cerca del km 165+300, de la carretera Maravatío-Zapotlanejo. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2041335126278181357#m",
-      "date": "2026-04-07T01:59:54+00:00"
-    },
-    {
-      "id": "d93130c44864",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Gdl–Tepic",
-      "route_key": "guadalajara-tepic",
-      "km": 378.0,
-      "lat": 21.508,
-      "lon": -104.895,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación tras #AccidenteVial cerca del km 378+950, de la carretera Maravatío-Zapotlanejo, con dirección a Zapotlanejo, a la altura del Mpio. de Tarimoro, Mich. Atienda indicación vial. #TomePrecauciones en #Michoacá",
-      "link": "https://nitter.net/GN_Carreteras/status/2041334388563095919#m",
-      "date": "2026-04-07T01:56:59+00:00"
     }
   ]
 }
