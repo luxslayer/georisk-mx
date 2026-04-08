@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-08T08:42:18.525240+00:00",
+  "updated": "2026-04-08T10:09:41.257790+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "109d41866765",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 196.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Champotón - Campeche, km 196, dirección Campeche. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopis",
+      "link": "https://nitter.net/CAPUFE/status/2041818961180819711#m",
+      "date": "2026-04-08T10:02:30+00:00"
+    },
+    {
+      "id": "049234573d76",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 25.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 25, dirección San Luis Potosí. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULA",
+      "link": "https://nitter.net/CAPUFE/status/2041813058293572057#m",
+      "date": "2026-04-08T09:39:02+00:00"
+    },
     {
       "id": "37ad31f185df",
       "account": "@capufe",
@@ -239,34 +267,6 @@
       "text": "#TomePrecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del km 013+500, de la carretera Pachuca - Tuxpan. Atienda indicación vial. #TomePrecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del km 013+50",
       "link": "https://nitter.net/GN_Carreteras/status/2041710672572977391#m",
       "date": "2026-04-08T02:52:12+00:00"
-    },
-    {
-      "id": "96c4f6e70b59",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 154.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 154. Registra cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULAC",
-      "link": "https://nitter.net/CAPUFE/status/2041708824776544620#m",
-      "date": "2026-04-08T02:44:51+00:00"
-    },
-    {
-      "id": "6d1163553cdf",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 37.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Noreste de Querétaro (Chichimequillas), km 37. Registra cierre a la circulación en la gasa de incorporación en dirección Querétaro, por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más in",
-      "link": "https://nitter.net/CAPUFE/status/2041707351929999576#m",
-      "date": "2026-04-08T02:39:00+00:00"
     },
     {
       "id": "4f4321e14b16",
