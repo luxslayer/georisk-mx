@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-08T19:19:52.630566+00:00",
-  "count": 22,
+  "updated": "2026-04-08T20:07:45.899397+00:00",
+  "count": 20,
   "incidents": [
+    {
+      "id": "22ea5833e4fa",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 23.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia ligera del km 23 al 27. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia ligera del km 23 al 27. Disminuye tu velocidad y maneja con p",
+      "link": "https://nitter.net/CAPUFE/status/2041970494031679775#m",
+      "date": "2026-04-08T20:04:38+00:00"
+    },
+    {
+      "id": "0f2da2e2035a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 41.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 041+700, de la carretera México (Ent. Constituyentes)-Toluca (Lerma). Atienda indicación Vial. #TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #Accide",
+      "link": "https://nitter.net/GN_Carreteras/status/2041967543057887324#m",
+      "date": "2026-04-08T19:52:54+00:00"
+    },
+    {
+      "id": "c11bfec5d3a1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 36.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 036+200, de la carretera Cuacnopalan- Oaxaca. Atienda indicación Vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 036",
+      "link": "https://nitter.net/GN_Carreteras/status/2041959236247105947#m",
+      "date": "2026-04-08T19:19:54+00:00"
+    },
     {
       "id": "e249bd8741dd",
       "account": "@GN_carreteras",
@@ -171,48 +213,6 @@
       "date": "2026-04-08T17:07:39+00:00"
     },
     {
-      "id": "449d7e4e4912",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Querétaro - Irapuato, km 0, dirección Querétaro. Continúa reducción de carriles por atención de accidente (labores de limpieza). Dir. Irapuato, se restablece la circulación de manera normal. En la zona se registra carga vehicular. Maneja con",
-      "link": "https://nitter.net/CAPUFE/status/2041918444732285039#m",
-      "date": "2026-04-08T16:37:48+00:00"
-    },
-    {
-      "id": "24df99c33fa1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos por atención del accidente. El personal se encuentra realizando las labores de limpieza en la zona. Maneja con precaución",
-      "link": "https://nitter.net/CAPUFE/status/2041917584241545615#m",
-      "date": "2026-04-08T16:34:23+00:00"
-    },
-    {
-      "id": "adc4ea748a06",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 215.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 215, dirección Acapulco. Continúa reducción de carriles por atención de accidente (labores de impieza). Circulación lenta en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavac",
-      "link": "https://nitter.net/CAPUFE/status/2041917079029235763#m",
-      "date": "2026-04-08T16:32:23+00:00"
-    },
-    {
       "id": "2ea308fbd738",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -281,34 +281,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 228+200, de la autopista Tulancingo - Tihuatlán. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca d",
       "link": "https://nitter.net/GN_Carreteras/status/2041853321367916998#m",
       "date": "2026-04-08T12:19:02+00:00"
-    },
-    {
-      "id": "7dcf11fb20f6",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 223.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "En #Puebla continua cierre de circulación tras #AccidenteVial cerca del km 223+000, de la carretera Puebla - Orizaba. Se orienta a la ciudadanía que se habilita un carril de circulación. Atienda indicación vial. En #Puebla continua cierre de circulación tras #AccidenteVial cerca ",
-      "link": "https://nitter.net/GN_Carreteras/status/2041827514750775361#m",
-      "date": "2026-04-08T10:36:29+00:00"
-    },
-    {
-      "id": "e08251080775",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 38.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 038+200, de la carretera Fortín - Conejos. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km ",
-      "link": "https://nitter.net/GN_Carreteras/status/2041825414289543349#m",
-      "date": "2026-04-08T10:28:08+00:00"
     }
   ]
 }
