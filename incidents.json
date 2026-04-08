@@ -1,7 +1,63 @@
 {
-  "updated": "2026-04-08T21:11:12.018367+00:00",
-  "count": 22,
+  "updated": "2026-04-08T22:07:26.712286+00:00",
+  "count": 24,
   "incidents": [
+    {
+      "id": "4755c5844282",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 33.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoQuerétaro, del km 33 al 38, dirección CDMX. Registra carga vehicular por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE. Para más información de carretera libre, llama al 088 de @GN_Carreteras. Toma tus precauciones. ⚠️ AVISO I",
+      "link": "https://nitter.net/CAPUFE/status/2041997542213165346#m",
+      "date": "2026-04-08T21:52:07+00:00"
+    },
+    {
+      "id": "b3991f0f5ac6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 136.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Estación Don - Navojoa, km 136, dirección Estación Don. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Estación Don - Navojoa, km 136, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2041995164382626247#m",
+      "date": "2026-04-08T21:42:40+00:00"
+    },
+    {
+      "id": "9d16ba15598e",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 305.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por presencia de personas, cerca del km 305+600, de la carretera Cd. Victoria-Matamoros, con dirección a Cd. Victoria Tamps. Atienda indicación Vial. #TomePrecauciones en #Tamaulipas se registra cierre par",
+      "link": "https://nitter.net/GN_Carreteras/status/2041990015643734241#m",
+      "date": "2026-04-08T21:22:12+00:00"
+    },
+    {
+      "id": "d49273977a99",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 0.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Querétaro - Irapuato, km 0, dirección Querétaro. Continúa reducción de carriles por atención de accidente (labores de limpieza). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Querétaro ",
+      "link": "https://nitter.net/CAPUFE/status/2041988594106069497#m",
+      "date": "2026-04-08T21:16:33+00:00"
+    },
     {
       "id": "a694ea1bad30",
       "account": "@GN_carreteras",
@@ -199,20 +255,6 @@
       "date": "2026-04-08T18:37:42+00:00"
     },
     {
-      "id": "08ac4049c2d9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 265.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cd. Mendoza - Córdoba, km 265, dirección Córdoba. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el ",
-      "link": "https://nitter.net/CAPUFE/status/2041946837297336427#m",
-      "date": "2026-04-08T18:30:38+00:00"
-    },
-    {
       "id": "b1ecc7b3801b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -295,20 +337,6 @@
       "text": "#TomePrecauciones en #Michoacan se registra cierre total de circulación por presencia de personas, cerca del Km 00+095 de la carretera Zacapu - Zamora. Atienda indicación Vial. #TomePrecauciones en #Michoacan se registra cierre total de circulación por presencia de personas, cerc",
       "link": "https://nitter.net/GN_Carreteras/status/2041854369574855089#m",
       "date": "2026-04-08T12:23:12+00:00"
-    },
-    {
-      "id": "808ea08b2b17",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 228.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 228+200, de la autopista Tulancingo - Tihuatlán. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca d",
-      "link": "https://nitter.net/GN_Carreteras/status/2041853321367916998#m",
-      "date": "2026-04-08T12:19:02+00:00"
     }
   ]
 }
