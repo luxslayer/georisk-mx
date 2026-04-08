@@ -1,7 +1,77 @@
 {
-  "updated": "2026-04-08T03:39:40.622543+00:00",
+  "updated": "2026-04-08T05:48:01.212352+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "11d5e0436e7f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 154.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Las Choapas - Ocozocoautla, km 154. Continúa cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). 🔘 Por seguridad se cierra el tránsito vehicular desde la Plaza de Cobro Ocozocoautla e",
+      "link": "https://nitter.net/CAPUFE/status/2041747009225228491#m",
+      "date": "2026-04-08T05:16:35+00:00"
+    },
+    {
+      "id": "700214b6b774",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 31.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Queretaro se registra cierre parcial de circulación por #AccidenteVial cerca del km 031+300, de la carretera Querétaro - San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #Queretaro se registra cierre parcial de circulación por #AccidenteVial ce",
+      "link": "https://nitter.net/GN_Carreteras/status/2041742439958888662#m",
+      "date": "2026-04-08T04:58:26+00:00"
+    },
+    {
+      "id": "7e35354a2d49",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 154.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 154. Continúa cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULAC",
+      "link": "https://nitter.net/CAPUFE/status/2041738683519299878#m",
+      "date": "2026-04-08T04:43:30+00:00"
+    },
+    {
+      "id": "1d6423cdc190",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 37.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Noreste de Querétaro (Chichimequillas), km 37. Continúa cierre a la circulación en la gasa de incorporación en dirección Querétaro, por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más in",
+      "link": "https://nitter.net/CAPUFE/status/2041738362097221691#m",
+      "date": "2026-04-08T04:42:13+00:00"
+    },
+    {
+      "id": "332ec900f91e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 223.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, dirección Cd. Mendoza. Se informa a las personas usuarias que continúa el cierre a la circulación desde la Plaza de Cobro Esperanza, debido a que se atienden diversos accidentes entre los km 223 al 226, mismos que afect",
+      "link": "https://nitter.net/CAPUFE/status/2041727714994917688#m",
+      "date": "2026-04-08T03:59:55+00:00"
+    },
     {
       "id": "21748c9f0bcc",
       "account": "@capufe",
@@ -115,7 +185,7 @@
       "date": "2026-04-08T01:50:06+00:00"
     },
     {
-      "id": "e8f55acce60e",
+      "id": "36149a21b591",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -124,7 +194,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, dirección Cd. Mendoza. Se informa a las personas usuarias que continúa el cierre a la circulación desde la Plaza de Cobro Esperanza, debido a que se atienden diversos accidentes entre los km 223 al 226, mismos que afect",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, dirección Cd. Mendoza. Se informa a las personas usuarias que continúa el cierre a la circulación desde la Plaza de Cobro Esperanza, debido a que se atienden diversos accidentes entre los km 223 al 226, mismos que",
       "link": "https://nitter.net/CAPUFE/status/2041694522816786845#m",
       "date": "2026-04-08T01:48:01+00:00"
     },
@@ -199,48 +269,6 @@
       "date": "2026-04-08T01:10:43+00:00"
     },
     {
-      "id": "8ec0f8838d46",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 224.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 224, dirección Tehuacán. Registra cierre a la circulación por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, ",
-      "link": "https://nitter.net/CAPUFE/status/2041682806477078544#m",
-      "date": "2026-04-08T01:01:28+00:00"
-    },
-    {
-      "id": "5d1cf8f22e95",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 37.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 37. Reducción de carriles en la gasa de incorporación en dirección Querétaro, por atención de accidente (volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 ",
-      "link": "https://nitter.net/CAPUFE/status/2041682177260155008#m",
-      "date": "2026-04-08T00:58:58+00:00"
-    },
-    {
-      "id": "56d7f4c42127",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 199.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, dirección Cd. Mendoza. Se informa a las personas usuarias, que por seguridad se cierra el tránsito vehicular desde la Plaza de Cobro Esperanza, debido a que se atienden diversos accidentes entre los km 199 al 227,",
-      "link": "https://nitter.net/CAPUFE/status/2041678849130279140#m",
-      "date": "2026-04-08T00:45:44+00:00"
-    },
-    {
       "id": "05225d9c1e0b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -253,20 +281,6 @@
       "text": "#Tomeprecauciones en #Chihuahua se registra cierre parcial de la circulación por #AccidenteVial cerca del Km 149+900 de la autopista Jiménez - Delicias. Atienda indicación vial. #Tomeprecauciones en #Chihuahua se registra cierre parcial de la circulación por #AccidenteVial cerca ",
       "link": "https://nitter.net/GN_Carreteras/status/2041677482084970698#m",
       "date": "2026-04-08T00:40:18+00:00"
-    },
-    {
-      "id": "9a3e9b21fc15",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 126.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 126. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. P",
-      "link": "https://nitter.net/CAPUFE/status/2041674260603605261#m",
-      "date": "2026-04-08T00:27:30+00:00"
     },
     {
       "id": "3309412d461b",
@@ -477,20 +491,6 @@
       "text": "#TomePrecauciones en #Tlaxcala se registra cierre total de circulación tras #AccidenteVial cerca del km 064+300, de la carretera Los Reyes - Zacatepec. Atienda indicación vial. #TomePrecauciones en #Tlaxcala se registra cierre total de circulación tras #AccidenteVial cerca del km",
       "link": "https://nitter.net/GN_Carreteras/status/2041572195550310472#m",
       "date": "2026-04-07T17:41:56+00:00"
-    },
-    {
-      "id": "0868661dd6f8",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 23.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación tras #AccidenteVial cerca del km 023+300, de la autopista León - Aguascalientes. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre parcial de circulación tras #AccidenteVial cerc",
-      "link": "https://nitter.net/GN_Carreteras/status/2041554142053724303#m",
-      "date": "2026-04-07T16:30:12+00:00"
     }
   ]
 }
