@@ -1,7 +1,63 @@
 {
-  "updated": "2026-04-09T09:50:06.196661+00:00",
-  "count": 32,
+  "updated": "2026-04-09T11:01:14.593523+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "a40eaa0f8d4e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 170.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 170, dirección Las Choapas. Continúa cierre a la circulación por atención de accidente (choque de frente entre tracto camiones). 🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Ocozocoautla permanecerá",
+      "link": "https://nitter.net/CAPUFE/status/2042195660804444302#m",
+      "date": "2026-04-09T10:59:22+00:00"
+    },
+    {
+      "id": "b4d883f4488d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 170.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 170. Cierre a la circulación en ambos sentidos por atención de accidente (choque de frente entre tracto camiones). 🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Ocozocoautla permanecerá cerrada en di",
+      "link": "https://nitter.net/CAPUFE/status/2042189467495080352#m",
+      "date": "2026-04-09T10:34:45+00:00"
+    },
+    {
+      "id": "88515d345ffd",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 196.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Magdalena - Nogales, km 196. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 R",
+      "link": "https://nitter.net/CAPUFE/status/2042186951927673178#m",
+      "date": "2026-04-09T10:24:45+00:00"
+    },
+    {
+      "id": "356f2c9c7cb3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 196.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Magdalena - Nogales, km 196. Se informa a las personas usuarias que continúa la circulación en contraflujo por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. En e",
+      "link": "https://nitter.net/CAPUFE/status/2042181808486252666#m",
+      "date": "2026-04-09T10:04:19+00:00"
+    },
     {
       "id": "5333be0f80ee",
       "account": "@capufe",
@@ -129,7 +185,7 @@
       "date": "2026-04-09T07:27:56+00:00"
     },
     {
-      "id": "c4c15a487397",
+      "id": "3f495366ec4c",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -138,7 +194,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Magdalena - Nogales, km 196. Se informa a las personas usuarias que restablece la circulación en contraflujo por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. En la zo",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Magdalena - Nogales, km 196. Se informa a las personas usuarias que restablece la circulación en contraflujo por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. En",
       "link": "https://nitter.net/CAPUFE/status/2042142304756957486#m",
       "date": "2026-04-09T07:27:21+00:00"
     },
@@ -255,20 +311,6 @@
       "date": "2026-04-09T05:31:16+00:00"
     },
     {
-      "id": "afa1bdc0ad88",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 0, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 0, dirección Querétaro. ",
-      "link": "https://nitter.net/CAPUFE/status/2042112284810457380#m",
-      "date": "2026-04-09T05:28:03+00:00"
-    },
-    {
       "id": "245226726332",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -283,20 +325,6 @@
       "date": "2026-04-09T04:59:39+00:00"
     },
     {
-      "id": "0b87b44df12e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Querétaro - Irapuato, km 0, dirección Querétaro. Continúa reducción de carriles por atención de accidente (labores de limpieza). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Querétaro - Irapuato, km 0, dirección Querétaro. C",
-      "link": "https://nitter.net/CAPUFE/status/2042104508893798781#m",
-      "date": "2026-04-09T04:57:10+00:00"
-    },
-    {
       "id": "986ed2f3d2fd",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -309,20 +337,6 @@
       "text": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 053+800, de la carretera Fresnillo – Río Grande. Atienda indicación Vial. #TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca d",
       "link": "https://nitter.net/GN_Carreteras/status/2042103571768885594#m",
       "date": "2026-04-09T04:53:26+00:00"
-    },
-    {
-      "id": "e8255a5b546e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 135.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 135. Circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 135. Circulación intermitente",
-      "link": "https://nitter.net/CAPUFE/status/2042101804641534346#m",
-      "date": "2026-04-09T04:46:25+00:00"
     },
     {
       "id": "8579b981890d",
