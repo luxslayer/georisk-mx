@@ -1,7 +1,63 @@
 {
-  "updated": "2026-04-10T19:49:19.877001+00:00",
-  "count": 30,
+  "updated": "2026-04-10T20:40:40.561635+00:00",
+  "count": 27,
   "incidents": [
+    {
+      "id": "a64af92494ac",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 70.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 70, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 70, dirección Có",
+      "link": "https://nitter.net/CAPUFE/status/2042704323772113259#m",
+      "date": "2026-04-10T20:40:37+00:00"
+    },
+    {
+      "id": "4df67a42e36b",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 6.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, Plaza de Cobro Tehuacán. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/H4FCbRuaYApLbPkm6 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopis",
+      "link": "https://nitter.net/CAPUFE/status/2042699024021487771#m",
+      "date": "2026-04-10T20:19:33+00:00"
+    },
+    {
+      "id": "0b6935951d0c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 10.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Michoacán tras #AccidenteVial cerca del km 010+800, de la carretera Vista Hermosa con dirección a la Piedad. Maneje con precaución. #ViaLibre en #Michoacán tras #AccidenteVial cerca del km 010+800, de la carretera Vista Hermosa con dirección a la Piedad. Maneje con ",
+      "link": "https://nitter.net/GN_Carreteras/status/2042692588319215683#m",
+      "date": "2026-04-10T19:53:59+00:00"
+    },
+    {
+      "id": "1809f8660a06",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 152.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación por #AccidenteVial cerca del km 152+100, de la carretera San Luis Potosí-Querétaro., a la altura de la Loc. Francisco Sánchez, S.L.P., Con dir. a Qro. Atienda indicación Vial. #TomePrecauciones en #SanL",
+      "link": "https://nitter.net/GN_Carreteras/status/2042691726712668373#m",
+      "date": "2026-04-10T19:50:33+00:00"
+    },
     {
       "id": "64d7ef0a1af1",
       "account": "@capufe",
@@ -171,76 +227,6 @@
       "date": "2026-04-10T18:04:13+00:00"
     },
     {
-      "id": "34faac5a6e6d",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 96.0,
-      "lat": 18.253631,
-      "lon": -99.522849,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Continúa carga vehicular, por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Continúa carga vehicular, por periodo vacac",
-      "link": "https://nitter.net/CAPUFE/status/2042664037322801465#m",
-      "date": "2026-04-10T18:00:32+00:00"
-    },
-    {
-      "id": "134a408262c2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 13. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 13. El accidente h",
-      "link": "https://nitter.net/CAPUFE/status/2042657076518772753#m",
-      "date": "2026-04-10T17:32:52+00:00"
-    },
-    {
-      "id": "a6a1aa4d5a58",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 219.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 219, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 219, direcci",
-      "link": "https://nitter.net/CAPUFE/status/2042655951933542422#m",
-      "date": "2026-04-10T17:28:24+00:00"
-    },
-    {
-      "id": "2045c85adfa7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 233.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 233, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 233, dirección A",
-      "link": "https://nitter.net/CAPUFE/status/2042655455894221148#m",
-      "date": "2026-04-10T17:26:26+00:00"
-    },
-    {
-      "id": "ac22f671b02b",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 164.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Acayucan, km 164, dirección Acayucan. Se informa a las personas usuarias que se restablece la circulación con cierres intermitentes por maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga veh",
-      "link": "https://nitter.net/CAPUFE/status/2042655036816200027#m",
-      "date": "2026-04-10T17:24:46+00:00"
-    },
-    {
       "id": "b5713f26100d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -253,20 +239,6 @@
       "text": "#TomePrecauciones en #Puebla continúa cierre de circulación tras maniobras por #AccidenteVial cerca del km 164+000, de la carretera Tulancingo-Tihuatlán. Atienda indicación Vial. #TomePrecauciones en #Puebla continúa cierre de circulación tras maniobras por #AccidenteVial cerca d",
       "link": "https://nitter.net/GN_Carreteras/status/2042653446507987233#m",
       "date": "2026-04-10T17:18:26+00:00"
-    },
-    {
-      "id": "9db37b445796",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 13. Se restablece la circulación a contraflujo. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. P",
-      "link": "https://nitter.net/CAPUFE/status/2042651462128275576#m",
-      "date": "2026-04-10T17:10:33+00:00"
     },
     {
       "id": "e007bcd96fdf",
@@ -407,20 +379,6 @@
       "text": "En #Veracruz continúa cierre total de circulación por presencia de personas, cerca del km 048+300, de la carretera Tuxpan- Tampico. Se proporciona vialidad por la Carretera interestatal San Sebastián-Naranjos. Atienda indicación Vial. En #Veracruz continúa cierre total de circula",
       "link": "https://nitter.net/GN_Carreteras/status/2042567057196138702#m",
       "date": "2026-04-10T11:35:10+00:00"
-    },
-    {
-      "id": "c7eeefcba7b6",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 163.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre total de circulación por #AccidenteVial cerca del km 163+900, de la carretera ent. La Tinaja - Cosoleacaque. Atienda indicación Vial. #TomePrecauciones en #Veracruz se registra cierre total de circulación por #AccidenteVial cerca ",
-      "link": "https://nitter.net/GN_Carreteras/status/2042555335655731710#m",
-      "date": "2026-04-10T10:48:35+00:00"
     }
   ]
 }
