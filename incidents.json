@@ -1,7 +1,77 @@
 {
-  "updated": "2026-04-10T18:57:31.865614+00:00",
-  "count": 34,
+  "updated": "2026-04-10T19:49:19.877001+00:00",
+  "count": 30,
   "incidents": [
+    {
+      "id": "64d7ef0a1af1",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 164.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Isla - Acayucan, km 164, dirección Acayucan. Se informa a las personas usuarias que continúa circulación con cierres intermitentes por maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular muy int",
+      "link": "https://nitter.net/CAPUFE/status/2042689676184842277#m",
+      "date": "2026-04-10T19:42:24+00:00"
+    },
+    {
+      "id": "a3286c9b02f6",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 164.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Puebla tras #AccidenteVial cerca del km 164+000, de la carretera Tulancingo-Tihuatlán. Atienda indicación Vial. #ViaLibre en #Puebla tras #AccidenteVial cerca del km 164+000, de la carretera Tulancingo-Tihuatlán. Atienda indicación Vial.",
+      "link": "https://nitter.net/GN_Carreteras/status/2042688476387123277#m",
+      "date": "2026-04-10T19:37:38+00:00"
+    },
+    {
+      "id": "01a48fad38ba",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 127.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Puebla tras #AccidenteVial cerca del km 127+600, de la Santa Barbara-Izúcar de Matamoros. Maneje con precaución. #ViaLibre en #Puebla tras #AccidenteVial cerca del km 127+600, de la Santa Barbara-Izúcar de Matamoros. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2042684415139012903#m",
+      "date": "2026-04-10T19:21:30+00:00"
+    },
+    {
+      "id": "97a40ac97b94",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 93.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 93, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 93, dirección Córdoba. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2042683662487917012#m",
+      "date": "2026-04-10T19:18:31+00:00"
+    },
+    {
+      "id": "8de1d985a152",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 164.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Se habilita un carril de circulación para cada sentido. Continúan las maniobras. Se habilita un carril de circulación para cada sentido. Continúan las maniobras. Guardia Nacional Carreteras (@GN_Carreteras) #TomePrecauciones en #Puebla continúa cierre de circulación tras maniobra",
+      "link": "https://nitter.net/GN_Carreteras/status/2042681855028105513#m",
+      "date": "2026-04-10T19:11:20+00:00"
+    },
     {
       "id": "785b030a07f2",
       "account": "@capufe",
@@ -157,7 +227,7 @@
       "date": "2026-04-10T17:26:26+00:00"
     },
     {
-      "id": "85dab497ef16",
+      "id": "ac22f671b02b",
       "account": "@capufe",
       "type": "closure",
       "highway": "Isla–Acayucan",
@@ -166,7 +236,7 @@
       "lat": 17.948,
       "lon": -94.914,
       "resolved": true,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Isla - Acayucan, km 164, dirección Acayucan. Se informa a las personas usuarias que se restablece la circulación con cierres intermitentes por maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Acayucan, km 164, dirección Acayucan. Se informa a las personas usuarias que se restablece la circulación con cierres intermitentes por maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga veh",
       "link": "https://nitter.net/CAPUFE/status/2042655036816200027#m",
       "date": "2026-04-10T17:24:46+00:00"
     },
@@ -213,62 +283,6 @@
       "date": "2026-04-10T17:08:11+00:00"
     },
     {
-      "id": "5e3a436ba47b",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 21.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 21 al 27. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 21 al 27. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2042649654349681019#m",
-      "date": "2026-04-10T17:03:22+00:00"
-    },
-    {
-      "id": "2d680c89238c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 93, dirección Córdoba. Reducción de carriles por atención de accidente (choque contra barrera metálica y salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, k",
-      "link": "https://nitter.net/CAPUFE/status/2042649370349203663#m",
-      "date": "2026-04-10T17:02:15+00:00"
-    },
-    {
-      "id": "a558ae681c25",
-      "account": "@capufe",
-      "type": "fire",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 110.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 110, dirección Corralitos. Reducción de carriles por atención de incidente (conato de incendio de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralit",
-      "link": "https://nitter.net/CAPUFE/status/2042648971760247098#m",
-      "date": "2026-04-10T17:00:40+00:00"
-    },
-    {
-      "id": "0788c48b7f6f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 233.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 233, dirección Acatzingo. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista A",
-      "link": "https://nitter.net/CAPUFE/status/2042647522179527033#m",
-      "date": "2026-04-10T16:54:54+00:00"
-    },
-    {
       "id": "40b0038c4b80",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -283,20 +297,6 @@
       "date": "2026-04-10T16:49:51+00:00"
     },
     {
-      "id": "3697cabd628f",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 96.0,
-      "lat": 18.253631,
-      "lon": -99.522849,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Continúa carga vehicular, por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Continúa carga vehicular, por periodo vacac",
-      "link": "https://nitter.net/CAPUFE/status/2042645453624197265#m",
-      "date": "2026-04-10T16:46:41+00:00"
-    },
-    {
       "id": "1c3f278ff9b0",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -309,34 +309,6 @@
       "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 010+800, de la carretera Vista Hermosa con dirección a la Piedad. Atienda indicación Vial. #TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #Acci",
       "link": "https://nitter.net/GN_Carreteras/status/2042640856822259899#m",
       "date": "2026-04-10T16:28:25+00:00"
-    },
-    {
-      "id": "c5e020f5a0ea",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 18.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 18, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 18, dirección Córdoba. El inc",
-      "link": "https://nitter.net/CAPUFE/status/2042639711076819290#m",
-      "date": "2026-04-10T16:23:52+00:00"
-    },
-    {
-      "id": "fa234ee09390",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Puente de Ixtla - Iguala, km 13. Cierre a la circulación en ambos sentidos por atención de accidente (choque de frente). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Puente de Ixtla - Iguala, ",
-      "link": "https://nitter.net/CAPUFE/status/2042638714703142928#m",
-      "date": "2026-04-10T16:19:54+00:00"
     },
     {
       "id": "1ff6f54deb9b",
@@ -449,34 +421,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre total de circulación por #AccidenteVial cerca del km 163+900, de la carretera ent. La Tinaja - Cosoleacaque. Atienda indicación Vial. #TomePrecauciones en #Veracruz se registra cierre total de circulación por #AccidenteVial cerca ",
       "link": "https://nitter.net/GN_Carreteras/status/2042555335655731710#m",
       "date": "2026-04-10T10:48:35+00:00"
-    },
-    {
-      "id": "19c8167e935b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 020+100, de la carretera Tapanatepec - Talismán. Atienda indicación Vial. #TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del k",
-      "link": "https://nitter.net/GN_Carreteras/status/2042422518804259220#m",
-      "date": "2026-04-10T02:00:49+00:00"
-    },
-    {
-      "id": "481f162dc201",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 116.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Veracruz tras #AccidenteVial cerca del km 116+300, de la autopista Libramiento Perote. Maneje con precaución. #ViaLibre en #Veracruz tras #AccidenteVial cerca del km 116+300, de la autopista Libramiento Perote. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2042399797252935991#m",
-      "date": "2026-04-10T00:30:32+00:00"
     }
   ]
 }
