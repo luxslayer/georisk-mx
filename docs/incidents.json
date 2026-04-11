@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-11T14:06:23.243931+00:00",
-  "count": 32,
+  "updated": "2026-04-11T15:03:02.976431+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "9fb79636da70",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 87.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 87, dirección CDMX. Reducción de carriles centrales por atención de accidente (choque contra muro de central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 87, dirección CDMX. Redu",
+      "link": "https://nitter.net/CAPUFE/status/2042974907131207848#m",
+      "date": "2026-04-11T14:35:49+00:00"
+    },
+    {
+      "id": "9bde87b2f586",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 235.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 235+250, de la carretera Poza Rica-Veracruz, a la altura de las Colinas de Santa Fe. Atienda indicación Vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circ",
+      "link": "https://nitter.net/GN_Carreteras/status/2042969866437615923#m",
+      "date": "2026-04-11T14:15:47+00:00"
+    },
     {
       "id": "bdc329d75550",
       "account": "@capufe",
@@ -325,34 +353,6 @@
       "date": "2026-04-11T05:50:10+00:00"
     },
     {
-      "id": "5d9cf03a8d8d",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 177.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, registra #lluvia del km 177 al 219. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, registra #lluvia del km 177 al 219. Disminuye tu velocidad y m",
-      "link": "https://nitter.net/CAPUFE/status/2042833275333546428#m",
-      "date": "2026-04-11T05:13:01+00:00"
-    },
-    {
-      "id": "3595ff1829df",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 141.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 141, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 141, dirección Puebla. El acc",
-      "link": "https://nitter.net/CAPUFE/status/2042832842175189333#m",
-      "date": "2026-04-11T05:11:18+00:00"
-    },
-    {
       "id": "d3c6e5ca0ef0",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -435,20 +435,6 @@
       "text": "#ViaLibre en #EdoMéx tras presencia de personas, cerca del km 041+000, de la Autopista México–Pachuca, con dirección a Ent. Morelos-Tizayuca. Maneje con precaución. #ViaLibre en #EdoMéx tras presencia de personas, cerca del km 041+000, de la Autopista México–Pachuca, con direcció",
       "link": "https://nitter.net/GN_Carreteras/status/2042785174459400457#m",
       "date": "2026-04-11T02:01:53+00:00"
-    },
-    {
-      "id": "3f820278a864",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 22.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #EdoMéx tras presencia de personas, cerca del km 022+000, de la Autopista México–Pachuca, con dirección a Ent. Morelos-Tizayuca. Maneje con precaución. #ViaLibre en #EdoMéx tras presencia de personas, cerca del km 022+000, de la Autopista México–Pachuca, con direcció",
-      "link": "https://nitter.net/GN_Carreteras/status/2042784774222233791#m",
-      "date": "2026-04-11T02:00:17+00:00"
     }
   ]
 }
