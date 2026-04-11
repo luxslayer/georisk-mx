@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-11T11:32:14.236052+00:00",
+  "updated": "2026-04-11T13:03:25.450029+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "889129ee57b8",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 26.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 026+360, de la Irapuato-Zapotlanejo, a la altura del poblado Abasolo, con dir. a Zapotlanejo, Jal. Atienda indicación Vial. #TomePrecauciones en #Guanajuato se registra cier",
+      "link": "https://nitter.net/GN_Carreteras/status/2042950633183904212#m",
+      "date": "2026-04-11T12:59:21+00:00"
+    },
+    {
+      "id": "d072719cc857",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 108.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 108+100, de la carretera Coatzacoalcos-Villahermosa, a la altura de Cárdenas, con dir. a Coatzacoalcos, Ver. Atienda indicación Vial. #TomePrecauciones en #Tabasco se registra ",
+      "link": "https://nitter.net/GN_Carreteras/status/2042949759376175152#m",
+      "date": "2026-04-11T12:55:53+00:00"
+    },
+    {
+      "id": "d9148b526606",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 112.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 112+900, de la carretera Santa Bárbara-Izúcar de Matamoros, a la altura de la comunidad de Calmeca, con dir. a Izúcar. Atienda indicación Vial. #TomePrecauciones en #Puebla se r",
+      "link": "https://nitter.net/GN_Carreteras/status/2042948592227299340#m",
+      "date": "2026-04-11T12:51:15+00:00"
+    },
     {
       "id": "6481c18f385b",
       "account": "@capufe",
@@ -421,48 +463,6 @@
       "text": "#TomePrecauciones en #EdoMéxse registra cierre total de circulación por presencia de personas, cerca del km 041+000, de la Autopista México–Pachuca, con dirección a Ent. Morelos-Tizayuca. Atienda indicación Vial. #TomePrecauciones en #EdoMéxse registra cierre total de circulación",
       "link": "https://nitter.net/GN_Carreteras/status/2042778595026784382#m",
       "date": "2026-04-11T01:35:44+00:00"
-    },
-    {
-      "id": "6999e65bb271",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 52.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Pachuca se registra cierre de circulación en ambos sentidos, por presencia de personas, cerca del km 52+000, de la carretera México-Pachuca, a la altura del puente de Tepojaco. Atienda indicación Vial. #TomePrecauciones en #Pachuca se registra cierre de circ",
-      "link": "https://nitter.net/GN_Carreteras/status/2042775812567351549#m",
-      "date": "2026-04-11T01:24:41+00:00"
-    },
-    {
-      "id": "52a73a8caf60",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 159.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 159+500, de la carretera Ent. La Tinaja-Cosoleacaque, a la altura de San Juan Evangelista, con dir. a Minatitlán. Atienda indicación Vial. #TomePrecauciones en #Veracruz se re",
-      "link": "https://nitter.net/GN_Carreteras/status/2042770449180840322#m",
-      "date": "2026-04-11T01:03:22+00:00"
-    },
-    {
-      "id": "40621ce068ad",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 9.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 009+600, de la carretera Peñón-Texcoco, a la altura del Mpio. de Texcoco. Atienda indicación Vial. #TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #Ac",
-      "link": "https://nitter.net/GN_Carreteras/status/2042761144805273899#m",
-      "date": "2026-04-11T00:26:24+00:00"
     }
   ]
 }
