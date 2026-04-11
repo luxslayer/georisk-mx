@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-11T16:44:34.269491+00:00",
-  "count": 31,
+  "updated": "2026-04-11T17:33:42.792151+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "0e69a813e640",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 140.0,
+      "lat": 17.967636,
+      "lon": -94.896545,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 140, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 140, dirección Isla. Red",
+      "link": "https://nitter.net/CAPUFE/status/2043019587466244221#m",
+      "date": "2026-04-11T17:33:21+00:00"
+    },
+    {
+      "id": "6a37368d028b",
+      "account": "@GN_carreteras",
+      "type": "fire",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 9.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz registra cierre total de circulación tras incendio de vehpiculo cerca del km 009+200 de la carretera Libramiento de Xalapa. Atienda indicación vial. #TomePrecauciones en #Veracruz registra cierre total de circulación tras incendio de vehpiculo cerca",
+      "link": "https://nitter.net/GN_Carreteras/status/2043018322866831484#m",
+      "date": "2026-04-11T17:28:20+00:00"
+    },
+    {
+      "id": "85caa30cbde6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 87.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 87, dirección CDMX. El accidente en carriles centrales ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 87, dirección CDMX. El",
+      "link": "https://nitter.net/CAPUFE/status/2043013640463204759#m",
+      "date": "2026-04-11T17:09:43+00:00"
+    },
     {
       "id": "c4c29482b064",
       "account": "@capufe",
@@ -339,20 +381,6 @@
       "date": "2026-04-11T07:52:29+00:00"
     },
     {
-      "id": "197ac7564ac5",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 334.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 334, dirección Cuernavaca. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 334, direcci",
-      "link": "https://nitter.net/CAPUFE/status/2042860462832787756#m",
-      "date": "2026-04-11T07:01:03+00:00"
-    },
-    {
       "id": "9d4998912fde",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -421,20 +449,6 @@
       "text": "#ViaLibre en #Coahuila tras presencia de personas, cerca del km 019+500, de la carretera entronque La Cuchilla-Torreón, a la altura del ejido 20 de Nov. Maneje con precaución. #ViaLibre en #Coahuila tras presencia de personas, cerca del km 019+500, de la carretera entronque La Cu",
       "link": "https://nitter.net/GN_Carreteras/status/2042791672765923479#m",
       "date": "2026-04-11T02:27:42+00:00"
-    },
-    {
-      "id": "748509d04d96",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 7.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guanajuato se registra cierre total de circulación por presencia de personas, cerca del km 007+000, de la carretera León–Aguascalientes, a la altura del Mpio. de León, Gto. Atienda indicación vial. #TomePrecauciones en #Guanajuato se registra cierre total de",
-      "link": "https://nitter.net/GN_Carreteras/status/2042786865426710535#m",
-      "date": "2026-04-11T02:08:36+00:00"
     }
   ]
 }
