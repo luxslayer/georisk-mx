@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-11T21:35:26.983263+00:00",
-  "count": 34,
+  "updated": "2026-04-11T22:34:56.380876+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "d2fd756be485",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 126.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz registra cierre total de circulación por #AccidenteVial cerca del km 126+500 de la carretera a Rica - Veracruz, a la altura de la localidad Emilio Carranza. Atienda indicación vial. #TomePrecauciones en #Veracruz registra cierre total de circulación",
+      "link": "https://nitter.net/GN_Carreteras/status/2043094156982043073#m",
+      "date": "2026-04-11T22:29:40+00:00"
+    },
+    {
+      "id": "d96e429b1bfe",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 250.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 250, dirección Cd. Mendoza. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal de CAPUFE y Bomberos continúa realizando las labores necesarias para la atención ",
+      "link": "https://nitter.net/CAPUFE/status/2043084164853801199#m",
+      "date": "2026-04-11T21:49:58+00:00"
+    },
     {
       "id": "67b15e1bf92a",
       "account": "@capufe",
@@ -31,7 +59,7 @@
       "date": "2026-04-11T21:18:15+00:00"
     },
     {
-      "id": "fa0b9d97fbe3",
+      "id": "25bb755d71f9",
       "account": "@capufe",
       "type": "fire",
       "highway": "?",
@@ -40,7 +68,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 250, dirección Cd. Mendoza. Registra cierre a la circulación por atención de incendio de tracto camión tipo pipa. 🔘 El personal de CAPUFE y Bomberos se encuentra laborando en la zona. Toma tus precauciones. C",
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 250, dirección Cd. Mendoza. Registra cierre a la circulación por atención de incendio de tracto camión tipo pipa. 🔘 El personal de CAPUFE y Bomberos se encuentra laborando en la zona. Toma tus precauciones. Consulta ",
       "link": "https://nitter.net/CAPUFE/status/2043074816517841068#m",
       "date": "2026-04-11T21:12:49+00:00"
     },
@@ -253,20 +281,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 231, dirección Acatzingo. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 231",
       "link": "https://nitter.net/CAPUFE/status/2043043045914927530#m",
       "date": "2026-04-11T19:06:34+00:00"
-    },
-    {
-      "id": "c2fc0cdb476e",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 234.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 234, dirección Acatzingo. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 234",
-      "link": "https://nitter.net/CAPUFE/status/2043042973680620006#m",
-      "date": "2026-04-11T19:06:17+00:00"
     },
     {
       "id": "36bea4c5f11a",
