@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-11T20:36:38.917214+00:00",
+  "updated": "2026-04-11T21:35:26.983263+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "67b15e1bf92a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 106.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Ciudad Valles - Tamuín, km 106. Registra circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Ciudad Valles - Tamuín, km 106. R",
+      "link": "https://nitter.net/CAPUFE/status/2043077293975671269#m",
+      "date": "2026-04-11T21:22:40+00:00"
+    },
+    {
+      "id": "51fce9af0c82",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 281.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 281, dirección Cd. Mendoza. Reducción de carriles por atención de incidente (vagoneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 281, direc",
+      "link": "https://nitter.net/CAPUFE/status/2043076185576407102#m",
+      "date": "2026-04-11T21:18:15+00:00"
+    },
+    {
+      "id": "fa0b9d97fbe3",
+      "account": "@capufe",
+      "type": "fire",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 250.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 250, dirección Cd. Mendoza. Registra cierre a la circulación por atención de incendio de tracto camión tipo pipa. 🔘 El personal de CAPUFE y Bomberos se encuentra laborando en la zona. Toma tus precauciones. C",
+      "link": "https://nitter.net/CAPUFE/status/2043074816517841068#m",
+      "date": "2026-04-11T21:12:49+00:00"
+    },
     {
       "id": "3b0059a8d5a4",
       "account": "@capufe",
@@ -227,20 +269,6 @@
       "date": "2026-04-11T19:06:17+00:00"
     },
     {
-      "id": "8e85fdd709f6",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 96.0,
-      "lat": 18.253631,
-      "lon": -99.522849,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Registra carga vehicular, por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Registra carga vehicular, por periodo vacac",
-      "link": "https://nitter.net/CAPUFE/status/2043040230198956422#m",
-      "date": "2026-04-11T18:55:23+00:00"
-    },
-    {
       "id": "36bea4c5f11a",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -253,34 +281,6 @@
       "text": "#TomePrecauciones en #Nayarit registra cierre parcial de circulación por #AccidenteVial cerca del km 193+900 de la carretera Guadalajara-Tepic (libre), a la altura de la localidad a Galinda, Nay. Atienda indicación Vial. #TomePrecauciones en #Nayarit registra cierre parcial de ci",
       "link": "https://nitter.net/GN_Carreteras/status/2043036320243589530#m",
       "date": "2026-04-11T18:39:51+00:00"
-    },
-    {
-      "id": "53aec8bfb6c3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 84.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 84, dirección CDMX. Reducción de carriles centrales por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 84, dirección CDMX. Reducción de ca",
-      "link": "https://nitter.net/CAPUFE/status/2043036299184005412#m",
-      "date": "2026-04-11T18:39:46+00:00"
-    },
-    {
-      "id": "3b8eac668ef0",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 36.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 36, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). En la zona se registra #lluvia. Disminuye tu velocidad y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxic",
-      "link": "https://nitter.net/CAPUFE/status/2043035716897124584#m",
-      "date": "2026-04-11T18:37:27+00:00"
     },
     {
       "id": "a10dbb337948",
