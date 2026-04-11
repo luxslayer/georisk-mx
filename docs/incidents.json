@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-11T06:01:49.745697+00:00",
-  "count": 36,
+  "updated": "2026-04-11T07:33:03.308705+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "197ac7564ac5",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 334.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 334, dirección Cuernavaca. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 334, direcci",
+      "link": "https://nitter.net/CAPUFE/status/2042860462832787756#m",
+      "date": "2026-04-11T07:01:03+00:00"
+    },
+    {
+      "id": "8f27f83c1228",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 215.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 215, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 215, dirección Cuer",
+      "link": "https://nitter.net/CAPUFE/status/2042856578651484586#m",
+      "date": "2026-04-11T06:45:37+00:00"
+    },
+    {
+      "id": "9d4998912fde",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 139.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del km 139+900, de la carretera Libramiento norte de la ciudad de México, con dirección a Puebla. Atienda indicación Vial. #TomePrecauciones en #Hidalgo se registra cierre parcial de ",
+      "link": "https://nitter.net/GN_Carreteras/status/2042854927764971683#m",
+      "date": "2026-04-11T06:39:03+00:00"
+    },
     {
       "id": "0c93e6f42997",
       "account": "@capufe",
@@ -353,20 +395,6 @@
       "date": "2026-04-11T01:35:44+00:00"
     },
     {
-      "id": "f3febf74955f",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 98.0,
-      "lat": 18.218174,
-      "lon": -99.530466,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. Continúa carga vehicular, por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. Continúa carga vehicular, por periodo vacac",
-      "link": "https://nitter.net/CAPUFE/status/2042776862997258437#m",
-      "date": "2026-04-11T01:28:51+00:00"
-    },
-    {
       "id": "6999e65bb271",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -379,20 +407,6 @@
       "text": "#TomePrecauciones en #Pachuca se registra cierre de circulación en ambos sentidos, por presencia de personas, cerca del km 52+000, de la carretera México-Pachuca, a la altura del puente de Tepojaco. Atienda indicación Vial. #TomePrecauciones en #Pachuca se registra cierre de circ",
       "link": "https://nitter.net/GN_Carreteras/status/2042775812567351549#m",
       "date": "2026-04-11T01:24:41+00:00"
-    },
-    {
-      "id": "e18623be1c30",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Acapulco",
-      "route_key": "mexico-acapulco",
-      "km": 95.0,
-      "lat": 18.584,
-      "lon": -99.234,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuauhtémoc – Osiris, km 95. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuauhtémoc – Osiris, km 95. El accidente ha sido at",
-      "link": "https://nitter.net/CAPUFE/status/2042773243757539527#m",
-      "date": "2026-04-11T01:14:28+00:00"
     },
     {
       "id": "52a73a8caf60",
@@ -409,20 +423,6 @@
       "date": "2026-04-11T01:03:22+00:00"
     },
     {
-      "id": "a460b469f7ea",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 49.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 49, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. En la zona se registra carga vehicular intensa. Unidades de Guardia Nacional y CAPUFE realiza",
-      "link": "https://nitter.net/CAPUFE/status/2042764667341197370#m",
-      "date": "2026-04-11T00:40:24+00:00"
-    },
-    {
       "id": "40621ce068ad",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -435,76 +435,6 @@
       "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 009+600, de la carretera Peñón-Texcoco, a la altura del Mpio. de Texcoco. Atienda indicación Vial. #TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #Ac",
       "link": "https://nitter.net/GN_Carreteras/status/2042761144805273899#m",
       "date": "2026-04-11T00:26:24+00:00"
-    },
-    {
-      "id": "f0f41dce51df",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 22.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #EdoMéxse registra cierre parcial de circulación por presencia de personas, cerca del km 022+000, de la Autopista México–Pachuca, con dirección a Ent. Morelos-Tizayuca. Atienda indicación Vial. #TomePrecauciones en #EdoMéxse registra cierre parcial de circula",
-      "link": "https://nitter.net/GN_Carreteras/status/2042757063537840350#m",
-      "date": "2026-04-11T00:10:11+00:00"
-    },
-    {
-      "id": "1b81ccac6383",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 164.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Acayucan, km 164, dirección Acayucan. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. En la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operat",
-      "link": "https://nitter.net/CAPUFE/status/2042753230375985468#m",
-      "date": "2026-04-10T23:54:57+00:00"
-    },
-    {
-      "id": "16744d637ee4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 49.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 49, dirección CDMX. Cierre a la circulación por atención de salida del camino de tracto camión y choque contra barreras metálicas. En la zona se registra derrame de combustible. Toma tus precauciones. Consulta la ubicación aquí: h",
-      "link": "https://nitter.net/CAPUFE/status/2042720430201491568#m",
-      "date": "2026-04-10T21:44:37+00:00"
-    },
-    {
-      "id": "4df67a42e36b",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 6.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, Plaza de Cobro Tehuacán. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/H4FCbRuaYApLbPkm6 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopis",
-      "link": "https://nitter.net/CAPUFE/status/2042699024021487771#m",
-      "date": "2026-04-10T20:19:33+00:00"
-    },
-    {
-      "id": "e01b002722a1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 164.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 164, dirección Acayucan. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Dirección Isla, registra reducción de carriles. Carga vehicular en la zona. Se reco",
-      "link": "https://nitter.net/CAPUFE/status/2042631973621870678#m",
-      "date": "2026-04-10T15:53:07+00:00"
     }
   ]
 }
