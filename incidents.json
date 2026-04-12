@@ -1,7 +1,77 @@
 {
-  "updated": "2026-04-12T02:48:22.847810+00:00",
-  "count": 31,
+  "updated": "2026-04-12T05:25:55.728884+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "097c38ebc764",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 26.0,
+      "lat": 18.079733,
+      "lon": -94.8152,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 26, dirección Acayucan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 26, dirección Acay",
+      "link": "https://nitter.net/CAPUFE/status/2043194396363931983#m",
+      "date": "2026-04-12T05:07:59+00:00"
+    },
+    {
+      "id": "f0a5ad22dd65",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 175.0,
+      "lat": 30.994,
+      "lon": -106.4535,
+      "resolved": true,
+      "text": "#TomePrecauciones en #NuevoLeón registra cierre parcial de circulación por #AccidenteVial cerca del km 175+600 de la carretera Cd. Victoria - Monterrey, Atienda indicación Vial. #TomePrecauciones en #NuevoLeón registra cierre parcial de circulación por #AccidenteVial cerca del km",
+      "link": "https://nitter.net/GN_Carreteras/status/2043190471036424222#m",
+      "date": "2026-04-12T04:52:23+00:00"
+    },
+    {
+      "id": "b96c34c5dc87",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 26.0,
+      "lat": 18.079733,
+      "lon": -94.8152,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 26, dirección Acayucan. Registra reducción de carriles por atención de accidente (salida del camino y volcadura). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km",
+      "link": "https://nitter.net/CAPUFE/status/2043180583770026367#m",
+      "date": "2026-04-12T04:13:06+00:00"
+    },
+    {
+      "id": "34aa57d81b0b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 106.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 106, dirección CDMX. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución. 🟠CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 106, dirección CDMX. Reducción de carriles por atención de",
+      "link": "https://nitter.net/CAPUFE/status/2043172075968344539#m",
+      "date": "2026-04-12T03:39:17+00:00"
+    },
+    {
+      "id": "3ebe6db2d2c5",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 19 al 26. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 19 al 26. Disminuye tu velocidad y maneja con precaución.",
+      "link": "https://nitter.net/CAPUFE/status/2043159910901219497#m",
+      "date": "2026-04-12T02:50:57+00:00"
+    },
     {
       "id": "5db58a2c08d9",
       "account": "@capufe",
@@ -185,62 +255,6 @@
       "date": "2026-04-11T23:48:46+00:00"
     },
     {
-      "id": "908d87cb7fdb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 106.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Ciudad Valles - Tamuín, km 106. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Ciudad Valles - Tamuín, km 106. El accident",
-      "link": "https://nitter.net/CAPUFE/status/2043110313810083923#m",
-      "date": "2026-04-11T23:33:52+00:00"
-    },
-    {
-      "id": "3c14a8a60ae8",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 52.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 52. Registra reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 52. Registra reducción de carriles en",
-      "link": "https://nitter.net/CAPUFE/status/2043108310014927122#m",
-      "date": "2026-04-11T23:25:54+00:00"
-    },
-    {
-      "id": "5d895cbc9f9b",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 140.0,
-      "lat": 17.967636,
-      "lon": -94.896545,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 140, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 140, dirección ",
-      "link": "https://nitter.net/CAPUFE/status/2043104054440587398#m",
-      "date": "2026-04-11T23:09:00+00:00"
-    },
-    {
-      "id": "e81371e2d2f2",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 281.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 281, dirección Cd. Mendoza. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 281, dirección Cd",
-      "link": "https://nitter.net/CAPUFE/status/2043097267649781991#m",
-      "date": "2026-04-11T22:42:02+00:00"
-    },
-    {
       "id": "d2fd756be485",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -253,6 +267,20 @@
       "text": "#TomePrecauciones en #Veracruz registra cierre total de circulación por #AccidenteVial cerca del km 126+500 de la carretera a Rica - Veracruz, a la altura de la localidad Emilio Carranza. Atienda indicación vial. #TomePrecauciones en #Veracruz registra cierre total de circulación",
       "link": "https://nitter.net/GN_Carreteras/status/2043094156982043073#m",
       "date": "2026-04-11T22:29:40+00:00"
+    },
+    {
+      "id": "25bb755d71f9",
+      "account": "@capufe",
+      "type": "fire",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 250.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 250, dirección Cd. Mendoza. Registra cierre a la circulación por atención de incendio de tracto camión tipo pipa. 🔘 El personal de CAPUFE y Bomberos se encuentra laborando en la zona. Toma tus precauciones. Consulta ",
+      "link": "https://nitter.net/CAPUFE/status/2043074816517841068#m",
+      "date": "2026-04-11T21:12:49+00:00"
     },
     {
       "id": "e6d028dafbc9",
@@ -421,20 +449,6 @@
       "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 108+100, de la carretera Coatzacoalcos-Villahermosa, a la altura de Cárdenas, con dir. a Coatzacoalcos, Ver. Atienda indicación Vial. #TomePrecauciones en #Tabasco se registra ",
       "link": "https://nitter.net/GN_Carreteras/status/2042949759376175152#m",
       "date": "2026-04-11T12:55:53+00:00"
-    },
-    {
-      "id": "d9148b526606",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 112.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 112+900, de la carretera Santa Bárbara-Izúcar de Matamoros, a la altura de la comunidad de Calmeca, con dir. a Izúcar. Atienda indicación Vial. #TomePrecauciones en #Puebla se r",
-      "link": "https://nitter.net/GN_Carreteras/status/2042948592227299340#m",
-      "date": "2026-04-11T12:51:15+00:00"
     }
   ]
 }
