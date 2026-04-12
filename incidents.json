@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-12T16:53:30.575167+00:00",
+  "updated": "2026-04-12T17:37:17.860632+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "fb0a67d3a67a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 104.0,
+      "lat": 29.698,
+      "lon": -106.3832,
+      "resolved": true,
+      "text": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación por #AccidenteVial cerca del km 104+200, de la carretera Cd. Valles-San Luis Potosí, a la altura del Mpio. Cerrito de la Cruz. Atienda indicación Vial. #TomePrecauciones en #SanLuisPotosí se registra ci",
+      "link": "https://nitter.net/GN_Carreteras/status/2043380900423987336#m",
+      "date": "2026-04-12T17:29:05+00:00"
+    },
+    {
+      "id": "9f82bbce7761",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 149.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 149+650, de la carretera Tapanatepec-Talismán, con dirección a Pijijiapan. Atienda indicación Vial. #TomePrecauciones en #Chiapas se registra cierre parcial de circulación por ",
+      "link": "https://nitter.net/GN_Carreteras/status/2043374045115159017#m",
+      "date": "2026-04-12T17:01:51+00:00"
+    },
     {
       "id": "42ffb17805fb",
       "account": "@capufe",
@@ -449,34 +477,6 @@
       "text": "#TomePrecauciones en #Tamaulipas registra cierre parcial de circulación por #AccidenteVial cerca del km 089+000 de la carretera Cd. Victoria-Matamoros, a la altura de la localidad El Peñón, Tamps. Atienda indicación Vial. #TomePrecauciones en #Tamaulipas registra cierre parcial d",
       "link": "https://nitter.net/GN_Carreteras/status/2043058436955332995#m",
       "date": "2026-04-11T20:07:44+00:00"
-    },
-    {
-      "id": "36bea4c5f11a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Gdl–Tepic",
-      "route_key": "guadalajara-tepic",
-      "km": 193.0,
-      "lat": 21.447057,
-      "lon": -104.8005,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Nayarit registra cierre parcial de circulación por #AccidenteVial cerca del km 193+900 de la carretera Guadalajara-Tepic (libre), a la altura de la localidad a Galinda, Nay. Atienda indicación Vial. #TomePrecauciones en #Nayarit registra cierre parcial de ci",
-      "link": "https://nitter.net/GN_Carreteras/status/2043036320243589530#m",
-      "date": "2026-04-11T18:39:51+00:00"
-    },
-    {
-      "id": "a10dbb337948",
-      "account": "@GN_carreteras",
-      "type": "fire",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 9.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz registra cierre total de circulación tras incendio de vehículo cerca del km 009+200 de la carretera Libramiento de Xalapa. Atienda indicación vial. #TomePrecauciones en #Veracruz registra cierre total de circulación tras incendio de vehículo cerca d",
-      "link": "https://nitter.net/GN_Carreteras/status/2043034854334292229#m",
-      "date": "2026-04-11T18:34:01+00:00"
     }
   ]
 }
