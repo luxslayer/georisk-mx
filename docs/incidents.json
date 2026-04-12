@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-12T05:25:55.728884+00:00",
-  "count": 32,
+  "updated": "2026-04-12T06:53:37.004098+00:00",
+  "count": 30,
   "incidents": [
+    {
+      "id": "a36bd84005be",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 106.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 106, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 106, dirección CDMX. El accidente ha sido atendido. Tr",
+      "link": "https://nitter.net/CAPUFE/status/2043201479926862286#m",
+      "date": "2026-04-12T05:36:08+00:00"
+    },
     {
       "id": "097c38ebc764",
       "account": "@capufe",
@@ -185,34 +199,6 @@
       "date": "2026-04-12T00:42:01+00:00"
     },
     {
-      "id": "4d35319ec0f9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 52.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 52. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 52. El accidente ha sido atendido. Tramo opera de ma",
-      "link": "https://nitter.net/CAPUFE/status/2043123573842157769#m",
-      "date": "2026-04-12T00:26:34+00:00"
-    },
-    {
-      "id": "f2120650d376",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 250.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 250, dirección Cd. Mendoza. Se informa a las personas usuarias que continúa la circulación con reducción de carriles. El personal de CAPUFE se mantiene realizando las labores necesarias para la atención del acc",
-      "link": "https://nitter.net/CAPUFE/status/2043123167544164613#m",
-      "date": "2026-04-12T00:24:57+00:00"
-    },
-    {
       "id": "6b3ce8aaeade",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,20 +253,6 @@
       "text": "#TomePrecauciones en #Veracruz registra cierre total de circulación por #AccidenteVial cerca del km 126+500 de la carretera a Rica - Veracruz, a la altura de la localidad Emilio Carranza. Atienda indicación vial. #TomePrecauciones en #Veracruz registra cierre total de circulación",
       "link": "https://nitter.net/GN_Carreteras/status/2043094156982043073#m",
       "date": "2026-04-11T22:29:40+00:00"
-    },
-    {
-      "id": "25bb755d71f9",
-      "account": "@capufe",
-      "type": "fire",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 250.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 250, dirección Cd. Mendoza. Registra cierre a la circulación por atención de incendio de tracto camión tipo pipa. 🔘 El personal de CAPUFE y Bomberos se encuentra laborando en la zona. Toma tus precauciones. Consulta ",
-      "link": "https://nitter.net/CAPUFE/status/2043074816517841068#m",
-      "date": "2026-04-11T21:12:49+00:00"
     },
     {
       "id": "e6d028dafbc9",
