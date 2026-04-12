@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-12T14:09:01.089999+00:00",
-  "count": 35,
+  "updated": "2026-04-12T15:05:22.713444+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "948f161c3d5b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 044+500, de la carretera Guadalajara-Ocotlán, a inmediaciones de la Localidad de Atequiza, con dir. a Ocotlán. Atienda indicación Vial. #TomePrecauciones en #Jalisco se registr",
+      "link": "https://nitter.net/GN_Carreteras/status/2043339687213867437#m",
+      "date": "2026-04-12T14:45:19+00:00"
+    },
     {
       "id": "17b0c7bf08ac",
       "account": "@capufe",
@@ -435,62 +449,6 @@
       "text": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 020+050, de la carretera Los Mochis-Cd. Obregón, a la altura del Mpio. Cd. Obregón. Atienda indicación Vial. #TomePrecauciones en #Sonora se registra cierre parcial de circulaci",
       "link": "https://nitter.net/GN_Carreteras/status/2042986437864243304#m",
       "date": "2026-04-11T15:21:38+00:00"
-    },
-    {
-      "id": "9bde87b2f586",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 235.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 235+250, de la carretera Poza Rica-Veracruz, a la altura de las Colinas de Santa Fe. Atienda indicación Vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circ",
-      "link": "https://nitter.net/GN_Carreteras/status/2042969866437615923#m",
-      "date": "2026-04-11T14:15:47+00:00"
-    },
-    {
-      "id": "0e43f2809dfc",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 32.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #CDMX se registra cierre total de circulación por #VehículoIncendiado por falla mecánica cerca del km 032+800, de la carretera Chamapa-La Venta, a la altura del Mpio. de Naucalpan de Juárez, Edo. MX. Atienda indicación Vial. #TomePrecauciones en #CDMX se regi",
-      "link": "https://nitter.net/GN_Carreteras/status/2042953376615297358#m",
-      "date": "2026-04-11T13:10:15+00:00"
-    },
-    {
-      "id": "5adc7d23a51e",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 017+250, de la carretera Villahermosa-Macultepec, a la altura de Ocuiltzapotlan, con dir. a Álvaro Obregón. Atienda indicación Vial. #TomePrecauciones en #Tabasco se registra c",
-      "link": "https://nitter.net/GN_Carreteras/status/2042951705843707987#m",
-      "date": "2026-04-11T13:03:37+00:00"
-    },
-    {
-      "id": "889129ee57b8",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 26.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 026+360, de la Irapuato-Zapotlanejo, a la altura del poblado Abasolo, con dir. a Zapotlanejo, Jal. Atienda indicación Vial. #TomePrecauciones en #Guanajuato se registra cier",
-      "link": "https://nitter.net/GN_Carreteras/status/2042950633183904212#m",
-      "date": "2026-04-11T12:59:21+00:00"
     }
   ]
 }
