@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-12T11:57:27.110696+00:00",
-  "count": 34,
+  "updated": "2026-04-12T13:19:39.071857+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "f252918a9eab",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 89.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 89, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 89, direc",
+      "link": "https://nitter.net/CAPUFE/status/2043303193157734706#m",
+      "date": "2026-04-12T12:20:18+00:00"
+    },
     {
       "id": "d79d0833c100",
       "account": "@capufe",
