@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-12T06:53:37.004098+00:00",
-  "count": 30,
+  "updated": "2026-04-12T08:03:58.530067+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "a4b7d35dbc9c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 10.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 10, dirección Lechería. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 10, dirección Lechería. Reduc",
+      "link": "https://nitter.net/CAPUFE/status/2043231344394703226#m",
+      "date": "2026-04-12T07:34:48+00:00"
+    },
+    {
+      "id": "cc4f9e057e78",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 89.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 89, dirección La Tinaja. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 89, dirección La T",
+      "link": "https://nitter.net/CAPUFE/status/2043222642509955482#m",
+      "date": "2026-04-12T07:00:13+00:00"
+    },
     {
       "id": "a36bd84005be",
       "account": "@capufe",
@@ -183,20 +211,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 140, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 140, dirección Isla. El incidente ha",
       "link": "https://nitter.net/CAPUFE/status/2043134775787937844#m",
       "date": "2026-04-12T01:11:04+00:00"
-    },
-    {
-      "id": "f03708719028",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 250.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 250, dirección Cd. Mendoza. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. ",
-      "link": "https://nitter.net/CAPUFE/status/2043127464616927431#m",
-      "date": "2026-04-12T00:42:01+00:00"
     },
     {
       "id": "6b3ce8aaeade",
