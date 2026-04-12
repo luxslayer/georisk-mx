@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-12T09:12:45.135656+00:00",
-  "count": 31,
+  "updated": "2026-04-12T10:07:37.022117+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "06ef56a35597",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 88.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Agua Dulce - Cárdenas, km 88, dirección Agua Dulce. Reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Agua Dulce - Cárden",
+      "link": "https://nitter.net/CAPUFE/status/2043262102157062593#m",
+      "date": "2026-04-12T09:37:01+00:00"
+    },
+    {
+      "id": "6928cd3c4455",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 35.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 35, dirección Córdoba. Cierre a la circulación por atención de accidente (incendio de autobús). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 35, d",
+      "link": "https://nitter.net/CAPUFE/status/2043258187768365209#m",
+      "date": "2026-04-12T09:21:28+00:00"
+    },
     {
       "id": "a4b7d35dbc9c",
       "account": "@capufe",
@@ -197,20 +225,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 49. Registra reducción de carriles en ambos sentidos por atención de choque por alcance múltiple entre camiones de carga y automóviles particulares. En la zona se registra carga vehicular y #lluvia. Atiende las indicacione",
       "link": "https://nitter.net/CAPUFE/status/2043140766416224617#m",
       "date": "2026-04-12T01:34:53+00:00"
-    },
-    {
-      "id": "546aab079954",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 140.0,
-      "lat": 17.967636,
-      "lon": -94.896545,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 140, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 140, dirección Isla. El incidente ha",
-      "link": "https://nitter.net/CAPUFE/status/2043134775787937844#m",
-      "date": "2026-04-12T01:11:04+00:00"
     },
     {
       "id": "6b3ce8aaeade",
