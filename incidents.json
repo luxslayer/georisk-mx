@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-12T11:06:55.488055+00:00",
+  "updated": "2026-04-12T11:57:27.110696+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "d79d0833c100",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 73.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Agua Dulce - Cárdenas, km 73, dirección Agua Dulce. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Agua Dulce - Cárdenas, km 73, dirección Agua D",
+      "link": "https://nitter.net/CAPUFE/status/2043296323235963282#m",
+      "date": "2026-04-12T11:53:00+00:00"
+    },
+    {
+      "id": "f26c5a500bad",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 115.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz registra cierre parcial de circulación por #AccidenteVial cerca del km 115+000 de la carretera Posa Rica-Veracruz, Atienda indicación Vial. #TomePrecauciones en #Veracruz registra cierre parcial de circulación por #AccidenteVial cerca del km 115+000",
+      "link": "https://nitter.net/GN_Carreteras/status/2043293718095040559#m",
+      "date": "2026-04-12T11:42:39+00:00"
+    },
     {
       "id": "374c2ecf338c",
       "account": "@capufe",
@@ -197,20 +225,6 @@
       "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 19 al 26. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 19 al 26. Disminuye tu velocidad y maneja con precaución.",
       "link": "https://nitter.net/CAPUFE/status/2043159910901219497#m",
       "date": "2026-04-12T02:50:57+00:00"
-    },
-    {
-      "id": "5db58a2c08d9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 49.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 49. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIM",
-      "link": "https://nitter.net/CAPUFE/status/2043155307677823158#m",
-      "date": "2026-04-12T02:32:39+00:00"
     },
     {
       "id": "17912828a482",
@@ -463,20 +477,6 @@
       "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 026+360, de la Irapuato-Zapotlanejo, a la altura del poblado Abasolo, con dir. a Zapotlanejo, Jal. Atienda indicación Vial. #TomePrecauciones en #Guanajuato se registra cier",
       "link": "https://nitter.net/GN_Carreteras/status/2042950633183904212#m",
       "date": "2026-04-11T12:59:21+00:00"
-    },
-    {
-      "id": "d072719cc857",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 108.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 108+100, de la carretera Coatzacoalcos-Villahermosa, a la altura de Cárdenas, con dir. a Coatzacoalcos, Ver. Atienda indicación Vial. #TomePrecauciones en #Tabasco se registra ",
-      "link": "https://nitter.net/GN_Carreteras/status/2042949759376175152#m",
-      "date": "2026-04-11T12:55:53+00:00"
     }
   ]
 }
