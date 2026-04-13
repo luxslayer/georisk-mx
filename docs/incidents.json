@@ -1,7 +1,77 @@
 {
-  "updated": "2026-04-13T21:55:59.457208+00:00",
-  "count": 33,
+  "updated": "2026-04-13T22:49:45.909472+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "07af6f063a69",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 47.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 47, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 47, dirección CDMX. El accidente ha sido atendido. Tram",
+      "link": "https://nitter.net/CAPUFE/status/2043819925832106384#m",
+      "date": "2026-04-13T22:33:37+00:00"
+    },
+    {
+      "id": "452cc3437a41",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 81.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 81, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 81, dirección Puebla. El accidente ha sido atendido. ",
+      "link": "https://nitter.net/CAPUFE/status/2043819134606004521#m",
+      "date": "2026-04-13T22:30:28+00:00"
+    },
+    {
+      "id": "9806c88e217c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 96.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 96, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 96, dirección La Tinaja. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2043818452553437449#m",
+      "date": "2026-04-13T22:27:46+00:00"
+    },
+    {
+      "id": "8b5b7b5dfdcb",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, del km 20 al 21, dirección CDMX. Reducción de carriles por labores de mantenimiento (no a cargo de CAPUFE). En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla ",
+      "link": "https://nitter.net/CAPUFE/status/2043811993778315351#m",
+      "date": "2026-04-13T22:02:06+00:00"
+    },
+    {
+      "id": "bf97f3caa067",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 194.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro ,",
+      "link": "https://nitter.net/CAPUFE/status/2043811820406804576#m",
+      "date": "2026-04-13T22:01:24+00:00"
+    },
     {
       "id": "efcb21d77ef3",
       "account": "@capufe",
@@ -269,48 +339,6 @@
       "date": "2026-04-13T18:25:01+00:00"
     },
     {
-      "id": "896dd8fb22ce",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Méx–Acapulco",
-      "route_key": "mexico-acapulco",
-      "km": 295.0,
-      "lat": 16.945423,
-      "lon": -99.76005,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 295, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 295, dirección Córdoba",
-      "link": "https://nitter.net/CAPUFE/status/2043748930614174198#m",
-      "date": "2026-04-13T17:51:30+00:00"
-    },
-    {
-      "id": "43d1937a3d51",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 0, dirección Chamapa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 0, dirección Chamapa. El accid",
-      "link": "https://nitter.net/CAPUFE/status/2043742369699225617#m",
-      "date": "2026-04-13T17:25:26+00:00"
-    },
-    {
-      "id": "7da457fc3703",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 160.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 160, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 160, dirección Querétaro. El accidente ha s",
-      "link": "https://nitter.net/CAPUFE/status/2043739202513199354#m",
-      "date": "2026-04-13T17:12:51+00:00"
-    },
-    {
       "id": "3898db6bb9d7",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -463,6 +491,20 @@
       "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 076+500, de la carretera Querétaro-León, a la altura del poblado Cerro Gordo, con dir. a Irapuato. Atienda indicación Vial. #TomePrecauciones en #Guanajuato se registra cier",
       "link": "https://nitter.net/GN_Carreteras/status/2043544393366241475#m",
       "date": "2026-04-13T04:18:45+00:00"
+    },
+    {
+      "id": "4b46bcc793f7",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 11.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Aguascalientes se registra cierre parcial de circulación por #AccidenteVial cerca del km 011+500, de la carretera Aguascalientes-Jalpa, a la altura del poblado Villas de Montecarlo. Atienda indicación Vial. #TomePrecauciones en #Aguascalientes se registra ci",
+      "link": "https://nitter.net/GN_Carreteras/status/2043523382419845437#m",
+      "date": "2026-04-13T02:55:15+00:00"
     }
   ]
 }
