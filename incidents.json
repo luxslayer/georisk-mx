@@ -1,7 +1,77 @@
 {
-  "updated": "2026-04-13T19:47:58.155006+00:00",
-  "count": 30,
+  "updated": "2026-04-13T20:57:47.176929+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "ac9f75996de6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 96.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 96, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 96, direcci",
+      "link": "https://nitter.net/CAPUFE/status/2043792906360619480#m",
+      "date": "2026-04-13T20:46:15+00:00"
+    },
+    {
+      "id": "5484600d0798",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 6.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Guerrero se registra cierre parcial de circulación en ambos sentidos por presencia de personas cerca del Km 006 + 200, a la altura del poblado el Cayaco. #Maneje con precaución. #ViaLibre en #Guerrero se registra cierre parcial de circulación en ambos sentidos por p",
+      "link": "https://nitter.net/GN_Carreteras/status/2043788947029934457#m",
+      "date": "2026-04-13T20:30:31+00:00"
+    },
+    {
+      "id": "96544cc40b15",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 141.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del Km 141+600, en la carretera Coatzacoalcos- Villahermosa, a la altura del Mpio. Coatzacoalcos. #Atienda indicación Vial. #TomePrecauciones en #Tabasco se registra cierre parcial de",
+      "link": "https://nitter.net/GN_Carreteras/status/2043784659977290145#m",
+      "date": "2026-04-13T20:13:29+00:00"
+    },
+    {
+      "id": "c19673d055b7",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 193.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 193, dirección Querétaro. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 193, dirección Querétaro. El incidente ha s",
+      "link": "https://nitter.net/CAPUFE/status/2043783236959031512#m",
+      "date": "2026-04-13T20:07:50+00:00"
+    },
+    {
+      "id": "7d616fbd5476",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 181.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Hermosillo - Magdalena, km 181, dirección Hermosillo. Continúa la atención del accidente (maniobras para el retiro de unidad siniestrada), por el momento sin afectación a los carriles de rodamiento. Maneja con precaución. 🟢 RESTABLECIMIENT",
+      "link": "https://nitter.net/CAPUFE/status/2043779189963174345#m",
+      "date": "2026-04-13T19:51:45+00:00"
+    },
     {
       "id": "49998cbbfab7",
       "account": "@capufe",
@@ -227,34 +297,6 @@
       "date": "2026-04-13T16:34:04+00:00"
     },
     {
-      "id": "d2aeda71b5f8",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 91.0,
-      "lat": 31.867633,
-      "lon": -116.655533,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 91, dirección Ensenada. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 91, dirección Ensenada. El a",
-      "link": "https://nitter.net/CAPUFE/status/2043725729427280297#m",
-      "date": "2026-04-13T16:19:19+00:00"
-    },
-    {
-      "id": "4cdf44057735",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 160.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 160, dirección Querétaro. Reducción de carriles por atención de accidente (volcadura de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 160, dirección Querétaro. Reducción de c",
-      "link": "https://nitter.net/CAPUFE/status/2043722608634462407#m",
-      "date": "2026-04-13T16:06:55+00:00"
-    },
-    {
       "id": "8b904d0c69db",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -393,34 +435,6 @@
       "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 076+500, de la carretera Querétaro-León, a la altura del poblado Cerro Gordo, con dir. a Irapuato. Atienda indicación Vial. #TomePrecauciones en #Guanajuato se registra cier",
       "link": "https://nitter.net/GN_Carreteras/status/2043544393366241475#m",
       "date": "2026-04-13T04:18:45+00:00"
-    },
-    {
-      "id": "4b46bcc793f7",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 11.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Aguascalientes se registra cierre parcial de circulación por #AccidenteVial cerca del km 011+500, de la carretera Aguascalientes-Jalpa, a la altura del poblado Villas de Montecarlo. Atienda indicación Vial. #TomePrecauciones en #Aguascalientes se registra ci",
-      "link": "https://nitter.net/GN_Carreteras/status/2043523382419845437#m",
-      "date": "2026-04-13T02:55:15+00:00"
-    },
-    {
-      "id": "a0c5fbe997d4",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 155.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "En #Tamaulipas continúa cierre de total por maniobras cerca del km 155+500, de la carretera Libramiento estación Manuel-Estación González. #RutasAlternas *Con dirección de Tampico a Victoria *Carretera Victoria-Zaragoza. Atienda indicación Vial. En #Tamaulipas continúa cierre de ",
-      "link": "https://nitter.net/GN_Carreteras/status/2043493260228768039#m",
-      "date": "2026-04-13T00:55:34+00:00"
     }
   ]
 }
