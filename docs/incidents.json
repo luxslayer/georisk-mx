@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-14T09:02:48.590532+00:00",
-  "count": 30,
+  "updated": "2026-04-14T10:45:49.317786+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "7b0f53e93d05",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 24.0,
+      "lat": 18.248,
+      "lon": -94.918,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 24, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 24, dirección La Tinaja. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2043994332605124792#m",
+      "date": "2026-04-14T10:06:39+00:00"
+    },
+    {
+      "id": "f8273f33b166",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 24.0,
+      "lat": 18.248,
+      "lon": -94.918,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 24, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla",
+      "link": "https://nitter.net/CAPUFE/status/2043989387332014302#m",
+      "date": "2026-04-14T09:47:00+00:00"
+    },
     {
       "id": "b56bac3ac581",
       "account": "@capufe",
@@ -183,20 +211,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 276, dirección Córdoba. Registra reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 276, dirección",
       "link": "https://nitter.net/CAPUFE/status/2043886971383062547#m",
       "date": "2026-04-14T03:00:02+00:00"
-    },
-    {
-      "id": "0fda36d2a5c7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 88.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 88, dirección CDMX. Reducción de carriles laterales por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 88, dirección CDMX. Reducci",
-      "link": "https://nitter.net/CAPUFE/status/2043884941256118322#m",
-      "date": "2026-04-14T02:51:58+00:00"
     },
     {
       "id": "e520a9dd170d",
