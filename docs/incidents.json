@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-14T15:49:26.205386+00:00",
+  "updated": "2026-04-14T17:12:20.824275+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "926c6f07c360",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecaución en #Guanajuato se registra cierre parcial de circulación tras #AccidenteVial cerca del km 044+000, de la carretera Salamanca - Celaya. Atienda indicación Vial. #TomePrecaución en #Guanajuato se registra cierre parcial de circulación tras #AccidenteVial cerca del k",
+      "link": "https://nitter.net/GN_Carreteras/status/2044099468169986531#m",
+      "date": "2026-04-14T17:04:25+00:00"
+    },
+    {
+      "id": "6f6ed95ed0e4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 44, dirección Irapuato. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopi",
+      "link": "https://nitter.net/CAPUFE/status/2044088653094224026#m",
+      "date": "2026-04-14T16:21:26+00:00"
+    },
     {
       "id": "05883875968b",
       "account": "@capufe",
@@ -295,34 +323,6 @@
       "text": "🟠 CARGA VEHICULAR 🟠 Aut. Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Aut. Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. El accidente ha sido atendid",
       "link": "https://nitter.net/CAPUFE/status/2043928163382591578#m",
       "date": "2026-04-14T05:43:43+00:00"
-    },
-    {
-      "id": "cf99e4ef45fd",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 95.0,
-      "lat": 18.271359,
-      "lon": -99.519041,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Cuernavaca - Acapulco, km 95, dirección Cuernavaca. El accidente ha sido atendido. Se restablece la circulación en el Distribuidor Vial Palmira. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢",
-      "link": "https://nitter.net/CAPUFE/status/2043925504466543089#m",
-      "date": "2026-04-14T05:33:09+00:00"
-    },
-    {
-      "id": "82556ee64ab3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 224.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registr",
-      "link": "https://nitter.net/CAPUFE/status/2043921309504094221#m",
-      "date": "2026-04-14T05:16:29+00:00"
     },
     {
       "id": "ad255de20dae",
