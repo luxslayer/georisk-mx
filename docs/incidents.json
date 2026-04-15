@@ -1,7 +1,63 @@
 {
-  "updated": "2026-04-15T22:10:54.383658+00:00",
-  "count": 32,
+  "updated": "2026-04-15T23:10:30.065342+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "dba8e64ce069",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 87.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecaución en #Sinaloa se registra cierre parcial de circulación tras #AccidenteVial cerca del km 087+600, de la Autopista Lic. Benito Juárez, con dir. a Culiacán. Atienda indicación vial. #TomePrecaución en #Sinaloa se registra cierre parcial de circulación tras #AccidenteV",
+      "link": "https://nitter.net/GN_Carreteras/status/2044551196015264056#m",
+      "date": "2026-04-15T22:59:25+00:00"
+    },
+    {
+      "id": "199530603a03",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 278.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Oaxaca tras presencia de personas, cerca del Km 278+200, de la carretera Coatzacoalcos-Salina Cruz, a la altura del poblado Puente Madera, Mpio. San Blas Atempa. Maneje con precaución. #ViaLibre en #Oaxaca tras presencia de personas, cerca del Km 278+200, de la carr",
+      "link": "https://nitter.net/GN_Carreteras/status/2044549656915374435#m",
+      "date": "2026-04-15T22:53:18+00:00"
+    },
+    {
+      "id": "365adf4c94c6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 8.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Libramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Se informa a las personas usuarias que continúa la reducción de carriles por atención del accidente. En la zona se registra carga vehicular. Maneja con precaución. Para más i",
+      "link": "https://nitter.net/CAPUFE/status/2044547418025312490#m",
+      "date": "2026-04-15T22:44:24+00:00"
+    },
+    {
+      "id": "32d8fbfa4292",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 314.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 314, dirección Cuernavaca. Reducción de carriles por atención de accidente (incendio de grúa). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 314, dirección Cuernav",
+      "link": "https://nitter.net/CAPUFE/status/2044547034804260951#m",
+      "date": "2026-04-15T22:42:53+00:00"
+    },
     {
       "id": "39334afe7d2d",
       "account": "@GN_carreteras",
@@ -311,20 +367,6 @@
       "date": "2026-04-15T19:03:23+00:00"
     },
     {
-      "id": "c4f984400cfd",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 139.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Guaymas - Hermosillo, km 139, dirección Guaymas. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gua",
-      "link": "https://nitter.net/CAPUFE/status/2044488673786253778#m",
-      "date": "2026-04-15T18:50:59+00:00"
-    },
-    {
       "id": "6d35b5bd0451",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -423,32 +465,18 @@
       "date": "2026-04-15T17:43:03+00:00"
     },
     {
-      "id": "0e37d40c9686",
-      "account": "@GN_carreteras",
+      "id": "22aaa375bfb0",
+      "account": "@capufe",
       "type": "accident",
       "highway": "?",
       "route_key": "unknown",
-      "km": 10.0,
+      "km": 13.0,
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "#TomePrecaución en #Zacatecas se registra cierre parcial de circulación tras #AccidenteVial cerca del km 010+100, de la carretera Zacatecas–Durango, a la altura del Mpio. Morelos. Atienda indicación Vial. #TomePrecaución en #Zacatecas se registra cierre parcial de circulación tra",
-      "link": "https://nitter.net/GN_Carreteras/status/2044451791081820493#m",
-      "date": "2026-04-15T16:24:25+00:00"
-    },
-    {
-      "id": "352bf769adc2",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 196.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecaución en #Chiapas se registra cierre parcial de circulación tras #AccidenteVial cerca del km 196+300, de la carretera Las Choapas-Ocozocoautla, Atienda indicación Vial. #TomePrecaución en #Chiapas se registra cierre parcial de circulación tras #AccidenteVial cerca del k",
-      "link": "https://nitter.net/GN_Carreteras/status/2044450370428994004#m",
-      "date": "2026-04-15T16:18:47+00:00"
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 13, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicaci",
+      "link": "https://nitter.net/CAPUFE/status/2044411287321391608#m",
+      "date": "2026-04-15T13:43:28+00:00"
     }
   ]
 }
