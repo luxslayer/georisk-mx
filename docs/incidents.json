@@ -1,7 +1,77 @@
 {
-  "updated": "2026-04-15T11:05:50.038951+00:00",
-  "count": 39,
+  "updated": "2026-04-15T12:11:08.727165+00:00",
+  "count": 40,
   "incidents": [
+    {
+      "id": "7f124104b6ab",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 160.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 160, dirección CDMX. Reducción de carriles por atención de accidente (choque de costado). Tránsito lento en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 160, dirección CDMX. Re",
+      "link": "https://nitter.net/CAPUFE/status/2044384933183983733#m",
+      "date": "2026-04-15T11:58:45+00:00"
+    },
+    {
+      "id": "f4cd72f2d9e3",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 164.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 164, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 164, dirección CDMX. El incidente ha sido atendi",
+      "link": "https://nitter.net/CAPUFE/status/2044378924445048918#m",
+      "date": "2026-04-15T11:34:52+00:00"
+    },
+    {
+      "id": "b12042da1485",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 92.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuauhtémoc – Osiris, km 92. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuauhtémoc – Osiris, km 92. El accidente ha sido ate",
+      "link": "https://nitter.net/CAPUFE/status/2044377885587214686#m",
+      "date": "2026-04-15T11:30:45+00:00"
+    },
+    {
+      "id": "870288bded99",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 0.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Las Choapas - Ocozocoautla, km 0, dirección Ocozocoautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Las Choapas - Ocozocoautla, km 0, dirección Ocozoc",
+      "link": "https://nitter.net/CAPUFE/status/2044374740475769064#m",
+      "date": "2026-04-15T11:18:15+00:00"
+    },
+    {
+      "id": "90cdff2f0239",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 8.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Continúa reducción de carriles por atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular intensa. Unida",
+      "link": "https://nitter.net/CAPUFE/status/2044373532033880275#m",
+      "date": "2026-04-15T11:13:27+00:00"
+    },
     {
       "id": "1fc203e3ba4f",
       "account": "@capufe",
@@ -157,7 +227,7 @@
       "date": "2026-04-15T09:59:33+00:00"
     },
     {
-      "id": "08dd0ccf0aeb",
+      "id": "b3ee89e79171",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -166,7 +236,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Continúa reducción de carriles por atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Unidades de C",
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Continúa reducción de carriles por atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Unidades de CAPUFE y ",
       "link": "https://nitter.net/CAPUFE/status/2044351220274377119#m",
       "date": "2026-04-15T09:44:47+00:00"
     },
@@ -283,34 +353,6 @@
       "date": "2026-04-15T07:40:22+00:00"
     },
     {
-      "id": "c5afaff1ee1f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 196.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Las Choapas - Ocozocoautla, km 196, dirección Ocozocoautla. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌",
-      "link": "https://nitter.net/CAPUFE/status/2044318345030181108#m",
-      "date": "2026-04-15T07:34:09+00:00"
-    },
-    {
-      "id": "6dd4f82d7cc9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 87.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 87, dirección Acapulco. El accidente en carriles centrales ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 87, dirección Acap",
-      "link": "https://nitter.net/CAPUFE/status/2044315072839684453#m",
-      "date": "2026-04-15T07:21:09+00:00"
-    },
-    {
       "id": "6dfca8f7c797",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -393,34 +435,6 @@
       "text": "#TomePrecaución en #Coahuila se registra cierre parcial de circulación tras #AccidenteVial cerca del km 232+500, de la carretera Puerto México - Ojo Caliente. Atienda indicación Vial. #TomePrecaución en #Coahuila se registra cierre parcial de circulación tras #AccidenteVial cerca",
       "link": "https://nitter.net/GN_Carreteras/status/2044304802775974284#m",
       "date": "2026-04-15T06:40:20+00:00"
-    },
-    {
-      "id": "0017eee84ac4",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 80.0,
-      "lat": 31.868,
-      "lon": -116.69,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 80, dirección Ensenada. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 80, dirección E",
-      "link": "https://nitter.net/CAPUFE/status/2044303185309757502#m",
-      "date": "2026-04-15T06:33:55+00:00"
-    },
-    {
-      "id": "f66a2009a6eb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 232.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Aut. La Carbonera - Puerto México, km 232, dirección La Carbonera. El accidente ha sido atendido, por lo que se restablece la circulación desde las Plazas de Cobro Los Chorros y Huachichil. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA",
-      "link": "https://nitter.net/CAPUFE/status/2044303070302023796#m",
-      "date": "2026-04-15T06:33:27+00:00"
     },
     {
       "id": "ceb609a6a943",
