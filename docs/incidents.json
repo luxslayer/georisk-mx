@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-16T22:07:03.153351+00:00",
-  "count": 36,
+  "updated": "2026-04-16T23:09:59.722008+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "331b36d3a9b5",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 281.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Guerrero tras #AccidenteVial cerca del km 281+480, de la carretera Chilpancingo-Acapulco, a la altura del poblado Petaquillas, Mpio. de Chilpancingo. Maneje con precaución. #VialidadLibre en #Guerrero tras #AccidenteVial cerca del km 281+480, de la carretera Ch",
+      "link": "https://nitter.net/GN_Carreteras/status/2044915193138782536#m",
+      "date": "2026-04-16T23:05:49+00:00"
+    },
+    {
+      "id": "b10ae8197fba",
+      "account": "@capufe",
+      "type": "fire",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 3.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "⚠️ AVISO IMPORTANTE⚠️ Autopista Querétaro - Irapuato, km 3. Incendio de pastizal afecta visibilidad. Disminuye tu velocidad y maneja con precaución. ⚠️ AVISO IMPORTANTE⚠️ Autopista Querétaro - Irapuato, km 3. Incendio de pastizal afecta visibilidad. Disminuye tu velocidad y manej",
+      "link": "https://nitter.net/CAPUFE/status/2044913201889108070#m",
+      "date": "2026-04-16T22:57:54+00:00"
+    },
+    {
+      "id": "82842dfdea40",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 52.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en # SLP se registra cierre parcial de circulación tras #AccidenteVial cerca del km 052+900, de la carretera San Luis Potosí - Matehuala. Atienda indicación vial. #TomePrecauciones en # SLP se registra cierre parcial de circulación tras #AccidenteVial cerca del ",
+      "link": "https://nitter.net/GN_Carreteras/status/2044912741480034479#m",
+      "date": "2026-04-16T22:56:04+00:00"
+    },
     {
       "id": "5f178b74104a",
       "account": "@GN_carreteras",
@@ -269,48 +311,6 @@
       "date": "2026-04-16T19:19:07+00:00"
     },
     {
-      "id": "6c37105618e0",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 30.0,
-      "lat": 32.263725,
-      "lon": -116.95705,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 30, dirección Ensenada. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 30, dirección Ensenada. El a",
-      "link": "https://nitter.net/CAPUFE/status/2044857768130339313#m",
-      "date": "2026-04-16T19:17:38+00:00"
-    },
-    {
-      "id": "6ae9ab2f85a3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 30.0,
-      "lat": 32.263725,
-      "lon": -116.95705,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tijuana - Ensenada, km 30, dirección Ensenada. Continúa cierre a la circulación en la gaza de incorporación a la colonia Constitución, por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para má",
-      "link": "https://nitter.net/CAPUFE/status/2044856928740999601#m",
-      "date": "2026-04-16T19:14:18+00:00"
-    },
-    {
-      "id": "c4e6245bb116",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 8.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Libramiento Noreste de Querétaro (Chichimequillas), dirección CDMX. Se informa a las personas usuarias que se registran diversos eventos que afectan la circulación: 🔘 km 8, continúa cierre a la circulación por maniobras de grúa para el retiro de la",
-      "link": "https://nitter.net/CAPUFE/status/2044855423031984220#m",
-      "date": "2026-04-16T19:08:19+00:00"
-    },
-    {
       "id": "102e28dcf816",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,34 +477,6 @@
       "text": "#ViaLibre en #Veracruz tras #VehículoIncendiado cerca del km 143+000, de la carretera Ent. La tinaja-Cosoleacaque, a la altura del Mpio. Juan Rodríguez Clara. Maneje con precaución. #ViaLibre en #Veracruz tras #VehículoIncendiado cerca del km 143+000, de la carretera Ent. La tina",
       "link": "https://nitter.net/GN_Carreteras/status/2044624002153361823#m",
       "date": "2026-04-16T03:48:44+00:00"
-    },
-    {
-      "id": "c70ae9915d52",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 90.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecaución en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 090+300, de la carretera Imuris-Agua Prieta, a la altura de la Loc. Cabañas Villa Alpina, con dir. a Heroica Cd. de Cananea. Atienda indicación vial. #TomePrecaución en #Sonora se",
-      "link": "https://nitter.net/GN_Carreteras/status/2044618758027620585#m",
-      "date": "2026-04-16T03:27:53+00:00"
-    },
-    {
-      "id": "586fdfed02d2",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 151.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "#ViaLibre en #SanLuisPotosí tras #AccidenteVial cerca del km 151+200, de la carretera San Luis Potosí-Querétaro. Maneje con precaución. #ViaLibre en #SanLuisPotosí tras #AccidenteVial cerca del km 151+200, de la carretera San Luis Potosí-Querétaro. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2044594533384487064#m",
-      "date": "2026-04-16T01:51:38+00:00"
     }
   ]
 }
