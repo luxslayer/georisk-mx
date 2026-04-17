@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-17T08:12:43.934518+00:00",
+  "updated": "2026-04-17T09:54:51.351426+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "0e764a98c37a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 230.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 230, dirección Cd. Mendoza. Continúa reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - ",
+      "link": "https://nitter.net/CAPUFE/status/2045078110513635436#m",
+      "date": "2026-04-17T09:53:11+00:00"
+    },
+    {
+      "id": "d37a64c4ada9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 129.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Las Choapas - Ocozocoautla, km 129. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se regis",
+      "link": "https://nitter.net/CAPUFE/status/2045068964942762026#m",
+      "date": "2026-04-17T09:16:51+00:00"
+    },
     {
       "id": "2dec84e01084",
       "account": "@capufe",
@@ -477,34 +505,6 @@
       "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Noreste de Queréta",
       "link": "https://nitter.net/CAPUFE/status/2044932730622755069#m",
       "date": "2026-04-17T00:15:30+00:00"
-    },
-    {
-      "id": "031f80691db3",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 0, dirección CDMX. Carga vehicular en la incorporación a la #AutMéxicoQuerétaro, por labores de mantenimiento a la altura del km 194. Se recomienda atender las indicaciones viales y manejar con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2044931565776482621#m",
-      "date": "2026-04-17T00:10:52+00:00"
-    },
-    {
-      "id": "e05830c8042c",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 194.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , del km 194 al 207, dirección Querétaro. Re",
-      "link": "https://nitter.net/CAPUFE/status/2044930454386618639#m",
-      "date": "2026-04-17T00:06:27+00:00"
     }
   ]
 }
