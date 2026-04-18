@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-18T07:59:57.173201+00:00",
-  "count": 32,
+  "updated": "2026-04-18T09:01:58.606739+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "4ae313c3bb16",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 35.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 35, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camión, camión de carga y automóvil. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/tcj",
+      "link": "https://nitter.net/CAPUFE/status/2045425787289870454#m",
+      "date": "2026-04-18T08:54:44+00:00"
+    },
+    {
+      "id": "b8c48db34bdf",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 40.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Oriente de Chihuahua, km 40. Cierre a la circulación en ambos sentidos por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Oriente de Chihuahua, km",
+      "link": "https://nitter.net/CAPUFE/status/2045420406341845256#m",
+      "date": "2026-04-18T08:33:21+00:00"
+    },
+    {
+      "id": "c6bcc49962e7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 48.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 48, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehi",
+      "link": "https://nitter.net/CAPUFE/status/2045412878153302135#m",
+      "date": "2026-04-18T08:03:26+00:00"
+    },
     {
       "id": "c6c4f6802ec6",
       "account": "@GN_carreteras",
@@ -253,34 +295,6 @@
       "text": "#TomePrecaución en #Veracruz se registra cierre de circulación por #AccidenteVial cerca del km 140+100, de la carretera San Hipólito-Xalapa, a la altura de la Loc. Rafael Lucio, con dir. a Xalapa. Atienda indicación vial. #TomePrecaución en #Veracruz se registra cierre de circula",
       "link": "https://nitter.net/GN_Carreteras/status/2045335366505287955#m",
       "date": "2026-04-18T02:55:26+00:00"
-    },
-    {
-      "id": "00fa782b3e47",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Noreste de Querétaro (Chichimequillas), km 19, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Noreste de Querétaro (Chichime",
-      "link": "https://nitter.net/CAPUFE/status/2045332268936298885#m",
-      "date": "2026-04-18T02:43:08+00:00"
-    },
-    {
-      "id": "4afe2c91ffed",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 230.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 230, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 230, direcció",
-      "link": "https://nitter.net/CAPUFE/status/2045330013952639053#m",
-      "date": "2026-04-18T02:34:10+00:00"
     },
     {
       "id": "409e42c0b8eb",
