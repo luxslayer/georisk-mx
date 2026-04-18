@@ -1,7 +1,91 @@
 {
-  "updated": "2026-04-18T21:37:58.570674+00:00",
-  "count": 36,
+  "updated": "2026-04-18T22:37:18.885425+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "5afda730d72a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 163.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 163, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 163, dirección Isla. El accidente ha ",
+      "link": "https://nitter.net/CAPUFE/status/2045631234169061616#m",
+      "date": "2026-04-18T22:31:06+00:00"
+    },
+    {
+      "id": "c1d490f64d80",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 78.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 78, dirección Cuernavaca. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 78, dirección Cuernavaca. El accidente ha sido atendido.",
+      "link": "https://nitter.net/CAPUFE/status/2045630564661707226#m",
+      "date": "2026-04-18T22:28:27+00:00"
+    },
+    {
+      "id": "a95e44bdd9df",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 168.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que continúa circulación a contraflujo. El personal se encuentra realizando labores de limpieza. Atiende las indicaciones viales y maneja con precaución. Para más información llam",
+      "link": "https://nitter.net/CAPUFE/status/2045629905225093499#m",
+      "date": "2026-04-18T22:25:50+00:00"
+    },
+    {
+      "id": "9f14066f5c3c",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 146.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 146, dirección Querétaro. Registra reducción de carriles en la gasa de salida al Macrolibramiento de Querétaro por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCUL",
+      "link": "https://nitter.net/CAPUFE/status/2045628452552790388#m",
+      "date": "2026-04-18T22:20:03+00:00"
+    },
+    {
+      "id": "a407ab802e85",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 33.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecaución en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 033+600, a la altura de la caseta de cobro No. 7 San Marcos, de la Autopista Puebla-México. Atienda Indicación Vial. #TomePrecaución en #EdoMéx se registra cierre parcial de circu",
+      "link": "https://nitter.net/GN_Carreteras/status/2045623424148459538#m",
+      "date": "2026-04-18T22:00:04+00:00"
+    },
+    {
+      "id": "4e1c27f6d7e4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 78.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 78, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 78, dirección Cuernavaca. Reducció",
+      "link": "https://nitter.net/CAPUFE/status/2045621767041868261#m",
+      "date": "2026-04-18T21:53:29+00:00"
+    },
     {
       "id": "ea92a40ed890",
       "account": "@capufe",
@@ -129,7 +213,7 @@
       "date": "2026-04-18T20:23:04+00:00"
     },
     {
-      "id": "1d893d7dcb59",
+      "id": "18c6964e716c",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -138,7 +222,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que continúa circulación a contraflujo. El personal se encuentra laborando en la atención del accidente. Atiende las indicaciones viales y maneja con precaución. Para más informac",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que continúa circulación a contraflujo. El personal se encuentra laborando en la atención del accidente. Atiende las indicaciones viales y maneja con precaución. Para más in",
       "link": "https://nitter.net/CAPUFE/status/2045598646444409132#m",
       "date": "2026-04-18T20:21:37+00:00"
     },
@@ -269,20 +353,6 @@
       "date": "2026-04-18T19:20:41+00:00"
     },
     {
-      "id": "b5f22a54dd03",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 27.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 27, dirección Nuevo Teapa. Continúa reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 2",
-      "link": "https://nitter.net/CAPUFE/status/2045582000887652509#m",
-      "date": "2026-04-18T19:15:28+00:00"
-    },
-    {
       "id": "69b1c6220d03",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -295,34 +365,6 @@
       "text": "#TomePrecaución en #EdoMéx se registra cierre parcial de circulación tras #VehículoIncendiado cerca del km 055+000, de la Autopista México-Querétaro. Atienda Indicación Vial. #TomePrecaución en #EdoMéx se registra cierre parcial de circulación tras #VehículoIncendiado cerca del k",
       "link": "https://nitter.net/GN_Carreteras/status/2045576796356096320#m",
       "date": "2026-04-18T18:54:47+00:00"
-    },
-    {
-      "id": "709e8f9de22f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 60.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 60, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 60, dirección CDMX. Reducción de carriles por aten",
-      "link": "https://nitter.net/CAPUFE/status/2045576527929086215#m",
-      "date": "2026-04-18T18:53:43+00:00"
-    },
-    {
-      "id": "06ff05651999",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 95.0,
-      "lat": 18.271359,
-      "lon": -99.519041,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Reducción de carriles en el Distribuidor vial Palmira, por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Au",
-      "link": "https://nitter.net/CAPUFE/status/2045569598515290418#m",
-      "date": "2026-04-18T18:26:11+00:00"
     },
     {
       "id": "708a94756e38",
@@ -491,20 +533,6 @@
       "text": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 116+000, de la carretera Córdoba-Ent. Boticaria, a la altura de la Loc. Córdoba. Atienda indicación vial. #TomePrecaución en #Veracruz se registra cierre parcial de circulación ",
       "link": "https://nitter.net/GN_Carreteras/status/2045448951109763543#m",
       "date": "2026-04-18T10:26:47+00:00"
-    },
-    {
-      "id": "c6c4f6802ec6",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 70.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecaución en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 070+800, de la carretera Coatzacoalcos-Villahermosa, a la altura del Mpio. de Villahermosa, con dir. a la Cd. de México. #TomePrecaución en #Tabasco se registra cierre parcial de",
-      "link": "https://nitter.net/GN_Carreteras/status/2045408113956646949#m",
-      "date": "2026-04-18T07:44:30+00:00"
     }
   ]
 }
