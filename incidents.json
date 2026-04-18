@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-18T11:08:07.998110+00:00",
+  "updated": "2026-04-18T11:57:35.474335+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "b9a27b32f397",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 88.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 88, dirección La Tinaja. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 88, dirección La T",
+      "link": "https://nitter.net/CAPUFE/status/2045466857352622376#m",
+      "date": "2026-04-18T11:37:56+00:00"
+    },
     {
       "id": "c49f79d85f74",
       "account": "@GN_carreteras",
@@ -253,20 +267,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cd. Mendoza - Córdoba, km 268, dirección Córdoba. Reducción de carriles por incendio de neumáticos (fuera de la carpeta de rodamiento). En la zona se encuentra personal de CAPUFE y Bomberos, realizando las labores de atención. Maneja con pre",
       "link": "https://nitter.net/CAPUFE/status/2045384067898614224#m",
       "date": "2026-04-18T06:08:57+00:00"
-    },
-    {
-      "id": "62612cbf878d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 192.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 192, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 192, dirección CDMX. Reducción de carriles po",
-      "link": "https://nitter.net/CAPUFE/status/2045380570855686395#m",
-      "date": "2026-04-18T05:55:04+00:00"
     },
     {
       "id": "50fd43b92b1b",
