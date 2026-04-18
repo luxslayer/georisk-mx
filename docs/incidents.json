@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-18T13:20:20.956452+00:00",
-  "count": 36,
+  "updated": "2026-04-18T14:09:49.156495+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "5003bb49fd21",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
+      "link": "https://nitter.net/CAPUFE/status/2045497478804365576#m",
+      "date": "2026-04-18T13:39:37+00:00"
+    },
+    {
+      "id": "32cbcb8c248a",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 88.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 88, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 88, direc",
+      "link": "https://nitter.net/CAPUFE/status/2045495428813144085#m",
+      "date": "2026-04-18T13:31:28+00:00"
+    },
     {
       "id": "8c65e22f9fce",
       "account": "@capufe",
@@ -239,48 +267,6 @@
       "text": "#TomePrecaución en #EdoMx se registra cierre parcial de circulación por #AccidenteVial cerca del km 033+300, de la carretera México-Puebla, a la altura del Mpio. San Marcos Huixtoco, con dir. a la Cd. de México. Atienda indicación vial. #TomePrecaución en #EdoMx se registra cierr",
       "link": "https://nitter.net/GN_Carreteras/status/2045405726303027255#m",
       "date": "2026-04-18T07:35:01+00:00"
-    },
-    {
-      "id": "fd68f7afa047",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 48, dirección CDMX. Se registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxi",
-      "link": "https://nitter.net/CAPUFE/status/2045395792408477809#m",
-      "date": "2026-04-18T06:55:33+00:00"
-    },
-    {
-      "id": "840fd57f9357",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 192.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 192, dirección CDMX. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 192, dirección CDMX. El accidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2045394616090841476#m",
-      "date": "2026-04-18T06:50:52+00:00"
-    },
-    {
-      "id": "a74b26797702",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 75.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 75, dirección Veracruz. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 75, dirección V",
-      "link": "https://nitter.net/CAPUFE/status/2045393270725890335#m",
-      "date": "2026-04-18T06:45:31+00:00"
     },
     {
       "id": "707de32c59b6",
