@@ -1,9 +1,9 @@
 {
-  "updated": "2026-04-18T09:01:58.606739+00:00",
-  "count": 33,
+  "updated": "2026-04-18T10:07:53.083193+00:00",
+  "count": 35,
   "incidents": [
     {
-      "id": "4ae313c3bb16",
+      "id": "2bef1c2e148c",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -12,7 +12,63 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 35, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camión, camión de carga y automóvil. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/tcj",
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 35, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en la zona. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RES",
+      "link": "https://nitter.net/CAPUFE/status/2045440428757995660#m",
+      "date": "2026-04-18T09:52:55+00:00"
+    },
+    {
+      "id": "f06f587f707d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 40.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Oriente de Chihuahua, km 40. Continúa cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓ",
+      "link": "https://nitter.net/CAPUFE/status/2045435848909291933#m",
+      "date": "2026-04-18T09:34:43+00:00"
+    },
+    {
+      "id": "c197879bd77f",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 35.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 35, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de unidades siniestradas. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. ☑️ AC",
+      "link": "https://nitter.net/CAPUFE/status/2045433205734436884#m",
+      "date": "2026-04-18T09:24:13+00:00"
+    },
+    {
+      "id": "73a62b6b1d9f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 48.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 48, dirección CDMX. Continúa reducción de carriles por atención de accidente (trasvase de carga y maniobras para el retiro de unidades siniestradas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQueré",
+      "link": "https://nitter.net/CAPUFE/status/2045430768059486324#m",
+      "date": "2026-04-18T09:14:32+00:00"
+    },
+    {
+      "id": "ac634cfc9241",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 35.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 35, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camión, camión de carga y automóvil. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/tcjCJbg9LdD",
       "link": "https://nitter.net/CAPUFE/status/2045425787289870454#m",
       "date": "2026-04-18T08:54:44+00:00"
     },
@@ -199,20 +255,6 @@
       "date": "2026-04-18T05:49:20+00:00"
     },
     {
-      "id": "cafe0137a027",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 48, dirección CDMX. Continúa cierre a la circulación por atención de accidente (choque por alcance e incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuer",
-      "link": "https://nitter.net/CAPUFE/status/2045370369293389830#m",
-      "date": "2026-04-18T05:14:31+00:00"
-    },
-    {
       "id": "50fd43b92b1b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -253,20 +295,6 @@
       "text": "#TomePrecaución en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 006+500, de la carretera Acapulco - Zihuatanejo, a la altura del Mpio de Acapulco de Juárez. Atienda indicación vial. #TomePrecaución en #Guerrero se registra cierre parcial de ",
       "link": "https://nitter.net/GN_Carreteras/status/2045362041469214920#m",
       "date": "2026-04-18T04:41:26+00:00"
-    },
-    {
-      "id": "e2e208b91333",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 48, dirección CDMX. Registra cierre a la circulación por atención de accidente (incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro , km 48, direcc",
-      "link": "https://nitter.net/CAPUFE/status/2045359735625461860#m",
-      "date": "2026-04-18T04:32:16+00:00"
     },
     {
       "id": "47d6c6c96710",
