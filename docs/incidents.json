@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-18T10:07:53.083193+00:00",
+  "updated": "2026-04-18T11:08:07.998110+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "c49f79d85f74",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 116.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 116+000, de la carretera Córdoba-Ent. Boticaria, a la altura de la Loc. Córdoba. Atienda indicación vial. #TomePrecaución en #Veracruz se registra cierre parcial de circulación ",
+      "link": "https://nitter.net/GN_Carreteras/status/2045448951109763543#m",
+      "date": "2026-04-18T10:26:47+00:00"
+    },
+    {
+      "id": "a823a27851e4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 40.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Oriente de Chihuahua, km 40. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Oriente de Chihuahua, km 40. El accidente ha si",
+      "link": "https://nitter.net/CAPUFE/status/2045448351747920285#m",
+      "date": "2026-04-18T10:24:24+00:00"
+    },
     {
       "id": "2bef1c2e148c",
       "account": "@capufe",
@@ -241,20 +269,6 @@
       "date": "2026-04-18T05:55:04+00:00"
     },
     {
-      "id": "a8cfbf5cb993",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 48, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicul",
-      "link": "https://nitter.net/CAPUFE/status/2045379130309443823#m",
-      "date": "2026-04-18T05:49:20+00:00"
-    },
-    {
       "id": "50fd43b92b1b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,20 +491,6 @@
       "text": "#Tomeprecaución en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 025+500, de la carretera Querétaro Irapuato, a inmediaciones del poblado los Julianes, con dir. a Celaya. Atienda indicación vial. #Tomeprecaución en #Guanajuato se registra c",
       "link": "https://nitter.net/GN_Carreteras/status/2045238178546610665#m",
       "date": "2026-04-17T20:29:15+00:00"
-    },
-    {
-      "id": "2054fb4d1589",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 92.0,
-      "lat": 19.0724,
-      "lon": -98.2424,
-      "resolved": true,
-      "text": "#Tomeprecaución en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 092+000, de la carretera México-Puebla, con dir. a Puebla. Atienda indicación vial. #Tomeprecaución en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca d",
-      "link": "https://nitter.net/GN_Carreteras/status/2045218528630882483#m",
-      "date": "2026-04-17T19:11:10+00:00"
     }
   ]
 }
