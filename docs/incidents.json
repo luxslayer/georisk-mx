@@ -1,7 +1,63 @@
 {
-  "updated": "2026-04-19T14:09:37.556070+00:00",
+  "updated": "2026-04-19T15:06:44.940909+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "53bef44a9f48",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 53.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 53, dirección Irapuato. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querét",
+      "link": "https://nitter.net/CAPUFE/status/2045878567142056438#m",
+      "date": "2026-04-19T14:53:55+00:00"
+    },
+    {
+      "id": "d2d1a9f19a22",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 12.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Libramiento Oriente de Saltillo, km 12. Se informa a las personas usuarias que continúa reducción de carriles en ambos sentidos por atención del accidente. El personal se encuentra realizando las labores de limpieza. En la zona se registra #lluvia. Manej",
+      "link": "https://nitter.net/CAPUFE/status/2045877424739529094#m",
+      "date": "2026-04-19T14:49:23+00:00"
+    },
+    {
+      "id": "14e129975ad0",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 184.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 184, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 184, dirección Isla. Red",
+      "link": "https://nitter.net/CAPUFE/status/2045874401111904484#m",
+      "date": "2026-04-19T14:37:22+00:00"
+    },
+    {
+      "id": "83a2be6cecbb",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 36.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Continúa en #Querétaro continúa cierre parcial de circulación tras #AccidenteVial cerca del km 036+000, de la Carretera Querétaro-San Luis Potosí. Atienda Indicación Vial. Continúa en #Querétaro continúa cierre parcial de circulación tras #AccidenteVial cerca del km 036+000, de l",
+      "link": "https://nitter.net/GN_Carreteras/status/2045872580557459775#m",
+      "date": "2026-04-19T14:30:08+00:00"
+    },
     {
       "id": "b9f872abcd71",
       "account": "@GN_carreteras",
@@ -157,7 +213,7 @@
       "date": "2026-04-19T12:45:16+00:00"
     },
     {
-      "id": "3e8e5dfcdef9",
+      "id": "86658d72bd1b",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -166,7 +222,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Libramiento Oriente de Saltillo, km 12. Se informa a las personas usuarias que continúa reducción de carriles en ambos sentidos por atención de choque por alcance múltiple entre tracto camiones. En la zona se registra derrame de combustible y #lluvia. Ma",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Libramiento Oriente de Saltillo, km 12. Se informa a las personas usuarias que continúa reducción de carriles en ambos sentidos por atención de choque por alcance múltiple entre tracto camiones. En la zona se registra derrame de combustible y #lluv",
       "link": "https://nitter.net/CAPUFE/status/2045845660889395363#m",
       "date": "2026-04-19T12:43:10+00:00"
     },
@@ -325,6 +381,20 @@
       "date": "2026-04-19T09:31:37+00:00"
     },
     {
+      "id": "f7002f3fdac5",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 168.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por maniobras de grúa para el retiro de unidad siniestrada. Toma tus precauciones. Para más información llama al 0⃣",
+      "link": "https://nitter.net/CAPUFE/status/2045791065475563709#m",
+      "date": "2026-04-19T09:06:13+00:00"
+    },
+    {
       "id": "39b35aeb7f4e",
       "account": "@capufe",
       "type": "accident",
@@ -449,76 +519,6 @@
       "text": "#VialidadLibre en #Zacatecas por #AccidenteVial cerca del km 095+500, de la Carretera Zacatecas - Durango. Maneje con precaución. #VialidadLibre en #Zacatecas por #AccidenteVial cerca del km 095+500, de la Carretera Zacatecas - Durango. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2045764232109502947#m",
       "date": "2026-04-19T07:19:36+00:00"
-    },
-    {
-      "id": "a5fe01bca493",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Gdl–Tepic",
-      "route_key": "guadalajara-tepic",
-      "km": 63.0,
-      "lat": 20.9424,
-      "lon": -103.891,
-      "resolved": true,
-      "text": "#VialidadLibre en #BCS por #AccidenteVial cerca del km 063+950, de la Carretera Ent. San Pedro - Todos Santos - Cabo San Lucas. Maneje con precaución. #VialidadLibre en #BCS por #AccidenteVial cerca del km 063+950, de la Carretera Ent. San Pedro - Todos Santos - Cabo San Lucas. M",
-      "link": "https://nitter.net/GN_Carreteras/status/2045764178615423339#m",
-      "date": "2026-04-19T07:19:23+00:00"
-    },
-    {
-      "id": "9199bb7e16d4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 35.0,
-      "lat": 18.215,
-      "lon": -94.87125,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 35, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 3",
-      "link": "https://nitter.net/CAPUFE/status/2045763239493902389#m",
-      "date": "2026-04-19T07:15:39+00:00"
-    },
-    {
-      "id": "071eeca34288",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 202.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 202, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 202, dirección Querétaro. El accidente ha s",
-      "link": "https://nitter.net/CAPUFE/status/2045758540644528581#m",
-      "date": "2026-04-19T06:56:59+00:00"
-    },
-    {
-      "id": "ed4080b612bd",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 48, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance y volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 48, dirección Cue",
-      "link": "https://nitter.net/CAPUFE/status/2045757075637080510#m",
-      "date": "2026-04-19T06:51:09+00:00"
-    },
-    {
-      "id": "b7158cb608dd",
-      "account": "@capufe",
-      "type": "rollover",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 168.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Guaymas - Hermosillo, km 168. Cierre a la circulación en ambos sentidos por atención de salida del camino y volcadura de tracto camión tipo pipa que transporta material peligroso. Toma tus precauciones. Consulta la ubicación aquí: https://maps.",
-      "link": "https://nitter.net/CAPUFE/status/2045510995339042920#m",
-      "date": "2026-04-18T14:33:19+00:00"
     }
   ]
 }
