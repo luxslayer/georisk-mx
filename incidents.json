@@ -1,7 +1,63 @@
 {
-  "updated": "2026-04-19T08:31:57.797206+00:00",
+  "updated": "2026-04-19T09:49:47.707833+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "84416213681c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 26.0,
+      "lat": 32.297215,
+      "lon": -116.96787,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 26, dirección Tijuana. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 26, dirección Tijuana.",
+      "link": "https://nitter.net/CAPUFE/status/2045797456118427946#m",
+      "date": "2026-04-19T09:31:37+00:00"
+    },
+    {
+      "id": "18356313631a",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 168.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por maniobras de grúa para el retiro de unidad siniestrada. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. ",
+      "link": "https://nitter.net/CAPUFE/status/2045791065475563709#m",
+      "date": "2026-04-19T09:06:13+00:00"
+    },
+    {
+      "id": "39b35aeb7f4e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 91.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 91, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 91, dirección Veracruz. El a",
+      "link": "https://nitter.net/CAPUFE/status/2045785344528826421#m",
+      "date": "2026-04-19T08:43:29+00:00"
+    },
+    {
+      "id": "b61021ee3be0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 35.0,
+      "lat": 18.215,
+      "lon": -94.87125,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 35, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 35, dirección La Tinaja. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2045785054643712316#m",
+      "date": "2026-04-19T08:42:20+00:00"
+    },
     {
       "id": "e0166471123b",
       "account": "@capufe",
@@ -227,7 +283,7 @@
       "date": "2026-04-19T06:51:09+00:00"
     },
     {
-      "id": "fd7dbe4ea1a4",
+      "id": "ba252eb1b847",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -236,7 +292,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que continúa circulación en contraflujo por atención del accidente. El personal se encuentra en la zona realizando las labores del trasvase de la carga. Atiende las indicaciones v",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que continúa circulación en contraflujo por atención del accidente. El personal se encuentra en la zona realizando las labores del trasvase de la carga. Atiende las indicaci",
       "link": "https://nitter.net/CAPUFE/status/2045753082823238120#m",
       "date": "2026-04-19T06:35:17+00:00"
     },
@@ -463,62 +519,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 35, dirección La Tinaja. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 35, direcc",
       "link": "https://nitter.net/CAPUFE/status/2045706056962060617#m",
       "date": "2026-04-19T03:28:26+00:00"
-    },
-    {
-      "id": "0b2bb91f0b83",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 144.0,
-      "lat": 17.9624,
-      "lon": -94.9012,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 144, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 144, dirección A",
-      "link": "https://nitter.net/CAPUFE/status/2045700284815475108#m",
-      "date": "2026-04-19T03:05:29+00:00"
-    },
-    {
-      "id": "f1ccddb94752",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 168.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que continúa la circulación a contraflujo. El personal se encuentra en la zona realizando las labores del trasvase de la carga. Atiende las indicaciones viales y maneja con ",
-      "link": "https://nitter.net/CAPUFE/status/2045698250347249827#m",
-      "date": "2026-04-19T02:57:24+00:00"
-    },
-    {
-      "id": "6f2446062cbd",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 144.0,
-      "lat": 17.9624,
-      "lon": -94.9012,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 144, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 144, dirección A",
-      "link": "https://nitter.net/CAPUFE/status/2045695078916632827#m",
-      "date": "2026-04-19T02:44:48+00:00"
-    },
-    {
-      "id": "0de4650e95ba",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 109.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 109, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 109, dirección Isla. R",
-      "link": "https://nitter.net/CAPUFE/status/2045679309809922218#m",
-      "date": "2026-04-19T01:42:08+00:00"
     }
   ]
 }
