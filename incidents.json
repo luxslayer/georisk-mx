@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-19T09:49:47.707833+00:00",
+  "updated": "2026-04-19T10:41:29.027742+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "d1413a365931",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 57.0,
+      "lat": 18.1711,
+      "lon": -94.6222,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 57, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 57, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2045811956162965948#m",
+      "date": "2026-04-19T10:29:14+00:00"
+    },
     {
       "id": "84416213681c",
       "account": "@capufe",
@@ -505,20 +519,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 109, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 109, dirección Isla. El accidente ",
       "link": "https://nitter.net/CAPUFE/status/2045710888074625275#m",
       "date": "2026-04-19T03:47:37+00:00"
-    },
-    {
-      "id": "306753853669",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 35.0,
-      "lat": 18.215,
-      "lon": -94.87125,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 35, dirección La Tinaja. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 35, direcc",
-      "link": "https://nitter.net/CAPUFE/status/2045706056962060617#m",
-      "date": "2026-04-19T03:28:26+00:00"
     }
   ]
 }
