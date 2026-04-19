@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-19T19:23:25.252058+00:00",
-  "count": 32,
+  "updated": "2026-04-19T20:00:22.501374+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "c1560f96a811",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 46.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecaución en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 046+400, de la Carretera Monclova-Piedras Negras, con dir. a Monclova. Atienda Indicación Vial. #TomePrecaución en #Coahuila se registra cierre parcial de circulación por #Accid",
+      "link": "https://nitter.net/GN_Carreteras/status/2045954213314748551#m",
+      "date": "2026-04-19T19:54:31+00:00"
+    },
+    {
+      "id": "8565b5406773",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 24.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chapalilla - Compostela, km 24. Continúa circulación intermitente en ambos sentidos por atención de accidente (caída de motociclista). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chapalilla - Compostela, km 24. Co",
+      "link": "https://nitter.net/CAPUFE/status/2045948834732179961#m",
+      "date": "2026-04-19T19:33:08+00:00"
+    },
+    {
+      "id": "b4db42bb30a4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 222.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 222, dirección Cd. Mendoza. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóviles. Por seguridad de las personas usuarias, la Plaza de Cobro Esperanza permane",
+      "link": "https://nitter.net/CAPUFE/status/2045947033282822390#m",
+      "date": "2026-04-19T19:25:59+00:00"
+    },
     {
       "id": "210eaa0aa8d5",
       "account": "@capufe",
@@ -183,48 +225,6 @@
       "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Libramiento Oriente de Saltillo, km 12. Se informa a las personas usuarias que continúa reducción de carriles en ambos sentidos por atención del accidente. El personal se encuentra realizando las labores de limpieza. En la zona se registra #neblina",
       "link": "https://nitter.net/CAPUFE/status/2045904073996595400#m",
       "date": "2026-04-19T16:35:16+00:00"
-    },
-    {
-      "id": "34af5b8e73c0",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 94.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 94, dirección Estación Don. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojo",
-      "link": "https://nitter.net/CAPUFE/status/2045902262963142798#m",
-      "date": "2026-04-19T16:28:05+00:00"
-    },
-    {
-      "id": "c5bb9dd25a45",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 168.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que continúa circulación en contraflujo. El personal se encuentra realizando las maniobras de grúa para el retiro de tracto camión tipo pipa siniestrado. En la zona se registra ca",
-      "link": "https://nitter.net/CAPUFE/status/2045900355909603637#m",
-      "date": "2026-04-19T16:20:30+00:00"
-    },
-    {
-      "id": "a2a69ffb97a2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 53.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 53, dirección Irapuato. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de las unidades siniestradas). En la zona se ",
-      "link": "https://nitter.net/CAPUFE/status/2045899242431017380#m",
-      "date": "2026-04-19T16:16:05+00:00"
     },
     {
       "id": "f095d400af0e",
@@ -435,20 +435,6 @@
       "text": "#VialidadLibreen #EdoMéx tras #AccidenteVial cerca del km 051+000, carretera México (Ent. Constituyentes)- Toluca (Lerma). Maneje con precaución. #VialidadLibreen #EdoMéx tras #AccidenteVial cerca del km 051+000, carretera México (Ent. Constituyentes)- Toluca (Lerma). Maneje con ",
       "link": "https://nitter.net/GN_Carreteras/status/2045822913786294637#m",
       "date": "2026-04-19T11:12:46+00:00"
-    },
-    {
-      "id": "fe4c3eeedb12",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 45.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación tras conclución de maniobras de gruas por #AccidenteVial cerca del km 045+700, de la Carretera Poza Rica - Veracruz. Atienda Indicación Vial. #TomePrecaución en #Veracruz se registra cierre parcial de circulac",
-      "link": "https://nitter.net/GN_Carreteras/status/2045765978697429134#m",
-      "date": "2026-04-19T07:26:32+00:00"
     }
   ]
 }
