@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-20T10:16:22.384420+00:00",
-  "count": 33,
+  "updated": "2026-04-20T11:51:49.937838+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "e1cce1cf6108",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 222.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Acatzingo - Cd. Mendoza, km 222. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN ",
+      "link": "https://nitter.net/CAPUFE/status/2046177116249563153#m",
+      "date": "2026-04-20T10:40:15+00:00"
+    },
     {
       "id": "2250581f9129",
       "account": "@capufe",
@@ -213,34 +227,6 @@
       "date": "2026-04-20T05:59:42+00:00"
     },
     {
-      "id": "b77a1f5e6dd7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 85.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 85, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 85, dirección Acapulco. Reducción de carr",
-      "link": "https://nitter.net/CAPUFE/status/2046105092672094455#m",
-      "date": "2026-04-20T05:54:03+00:00"
-    },
-    {
-      "id": "3d35e5ee4047",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 222.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Acatzingo - Cd. Mendoza, km 222. Se informa a las personas usuarias que el accidente ha sido atendido, se restablece la circulación en ambos sentidos. 🔘Dirección Cd. Mendoza, se apertura la vialidad desde la Plaza de Cobro Esperanza. Sin embar",
-      "link": "https://nitter.net/CAPUFE/status/2046098201082474534#m",
-      "date": "2026-04-20T05:26:40+00:00"
-    },
-    {
       "id": "4b6faa007b8e",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -253,48 +239,6 @@
       "text": "#TomePrecaución en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del km 035+600, de la Carretera México-Tulancingo, a inmediaciones de la comunidad de Tlamapa, con dir. a Tulancingo, Hgo. Atienda Indicación Vial. #TomePrecaución en #EdoMex se registra",
       "link": "https://nitter.net/GN_Carreteras/status/2046096202458870027#m",
       "date": "2026-04-20T05:18:43+00:00"
-    },
-    {
-      "id": "93291b3a0d22",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 222.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 222. Se informa a las personas usuarias que se cierra nuevamente la circulación en ambos sentidos, por maniobras de grúa para el retiro de las unidades siniestradas y reacomodo de muros. Por seguridad de las pe",
-      "link": "https://nitter.net/CAPUFE/status/2046086621057946004#m",
-      "date": "2026-04-20T04:40:39+00:00"
-    },
-    {
-      "id": "43e73e275b1d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 55.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 55, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 55, dirección CDMX. El accidente ha sido atendid",
-      "link": "https://nitter.net/CAPUFE/status/2046084043880419435#m",
-      "date": "2026-04-20T04:30:25+00:00"
-    },
-    {
-      "id": "180fc84b77be",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 55.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 55, dirección CDMX. El incidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 55, dirección CDMX. El incidente ha sido atendido. Sin embargo, ",
-      "link": "https://nitter.net/CAPUFE/status/2046077981689364722#m",
-      "date": "2026-04-20T04:06:19+00:00"
     },
     {
       "id": "7dd571c030e0",
@@ -463,6 +407,34 @@
       "text": "#TomePrecauciones en #Oaxaca se registra presencia de personas,cerca del km 141+223, de la carretera Cuacnopalan-Oaxaca, a la altura de la caseta de cobro No. 78 . Suchixtlahuaca, Sin afectación a la circulación. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra p",
       "link": "https://nitter.net/GN_Carreteras/status/2046000138024300878#m",
       "date": "2026-04-19T22:57:00+00:00"
+    },
+    {
+      "id": "81479e115e98",
+      "account": "@capufe",
+      "type": "fire",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 210.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Navojoa - Cd. Obregón, km 210. Cierre a la circulación en ambos sentidos por atención de salida del camino e incendio de tracto camión tipo pipa que transporta combustible. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo",
+      "link": "https://nitter.net/CAPUFE/status/2045967055992623468#m",
+      "date": "2026-04-19T20:45:33+00:00"
+    },
+    {
+      "id": "313c9e37feb6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 222.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 222, dirección Cd. Mendoza. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóviles. Por seguridad de las personas usuarias, la Plaza de Cobro Esperanza permanecerá cer",
+      "link": "https://nitter.net/CAPUFE/status/2045947033282822390#m",
+      "date": "2026-04-19T19:25:59+00:00"
     }
   ]
 }
