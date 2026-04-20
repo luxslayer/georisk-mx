@@ -1,7 +1,77 @@
 {
-  "updated": "2026-04-20T21:11:41.698199+00:00",
-  "count": 36,
+  "updated": "2026-04-20T22:09:23.437178+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "8fc3157643f6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 1.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Viaducto Elevado Tlalpan, km 1, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Viaducto Elevado Tlalpan, km 1, dirección CDMX. Reducción de carriles p",
+      "link": "https://nitter.net/CAPUFE/status/2046350298424443276#m",
+      "date": "2026-04-20T22:08:25+00:00"
+    },
+    {
+      "id": "72372880c80a",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 112.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 112, dirección Estación Don. Continúa reducción de carriles por atención de incidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 112, dir",
+      "link": "https://nitter.net/CAPUFE/status/2046343869386604869#m",
+      "date": "2026-04-20T21:42:52+00:00"
+    },
+    {
+      "id": "9a3977def4f6",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 26.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecaución en #Coahuila se registra cierre parcial de circulación tras #AccidenteVial cerca del km 026+300 de la carretera Libramiento Norponiente de Saltillo, a la altura del Fraccionamiento Valencia, Coah. Atienda Indicación Vial. #TomePrecaución en #Coahuila se registra c",
+      "link": "https://nitter.net/GN_Carreteras/status/2046339097296290264#m",
+      "date": "2026-04-20T21:23:54+00:00"
+    },
+    {
+      "id": "70c959b6c285",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 14.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Chamapa - Lechería, km 14, dirección Lechería. Registra carga vehicular a la altura de la Plaza de Cobro Madín, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Chamapa - Lechería, km 14, dirección Lechería. Registra ca",
+      "link": "https://nitter.net/CAPUFE/status/2046339087938838751#m",
+      "date": "2026-04-20T21:23:52+00:00"
+    },
+    {
+      "id": "cb2f251eb43f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 6.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 6, dirección Lechería. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 6, dirección Lechería. El ac",
+      "link": "https://nitter.net/CAPUFE/status/2046337945989226583#m",
+      "date": "2026-04-20T21:19:20+00:00"
+    },
     {
       "id": "81fafff6da4d",
       "account": "@GN_carreteras",
@@ -199,20 +269,6 @@
       "date": "2026-04-20T19:09:40+00:00"
     },
     {
-      "id": "32d1e4f3a0fd",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 210.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Navojoa - Cd. Obregón, km 210. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢",
-      "link": "https://nitter.net/CAPUFE/status/2046304574697591241#m",
-      "date": "2026-04-20T19:06:43+00:00"
-    },
-    {
       "id": "a4973baa6723",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -227,20 +283,6 @@
       "date": "2026-04-20T18:57:22+00:00"
     },
     {
-      "id": "7d3c3e8275c6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 6.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 6, dirección Lechería. Reducción de carriles por atención de accidente (volcadura de camión de carga). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cha",
-      "link": "https://nitter.net/CAPUFE/status/2046301772701176118#m",
-      "date": "2026-04-20T18:55:35+00:00"
-    },
-    {
       "id": "5df301db94e9",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -253,20 +295,6 @@
       "text": "#AlMomento en #Guerrero se registra cierre de circulación tras presencia de personas, cerca del km 003+200 de la carretera Cuacnopalan-Oaxaca, a la altura del poblado El Cayaco, Gro, Atienda indicación vial. #AlMomento en #Guerrero se registra cierre de circulación tras presencia",
       "link": "https://nitter.net/GN_Carreteras/status/2046301029671837856#m",
       "date": "2026-04-20T18:52:38+00:00"
-    },
-    {
-      "id": "9e1238bd6812",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, km 20, dirección Veracruz. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, km 20, dirección Veracruz. El accidente ha sido atendido. E",
-      "link": "https://nitter.net/CAPUFE/status/2046297665823281346#m",
-      "date": "2026-04-20T18:39:16+00:00"
     },
     {
       "id": "79ee33640da5",
@@ -295,34 +323,6 @@
       "text": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 019+200 de la carretera Córdoba Ent. La Tinaja . Atienda Indicación Vial. #TomePrecaución en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del k",
       "link": "https://nitter.net/GN_Carreteras/status/2046284406646558795#m",
       "date": "2026-04-20T17:46:35+00:00"
-    },
-    {
-      "id": "7810ca91577f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 20, dirección Veracruz. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con ",
-      "link": "https://nitter.net/CAPUFE/status/2046284305438232740#m",
-      "date": "2026-04-20T17:46:11+00:00"
-    },
-    {
-      "id": "97c107c56648",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 96.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 96, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 96, dirección Puebla. El accidente ha sido atendido. ",
-      "link": "https://nitter.net/CAPUFE/status/2046283815413268711#m",
-      "date": "2026-04-20T17:44:14+00:00"
     },
     {
       "id": "584059b1973e",
@@ -491,20 +491,6 @@
       "text": "#TomePrecaución en #SanLuisPotosí se registra cierre parcial de circulación por #AccidenteVial cerca del km 011+500, de la Carretera Cd. Valles-San Luis Potosí, a la altura de la Laguna del Saucillo Rayón, con dir. a S.L.P. Atienda Indicación Vial. #TomePrecaución en #SanLuisPoto",
       "link": "https://nitter.net/GN_Carreteras/status/2046123103260996073#m",
       "date": "2026-04-20T07:05:37+00:00"
-    },
-    {
-      "id": "4b6faa007b8e",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 35.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecaución en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del km 035+600, de la Carretera México-Tulancingo, a inmediaciones de la comunidad de Tlamapa, con dir. a Tulancingo, Hgo. Atienda Indicación Vial. #TomePrecaución en #EdoMex se registra",
-      "link": "https://nitter.net/GN_Carreteras/status/2046096202458870027#m",
-      "date": "2026-04-20T05:18:43+00:00"
     }
   ]
 }
