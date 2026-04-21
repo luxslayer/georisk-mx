@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-21T08:17:18.811895+00:00",
-  "count": 33,
+  "updated": "2026-04-21T10:00:37.137667+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "6fa6e034224f",
+      "account": "@capufe",
+      "type": "rollover",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 127.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Estación Don - Navojoa, km 127. Cierre a la circulación en ambos sentidos por atención de salida del camino y volcadura de tracto camión tipo pipa. En la zona se registra derrame de combustóleo. Toma tus precauciones. Consulta la ubicac",
+      "link": "https://nitter.net/CAPUFE/status/2046520502810820709#m",
+      "date": "2026-04-21T09:24:45+00:00"
+    },
+    {
+      "id": "422c06d8ab2b",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 54, dirección Veracruz. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 54, dirección",
+      "link": "https://nitter.net/CAPUFE/status/2046517663837352027#m",
+      "date": "2026-04-21T09:13:28+00:00"
+    },
     {
       "id": "48db0556b99d",
       "account": "@GN_carreteras",
