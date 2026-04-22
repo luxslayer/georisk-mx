@@ -1,7 +1,63 @@
 {
-  "updated": "2026-04-22T06:01:26.626671+00:00",
+  "updated": "2026-04-22T08:15:38.330142+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "6f3ccce429fb",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 49.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 49, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 49, dirección Cuernavaca. Redu",
+      "link": "https://nitter.net/CAPUFE/status/2046856443475743095#m",
+      "date": "2026-04-22T07:39:39+00:00"
+    },
+    {
+      "id": "fa9959df322b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 104.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Veracruz tras #AccidenteVíal cerca del km 104+000, de la carretera Buena Vista-Tuxtepec, a la altura de la Loc. Playa de Vaca, Mpio. de Cosamaloapan. Maneje con precaución. #ViaLibre en #Veracruz tras #AccidenteVíal cerca del km 104+000, de la carretera Buena Vista-",
+      "link": "https://nitter.net/GN_Carreteras/status/2046855607207006237#m",
+      "date": "2026-04-22T07:36:20+00:00"
+    },
+    {
+      "id": "91215d8436d3",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "⚠️ AVISO IMPORTANTE⚠️ Libramiento Oriente de Saltillo, km 21, dirección Monterrey. Continúa carga vehicular intensa por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE. Las unidades correspondientes realizan operativo carrusel en la zona. Para más información ",
+      "link": "https://nitter.net/CAPUFE/status/2046841394698870815#m",
+      "date": "2026-04-22T06:39:51+00:00"
+    },
+    {
+      "id": "1a1a6cb9bd59",
+      "account": "@GN_carreteras",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 265.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Colima tras #VehiculoIncendiado cerca del km 265+300, de la carretera Acalpilcan-Manzanillo. Maneje con precaución. #ViaLibre en #Colima tras #VehiculoIncendiado cerca del km 265+300, de la carretera Acalpilcan-Manzanillo. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2046837423896678535#m",
+      "date": "2026-04-22T06:24:04+00:00"
+    },
     {
       "id": "277e5e243cfa",
       "account": "@GN_carreteras",
@@ -297,34 +353,6 @@
       "date": "2026-04-22T02:44:40+00:00"
     },
     {
-      "id": "52b81ecce3ec",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 19 al 28. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 19 al 28. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2046774213915111670#m",
-      "date": "2026-04-22T02:12:54+00:00"
-    },
-    {
-      "id": "875209ddafb3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 38.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Querétaro - Irapuato, km 38, dirección Querétaro. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Querétaro - Irapuato, km 38, dirección Querétaro. El accidente ",
-      "link": "https://nitter.net/CAPUFE/status/2046773005712240711#m",
-      "date": "2026-04-22T02:08:06+00:00"
-    },
-    {
       "id": "4f50ccca400d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -435,34 +463,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVíal cerca del km 163+700, de la carretera Tulancingo-Tihuatlán, a inmediaciones del Mpio. de Xicotepec, con dir. a Tihuatlán. Atienda indicación vial. #TomePrecauciones en #Puebla se registra ci",
       "link": "https://nitter.net/GN_Carreteras/status/2046710781375381663#m",
       "date": "2026-04-21T22:00:50+00:00"
-    },
-    {
-      "id": "b30e7b5d7b5a",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 265.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "Se recomienda a la población tomar las #RutasAlternas por carretera libre Armería-Caleras (para llegar a Colima) Manzanillo-Minatitlán (para llegar a Villa de Álvarez) Se recomienda a la población tomar las #RutasAlternas por carretera libre Armería-Caleras (para llegar a Colima)",
-      "link": "https://nitter.net/GN_Carreteras/status/2046698359092543675#m",
-      "date": "2026-04-21T21:11:29+00:00"
-    },
-    {
-      "id": "2c3ad65daee4",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 179.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 179+300, de la carretera Tuxpan-Tampico, a la altura del Mpio. Tampoco Alto. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación ",
-      "link": "https://nitter.net/GN_Carreteras/status/2046695126592893392#m",
-      "date": "2026-04-21T20:58:38+00:00"
     }
   ]
 }
