@@ -1,7 +1,133 @@
 {
-  "updated": "2026-04-22T22:55:14.881419+00:00",
+  "updated": "2026-04-22T23:49:30.465239+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "5280431f8cfe",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 68.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 68, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y vehículos particulares. En la zona se registra #lluvia intensa y #granizo. Maneja con precaución. Consul",
+      "link": "https://nitter.net/CAPUFE/status/2047100355322740745#m",
+      "date": "2026-04-22T23:48:52+00:00"
+    },
+    {
+      "id": "100ea6c4f601",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 63.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 63, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 63, dirección CDMX. Reducción de carriles por at",
+      "link": "https://nitter.net/CAPUFE/status/2047099209967444035#m",
+      "date": "2026-04-22T23:44:19+00:00"
+    },
+    {
+      "id": "5246079b2d16",
+      "account": "@capufe",
+      "type": "fire",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 10.0,
+      "lat": 18.29,
+      "lon": -94.9775,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 10, dirección Isla. Reducción de carriles por atención de incidente (incendio de pastizal). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 10, dirección Isla. Reducción de ca",
+      "link": "https://nitter.net/CAPUFE/status/2047094807303008424#m",
+      "date": "2026-04-22T23:26:49+00:00"
+    },
+    {
+      "id": "b36e57762fe5",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 112.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Jalisco tras #AccidenteVial cerca del km 112+000 , de la autopista Acatlan de Juarez - Colima. Maneje con precaución. #VialidadLibre en #Jalisco tras #AccidenteVial cerca del km 112+000 , de la autopista Acatlan de Juarez - Colima. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2047094077229789421#m",
+      "date": "2026-04-22T23:23:55+00:00"
+    },
+    {
+      "id": "673811963cef",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 75.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴CIERRE DE CIRCULACIÓN🔴 Autopista Las Choapas - Ocozocoautla, km 75. Cierre a la circulación en ambos sentidos por atención de accidente (choque de frente entre camionetas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴CIERRE DE CIRCULACIÓN🔴 Autopista Las Choapas",
+      "link": "https://nitter.net/CAPUFE/status/2047092848244248936#m",
+      "date": "2026-04-22T23:19:02+00:00"
+    },
+    {
+      "id": "2637e5156ff6",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 98.0,
+      "lat": 18.218174,
+      "lon": -99.530466,
+      "resolved": true,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, registra #lluvia del km 98 al 121. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, registra #lluvia del km 98 al 121. Disminuye tu velocidad y man",
+      "link": "https://nitter.net/CAPUFE/status/2047090910941282555#m",
+      "date": "2026-04-22T23:11:20+00:00"
+    },
+    {
+      "id": "f49347a9da96",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 11.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecaución en #Coahuila se registra cierre parcial de circulación tras #AccidenteVial cerca del km 011+300 de la carretera Torreón-Saltillo. Atienda indicación vial. #TomePrecaución en #Coahuila se registra cierre parcial de circulación tras #AccidenteVial cerca del km 011+3",
+      "link": "https://nitter.net/GN_Carreteras/status/2047089820183286105#m",
+      "date": "2026-04-22T23:07:00+00:00"
+    },
+    {
+      "id": "ebadedf018a8",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 56.0,
+      "lat": 18.1728,
+      "lon": -94.6356,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 56, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 56, direc",
+      "link": "https://nitter.net/CAPUFE/status/2047089583083471343#m",
+      "date": "2026-04-22T23:06:04+00:00"
+    },
+    {
+      "id": "718c7a9a7825",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 229.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 229+250 de la carretera Poza Rica - Veracruz. Atienda indicación vial. #TomePrecaución en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 2",
+      "link": "https://nitter.net/GN_Carreteras/status/2047088846383247511#m",
+      "date": "2026-04-22T23:03:08+00:00"
+    },
     {
       "id": "16b5a3641fb3",
       "account": "@capufe",
@@ -17,7 +143,7 @@
       "date": "2026-04-22T22:19:29+00:00"
     },
     {
-      "id": "fe80480e9dad",
+      "id": "9c94717cdd75",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -26,7 +152,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 104, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. ☑️ ACTUALIZACIÓN.",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 104, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. ☑️ ACTUALIZ",
       "link": "https://nitter.net/CAPUFE/status/2047077586707083608#m",
       "date": "2026-04-22T22:18:24+00:00"
     },
@@ -115,34 +241,6 @@
       "date": "2026-04-22T21:31:04+00:00"
     },
     {
-      "id": "f9e8de10f1d5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 11.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Cuchilla - Matamoros, km 11, dirección La Cuchilla. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Cuchilla - Matamoro",
-      "link": "https://nitter.net/CAPUFE/status/2047056819445481498#m",
-      "date": "2026-04-22T20:55:52+00:00"
-    },
-    {
-      "id": "e3719e694c0d",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 4.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 4, dirección Córdoba. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 4, dirección Córdoba.",
-      "link": "https://nitter.net/CAPUFE/status/2047056623684784337#m",
-      "date": "2026-04-22T20:55:06+00:00"
-    },
-    {
       "id": "afe80d9b1e69",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -157,20 +255,6 @@
       "date": "2026-04-22T20:42:09+00:00"
     },
     {
-      "id": "62591789564b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 104.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 104, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestrada",
-      "link": "https://nitter.net/CAPUFE/status/2047051587344855083#m",
-      "date": "2026-04-22T20:35:05+00:00"
-    },
-    {
       "id": "1764203375ac",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -183,34 +267,6 @@
       "text": "#VialidadLibre en #Veracruz tras #AccidenteVial cerca del km 130+900, de la autopista Perote-Banderilla. Maneje con precaución. #VialidadLibre en #Veracruz tras #AccidenteVial cerca del km 130+900, de la autopista Perote-Banderilla. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2047050839064215928#m",
       "date": "2026-04-22T20:32:07+00:00"
-    },
-    {
-      "id": "476c4cf67aaf",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 96.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 96. Continúa reducción de carriles en ambos sentidos por atención de accidente (maniobras para el retiro del tracto camión siniestrado). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CI",
-      "link": "https://nitter.net/CAPUFE/status/2047050434607513829#m",
-      "date": "2026-04-22T20:30:30+00:00"
-    },
-    {
-      "id": "ccfed425335d",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 56.0,
-      "lat": 18.1728,
-      "lon": -94.6356,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 56, dirección La Tinaja. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 56, dirección La T",
-      "link": "https://nitter.net/CAPUFE/status/2047049141654577500#m",
-      "date": "2026-04-22T20:25:22+00:00"
     },
     {
       "id": "93c45ff65f36",
@@ -253,20 +309,6 @@
       "text": "#Vialidadlibre en #Aguascalientes tras #AccidenteVial cerca del km 010+500 de la carretera León - Aguascalientes, a inmediaciones del Mpo. El Lucero de la Cruz, Ags. Maneje con precaución. #Vialidadlibre en #Aguascalientes tras #AccidenteVial cerca del km 010+500 de la carretera ",
       "link": "https://nitter.net/GN_Carreteras/status/2047046082467684410#m",
       "date": "2026-04-22T20:13:12+00:00"
-    },
-    {
-      "id": "35d783ae19b6",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 96.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro, registra #lluvia del km 96 al 110. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro , registra #lluvia del km 96 al 110. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2047042242217386137#m",
-      "date": "2026-04-22T19:57:57+00:00"
     },
     {
       "id": "45071c98c53b",
@@ -421,48 +463,6 @@
       "text": "#TomePrecaución en #Zacatecas se registra cierre parcial de circulación tras #AccidenteVial cerca del km 015+500 de la carretera Libramiento - Guadalupe. Atienda indicación vial. #TomePrecaución en #Zacatecas se registra cierre parcial de circulación tras #AccidenteVial cerca del",
       "link": "https://nitter.net/GN_Carreteras/status/2047009641121419558#m",
       "date": "2026-04-22T17:48:24+00:00"
-    },
-    {
-      "id": "db5e8d7ce56c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Lib. Sur Qro.",
-      "route_key": "libramiento-queretaro",
-      "km": 79.0,
-      "lat": 20.588,
-      "lon": -100.39,
-      "resolved": true,
-      "text": "#TomePrecaución en #Jalisco se registra cierre total de circulación tras #AccidenteVial cerca del km 079+700 de la autopista Macrolibramiento Sur de Guadalajara,. Atienda indicación vial. #TomePrecaución en #Jalisco se registra cierre total de circulación tras #AccidenteVial cerc",
-      "link": "https://nitter.net/GN_Carreteras/status/2046999725878997315#m",
-      "date": "2026-04-22T17:09:00+00:00"
-    },
-    {
-      "id": "9fce049d7892",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 290.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecaución en #Chihuahua se registra cierre parcial de circulación tras #AccidenteVial cerca del km 290, de la carretera Chihuahua-Cd Juárez. Atienda indicación vial. #TomePrecaución en #Chihuahua se registra cierre parcial de circulación tras #AccidenteVial cerca del km 290",
-      "link": "https://nitter.net/GN_Carreteras/status/2046995042678485400#m",
-      "date": "2026-04-22T16:50:24+00:00"
-    },
-    {
-      "id": "7f05d2326745",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "Méx–Cuernavaca",
-      "route_key": "mexico-cuernavaca",
-      "km": 41.0,
-      "lat": 18.913124,
-      "lon": -99.234,
-      "resolved": true,
-      "text": "#AlMomento en #CDMX se registra cierre total de circulación por presencia de personas,cerca del km 041+000 de la carretera México-Cuernavaca, a inmediaciones de la localidad de Parres, CDMX. Atienda indicación vial. #AlMomento en #CDMX se registra cierre total de circulación por ",
-      "link": "https://nitter.net/GN_Carreteras/status/2046989704160043222#m",
-      "date": "2026-04-22T16:29:11+00:00"
     }
   ]
 }
