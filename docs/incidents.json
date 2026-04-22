@@ -1,7 +1,105 @@
 {
-  "updated": "2026-04-22T15:15:42.717391+00:00",
-  "count": 36,
+  "updated": "2026-04-22T16:37:56.836086+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "7f05d2326745",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Méx–Cuernavaca",
+      "route_key": "mexico-cuernavaca",
+      "km": 41.0,
+      "lat": 18.913124,
+      "lon": -99.234,
+      "resolved": true,
+      "text": "#AlMomento en #CDMX se registra cierre total de circulación por presencia de personas,cerca del km 041+000 de la carretera México-Cuernavaca, a inmediaciones de la localidad de Parres, CDMX. Atienda indicación vial. #AlMomento en #CDMX se registra cierre total de circulación por ",
+      "link": "https://nitter.net/GN_Carreteras/status/2046989704160043222#m",
+      "date": "2026-04-22T16:29:11+00:00"
+    },
+    {
+      "id": "57c824537db7",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 168.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecaución en #Michoacán se registra cierre parcial de circulación tras #AccidenteVial cerca del km 168+000, de la carretera Uruapan - Lázaro Cárdenas. Atienda indicación vial. #TomePrecaución en #Michoacán se registra cierre parcial de circulación tras #AccidenteVial cerca ",
+      "link": "https://nitter.net/GN_Carreteras/status/2046986114817208717#m",
+      "date": "2026-04-22T16:14:55+00:00"
+    },
+    {
+      "id": "8d8e1025e121",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 41.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 41. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/3dZoFXZmAHxWBgSQA 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca , k",
+      "link": "https://nitter.net/CAPUFE/status/2046980978128679340#m",
+      "date": "2026-04-22T15:54:30+00:00"
+    },
+    {
+      "id": "470de36b3aa3",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 291.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba, km 291, dirección Córdoba. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba",
+      "link": "https://nitter.net/CAPUFE/status/2046979110488965538#m",
+      "date": "2026-04-22T15:47:05+00:00"
+    },
+    {
+      "id": "0e110ad5626e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 45.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 45, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). Sin embargo, en la zona se regis",
+      "link": "https://nitter.net/CAPUFE/status/2046976057568325710#m",
+      "date": "2026-04-22T15:34:57+00:00"
+    },
+    {
+      "id": "68beb826d133",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 41.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠 #AutMéxicoCuernavaca, km 41. Circulación intermitente en ambos sentidos por presencia de manifestantes. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠 #AutMéxicoCuernavaca , km 41. Circulación inter",
+      "link": "https://nitter.net/CAPUFE/status/2046971797149450664#m",
+      "date": "2026-04-22T15:18:01+00:00"
+    },
+    {
+      "id": "df8a71015815",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 2.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibres en #Querétaro tras #AccidenteVial cerca del km 002+600, de la autopista Querétaro-Irapuato. Maneje ccon precaución. #VialidadLibres en #Querétaro tras #AccidenteVial cerca del km 002+600, de la autopista Querétaro-Irapuato. Maneje ccon precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2046971411600642482#m",
+      "date": "2026-04-22T15:16:30+00:00"
+    },
     {
       "id": "e85843b8f50b",
       "account": "@GN_carreteras",
@@ -129,7 +227,7 @@
       "date": "2026-04-22T14:48:49+00:00"
     },
     {
-      "id": "816e633b123e",
+      "id": "0b954935b280",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -138,23 +236,9 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 45, dirección CDMX. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). ➡ Por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carre",
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 45, dirección CDMX. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). ➡ Por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carretera lib",
       "link": "https://nitter.net/CAPUFE/status/2046960392685982051#m",
       "date": "2026-04-22T14:32:42+00:00"
-    },
-    {
-      "id": "5c526e28ff3b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 2.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecaución en #Querétaro se registra cierre parcial de circulación tras #AccidenteVial cerca del km 002+600, de la autopista Querétaro-Irapuato. Atienda indicación vial. #TomePrecaución en #Querétaro se registra cierre parcial de circulación tras #AccidenteVial cerca del km ",
-      "link": "https://nitter.net/GN_Carreteras/status/2046958036279763214#m",
-      "date": "2026-04-22T14:23:21+00:00"
     },
     {
       "id": "cf92edc35a20",
@@ -381,34 +465,6 @@
       "date": "2026-04-22T12:52:30+00:00"
     },
     {
-      "id": "4a1bbe30d410",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 45.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 45, dirección CDMX. Continúa cierre a la circulación por atención de accidente (volcadura de camión y caída de carga). ➡ Por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carretera libre a la altura de",
-      "link": "https://nitter.net/CAPUFE/status/2046931430589018493#m",
-      "date": "2026-04-22T12:37:37+00:00"
-    },
-    {
-      "id": "acdc1aeb9b06",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 17, dirección Querétaro. Reducción de carriles por atención de accidente (volcadura de automovil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 17, dirección Querét",
-      "link": "https://nitter.net/CAPUFE/status/2046930752042832160#m",
-      "date": "2026-04-22T12:34:56+00:00"
-    },
-    {
       "id": "4cb46beddf01",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,34 +533,6 @@
       "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 024+700, en carretera Tuxtla Gutiérrez-SCLC., a la altura del poblado Ajtetic Bajo, Mpio. SCLC., con dir. a Tuxtla. Atienda indicación vial. #TomePrecauciones en #Chiapas se re",
       "link": "https://nitter.net/GN_Carreteras/status/2046829409319960989#m",
       "date": "2026-04-22T05:52:14+00:00"
-    },
-    {
-      "id": "f57b41d84354",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 000+100, en carretera Los Mochis-Cd Obregón, a inmediaciones del poblado el Henequén, con dir. a Cd. Obregón. Atienda indicación vial. #TomePrecauciones en #Sonora se registra c",
-      "link": "https://nitter.net/GN_Carreteras/status/2046828014810358113#m",
-      "date": "2026-04-22T05:46:41+00:00"
-    },
-    {
-      "id": "18ce18797707",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 22.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #VehiculoIncendiado cerca del km 022+500, en carretera Coatzacoalcos-Villahermosa, a la altura del Mpio. de Ángel R. Cabada. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre par",
-      "link": "https://nitter.net/GN_Carreteras/status/2046826901235224977#m",
-      "date": "2026-04-22T05:42:16+00:00"
     }
   ]
 }
