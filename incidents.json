@@ -1,7 +1,49 @@
 {
-  "updated": "2026-04-22T21:57:26.951300+00:00",
+  "updated": "2026-04-22T22:55:14.881419+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "16b5a3641fb3",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 4.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 4, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 4, dirección Córdoba. El incid",
+      "link": "https://nitter.net/CAPUFE/status/2047077862616817761#m",
+      "date": "2026-04-22T22:19:29+00:00"
+    },
+    {
+      "id": "fe80480e9dad",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 104.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 104, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. ☑️ ACTUALIZACIÓN.",
+      "link": "https://nitter.net/CAPUFE/status/2047077586707083608#m",
+      "date": "2026-04-22T22:18:24+00:00"
+    },
+    {
+      "id": "f9c908762cdc",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 96.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 96, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 96, dirección Querétaro. El accidente ha sido atendido. En la zo",
+      "link": "https://nitter.net/CAPUFE/status/2047076517490897082#m",
+      "date": "2026-04-22T22:14:09+00:00"
+    },
     {
       "id": "27178e4f9fbb",
       "account": "@capufe",
@@ -115,7 +157,7 @@
       "date": "2026-04-22T20:42:09+00:00"
     },
     {
-      "id": "fa0697f6cc68",
+      "id": "62591789564b",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -124,7 +166,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 104, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. Tom",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 104, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestrada",
       "link": "https://nitter.net/CAPUFE/status/2047051587344855083#m",
       "date": "2026-04-22T20:35:05+00:00"
     },
@@ -225,48 +267,6 @@
       "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro, registra #lluvia del km 96 al 110. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro , registra #lluvia del km 96 al 110. Disminuye tu velocidad y maneja con precaución.",
       "link": "https://nitter.net/CAPUFE/status/2047042242217386137#m",
       "date": "2026-04-22T19:57:57+00:00"
-    },
-    {
-      "id": "5527df8fae12",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 104.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 104, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y salida del camino a cuneta central de una camioneta. En la zona se registra carga vehicular y #lluvia. Maneja c",
-      "link": "https://nitter.net/CAPUFE/status/2047041496025559531#m",
-      "date": "2026-04-22T19:54:59+00:00"
-    },
-    {
-      "id": "7ff2e3711583",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 45.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 45, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 45, dirección CDMX. El accidente ha sido atendi",
-      "link": "https://nitter.net/CAPUFE/status/2047038564236394559#m",
-      "date": "2026-04-22T19:43:20+00:00"
-    },
-    {
-      "id": "1f42f8c7c6b6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 96.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 96. Reducción de carriles en ambos sentidos por atención de accidente (salida del camino e incendio de tracto camión). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMé",
-      "link": "https://nitter.net/CAPUFE/status/2047036616229744965#m",
-      "date": "2026-04-22T19:35:36+00:00"
     },
     {
       "id": "45071c98c53b",
