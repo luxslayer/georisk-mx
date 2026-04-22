@@ -1,7 +1,77 @@
 {
-  "updated": "2026-04-22T20:57:44.069300+00:00",
-  "count": 32,
+  "updated": "2026-04-22T21:57:26.951300+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "27178e4f9fbb",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 96.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro, continúa #lluvia del km 96 al 110. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro , continúa #lluvia del km 96 al 110. Disminuye tu velocidad y maneja con precaución.",
+      "link": "https://nitter.net/CAPUFE/status/2047070735378571357#m",
+      "date": "2026-04-22T21:51:10+00:00"
+    },
+    {
+      "id": "8acdf6c6fecc",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 11.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Cuchilla - Matamoros, km 11, dirección La Cuchilla. Continúa reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Cuchilla -",
+      "link": "https://nitter.net/CAPUFE/status/2047070170170978427#m",
+      "date": "2026-04-22T21:48:55+00:00"
+    },
+    {
+      "id": "24124686cb28",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 96.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 96, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Dirección CDMX. Se restablece la circulación. Toma tus precauciones. Para más información llama al",
+      "link": "https://nitter.net/CAPUFE/status/2047069850850517366#m",
+      "date": "2026-04-22T21:47:39+00:00"
+    },
+    {
+      "id": "bc73751e9310",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 16.0,
+      "lat": 28.78816,
+      "lon": -106.12692,
+      "resolved": true,
+      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Obregón - Guaymas, km 16. Registra circulación en contraflujo por labores de mantenimiento. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Obregón - Guaymas, km 16. Registra circulación en contraflujo p",
+      "link": "https://nitter.net/CAPUFE/status/2047067135134793912#m",
+      "date": "2026-04-22T21:36:52+00:00"
+    },
+    {
+      "id": "9e6c3ce4f7bb",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 123.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 123, dirección Navojoa. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navoj",
+      "link": "https://nitter.net/CAPUFE/status/2047065676892749987#m",
+      "date": "2026-04-22T21:31:04+00:00"
+    },
     {
       "id": "f9e8de10f1d5",
       "account": "@capufe",
@@ -199,20 +269,6 @@
       "date": "2026-04-22T19:35:36+00:00"
     },
     {
-      "id": "01f6a8ec69c6",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 41.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 41. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavac",
-      "link": "https://nitter.net/CAPUFE/status/2047035152010801447#m",
-      "date": "2026-04-22T19:29:46+00:00"
-    },
-    {
       "id": "45071c98c53b",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -239,34 +295,6 @@
       "text": "#VialidadLibre en #CDMX tras #AccidenteVial cerca del km 045+000, de la carretera México-Cuernavaca, con dir. a Cd. de Mx. Maneje con precaución. #VialidadLibre en #CDMX tras #AccidenteVial cerca del km 045+000, de la carretera México-Cuernavaca, con dir. a Cd. de Mx. Maneje con ",
       "link": "https://nitter.net/GN_Carreteras/status/2047027355986636938#m",
       "date": "2026-04-22T18:58:48+00:00"
-    },
-    {
-      "id": "c5e3f87c8c36",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 45.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 45, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular y se implementa operativo de vialidad. Atiende las indicaciones y maneja con precaución. Para más información, llama al 0⃣7⃣4⃣. 🟠 CARGA VEHICULAR",
-      "link": "https://nitter.net/CAPUFE/status/2047026438964986361#m",
-      "date": "2026-04-22T18:55:09+00:00"
-    },
-    {
-      "id": "faa868823040",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 41.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 41. Se informa a las personas usuarias que se retiran los manifestantes, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular y se implementa operativo de vialidad. Atiende las i",
-      "link": "https://nitter.net/CAPUFE/status/2047025827921977654#m",
-      "date": "2026-04-22T18:52:43+00:00"
     },
     {
       "id": "d5d0f2d0f5ef",
@@ -435,20 +463,6 @@
       "text": "#AlMomento en #CDMX se registra cierre total de circulación por presencia de personas,cerca del km 041+000 de la carretera México-Cuernavaca, a inmediaciones de la localidad de Parres, CDMX. Atienda indicación vial. #AlMomento en #CDMX se registra cierre total de circulación por ",
       "link": "https://nitter.net/GN_Carreteras/status/2046989704160043222#m",
       "date": "2026-04-22T16:29:11+00:00"
-    },
-    {
-      "id": "57c824537db7",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 168.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecaución en #Michoacán se registra cierre parcial de circulación tras #AccidenteVial cerca del km 168+000, de la carretera Uruapan - Lázaro Cárdenas. Atienda indicación vial. #TomePrecaución en #Michoacán se registra cierre parcial de circulación tras #AccidenteVial cerca ",
-      "link": "https://nitter.net/GN_Carreteras/status/2046986114817208717#m",
-      "date": "2026-04-22T16:14:55+00:00"
     }
   ]
 }
