@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-22T08:15:38.330142+00:00",
+  "updated": "2026-04-22T10:01:03.880461+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "7ced23c1b8ae",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 49.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 49, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 49, dirección Cuernavaca. El accidente ha",
+      "link": "https://nitter.net/CAPUFE/status/2046883034620629168#m",
+      "date": "2026-04-22T09:25:19+00:00"
+    },
     {
       "id": "6f3ccce429fb",
       "account": "@capufe",
@@ -337,20 +351,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 35, dirección Querétaro. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autop",
       "link": "https://nitter.net/CAPUFE/status/2046782572198277424#m",
       "date": "2026-04-22T02:46:07+00:00"
-    },
-    {
-      "id": "e0dd9c30d36b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 38.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 38, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 38, dirección Querétar",
-      "link": "https://nitter.net/CAPUFE/status/2046782209411956758#m",
-      "date": "2026-04-22T02:44:40+00:00"
     },
     {
       "id": "4f50ccca400d",
