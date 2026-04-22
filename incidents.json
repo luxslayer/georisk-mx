@@ -1,7 +1,63 @@
 {
-  "updated": "2026-04-21T23:07:57.041597+00:00",
-  "count": 38,
+  "updated": "2026-04-22T00:01:42.001638+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "d526e08f44e5",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 45.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 45, dirección Puebla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 45, dirección Puebla. Reducción de carri",
+      "link": "https://nitter.net/CAPUFE/status/2046736975646888159#m",
+      "date": "2026-04-21T23:44:56+00:00"
+    },
+    {
+      "id": "1036fadd5670",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 48.0,
+      "lat": 19.19,
+      "lon": -98.576,
+      "resolved": true,
+      "text": "#TomePrecauciones en #EdoMx se registra cierre parcial de circulación por #AccidenteVíal cerca del km 048+000, de la carretera México-Puebla, a inmediaciones de la comunidad de Ávila Camacho, con dir. a CDMX. Atienda indicación vial. #TomePrecauciones en #EdoMx se registra cierre",
+      "link": "https://nitter.net/GN_Carreteras/status/2046736763180224693#m",
+      "date": "2026-04-21T23:44:05+00:00"
+    },
+    {
+      "id": "162f5c7f4945",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Gdl–Tepic",
+      "route_key": "guadalajara-tepic",
+      "km": 71.0,
+      "lat": 20.9808,
+      "lon": -103.947,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVíal cerca del km 071+100, de la carretera Guadalajara-Tepic, a la altura del Mpio. Hostotipaquillo, con dir. a Tepic. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre p",
+      "link": "https://nitter.net/GN_Carreteras/status/2046734261202358281#m",
+      "date": "2026-04-21T23:34:09+00:00"
+    },
+    {
+      "id": "836ab098c338",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "⚠️ AVISO IMPORTANTE⚠️ Libramiento Oriente de Saltillo, km 21, dirección Monterrey. Continúa carga vehicular por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE. Para más información de carretera libre, llama al 088 de @GN_Carreteras. Toma tus precauciones. ⚠️ ",
+      "link": "https://nitter.net/CAPUFE/status/2046728033592049895#m",
+      "date": "2026-04-21T23:09:24+00:00"
+    },
     {
       "id": "15e0d0a568d4",
       "account": "@capufe",
@@ -269,48 +325,6 @@
       "date": "2026-04-21T20:48:41+00:00"
     },
     {
-      "id": "53090f2415a1",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Acayucan–Cosoleacaque",
-      "route_key": "acayucan-cosoleacaque",
-      "km": 34.0,
-      "lat": 18.10784,
-      "lon": -94.74368,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 34, dirección Acayucan. Continúa reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaqu",
-      "link": "https://nitter.net/CAPUFE/status/2046692180899618846#m",
-      "date": "2026-04-21T20:46:56+00:00"
-    },
-    {
-      "id": "ad40c786b294",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 159.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 159, dirección CDMX. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 159, dirección CDMX. Reducción de",
-      "link": "https://nitter.net/CAPUFE/status/2046690901850718358#m",
-      "date": "2026-04-21T20:41:51+00:00"
-    },
-    {
-      "id": "ce0dad1d7304",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 41.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 41, dirección CDMX. Reducción de carriles por atención de accidente (choque de costado). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 41, direc",
-      "link": "https://nitter.net/CAPUFE/status/2046689634986459592#m",
-      "date": "2026-04-21T20:36:49+00:00"
-    },
-    {
       "id": "77622f696bd2",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -505,34 +519,6 @@
       "text": "#TomePrecaución en #Sonora se registra cierre parcial de circulación tras #AccidenteVial cerca del km 128+500 de la carretera Los Mochis - Cd Obregón, con dirección a Los Mochis. Atienda Indicación Vial. #TomePrecaución en #Sonora se registra cierre parcial de circulación tras #A",
       "link": "https://nitter.net/GN_Carreteras/status/2046550690068058283#m",
       "date": "2026-04-21T11:24:42+00:00"
-    },
-    {
-      "id": "338657dab675",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Córdoba",
-      "route_key": "puebla-cordoba",
-      "km": 245.0,
-      "lat": 18.884,
-      "lon": -96.923,
-      "resolved": true,
-      "text": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 245+400 de la carretera Puebla-Cordoba (Directo). Atienda Indicación Vial. #TomePrecaución en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del ",
-      "link": "https://nitter.net/GN_Carreteras/status/2046546118956191982#m",
-      "date": "2026-04-21T11:06:32+00:00"
-    },
-    {
-      "id": "48db0556b99d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 10.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibr en #Miichoacán tras #AccidenteVial cerca del km 010+000 de la carretera Morelia- Salamanca (Directo) con dirección a Morelia . Maneje con precaución. #VialidadLibr en #Miichoacán tras #AccidenteVial cerca del km 010+000 de la carretera Morelia- Salamanca (Directo) c",
-      "link": "https://nitter.net/GN_Carreteras/status/2046491575866274124#m",
-      "date": "2026-04-21T07:29:48+00:00"
     }
   ]
 }
