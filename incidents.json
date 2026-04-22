@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-22T10:01:03.880461+00:00",
+  "updated": "2026-04-22T11:37:55.151284+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "42a488dad444",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 74.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tecate - La Rumorosa, km 74, dirección La Rumorosa. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tecate - La Rumorosa, km 74, dirección La R",
+      "link": "https://nitter.net/CAPUFE/status/2046909479833243941#m",
+      "date": "2026-04-22T11:10:24+00:00"
+    },
+    {
+      "id": "4cb46beddf01",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Gdl–Tepic",
+      "route_key": "guadalajara-tepic",
+      "km": 143.0,
+      "lat": 21.3178,
+      "lon": -104.58,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 143+950, en carretera Guaymas-Hermosillo, a inmediaciones del Mpio. de Guaymas. con dir. a Hermosillo. Atienda indicación vial. #TomePrecauciones en #Sonora se registra cierre p",
+      "link": "https://nitter.net/GN_Carreteras/status/2046906878513320441#m",
+      "date": "2026-04-22T11:00:04+00:00"
+    },
     {
       "id": "7ced23c1b8ae",
       "account": "@capufe",
@@ -339,20 +367,6 @@
       "date": "2026-04-22T02:53:15+00:00"
     },
     {
-      "id": "62f74136080c",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 35.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 35, dirección Querétaro. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autop",
-      "link": "https://nitter.net/CAPUFE/status/2046782572198277424#m",
-      "date": "2026-04-22T02:46:07+00:00"
-    },
-    {
       "id": "4f50ccca400d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -449,20 +463,6 @@
       "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVíal cerca del km 199+020, de la carretera Tapanatepec–Talismán, a la altura del poblado Sesecapa, Mpio. Mapastepec, con dir. a Huixtla. Atienda indicación vial. #TomePrecauciones en #Chiapas se",
       "link": "https://nitter.net/GN_Carreteras/status/2046726906498699317#m",
       "date": "2026-04-21T23:04:55+00:00"
-    },
-    {
-      "id": "cfee35f92197",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 163.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVíal cerca del km 163+700, de la carretera Tulancingo-Tihuatlán, a inmediaciones del Mpio. de Xicotepec, con dir. a Tihuatlán. Atienda indicación vial. #TomePrecauciones en #Puebla se registra ci",
-      "link": "https://nitter.net/GN_Carreteras/status/2046710781375381663#m",
-      "date": "2026-04-21T22:00:50+00:00"
     }
   ]
 }
