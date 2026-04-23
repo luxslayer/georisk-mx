@@ -1,9 +1,37 @@
 {
-  "updated": "2026-04-23T20:55:16.880032+00:00",
+  "updated": "2026-04-23T21:49:23.679284+00:00",
   "count": 33,
   "incidents": [
     {
-      "id": "aa1866806f23",
+      "id": "ceebaaa11cab",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 290.0,
+      "lat": 18.884,
+      "lon": -96.923,
+      "resolved": true,
+      "text": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 290+000 de la carretera Puebla-Córdoba, a la altura de Córdoba, con dir. a Veracruz. Atienda indicación vial. #TomePrecaución en #Veracruz se registra cierre parcial de circulac",
+      "link": "https://nitter.net/GN_Carreteras/status/2047425517310124416#m",
+      "date": "2026-04-23T21:20:57+00:00"
+    },
+    {
+      "id": "e593e1b3e38b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 290.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 290, dirección Córdoba. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN ",
+      "link": "https://nitter.net/CAPUFE/status/2047424158045196671#m",
+      "date": "2026-04-23T21:15:33+00:00"
+    },
+    {
+      "id": "7676de8addce",
       "account": "@capufe",
       "type": "roadwork",
       "highway": "?",
@@ -12,9 +40,9 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoQuerétaro, km 33, dirección CDMX. Carga vehicular por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE. Maneja con precaución. ⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoQuerétaro , km 33, dirección CDMX. Carga vehicular por labores de mant",
-      "link": "https://nitter.net/CAPUFE/status/2047417779221889024#m",
-      "date": "2026-04-23T20:50:12+00:00"
+      "text": "⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoQuerétaro, km 33, dirección CDMX. Continúa carga vehicular por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE. Maneja con precaución. ⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoQuerétaro , km 33, dirección CDMX. Continúa carga vehicular p",
+      "link": "https://nitter.net/CAPUFE/status/2047421405109662174#m",
+      "date": "2026-04-23T21:04:36+00:00"
     },
     {
       "id": "25a2ef300ab9",
@@ -241,20 +269,6 @@
       "date": "2026-04-23T18:18:39+00:00"
     },
     {
-      "id": "b5938b787caf",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 132.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Puebla - Acatzingo, km 132, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Toma tus precauciones. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Puebla - Acatzingo, km 13",
-      "link": "https://nitter.net/CAPUFE/status/2047373282236571683#m",
-      "date": "2026-04-23T17:53:23+00:00"
-    },
-    {
       "id": "f546f41317ec",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -449,20 +463,6 @@
       "text": "#Vialidadlibre en #Michoacán tras #AccidenteVial cerca del km 121+000, de la carretera Lázaro Cárdenas -Uruapan. Maneje con precaución. #Vialidadlibre en #Michoacán tras #AccidenteVial cerca del km 121+000, de la carretera Lázaro Cárdenas -Uruapan. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2047173301554888712#m",
       "date": "2026-04-23T04:38:44+00:00"
-    },
-    {
-      "id": "4f904ff4cb99",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 47.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Vialidadlibre en #Chiapas tras #AccidenteVial cerca del km 047+600, de la carretera Catazajá - Rancho Nuevo.Maneje con precaución #Vialidadlibre en #Chiapas tras #AccidenteVial cerca del km 047+600, de la carretera Catazajá - Rancho Nuevo.Maneje con precaución",
-      "link": "https://nitter.net/GN_Carreteras/status/2047173277374702021#m",
-      "date": "2026-04-23T04:38:38+00:00"
     }
   ]
 }
