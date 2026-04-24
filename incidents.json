@@ -1,7 +1,63 @@
 {
-  "updated": "2026-04-24T18:56:19.753866+00:00",
+  "updated": "2026-04-24T19:54:33.132438+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "fb3a5bd8cd82",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 158.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 158, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 158, dirección Querétaro. Reducción de carri",
+      "link": "https://nitter.net/CAPUFE/status/2047763642557329688#m",
+      "date": "2026-04-24T19:44:32+00:00"
+    },
+    {
+      "id": "a96296dc203d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 35.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 35, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULAC",
+      "link": "https://nitter.net/CAPUFE/status/2047763440316342347#m",
+      "date": "2026-04-24T19:43:44+00:00"
+    },
+    {
+      "id": "a9ed84869670",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 39.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulacion por presencia de personas en la caseta de cobro número 076 Tehuacán, Pue. Km 039+400 en la carretera Cuacnopalan - Oaxaca. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de",
+      "link": "https://nitter.net/GN_Carreteras/status/2047760138870640963#m",
+      "date": "2026-04-24T19:30:37+00:00"
+    },
+    {
+      "id": "52a313d24d3e",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Continúa reducción de carriles por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo T",
+      "link": "https://nitter.net/CAPUFE/status/2047756651252355270#m",
+      "date": "2026-04-24T19:16:45+00:00"
+    },
     {
       "id": "90f8cf40c6c9",
       "account": "@GN_carreteras",
@@ -339,20 +395,6 @@
       "date": "2026-04-24T15:51:08+00:00"
     },
     {
-      "id": "12d66c79ba05",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 52.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 52, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 52, dirección CDMX. Reducción de carriles por labores de",
-      "link": "https://nitter.net/CAPUFE/status/2047702006714835299#m",
-      "date": "2026-04-24T15:39:37+00:00"
-    },
-    {
       "id": "e793d8ce5413",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -365,34 +407,6 @@
       "text": "#TomePrecaución en #Guerrero se registra cierre parcial de circulación por #AccidenteVila cerca del km281+800, de la Aut. Siglo XXI, (Directo) a la altura de la plaza de cobro Feliciano, Gro. Atienda indicación vial. #TomePrecaución en #Guerrero se registra cierre parcial de circ",
       "link": "https://nitter.net/GN_Carreteras/status/2047701485186601380#m",
       "date": "2026-04-24T15:37:33+00:00"
-    },
-    {
-      "id": "cdaecf33fe74",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 62.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 62, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 62, dirección Querétaro. El accidente ha sid",
-      "link": "https://nitter.net/CAPUFE/status/2047700700956623348#m",
-      "date": "2026-04-24T15:34:26+00:00"
-    },
-    {
-      "id": "210c097e4825",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. reducción de carriles por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Co",
-      "link": "https://nitter.net/CAPUFE/status/2047699803258098036#m",
-      "date": "2026-04-24T15:30:52+00:00"
     },
     {
       "id": "61431382af17",
@@ -463,20 +477,6 @@
       "text": "#TomePrecaución en #Michoacán se registra cierre parcial de circulación por #VehículoIncendiado cerca del km 044+200, de la carretera Morelia - Salamanca con dirección a Salamanca. Atienda indicación vial. #TomePrecaución en #Michoacán se registra cierre parcial de circulación po",
       "link": "https://nitter.net/GN_Carreteras/status/2047666246565384642#m",
       "date": "2026-04-24T13:17:31+00:00"
-    },
-    {
-      "id": "69a6e569af65",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 143.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecaución en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 143+200, de la carretera Atlacomulco-Maravatío, a la altura de la Loc. el Colorado, con dir. a Maravatío. Atienda indicación vial. #TomePrecaución en #Michoacán se registra cie",
-      "link": "https://nitter.net/GN_Carreteras/status/2047654539344359679#m",
-      "date": "2026-04-24T12:31:00+00:00"
     }
   ]
 }
