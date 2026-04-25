@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-25T19:47:57.269464+00:00",
-  "count": 35,
+  "updated": "2026-04-25T20:40:59.572034+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "bd1bb5827407",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 160.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 160, dirección Acayucan. Cierre a la circulación por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 160, direc",
+      "link": "https://nitter.net/CAPUFE/status/2048132659608481913#m",
+      "date": "2026-04-25T20:10:53+00:00"
+    },
+    {
+      "id": "82acd7495f2a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 80.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 80, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 80, dirección CDMX. El accidente ha sido atendido. En la zona se registra car",
+      "link": "https://nitter.net/CAPUFE/status/2048128640110465259#m",
+      "date": "2026-04-25T19:54:54+00:00"
+    },
     {
       "id": "a1fb5747c38d",
       "account": "@capufe",
@@ -211,20 +239,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87, dirección La Tinaja. Reducció",
       "link": "https://nitter.net/CAPUFE/status/2048088792314024196#m",
       "date": "2026-04-25T17:16:34+00:00"
-    },
-    {
-      "id": "1a9573f6a7ed",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 53.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 53, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 53, dirección Querétaro.",
-      "link": "https://nitter.net/CAPUFE/status/2048079494871736419#m",
-      "date": "2026-04-25T16:39:37+00:00"
     },
     {
       "id": "8a4e5e0500e8",
