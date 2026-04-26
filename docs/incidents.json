@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-26T18:58:16.703643+00:00",
-  "count": 35,
+  "updated": "2026-04-26T19:50:45.768155+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "e827a12afcf5",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 24.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 24, dirección CDMX. Registra carga vehicular a la altura de la incorporación al Viaducto Elevado Tlalpan, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 24, dirección CDMX. Registra carg",
+      "link": "https://nitter.net/CAPUFE/status/2048487092846567910#m",
+      "date": "2026-04-26T19:39:16+00:00"
+    },
     {
       "id": "ead8fde23eec",
       "account": "@capufe",
@@ -227,34 +241,6 @@
       "date": "2026-04-26T14:08:57+00:00"
     },
     {
-      "id": "dd280f26e38a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 44.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 44, dirección Querétaro. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). En la zona se reg",
-      "link": "https://nitter.net/CAPUFE/status/2048397335625916743#m",
-      "date": "2026-04-26T13:42:36+00:00"
-    },
-    {
-      "id": "be774de133be",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 13.0,
-      "lat": 18.281,
-      "lon": -94.96475,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 13, dirección La Tinaja. Cierre a la circulación por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tina",
-      "link": "https://nitter.net/CAPUFE/status/2048393000972132603#m",
-      "date": "2026-04-26T13:25:23+00:00"
-    },
-    {
       "id": "585debf4def5",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,20 +463,6 @@
       "text": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 239+950 de la carretera Poza Rica - Veracruz a la altura de la localidad Villa Rica Ver. Atienda Indicación Vial. #TomePrecaución en #Veracruz se registra cierre parcial de circ",
       "link": "https://nitter.net/GN_Carreteras/status/2047797661684605172#m",
       "date": "2026-04-24T21:59:43+00:00"
-    },
-    {
-      "id": "76e890d574df",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 11.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 011+050 de la carretera Xalapa - Veracruz, a la altura del Mpio. Emiliano Zapata. Atienda Indicación Vial. #TomePrecaución en #Veracruz se registra cierre parcial de circulación",
-      "link": "https://nitter.net/GN_Carreteras/status/2047790532391240104#m",
-      "date": "2026-04-24T21:31:23+00:00"
     }
   ]
 }
