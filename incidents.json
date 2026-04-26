@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-26T14:46:42.524170+00:00",
+  "updated": "2026-04-26T15:43:59.903156+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "462e824029d6",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 13.0,
+      "lat": 18.281,
+      "lon": -94.96475,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz registra cierre parcial de circulación por #AccidenteVial cerca del km 013+500, de la carretera Ent. La Tinaja - Cosoleacaque. Atienda indicación Vial. #TomePrecauciones en #Veracruz registra cierre parcial de circulación por #AccidenteVial cerca de",
+      "link": "https://nitter.net/GN_Carreteras/status/2048420516168409121#m",
+      "date": "2026-04-26T15:14:43+00:00"
+    },
     {
       "id": "b071d1b039e1",
       "account": "@capufe",
@@ -463,20 +477,6 @@
       "text": "#TomePrecaución en #SLP se registra cierre parcial de circulación por #AccidenteVial cerca del km 059+000 de la carretera Lagos de Moreno-San Luis Potosí, a inmediaciones de la Col. Aquiles Córdova Morán, S.L.P. Atienda Indicación Vial. #TomePrecaución en #SLP se registra cierre ",
       "link": "https://nitter.net/GN_Carreteras/status/2047788871677517824#m",
       "date": "2026-04-24T21:24:47+00:00"
-    },
-    {
-      "id": "3785fd2f7a67",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Saltillo–Mty",
-      "route_key": "saltillo-monterrey",
-      "km": 41.0,
-      "lat": 25.58225,
-      "lon": -100.581,
-      "resolved": true,
-      "text": "#TomePrecaución en #NL se registra cierre parcial de circulación por #AccidenteVial cerca del km 041+000 de la carretera Saltillo - Monterrey a la altura de la Localidad La Candelaria, Mpio. García, N.L. Atienda Indicación Vial. #TomePrecaución en #NL se registra cierre parcial d",
-      "link": "https://nitter.net/GN_Carreteras/status/2047787613277290857#m",
-      "date": "2026-04-24T21:19:47+00:00"
     }
   ]
 }
