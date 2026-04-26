@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-26T09:03:36.759167+00:00",
+  "updated": "2026-04-26T10:12:12.086439+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "e7df2a9e68f0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 108.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Hermosillo - Magdalena, km 108. Se restablece la circulación en contraflujo. El personal continúa laborando en la atención del accidente (choque por alcance e incendio de tracto camión). En la zona se registra carga vehicular. Maneja con pre",
+      "link": "https://nitter.net/CAPUFE/status/2048332615548322045#m",
+      "date": "2026-04-26T09:25:26+00:00"
+    },
     {
       "id": "3107c011cf40",
       "account": "@capufe",
@@ -183,20 +197,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 88, dirección Acapulco. Registra cierre a la circulación en la gasa de salida a Plaza Galerías, por atención de accidente (choque contra muro central). Circulación por carriles centrales. Maneja con precaución. 🟠 CIERRE",
       "link": "https://nitter.net/CAPUFE/status/2048247653163499621#m",
       "date": "2026-04-26T03:47:49+00:00"
-    },
-    {
-      "id": "8f5d73a60c00",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 53.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla, km 53, dirección CDMX. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones y maneja con precaución. Para más información, llam",
-      "link": "https://nitter.net/CAPUFE/status/2048244384445976733#m",
-      "date": "2026-04-26T03:34:50+00:00"
     },
     {
       "id": "585debf4def5",
