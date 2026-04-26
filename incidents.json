@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-26T20:41:11.384841+00:00",
+  "updated": "2026-04-26T21:39:54.275559+00:00",
   "count": 30,
   "incidents": [
+    {
+      "id": "cb01ed05f646",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 44, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 44, dirección Querétaro",
+      "link": "https://nitter.net/CAPUFE/status/2048507046018879717#m",
+      "date": "2026-04-26T20:58:33+00:00"
+    },
     {
       "id": "f3efa3358747",
       "account": "@capufe",
@@ -169,20 +183,6 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 83, dirección La Tinaja. Cierre a la circulación en la gaza de salida al Poblado de Cosamaloapan por atención de incidente (tracto camión con falla mecánica). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 C",
       "link": "https://nitter.net/CAPUFE/status/2048454623204376883#m",
       "date": "2026-04-26T17:30:15+00:00"
-    },
-    {
-      "id": "6d4a67fdb0c1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 44.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 44, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Auto",
-      "link": "https://nitter.net/CAPUFE/status/2048447313115292137#m",
-      "date": "2026-04-26T17:01:12+00:00"
     },
     {
       "id": "462e824029d6",
