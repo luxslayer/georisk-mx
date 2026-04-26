@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-26T10:12:12.086439+00:00",
+  "updated": "2026-04-26T11:11:51.522474+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "6a0931d1bda4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 156.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 156, dirección Querétaro. Reducción de carriles por atención de accidente (maniobras para el retiro de unidades siniestradas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 156, direcció",
+      "link": "https://nitter.net/CAPUFE/status/2048350379105005848#m",
+      "date": "2026-04-26T10:36:01+00:00"
+    },
     {
       "id": "e7df2a9e68f0",
       "account": "@capufe",
@@ -183,20 +197,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 16. Registra cierres intermitentes en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL",
       "link": "https://nitter.net/CAPUFE/status/2048256646988624353#m",
       "date": "2026-04-26T04:23:34+00:00"
-    },
-    {
-      "id": "1a6c39384ff4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 88.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 88, dirección Acapulco. Registra cierre a la circulación en la gasa de salida a Plaza Galerías, por atención de accidente (choque contra muro central). Circulación por carriles centrales. Maneja con precaución. 🟠 CIERRE",
-      "link": "https://nitter.net/CAPUFE/status/2048247653163499621#m",
-      "date": "2026-04-26T03:47:49+00:00"
     },
     {
       "id": "585debf4def5",
