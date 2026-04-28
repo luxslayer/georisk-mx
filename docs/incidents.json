@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-28T09:23:32.224305+00:00",
-  "count": 40,
+  "updated": "2026-04-28T11:21:06.118308+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "7f4f1d995d5d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 81.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 81, dirección Isla. Continúa cierre a la circulación por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 81, ",
+      "link": "https://nitter.net/CAPUFE/status/2049071473306816576#m",
+      "date": "2026-04-28T10:21:23+00:00"
+    },
     {
       "id": "ba499aa73a4a",
       "account": "@capufe",
@@ -267,34 +281,6 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 59, dirección Puebla. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). 🔘Dirección CDMX, opera de manera normal. Sin embargo, en la zona se registra carga vehicular. Toma ",
       "link": "https://nitter.net/CAPUFE/status/2048980362793979974#m",
       "date": "2026-04-28T04:19:21+00:00"
-    },
-    {
-      "id": "c6811ab150fe",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 59.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 59. Registra cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPu",
-      "link": "https://nitter.net/CAPUFE/status/2048976317958222051#m",
-      "date": "2026-04-28T04:03:16+00:00"
-    },
-    {
-      "id": "fc1b374b7e07",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 49.0,
-      "lat": 18.1847,
-      "lon": -94.7294,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 49, dirección La Tinaja. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra c",
-      "link": "https://nitter.net/CAPUFE/status/2048972911734558983#m",
-      "date": "2026-04-28T03:49:44+00:00"
     },
     {
       "id": "f352c05fca50",
