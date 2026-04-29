@@ -1,7 +1,35 @@
 {
-  "updated": "2026-04-29T10:58:16.101819+00:00",
-  "count": 39,
+  "updated": "2026-04-29T12:21:01.325297+00:00",
+  "count": 40,
   "incidents": [
+    {
+      "id": "d5467d70e218",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 24.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 24. Continúa circulación intermitente en ambos sentidos por atención del accidente (maniobras para el retiro de unidades siniestradas). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE C",
+      "link": "https://nitter.net/CAPUFE/status/2049457221159801179#m",
+      "date": "2026-04-29T11:54:13+00:00"
+    },
+    {
+      "id": "a5ba5e834784",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 86.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 86. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos, por presencia de manifestantes. Se recomienda a la ciudadanía tomar las siguientes vías alternas: ➡ Dirección CDMX, desvío a carretera lib",
+      "link": "https://nitter.net/CAPUFE/status/2049455531325018242#m",
+      "date": "2026-04-29T11:47:30+00:00"
+    },
     {
       "id": "9fe0e645f9f8",
       "account": "@capufe",
@@ -59,7 +87,7 @@
       "date": "2026-04-29T09:43:50+00:00"
     },
     {
-      "id": "3abb0cc9034b",
+      "id": "d1286cb6a5b6",
       "account": "@capufe",
       "type": "closure",
       "highway": "?",
@@ -68,7 +96,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 86. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos, por presencia de manifestantes. Se recomienda a la ciudadanía tomar las siguientes vías alternas: ➡ Dirección CDMX, desvío a carretera lib",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 86. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos, por presencia de manifestantes. Se recomienda a la ciudadanía tomar las siguientes vías alternas: ➡ Dirección CDMX, desvío a carrete",
       "link": "https://nitter.net/CAPUFE/status/2049421099004215435#m",
       "date": "2026-04-29T09:30:41+00:00"
     },
@@ -269,48 +297,6 @@
       "date": "2026-04-29T06:55:50+00:00"
     },
     {
-      "id": "8c05d3b2a920",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 86.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 86. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos, por presencia de manifestantes. Se recomienda a la ciudadanía tomar las siguientes vías alternas: ➡ Dirección CDMX, desviación a car",
-      "link": "https://nitter.net/CAPUFE/status/2049381491059138854#m",
-      "date": "2026-04-29T06:53:17+00:00"
-    },
-    {
-      "id": "c0ffd1a3aa87",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 21.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 21, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 21, dirección Córdoba. El inc",
-      "link": "https://nitter.net/CAPUFE/status/2049376375094509962#m",
-      "date": "2026-04-29T06:32:58+00:00"
-    },
-    {
-      "id": "562fce803a4e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 56.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Lagos de Moreno - San Luis Potosí, km 56. El accidente ha sido atendido. Se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Lagos de",
-      "link": "https://nitter.net/CAPUFE/status/2049376118982033561#m",
-      "date": "2026-04-29T06:31:56+00:00"
-    },
-    {
       "id": "a330924bfa11",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -325,6 +311,20 @@
       "date": "2026-04-29T06:00:12+00:00"
     },
     {
+      "id": "5352fa52cad9",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 86.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 86. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/G9VAFbddw9hGKC4n8 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla , km 86. Cierre a l",
+      "link": "https://nitter.net/CAPUFE/status/2049365663831998755#m",
+      "date": "2026-04-29T05:50:24+00:00"
+    },
+    {
       "id": "bbc6c061a8eb",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -337,6 +337,20 @@
       "text": "#TomePrecauciones en #Campeche se registra cierre parcial de circulación tras #AccidenteVial cerca del km 010+500, de la carretera Haltuchen-Campeche. Atienda indicación vial. #TomePrecauciones en #Campeche se registra cierre parcial de circulación tras #AccidenteVial cerca del k",
       "link": "https://nitter.net/GN_Carreteras/status/2049353262504030561#m",
       "date": "2026-04-29T05:01:07+00:00"
+    },
+    {
+      "id": "1285473d1ef7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 114.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 114, dirección La Tinaja. Registra reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y salida del camino. En la zona se registra carga vehicular. Maneja con precaución. Consulta",
+      "link": "https://nitter.net/CAPUFE/status/2049321467398000767#m",
+      "date": "2026-04-29T02:54:47+00:00"
     },
     {
       "id": "321a3dd0888a",
