@@ -1,7 +1,77 @@
 {
-  "updated": "2026-04-30T08:39:54.075117+00:00",
-  "count": 42,
+  "updated": "2026-04-30T10:56:50.629731+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "4bc2e947c1c3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 27.0,
+      "lat": 18.239,
+      "lon": -94.90525,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 27, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 27, dirección La Tin",
+      "link": "https://nitter.net/CAPUFE/status/2049797363011658118#m",
+      "date": "2026-04-30T10:25:49+00:00"
+    },
+    {
+      "id": "37bbc4dfa763",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 191.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 191, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCUL",
+      "link": "https://nitter.net/CAPUFE/status/2049795758996459734#m",
+      "date": "2026-04-30T10:19:26+00:00"
+    },
+    {
+      "id": "3783951553ec",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 57.0,
+      "lat": 18.1711,
+      "lon": -94.6222,
+      "resolved": true,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 57, dirección La Tinaja. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. En la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo d",
+      "link": "https://nitter.net/CAPUFE/status/2049795109600804929#m",
+      "date": "2026-04-30T10:16:52+00:00"
+    },
+    {
+      "id": "9f6eb6b1e97a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 159.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 159, dirección Mazatlán. Continúa reducción de carriles por atención de accidente (choque contra barrera metálica y desenganche de remolque). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Dura",
+      "link": "https://nitter.net/CAPUFE/status/2049789515972084168#m",
+      "date": "2026-04-30T09:54:38+00:00"
+    },
+    {
+      "id": "8e228c6ed8b8",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 191.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 191, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéx",
+      "link": "https://nitter.net/CAPUFE/status/2049772974232793195#m",
+      "date": "2026-04-30T08:48:54+00:00"
+    },
     {
       "id": "90c2033fb2b9",
       "account": "@capufe",
@@ -101,7 +171,7 @@
       "date": "2026-04-30T06:36:32+00:00"
     },
     {
-      "id": "9b08ec3c1e7e",
+      "id": "5d2fce6e1bce",
       "account": "@capufe",
       "type": "roadwork",
       "highway": "La Tinaja–Cosoleacaque",
@@ -110,7 +180,7 @@
       "lat": 18.1711,
       "lon": -94.6222,
       "resolved": true,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 57, dirección La Tinaja. Se informa a las personas usuarias que se restablece la circulación de manera intermitente. El personal continúa realizando las maniobras de grúa para el retiro de las unidades siniestradas. En la z",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 57, dirección La Tinaja. Se informa a las personas usuarias que se restablece la circulación de manera intermitente. El personal continúa realizando las maniobras de grúa para el retiro de las unidades siniestradas. E",
       "link": "https://nitter.net/CAPUFE/status/2049736897526628697#m",
       "date": "2026-04-30T06:25:33+00:00"
     },
@@ -297,62 +367,6 @@
       "date": "2026-04-30T03:37:20+00:00"
     },
     {
-      "id": "7bae559db416",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 12. Continúa la circulación intermitente en ambos sentidos. El personal se encuentra realizando labores de limpieza. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 12. Cont",
-      "link": "https://nitter.net/CAPUFE/status/2049689564688609714#m",
-      "date": "2026-04-30T03:17:28+00:00"
-    },
-    {
-      "id": "5f6347637387",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 91.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 91, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra circulación lenta. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla , km 91, dirección CDMX. Reducc",
-      "link": "https://nitter.net/CAPUFE/status/2049687482350882985#m",
-      "date": "2026-04-30T03:09:11+00:00"
-    },
-    {
-      "id": "43159f1c8819",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 20, dirección La Pera. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 20, dirección La Pera. Reducción ",
-      "link": "https://nitter.net/CAPUFE/status/2049684601316987247#m",
-      "date": "2026-04-30T02:57:44+00:00"
-    },
-    {
-      "id": "f3985df1d1f0",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 186.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Carretera Poza Rica - Tampico, Plaza de Cobro Puente Tampico, km 186. Se informa a las personas usuarias que se retiran los manifestantes, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Maneja con",
-      "link": "https://nitter.net/CAPUFE/status/2049683326059921551#m",
-      "date": "2026-04-30T02:52:40+00:00"
-    },
-    {
       "id": "44e573ab19ff",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -395,20 +409,6 @@
       "date": "2026-04-30T02:02:06+00:00"
     },
     {
-      "id": "a78b561b1a81",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 203.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Carbonera - Puerto México, km 203, dirección Puerto México. Se informa a las personas usuarias que el accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣. ☑",
-      "link": "https://nitter.net/CAPUFE/status/2049668686718353807#m",
-      "date": "2026-04-30T01:54:30+00:00"
-    },
-    {
       "id": "0ad1c4f8605c",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -421,20 +421,6 @@
       "text": "#TomePrecauciones en #Tlaxcala se registra cierre total de circulación por presencia de personas cerca del km 017+000, de la carretera Puebla-Santa Ana a la altura del Mpio. Mazatecochco. Se orienta a la ciudadanía #rutaalterna carretera Puebla-Tlaxcala. Atienda indicación vial. ",
       "link": "https://nitter.net/GN_Carreteras/status/2049650989544681664#m",
       "date": "2026-04-30T00:44:11+00:00"
-    },
-    {
-      "id": "1bca03b68662",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 57.0,
-      "lat": 18.1711,
-      "lon": -94.6222,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 57, dirección La Tinaja. Registra reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y autobús. En la zona se registra derrame de diésel. Maneja con precaución. Consulta la ubica",
-      "link": "https://nitter.net/CAPUFE/status/2049642548168466909#m",
-      "date": "2026-04-30T00:10:38+00:00"
     },
     {
       "id": "058f4786c270",
@@ -477,20 +463,6 @@
       "text": "#ViaLibre en #Veracruz tras #Vehiculoincendiado por falla mecánica cerca del km 002+500, de la carretera ent. La Tinaja - Cosoleacaque. Maneje con precaución. #ViaLibre en #Veracruz tras #Vehiculoincendiado por falla mecánica cerca del km 002+500, de la carretera ent. La Tinaja -",
       "link": "https://nitter.net/GN_Carreteras/status/2049625434174771469#m",
       "date": "2026-04-29T23:02:38+00:00"
-    },
-    {
-      "id": "5019aa121d99",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 203.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 203, dirección Puerto México. Cierre a la circulación por atención de choque por alcance entre tracto camión y automóvil. La Plaza de Cobro Los Chorros permanecerá cerrada en dirección La Carbonera, para el acce",
-      "link": "https://nitter.net/CAPUFE/status/2049615998102257957#m",
-      "date": "2026-04-29T22:25:08+00:00"
     },
     {
       "id": "5bbcbaacf893",
@@ -575,20 +547,6 @@
       "text": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación tras presencia de personas cerca del km 184+300, de la carretera Huajuapan de León - Oaxaca a la altura del Mpio. San Pablo Etla. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre total de",
       "link": "https://nitter.net/GN_Carreteras/status/2049548578172080540#m",
       "date": "2026-04-29T17:57:14+00:00"
-    },
-    {
-      "id": "587621814267",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 186.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Poza Rica - Tampico, Plaza de Cobro Puente Tampico, km 186. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/FtfCrJcMs4GkD68f7 🔴 CIERRE DE CIRCU",
-      "link": "https://nitter.net/CAPUFE/status/2049525866158330073#m",
-      "date": "2026-04-29T16:26:59+00:00"
     }
   ]
 }
