@@ -1,7 +1,77 @@
 {
-  "updated": "2026-04-30T10:56:50.629731+00:00",
-  "count": 39,
+  "updated": "2026-04-30T12:17:34.901162+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "38645ee71c4d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 49.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Agua Dulce - Cárdenas, km 49, dirección Agua Dulce. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Agua Dulce - Cárdenas, km 49, dirección Agua D",
+      "link": "https://nitter.net/CAPUFE/status/2049824105000505570#m",
+      "date": "2026-04-30T12:12:05+00:00"
+    },
+    {
+      "id": "716bb45b19b3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 57.0,
+      "lat": 18.1711,
+      "lon": -94.6222,
+      "resolved": true,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 57, dirección La Tinaja. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 R",
+      "link": "https://nitter.net/CAPUFE/status/2049822180758720706#m",
+      "date": "2026-04-30T12:04:26+00:00"
+    },
+    {
+      "id": "b66007d556e2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 159.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 159, dirección Mazatlán. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 159, dirección Mazatlán. El",
+      "link": "https://nitter.net/CAPUFE/status/2049818885973516387#m",
+      "date": "2026-04-30T11:51:20+00:00"
+    },
+    {
+      "id": "a4bcc0318884",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 49.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Agua Dulce - Cárdenas, km 49, dirección Agua Dulce. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (labores de limpieza). En la zona se registra carga vehicular. Manej",
+      "link": "https://nitter.net/CAPUFE/status/2049811042415341816#m",
+      "date": "2026-04-30T11:20:10+00:00"
+    },
+    {
+      "id": "9c77eceac14b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 191.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 191, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 191, dirección Querétaro. El accidente ha s",
+      "link": "https://nitter.net/CAPUFE/status/2049809296188232031#m",
+      "date": "2026-04-30T11:13:14+00:00"
+    },
     {
       "id": "4bc2e947c1c3",
       "account": "@capufe",
@@ -199,20 +269,6 @@
       "date": "2026-04-30T06:11:52+00:00"
     },
     {
-      "id": "9d18bc645107",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 93, dirección Acapulco. Reducción de carriles por atención de accidente (caída de motociclista y choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 93, dirección Aca",
-      "link": "https://nitter.net/CAPUFE/status/2049732911444705380#m",
-      "date": "2026-04-30T06:09:42+00:00"
-    },
-    {
       "id": "88cbb9997434",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -225,34 +281,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 009+000, de la carretera Córdoba- Boticaria. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km ",
       "link": "https://nitter.net/GN_Carreteras/status/2049731996121756152#m",
       "date": "2026-04-30T06:06:04+00:00"
-    },
-    {
-      "id": "edcc24872491",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 159.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 159, dirección Mazatlán. Continúa la reducción de carriles por atención de accidente (choque contra barrera metálica y desenganche de remolque). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista D",
-      "link": "https://nitter.net/CAPUFE/status/2049715094884344072#m",
-      "date": "2026-04-30T04:58:55+00:00"
-    },
-    {
-      "id": "f357ddd62e56",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 203.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Carbonera - Puerto México, km 203, dirección Puerto México. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCUL",
-      "link": "https://nitter.net/CAPUFE/status/2049713920282087670#m",
-      "date": "2026-04-30T04:54:15+00:00"
     },
     {
       "id": "001a14f27d58",
@@ -269,20 +297,6 @@
       "date": "2026-04-30T04:47:28+00:00"
     },
     {
-      "id": "d9f33afb301a",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 186.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 Carretera Poza Rica - Tampico, Plaza de Cobro Puente Tampico, km 186. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 SE RETIRAN MANIFEST",
-      "link": "https://nitter.net/CAPUFE/status/2049706792377053589#m",
-      "date": "2026-04-30T04:25:55+00:00"
-    },
-    {
       "id": "ef48342d90ba",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -295,20 +309,6 @@
       "text": "#ViaLibre en #Veracruz tras presencia de personas cerca del km 188+100, de la carretera Tuxpan - Tampico. Maneje con precaución. #ViaLibre en #Veracruz tras presencia de personas cerca del km 188+100, de la carretera Tuxpan - Tampico. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2049706453078852043#m",
       "date": "2026-04-30T04:24:34+00:00"
-    },
-    {
-      "id": "b894f71e0667",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 20, dirección La Pera. Continúa la reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 20, dirección La Pera",
-      "link": "https://nitter.net/CAPUFE/status/2049703616378740861#m",
-      "date": "2026-04-30T04:13:18+00:00"
     },
     {
       "id": "fb6558c7d886",
@@ -325,20 +325,6 @@
       "date": "2026-04-30T03:48:26+00:00"
     },
     {
-      "id": "165a1f8adb67",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 12. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 12. El accidente ha sido atendid",
-      "link": "https://nitter.net/CAPUFE/status/2049696832305893449#m",
-      "date": "2026-04-30T03:46:21+00:00"
-    },
-    {
       "id": "d175daae3db5",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -351,20 +337,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 129+500, de la carretera Paso del toro - Acayucan. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca d",
       "link": "https://nitter.net/GN_Carreteras/status/2049696552873042263#m",
       "date": "2026-04-30T03:45:14+00:00"
-    },
-    {
-      "id": "b46c20bcb72b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 159.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 159, dirección Mazatlán. Reducción de carriles por atención de accidente (choque contra barrera metálica y desenganche de remolque). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Maz",
-      "link": "https://nitter.net/CAPUFE/status/2049694564198273077#m",
-      "date": "2026-04-30T03:37:20+00:00"
     },
     {
       "id": "44e573ab19ff",
