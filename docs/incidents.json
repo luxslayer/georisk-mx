@@ -1,7 +1,133 @@
 {
-  "updated": "2026-05-01T19:15:33.335669+00:00",
-  "count": 32,
+  "updated": "2026-05-01T20:27:50.867523+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "88a922eac631",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56. Registra carga vehicular en ambos sentidos a la altura de la salida al Poblado de Jorobas, por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56. Registra carga vehicular en ambos sentidos a ",
+      "link": "https://nitter.net/CAPUFE/status/2050310988826546349#m",
+      "date": "2026-05-01T20:26:47+00:00"
+    },
+    {
+      "id": "11e404e5569f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 37.0,
+      "lat": 18.11372,
+      "lon": -94.70144,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 37, dirección Cosoleacaque. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 37, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2050307369611952286#m",
+      "date": "2026-05-01T20:12:24+00:00"
+    },
+    {
+      "id": "4655d2effd41",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 38.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 38, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance múltiple). En la zona se registra carga vehicular intensa. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoC",
+      "link": "https://nitter.net/CAPUFE/status/2050305873226924297#m",
+      "date": "2026-05-01T20:06:27+00:00"
+    },
+    {
+      "id": "6ac30731f23b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 37.0,
+      "lat": 18.11372,
+      "lon": -94.70144,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acayucan - Cosoleacaque, km 37, dirección Cosoleacaque. Cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULAC",
+      "link": "https://nitter.net/CAPUFE/status/2050301301137834398#m",
+      "date": "2026-05-01T19:48:17+00:00"
+    },
+    {
+      "id": "93f690e07e9f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 219.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 219. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 219. El accidente ha sido atend",
+      "link": "https://nitter.net/CAPUFE/status/2050300982156759250#m",
+      "date": "2026-05-01T19:47:01+00:00"
+    },
+    {
+      "id": "4bb879f734b1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 140.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 140, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIE",
+      "link": "https://nitter.net/CAPUFE/status/2050296988353065243#m",
+      "date": "2026-05-01T19:31:09+00:00"
+    },
+    {
+      "id": "4ac357ff3a6f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 197.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 197, dirección Acatzingo. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙",
+      "link": "https://nitter.net/CAPUFE/status/2050296677454488008#m",
+      "date": "2026-05-01T19:29:55+00:00"
+    },
+    {
+      "id": "842184c85478",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 214.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 214, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN ",
+      "link": "https://nitter.net/CAPUFE/status/2050293761071038916#m",
+      "date": "2026-05-01T19:18:19+00:00"
+    },
+    {
+      "id": "84e44bad2187",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 287.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 287+800 de la carretera Chilpancingo – Acapulco. Atienda indicación vial. #Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del",
+      "link": "https://nitter.net/GN_Carreteras/status/2050293354819199223#m",
+      "date": "2026-05-01T19:16:43+00:00"
+    },
     {
       "id": "5ab67761e836",
       "account": "@capufe",
@@ -15,20 +141,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 37, dirección Cosoleacaque. Reducción de carriles por atención de accidente (choque por alcance y salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque",
       "link": "https://nitter.net/CAPUFE/status/2050291481886265718#m",
       "date": "2026-05-01T19:09:16+00:00"
-    },
-    {
-      "id": "d4f949850353",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 214.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 214, dirección Acatzingo. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 ",
-      "link": "https://nitter.net/CAPUFE/status/2050290649950208188#m",
-      "date": "2026-05-01T19:05:58+00:00"
     },
     {
       "id": "c0cb7b48402e",
@@ -73,7 +185,7 @@
       "date": "2026-05-01T18:35:32+00:00"
     },
     {
-      "id": "f709c8837f61",
+      "id": "db9445f3f55a",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -82,23 +194,9 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 140, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. En la zona se registra carga vehicular intensa. Toma tus precauciones. Para más información llama ",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 140, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. En la zona se registra carga vehicular intensa. Toma tus precauciones. Para más información ",
       "link": "https://nitter.net/CAPUFE/status/2050282980514431132#m",
       "date": "2026-05-01T18:35:29+00:00"
-    },
-    {
-      "id": "f194a0817d49",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 214.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 214, dirección Cd. Mendoza. Continúa reducción de carriles por atención de accidente (choque de costado y volcadura). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza",
-      "link": "https://nitter.net/CAPUFE/status/2050282692734788037#m",
-      "date": "2026-05-01T18:34:21+00:00"
     },
     {
       "id": "731f0f19cd52",
@@ -113,34 +211,6 @@
       "text": "#ViaLibre en #Nayarit tras #AccidenteVial cerca del Km 131+600 de la carretera Guadalajara - Tepic. Maneje con precaución. #ViaLibre en #Nayarit tras #AccidenteVial cerca del Km 131+600 de la carretera Guadalajara - Tepic. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2050282276391444610#m",
       "date": "2026-05-01T18:32:41+00:00"
-    },
-    {
-      "id": "f43cefb60e49",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 287.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 287, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 287, dirección Acapul",
-      "link": "https://nitter.net/CAPUFE/status/2050281484020273615#m",
-      "date": "2026-05-01T18:29:32+00:00"
-    },
-    {
-      "id": "022db82ed26b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 55.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 55, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance múltiple). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 55, dirección Querétaro. Reducción d",
-      "link": "https://nitter.net/CAPUFE/status/2050281242721996879#m",
-      "date": "2026-05-01T18:28:35+00:00"
     },
     {
       "id": "8466f8376a84",
@@ -171,48 +241,6 @@
       "date": "2026-05-01T18:24:45+00:00"
     },
     {
-      "id": "f407af3cf412",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 172.0,
-      "lat": 16.906285,
-      "lon": -99.812275,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 172, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 172, dirección Acapul",
-      "link": "https://nitter.net/CAPUFE/status/2050278159489151085#m",
-      "date": "2026-05-01T18:16:20+00:00"
-    },
-    {
-      "id": "d50b142e91e2",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 56.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga vehicu",
-      "link": "https://nitter.net/CAPUFE/status/2050275832149533084#m",
-      "date": "2026-05-01T18:07:05+00:00"
-    },
-    {
-      "id": "62ac8b8ccdac",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 197.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 197, dirección Acatzingo. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa pata el retiro de la unidad siniestrada. Toma tus precauciones. Para más información ll",
-      "link": "https://nitter.net/CAPUFE/status/2050273851393597750#m",
-      "date": "2026-05-01T17:59:13+00:00"
-    },
-    {
       "id": "d6aa2c755998",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -239,6 +267,20 @@
       "text": "#Tomeprecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del Km 325+100 de la carretera Pinotepa Nacional - Salina Cruz. Atienda indicación vial. #Tomeprecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca",
       "link": "https://nitter.net/GN_Carreteras/status/2050251600220819803#m",
       "date": "2026-05-01T16:30:47+00:00"
+    },
+    {
+      "id": "a5e464d738ca",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 197.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 197, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 197, direcció",
+      "link": "https://nitter.net/CAPUFE/status/2050245393443619084#m",
+      "date": "2026-05-01T16:06:08+00:00"
     },
     {
       "id": "ed2e8daed461",
@@ -295,6 +337,20 @@
       "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 166+300 , de la carretera Tula-Ciudad Victoria, a la altura del Mpio. de Cd. Victoria, Tamps. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre pa",
       "link": "https://nitter.net/GN_Carreteras/status/2050204164450316492#m",
       "date": "2026-05-01T13:22:18+00:00"
+    },
+    {
+      "id": "17895994bac2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 140.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 140, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.",
+      "link": "https://nitter.net/CAPUFE/status/2050185390716236197#m",
+      "date": "2026-05-01T12:07:42+00:00"
     },
     {
       "id": "38b60f27ce68",
@@ -435,20 +491,6 @@
       "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 150+200, de la carretera San Luis Potosí - Lagos de Moreno. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial ",
       "link": "https://nitter.net/GN_Carreteras/status/2049977513317638498#m",
       "date": "2026-04-30T22:21:40+00:00"
-    },
-    {
-      "id": "fc500a1db0a1",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "Coatza–Salina Cruz",
-      "route_key": "coatzacoalcos-salinaCruz",
-      "km": 261.0,
-      "lat": 16.16,
-      "lon": -95.2,
-      "resolved": true,
-      "text": "#ViaLibre en #Oaxaca tras presencia de personas cerca del km 261+100, de la carretera Coatzacoalcos - Salína Cruz, Oax. Maneje con precaución. #ViaLibre en #Oaxaca tras presencia de personas cerca del km 261+100, de la carretera Coatzacoalcos - Salína Cruz, Oax. Maneje con precau",
-      "link": "https://nitter.net/GN_Carreteras/status/2049974920772227503#m",
-      "date": "2026-04-30T22:11:22+00:00"
     }
   ]
 }
