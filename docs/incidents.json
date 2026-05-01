@@ -1,7 +1,77 @@
 {
-  "updated": "2026-05-01T07:13:18.804587+00:00",
-  "count": 38,
+  "updated": "2026-05-01T09:16:14.577239+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "f0b7c24a7baf",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 173.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 173, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 173, dirección CDMX. El accidente ha sido atend",
+      "link": "https://nitter.net/CAPUFE/status/2050135107067916342#m",
+      "date": "2026-05-01T08:47:53+00:00"
+    },
+    {
+      "id": "b837da799bc9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 22.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 22, dirección Durango. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 22, dirección Durango. El ac",
+      "link": "https://nitter.net/CAPUFE/status/2050125726616072197#m",
+      "date": "2026-05-01T08:10:37+00:00"
+    },
+    {
+      "id": "1ff336d3bdb6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 67.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Agua Dulce - Cárdenas, km 67, dirección Cárdenas. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Auto",
+      "link": "https://nitter.net/CAPUFE/status/2050116333728149857#m",
+      "date": "2026-05-01T07:33:17+00:00"
+    },
+    {
+      "id": "7997d6bfc656",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 28.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Queretaro tras cierre parcial de circulación en ambos sentidos por #AccidenteVial cerca del km 028+000 , de la carretera macrolibramiento-queretaro. Maneje con precaucion. #ViaLibre en #Queretaro tras cierre parcial de circulación en ambos sentidos por #AccidenteVia",
+      "link": "https://nitter.net/GN_Carreteras/status/2050115546528514069#m",
+      "date": "2026-05-01T07:30:10+00:00"
+    },
+    {
+      "id": "148be625f423",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 34.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Queretaro se registra cierre parcial de circulación por #AccidenteVial cerca del km 034+500 , de la carretera macrolibramiento con direccion a mexico. Atienda indicación vial. #TomePrecauciones en #Queretaro se registra cierre parcial de circulación por #Acc",
+      "link": "https://nitter.net/GN_Carreteras/status/2050111663416782997#m",
+      "date": "2026-05-01T07:14:44+00:00"
+    },
     {
       "id": "2d7003b29b13",
       "account": "@capufe",
@@ -129,7 +199,7 @@
       "date": "2026-05-01T04:23:21+00:00"
     },
     {
-      "id": "68a2d868e160",
+      "id": "26847258ec85",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -138,7 +208,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Champotón - Campeche, km 168. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 A",
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Champotón - Campeche, km 168. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista",
       "link": "https://nitter.net/CAPUFE/status/2050068290630803650#m",
       "date": "2026-05-01T04:22:23+00:00"
     },
@@ -225,62 +295,6 @@
       "text": "#ViaLibre en #Puebla tras presencia de personas cerca del km 004+000, de la carretera Teziutlán - Nautla, Pue. Atienda indicación vial. #ViaLibre en #Puebla tras presencia de personas cerca del km 004+000, de la carretera Teziutlán - Nautla, Pue. Atienda indicación vial.",
       "link": "https://nitter.net/GN_Carreteras/status/2050050225889214508#m",
       "date": "2026-05-01T03:10:36+00:00"
-    },
-    {
-      "id": "4eebf6e42240",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 #AVISO a las personas usuarias de la autopista #MéxicoPuebla 🚧 Se realizarán trabajos de mantenimiento del km 17+900 al 30+000. ⚠️ Habrá cierres parciales en carriles de alta. Tome sus precauciones. 🚧 #AVISO a las personas usuarias de la autopista #MéxicoPuebla 🚧 Se realizarán ",
-      "link": "https://nitter.net/CAPUFE/status/2050049141687075085#m",
-      "date": "2026-05-01T03:06:18+00:00"
-    },
-    {
-      "id": "e0afc54eae34",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 39.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 39, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 39, dirección CDMX. El accidente ha sido atendido. Tram",
-      "link": "https://nitter.net/CAPUFE/status/2050048665897902332#m",
-      "date": "2026-05-01T03:04:24+00:00"
-    },
-    {
-      "id": "d18df70773f1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 240.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 240, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 240, dirección A",
-      "link": "https://nitter.net/CAPUFE/status/2050047796867379514#m",
-      "date": "2026-05-01T03:00:57+00:00"
-    },
-    {
-      "id": "b150ea09ad8e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 238.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 238, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Aca",
-      "link": "https://nitter.net/CAPUFE/status/2050046673305620664#m",
-      "date": "2026-05-01T02:56:29+00:00"
     },
     {
       "id": "88cb5f2ae2d1",
@@ -505,34 +519,6 @@
       "text": "#TomePrecauciones en #Chiapas se registra cierre total de circulación tras presencia de personas cerca del km 016+100, de la carretera Ramal-Puerto Arista, a la altura de la Localidad La Lomita, Mpio. Tonalá, Chis. Atienda indicación vial. #TomePrecauciones en #Chiapas se registr",
       "link": "https://nitter.net/GN_Carreteras/status/2049913484649865259#m",
       "date": "2026-04-30T18:07:14+00:00"
-    },
-    {
-      "id": "6e4f54c26862",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 35.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Guerrero tras presencia de personas cerca del km 035+100, de la carretera Las Cruces - Pinotepa Nacional a la altura del entronque del Poblado de Tejoruco, Gro. Maneje con precaución. #ViaLibre en #Guerrero tras presencia de personas cerca del km 035+100, de la carr",
-      "link": "https://nitter.net/GN_Carreteras/status/2049900308965294452#m",
-      "date": "2026-04-30T17:14:53+00:00"
-    },
-    {
-      "id": "bcf88353943e",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 35.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guerrero se registra cierre total de circulación tras presencia de personas cerca del km 035+100, de la carretera Las Cruces - Pinotepa Nacional a la altura del entronque del Poblado de Tejoruco, Gro. Atienda indicación vial. #TomePrecauciones en #Guerrero s",
-      "link": "https://nitter.net/GN_Carreteras/status/2049869601937191191#m",
-      "date": "2026-04-30T15:12:52+00:00"
     }
   ]
 }
