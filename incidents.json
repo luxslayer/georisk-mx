@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-01T22:26:57.379669+00:00",
+  "updated": "2026-05-01T23:28:49.299175+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "097cf29edaec",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 86.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Las Choapas - Ocozocoautla, km 86. Circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓ",
+      "link": "https://nitter.net/CAPUFE/status/2050352428646555861#m",
+      "date": "2026-05-01T23:11:27+00:00"
+    },
+    {
+      "id": "b9652f939c16",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 92.0,
+      "lat": 29.5652,
+      "lon": -106.3592,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 092+800 de la carretera Cd. Valles -Tampico. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km ",
+      "link": "https://nitter.net/GN_Carreteras/status/2050347616353870203#m",
+      "date": "2026-05-01T22:52:20+00:00"
+    },
     {
       "id": "5c669b18f7ba",
       "account": "@capufe",
@@ -169,20 +197,6 @@
       "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 55, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 55, dirección Querétaro. El accidente ha sido atendido. En la zona se re",
       "link": "https://nitter.net/CAPUFE/status/2050313481048502532#m",
       "date": "2026-05-01T20:36:41+00:00"
-    },
-    {
-      "id": "88a922eac631",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 56.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56. Registra carga vehicular en ambos sentidos a la altura de la salida al Poblado de Jorobas, por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56. Registra carga vehicular en ambos sentidos a ",
-      "link": "https://nitter.net/CAPUFE/status/2050310988826546349#m",
-      "date": "2026-05-01T20:26:47+00:00"
     },
     {
       "id": "84e44bad2187",
@@ -449,20 +463,6 @@
       "text": "#ViaLibre en #Chiapas tras presencia de personas cerca del km 016+100, de la carretera Ramal-Puerto Arista a la altura de la Localidad La Lomita, Mpio. Tonalá, Chis. Maneje con precaución. #ViaLibre en #Chiapas tras presencia de personas cerca del km 016+100, de la carretera Rama",
       "link": "https://nitter.net/GN_Carreteras/status/2049983019620987338#m",
       "date": "2026-04-30T22:43:33+00:00"
-    },
-    {
-      "id": "71a184f29391",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Veracruz",
-      "route_key": "puebla-veracruz",
-      "km": 150.0,
-      "lat": 19.173,
-      "lon": -96.134,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 150+200, de la carretera San Luis Potosí - Lagos de Moreno. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial ",
-      "link": "https://nitter.net/GN_Carreteras/status/2049977513317638498#m",
-      "date": "2026-04-30T22:21:40+00:00"
     }
   ]
 }
