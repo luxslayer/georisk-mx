@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-01T12:00:10.647593+00:00",
-  "count": 36,
+  "updated": "2026-05-01T13:48:46.722093+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "5300b63ef245",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 84.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 84, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 84, direc",
+      "link": "https://nitter.net/CAPUFE/status/2050207538721743339#m",
+      "date": "2026-05-01T13:35:42+00:00"
+    },
+    {
+      "id": "63c52f0cbe86",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 47.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guanajuato se registra cierre total de circulación con direccion a celaya por #AccidenteVial cerca del km 047+100 , de la carretera Queretaro-Leon, a la altura del Mpio. Apaseo El Alto, Gto. Atienda indicación vial. #TomePrecauciones en #Guanajuato se regist",
+      "link": "https://nitter.net/GN_Carreteras/status/2050206778776805572#m",
+      "date": "2026-05-01T13:32:41+00:00"
+    },
+    {
+      "id": "f7c749bf3562",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 166.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 166+300 , de la carretera Tula-Ciudad Victoria, a la altura del Mpio. de Cd. Victoria, Tamps. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre pa",
+      "link": "https://nitter.net/GN_Carreteras/status/2050204164450316492#m",
+      "date": "2026-05-01T13:22:18+00:00"
+    },
+    {
+      "id": "aff00d1893dd",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 140.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 140, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.",
+      "link": "https://nitter.net/CAPUFE/status/2050185390716236197#m",
+      "date": "2026-05-01T12:07:42+00:00"
+    },
     {
       "id": "81b6c6bb7306",
       "account": "@capufe",
@@ -143,20 +199,6 @@
       "date": "2026-05-01T07:33:17+00:00"
     },
     {
-      "id": "7997d6bfc656",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 28.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Queretaro tras cierre parcial de circulación en ambos sentidos por #AccidenteVial cerca del km 028+000 , de la carretera macrolibramiento-queretaro. Maneje con precaucion. #ViaLibre en #Queretaro tras cierre parcial de circulación en ambos sentidos por #AccidenteVia",
-      "link": "https://nitter.net/GN_Carreteras/status/2050115546528514069#m",
-      "date": "2026-05-01T07:30:10+00:00"
-    },
-    {
       "id": "148be625f423",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -185,48 +227,6 @@
       "date": "2026-05-01T06:15:36+00:00"
     },
     {
-      "id": "6ad1dd9d1a56",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 238.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 238, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 238, direcció",
-      "link": "https://nitter.net/CAPUFE/status/2050090133425189101#m",
-      "date": "2026-05-01T05:49:11+00:00"
-    },
-    {
-      "id": "13f40b07d7ba",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 173.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 173, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 173, dirección CDMX. El accidente ha sido atendido. En la zona se re",
-      "link": "https://nitter.net/CAPUFE/status/2050087076528267370#m",
-      "date": "2026-05-01T05:37:02+00:00"
-    },
-    {
-      "id": "dca321b3879f",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 173.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 173, dirección CDMX. Continúa reducción de carriles por atención de incidente (automóvil con falla mecánica). En la zona se registra carga vehicular intensa. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéx",
-      "link": "https://nitter.net/CAPUFE/status/2050086718682878058#m",
-      "date": "2026-05-01T05:35:37+00:00"
-    },
-    {
       "id": "774eb18e4620",
       "account": "@GN_carreteras",
       "type": "alert",
@@ -239,48 +239,6 @@
       "text": "#TomePrecaución en #Chiapas se registra #Movimiento de personas de la Caravana Dios bendice, cerca del km 196+000 de la carretera Tapanatepec - Talismán con ramales a Unión Juárez y Cd. Hidalgo, reanudan su marcha, con dirección a Arriaga, Chis. Atienda Indicación Vial. #TomePrec",
       "link": "https://nitter.net/GN_Carreteras/status/2050085850931724315#m",
       "date": "2026-05-01T05:32:10+00:00"
-    },
-    {
-      "id": "987db2932331",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 168.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Champotón - Campeche, km 168, dirección Champotón. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Dirección Campeche, opera de manera normal. Toma tus precauciones. Para más información ll",
-      "link": "https://nitter.net/CAPUFE/status/2050085286688723118#m",
-      "date": "2026-05-01T05:29:55+00:00"
-    },
-    {
-      "id": "0324f6254716",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 2.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Ciudad Valles - Tamuín, km 2. Registra circulación intermitente en ambos sentidos por atención de accidente (choque de costado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Ciudad Valles - Tamuín, km 2. Regist",
-      "link": "https://nitter.net/CAPUFE/status/2050078299808813308#m",
-      "date": "2026-05-01T05:02:09+00:00"
-    },
-    {
-      "id": "c2643802c91d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 238.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 238, dirección Cd. Mendoza. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 238, dirección Cd. Mendoza. El accidente h",
-      "link": "https://nitter.net/CAPUFE/status/2050069410291867786#m",
-      "date": "2026-05-01T04:26:50+00:00"
     },
     {
       "id": "7a52f26e8712",
@@ -491,20 +449,6 @@
       "text": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación tras presencia de personas cerca del km 261+100, de la carretera Coatzacoalcos - Salína Cruz. Se orienta a la ciudadanía #rutaalterna Libramiento la Ventosa - Salina Cruz, Oax. Atienda indicación vial. #TomePrec",
       "link": "https://nitter.net/GN_Carreteras/status/2049932755522162780#m",
       "date": "2026-04-30T19:23:49+00:00"
-    },
-    {
-      "id": "e491be1adca6",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "Teziutlán–Nautla",
-      "route_key": "teziutlan-nautla",
-      "km": 4.0,
-      "lat": 19.8412,
-      "lon": -97.3263,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Puebla se registra cierre total de circulación tras presencia de personas cerca del km 004+000, de la carretera Teziutlán - Nautla. Se orienta a la ciudadanía #rutaalterna Libramiento de Atzalan, Veracruz. Atienda indicación vial. #TomePrecauciones en #Puebl",
-      "link": "https://nitter.net/GN_Carreteras/status/2049929549010395288#m",
-      "date": "2026-04-30T19:11:04+00:00"
     }
   ]
 }
