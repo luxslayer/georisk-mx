@@ -1,7 +1,77 @@
 {
-  "updated": "2026-05-02T13:52:58.559093+00:00",
+  "updated": "2026-05-02T14:50:38.097224+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "9f8df6ddde73",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 25.0,
+      "lat": 18.245,
+      "lon": -94.91375,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 25, dirección Isla. Reducción de carriles por atención de accidente (salida del camino y volcadura). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 25, dirección Isla. Reducc",
+      "link": "https://nitter.net/CAPUFE/status/2050585708369178649#m",
+      "date": "2026-05-02T14:38:25+00:00"
+    },
+    {
+      "id": "58c952af8406",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 185.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Puebla se registra cierre total por #AccidenteVial cerca del km 185+500 de la carretera El Seco-Azumbilla, con dirección a Azumbilla, Pue. Atienda Indicación Vial. #TomePrecauciones en #Puebla se registra cierre total por #AccidenteVial cerca del km 185+500 ",
+      "link": "https://nitter.net/GN_Carreteras/status/2050583931448131794#m",
+      "date": "2026-05-02T14:31:21+00:00"
+    },
+    {
+      "id": "3c9269da18ec",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 185.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial por #VehículoIncendiado derivado a una falla mecánica, cerca del km 185+500 de la carretera Monterrey - Nvo. Laredo, con dirección a Monterrey. Atienda Indicación Vial. #TomePrecauciones en #Tamaulipas se registra cierre",
+      "link": "https://nitter.net/GN_Carreteras/status/2050582036755157114#m",
+      "date": "2026-05-02T14:23:50+00:00"
+    },
+    {
+      "id": "72f7e87c4c68",
+      "account": "@capufe",
+      "type": "fire",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 205.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 205, dirección Querétaro. Continúa reducción de carriles por atención de incidente (caída de carga y conato de incendio). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 205, dirección Que",
+      "link": "https://nitter.net/CAPUFE/status/2050580138480337114#m",
+      "date": "2026-05-02T14:16:17+00:00"
+    },
+    {
+      "id": "cf8bafc49901",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 11.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial por #AccidenteVial cerca del km 011+500 de la carretera Villahermosa - Francisco Escárcega. Atienda Indicación Vial. #TomePrecauciones en #Tabasco se registra cierre parcial por #AccidenteVial cerca del km 011+500 de la car",
+      "link": "https://nitter.net/GN_Carreteras/status/2050574972590956847#m",
+      "date": "2026-05-02T13:55:45+00:00"
+    },
     {
       "id": "55957bda837c",
       "account": "@capufe",
@@ -227,20 +297,6 @@
       "date": "2026-05-02T03:05:30+00:00"
     },
     {
-      "id": "70619cb7bb4a",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 181.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 181, dirección Acapulco. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 181, dirección Acapul",
-      "link": "https://nitter.net/CAPUFE/status/2050409300682514584#m",
-      "date": "2026-05-02T02:57:26+00:00"
-    },
-    {
       "id": "3218e24628c9",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -253,20 +309,6 @@
       "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 168+600 de la carretera Poza Rica - Veracruz. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km",
       "link": "https://nitter.net/GN_Carreteras/status/2050407517373530566#m",
       "date": "2026-05-02T02:50:21+00:00"
-    },
-    {
-      "id": "c3ef14bde5b4",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 84.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 84, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 84, direc",
-      "link": "https://nitter.net/CAPUFE/status/2050399988081922282#m",
-      "date": "2026-05-02T02:20:26+00:00"
     },
     {
       "id": "bf447ed276cc",
@@ -463,48 +505,6 @@
       "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 166+300 , de la carretera Tula-Ciudad Victoria, a la altura del Mpio. de Cd. Victoria, Tamps. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre pa",
       "link": "https://nitter.net/GN_Carreteras/status/2050204164450316492#m",
       "date": "2026-05-01T13:22:18+00:00"
-    },
-    {
-      "id": "38b60f27ce68",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 34.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Queretaro tras cierre parcial de circulación por #AccidenteVial cerca del km 034+500 , de la carretera Macrolibramiento de Querètaro-Centenario de la Constitución. Maneje con precaucion. #ViaLibre en #Queretaro tras cierre parcial de circulación por #AccidenteVial c",
-      "link": "https://nitter.net/GN_Carreteras/status/2050177684538315181#m",
-      "date": "2026-05-01T11:37:05+00:00"
-    },
-    {
-      "id": "148be625f423",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 34.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Queretaro se registra cierre parcial de circulación por #AccidenteVial cerca del km 034+500 , de la carretera macrolibramiento con direccion a mexico. Atienda indicación vial. #TomePrecauciones en #Queretaro se registra cierre parcial de circulación por #Acc",
-      "link": "https://nitter.net/GN_Carreteras/status/2050111663416782997#m",
-      "date": "2026-05-01T07:14:44+00:00"
-    },
-    {
-      "id": "774eb18e4620",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 196.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecaución en #Chiapas se registra #Movimiento de personas de la Caravana Dios bendice, cerca del km 196+000 de la carretera Tapanatepec - Talismán con ramales a Unión Juárez y Cd. Hidalgo, reanudan su marcha, con dirección a Arriaga, Chis. Atienda Indicación Vial. #TomePrec",
-      "link": "https://nitter.net/GN_Carreteras/status/2050085850931724315#m",
-      "date": "2026-05-01T05:32:10+00:00"
     }
   ]
 }
