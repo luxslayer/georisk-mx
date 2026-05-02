@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-02T20:04:22.077035+00:00",
-  "count": 36,
+  "updated": "2026-05-02T21:08:09.225679+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "b27d54574fae",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 151.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial por #AccidenteVial cerca del km 151+500, de la carretera Tapanatepec - Talismán con Ramales a Unión Juárez y Cd. Hidalgo. Atienda Indicación Vial. #TomePrecauciones en #Chiapas se registra cierre parcial por #AccidenteVial ",
+      "link": "https://nitter.net/GN_Carreteras/status/2050682969455476996#m",
+      "date": "2026-05-02T21:04:54+00:00"
+    },
+    {
+      "id": "a2c0ec4c5c78",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 32.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 32, dirección Veracruz. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. ➡ Dir. Córdoba, se restablece el tránsito",
+      "link": "https://nitter.net/CAPUFE/status/2050681599734301174#m",
+      "date": "2026-05-02T20:59:27+00:00"
+    },
+    {
+      "id": "baf4be800251",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 76.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 76, dirección Irapuato. Cierre a la circulación por atención de choque por alcance entre tracto camiones y automóvil. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/C9Fz5tXoNvNXZ4WYA 🔴 CIERRE",
+      "link": "https://nitter.net/CAPUFE/status/2050677311373029858#m",
+      "date": "2026-05-02T20:42:25+00:00"
+    },
+    {
+      "id": "4e6b7bacceb7",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 22.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial por #AccidenteVial cerca del km 022+200, de la carretera Irapuato - La Piedad. Atienda Indicación Vial. #TomePrecauciones en #Guanajuato se registra cierre parcial por #AccidenteVial cerca del km 022+200, de la carretera",
+      "link": "https://nitter.net/GN_Carreteras/status/2050674055351501064#m",
+      "date": "2026-05-02T20:29:29+00:00"
+    },
     {
       "id": "9aed3c64b59d",
       "account": "@capufe",
@@ -17,7 +73,7 @@
       "date": "2026-05-02T19:48:14+00:00"
     },
     {
-      "id": "9fed66238104",
+      "id": "8db33b36c390",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -26,7 +82,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 32, dirección Veracruz. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóviles. ➡️ Dir. Córdoba, registra reducción de carriles. ➡️ Dir. Veracruz, se desvía el trán",
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 32, dirección Veracruz. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóviles. ➡️ Dir. Córdoba, registra reducción de carriles. ➡️ Dir. Veracruz, se desvía el tránsito veh",
       "link": "https://nitter.net/CAPUFE/status/2050662612845679005#m",
       "date": "2026-05-02T19:44:01+00:00"
     },
@@ -255,48 +311,6 @@
       "date": "2026-05-02T16:54:49+00:00"
     },
     {
-      "id": "b2466a6bbde7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 98.0,
-      "lat": 18.218174,
-      "lon": -99.530466,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Acapulco. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Acapulco. El accidente ha sido atend",
-      "link": "https://nitter.net/CAPUFE/status/2050615485339722032#m",
-      "date": "2026-05-02T16:36:44+00:00"
-    },
-    {
-      "id": "fedf641b0a29",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 24, dirección Puebla. Reducción de carriles centrales por atención de accidente (choque por alcance múltiple). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla ",
-      "link": "https://nitter.net/CAPUFE/status/2050611982672306278#m",
-      "date": "2026-05-02T16:22:49+00:00"
-    },
-    {
-      "id": "852fe5c0c492",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 40.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 40. Reducción de carriles en ambos sentidos por atención de salida del camino y choque lateral entre tracto camión y camioneta. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicació",
-      "link": "https://nitter.net/CAPUFE/status/2050607588455121380#m",
-      "date": "2026-05-02T16:05:22+00:00"
-    },
-    {
       "id": "1425a62569ca",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,34 +491,6 @@
       "text": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 287+800 de la carretera Chilpancingo – Acapulco. Atienda indicación vial. #Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del",
       "link": "https://nitter.net/GN_Carreteras/status/2050293354819199223#m",
       "date": "2026-05-01T19:16:43+00:00"
-    },
-    {
-      "id": "4cf73a5e6661",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Córdoba",
-      "route_key": "puebla-cordoba",
-      "km": 215.0,
-      "lat": 18.884,
-      "lon": -96.923,
-      "resolved": true,
-      "text": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 215+000 de la carretera Puebla - Córdoba. Atienda indicación vial. #Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 215+000",
-      "link": "https://nitter.net/GN_Carreteras/status/2050282993952907276#m",
-      "date": "2026-05-01T18:35:32+00:00"
-    },
-    {
-      "id": "731f0f19cd52",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Gdl–Tepic",
-      "route_key": "guadalajara-tepic",
-      "km": 131.0,
-      "lat": 21.2626,
-      "lon": -104.46,
-      "resolved": true,
-      "text": "#ViaLibre en #Nayarit tras #AccidenteVial cerca del Km 131+600 de la carretera Guadalajara - Tepic. Maneje con precaución. #ViaLibre en #Nayarit tras #AccidenteVial cerca del Km 131+600 de la carretera Guadalajara - Tepic. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2050282276391444610#m",
-      "date": "2026-05-01T18:32:41+00:00"
     }
   ]
 }
