@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-02T07:01:50.456569+00:00",
-  "count": 35,
+  "updated": "2026-05-02T08:49:39.041183+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "c629ce5a98ee",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 170.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 170, dirección Querétaro. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 170, dirección Querétaro. Continú",
+      "link": "https://nitter.net/CAPUFE/status/2050491401394168181#m",
+      "date": "2026-05-02T08:23:41+00:00"
+    },
+    {
+      "id": "4b49d3ce6123",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 132.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 132+500 de la carretera Perote - Banderilla. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km ",
+      "link": "https://nitter.net/GN_Carreteras/status/2050479628968399128#m",
+      "date": "2026-05-02T07:36:54+00:00"
+    },
     {
       "id": "b158af951f14",
       "account": "@capufe",
@@ -477,20 +505,6 @@
       "text": "#ViaLibre en #Puebla tras presencia de personas cerca del km 004+000, de la carretera Teziutlán - Nautla, Pue. Atienda indicación vial. #ViaLibre en #Puebla tras presencia de personas cerca del km 004+000, de la carretera Teziutlán - Nautla, Pue. Atienda indicación vial.",
       "link": "https://nitter.net/GN_Carreteras/status/2050050225889214508#m",
       "date": "2026-05-01T03:10:36+00:00"
-    },
-    {
-      "id": "88cb5f2ae2d1",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 28.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Queretaro tras cierre parcial de circulación por #AccidenteVial cerca del km 028+000 , de la carretera macrolibramiento-queretaro. Maneje con precaucion. #ViaLibre en #Queretaro tras cierre parcial de circulación por #AccidenteVial cerca del km 028+000 , de la carre",
-      "link": "https://nitter.net/GN_Carreteras/status/2050039178709102659#m",
-      "date": "2026-05-01T02:26:42+00:00"
     }
   ]
 }
