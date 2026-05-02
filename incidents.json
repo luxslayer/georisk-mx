@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-02T12:07:26.983340+00:00",
-  "count": 35,
+  "updated": "2026-05-02T13:52:58.559093+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "55957bda837c",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 22.0,
+      "lat": 18.059467,
+      "lon": -94.8304,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 22, dirección Cosoleacaque. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 2",
+      "link": "https://nitter.net/CAPUFE/status/2050572804136071586#m",
+      "date": "2026-05-02T13:47:08+00:00"
+    },
+    {
+      "id": "9ce43233e5b6",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 98.0,
+      "lat": 18.218174,
+      "lon": -99.530466,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Acapulco. Registra carga vehicular por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Acapulco. Registra carga vehicular por periodo vacacional.",
+      "link": "https://nitter.net/CAPUFE/status/2050571267397562618#m",
+      "date": "2026-05-02T13:41:02+00:00"
+    },
+    {
+      "id": "dfa487ada747",
+      "account": "@GN_carreteras",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 99.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Chiapas se registra #Movimiento de personas, cerca del km 099+000 de la carretera Tapanatepec - Talismán con Ramales a Unión Juárez y Cd. Hidalgo, con dirección a Arriaga, Chis. Atienda Indicación Vial. #TomePrecauciones en #Chiapas se registra #Movimiento d",
+      "link": "https://nitter.net/GN_Carreteras/status/2050567925124280509#m",
+      "date": "2026-05-02T13:27:45+00:00"
+    },
+    {
+      "id": "7e9d73f090af",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 205.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 205, dirección Querétaro. Reducción de carriles por atención de incidente (caída de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 205, dirección Querétaro. Reducción de carriles ",
+      "link": "https://nitter.net/CAPUFE/status/2050565798553403740#m",
+      "date": "2026-05-02T13:19:18+00:00"
+    },
     {
       "id": "b82e6465146f",
       "account": "@capufe",
@@ -213,20 +269,6 @@
       "date": "2026-05-02T02:20:26+00:00"
     },
     {
-      "id": "4ede642f7b00",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 181.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 181, dirección Acapulco. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 181, dir",
-      "link": "https://nitter.net/CAPUFE/status/2050388357532790964#m",
-      "date": "2026-05-02T01:34:13+00:00"
-    },
-    {
       "id": "bf447ed276cc",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,20 +309,6 @@
       "text": "#ViaLibre en #Guanajuato tras #AccidenteVial cerca del km 047+100 , de la carretera Querétaro-Leon, a la altura del municipio de Apaseo El Alto, Gto. Maneje con precaución. #ViaLibre en #Guanajuato tras #AccidenteVial cerca del km 047+100 , de la carretera Querétaro-Leon, a la al",
       "link": "https://nitter.net/GN_Carreteras/status/2050369641646522617#m",
       "date": "2026-05-02T00:19:51+00:00"
-    },
-    {
-      "id": "389433502837",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 214.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 214, dirección Cd. Mendoza. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 214",
-      "link": "https://nitter.net/CAPUFE/status/2050369391326376083#m",
-      "date": "2026-05-02T00:18:51+00:00"
     },
     {
       "id": "b9652f939c16",
@@ -477,20 +505,6 @@
       "text": "#TomePrecaución en #Chiapas se registra #Movimiento de personas de la Caravana Dios bendice, cerca del km 196+000 de la carretera Tapanatepec - Talismán con ramales a Unión Juárez y Cd. Hidalgo, reanudan su marcha, con dirección a Arriaga, Chis. Atienda Indicación Vial. #TomePrec",
       "link": "https://nitter.net/GN_Carreteras/status/2050085850931724315#m",
       "date": "2026-05-01T05:32:10+00:00"
-    },
-    {
-      "id": "7a52f26e8712",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "Teziutlán–Nautla",
-      "route_key": "teziutlan-nautla",
-      "km": 4.0,
-      "lat": 19.8412,
-      "lon": -97.3263,
-      "resolved": true,
-      "text": "#ViaLibre en #Puebla tras presencia de personas cerca del km 004+000, de la carretera Teziutlán - Nautla, Pue. Atienda indicación vial. #ViaLibre en #Puebla tras presencia de personas cerca del km 004+000, de la carretera Teziutlán - Nautla, Pue. Atienda indicación vial.",
-      "link": "https://nitter.net/GN_Carreteras/status/2050050225889214508#m",
-      "date": "2026-05-01T03:10:36+00:00"
     }
   ]
 }
