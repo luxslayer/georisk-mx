@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-03T18:11:16.251448+00:00",
-  "count": 34,
+  "updated": "2026-05-03T19:33:42.069531+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "3a7cb14d5b0b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 10.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del km 010+800, de la carretera Iguala - Ciudad Altamirano, a la altura del poblado Metlapa, Gro. Atienda Indicación Vial. #TomePrecauciones en #Oaxaca se registra cierre parcial de ci",
+      "link": "https://nitter.net/GN_Carreteras/status/2051011898091454504#m",
+      "date": "2026-05-03T18:51:57+00:00"
+    },
+    {
+      "id": "477f7b29a70f",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 96.0,
+      "lat": 18.253631,
+      "lon": -99.522849,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Continúa carga vehicular por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Continúa carga vehicular por periodo vacacio",
+      "link": "https://nitter.net/CAPUFE/status/2051008978092482857#m",
+      "date": "2026-05-03T18:40:20+00:00"
+    },
     {
       "id": "3a07e9080a4a",
       "account": "@capufe",
@@ -197,48 +225,6 @@
       "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Registra carga vehicular por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Registra carga vehicular por periodo vacacio",
       "link": "https://nitter.net/CAPUFE/status/2050963657895346209#m",
       "date": "2026-05-03T15:40:15+00:00"
-    },
-    {
-      "id": "ed3ba27e8fef",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 30.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 30, dirección Irapuato. Continúa reducción de carriles por atención de accidente (salida de neumático de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, k",
-      "link": "https://nitter.net/CAPUFE/status/2050962958742683685#m",
-      "date": "2026-05-03T15:37:29+00:00"
-    },
-    {
-      "id": "74f789da18c9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 146.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 146, dirección Puebla. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acat",
-      "link": "https://nitter.net/CAPUFE/status/2050962717083656433#m",
-      "date": "2026-05-03T15:36:31+00:00"
-    },
-    {
-      "id": "1939fbf5df17",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 232.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Se restablece la circulación con reducción de carriles desde las Plazas de Cobro Los Chorros y Huachichil. El personal continúa laborando en la atención del accidente (labore",
-      "link": "https://nitter.net/CAPUFE/status/2050959544222629891#m",
-      "date": "2026-05-03T15:23:54+00:00"
     },
     {
       "id": "0e964c33b1c8",
@@ -463,20 +449,6 @@
       "text": "#VíaLibre en #Jalisco tras #AccidenteVial cerca del km 123+000, de la carretera San Juan de los Lagos-Lagos de Moreno, con dirección a Lagos de Moreno, Jal. Maneje con precaución. #VíaLibre en #Jalisco tras #AccidenteVial cerca del km 123+000, de la carretera San Juan de los Lago",
       "link": "https://nitter.net/GN_Carreteras/status/2050705523062845895#m",
       "date": "2026-05-02T22:34:31+00:00"
-    },
-    {
-      "id": "ae806d58ee44",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 29.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #VehículoIncendiado derivado a una falla mecánica, cerca del km 029+100, de la carretera Libramiento de Xalapa con dirección a Xalapa, Ver. Atienda Indicación Vial. #TomePrecauciones en #Veracruz se regi",
-      "link": "https://nitter.net/GN_Carreteras/status/2050697082873291144#m",
-      "date": "2026-05-02T22:00:59+00:00"
     }
   ]
 }
