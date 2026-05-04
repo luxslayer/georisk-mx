@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-04T09:03:45.575400+00:00",
-  "count": 31,
+  "updated": "2026-05-04T11:22:17.512276+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "e1b7d9bd1ba8",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 327.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 327+500, de la autopista Chilpancingo- Acapulco. Atienda Indicación Vial. #TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del",
+      "link": "https://nitter.net/GN_Carreteras/status/2051259059429335320#m",
+      "date": "2026-05-04T11:14:04+00:00"
+    },
+    {
+      "id": "d8cd7ff7bc33",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 156.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 156. Registra circulación en contraflujo por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 156. Registra circulación ",
+      "link": "https://nitter.net/CAPUFE/status/2051254098884735441#m",
+      "date": "2026-05-04T10:54:22+00:00"
+    },
+    {
+      "id": "63c092d6942f",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 148.0,
+      "lat": 17.957164,
+      "lon": -94.905855,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 148, dirección Acayucan. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 148, direcc",
+      "link": "https://nitter.net/CAPUFE/status/2051245863557607485#m",
+      "date": "2026-05-04T10:21:38+00:00"
+    },
+    {
+      "id": "ee8f73bb8bc0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 170.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 170, dirección Acatzingo. Cierre a la circulación por atención de accidente (choque contra muro central e incendio de tracto camión). Dirección Cd. Mendoza, registra reducción de carriles. Toma tus precaucion",
+      "link": "https://nitter.net/CAPUFE/status/2051232146895872209#m",
+      "date": "2026-05-04T09:27:08+00:00"
+    },
     {
       "id": "c782fcfc3b13",
       "account": "@capufe",
@@ -157,46 +213,18 @@
       "date": "2026-05-04T05:22:47+00:00"
     },
     {
-      "id": "6c918b7c8a1b",
+      "id": "f10e14418295",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
       "route_key": "unknown",
-      "km": 178.0,
+      "km": 52.0,
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Navojoa - Cd. Obregón, km 178, dirección Navojoa. Continúa reducción de carriles por atención de accidente (maniobras para retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRC",
-      "link": "https://nitter.net/CAPUFE/status/2051168891754164449#m",
-      "date": "2026-05-04T05:15:47+00:00"
-    },
-    {
-      "id": "9bb268197083",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 161.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 161, dirección Acayucan. Reducción de carriles por atención de incidente (ponchadura de neumático). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 161, dirección Acayucan. Redu",
-      "link": "https://nitter.net/CAPUFE/status/2051168117942854123#m",
-      "date": "2026-05-04T05:12:42+00:00"
-    },
-    {
-      "id": "16a255863584",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 17.0,
-      "lat": 18.269,
-      "lon": -94.94775,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 17, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 17, dirección La Tinaja. El ac",
-      "link": "https://nitter.net/CAPUFE/status/2051166687722979632#m",
-      "date": "2026-05-04T05:07:01+00:00"
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 52, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. En la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vial",
+      "link": "https://nitter.net/CAPUFE/status/2051156445299617911#m",
+      "date": "2026-05-04T04:26:19+00:00"
     },
     {
       "id": "b7d7bd8e9914",
@@ -211,6 +239,20 @@
       "text": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del km 173+000, de la carretera Matehuala - Saltillo. Atienda Indicación Vial. #TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del",
       "link": "https://nitter.net/GN_Carreteras/status/2051134591310721467#m",
       "date": "2026-05-04T02:59:29+00:00"
+    },
+    {
+      "id": "af085016b247",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 52.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 52, dirección CDMX. Reducción de carriles por atención de salida del camino de autobús . En la zona se registra carga vehicular y #lluvia. Disminuye tu velocidad y maneja con precaución. Consulta la ubicación aquí: https:/",
+      "link": "https://nitter.net/CAPUFE/status/2051102633826414667#m",
+      "date": "2026-05-04T00:52:30+00:00"
     },
     {
       "id": "07c9fddb3b65",
@@ -421,20 +463,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial por #AccidenteVial cerca del km 173+000, de la carretera Pachuca-Tuxpan, con dirección a Tuxpan, Ver. Atienda Indicación Vial. #TomePrecauciones en #Puebla se registra cierre parcial por #AccidenteVial cerca del km 173+000, ",
       "link": "https://nitter.net/GN_Carreteras/status/2050784647865372868#m",
       "date": "2026-05-03T03:48:56+00:00"
-    },
-    {
-      "id": "920b42ebc9ff",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 093+400, de la carretera Coatzacoalcos- Villahermosa, con dirección a Villahermosa, Tab. Atienda Indicación Vial. #TomePrecauciones en #Tabasco se registra cierre parcial de ci",
-      "link": "https://nitter.net/GN_Carreteras/status/2050763900849648032#m",
-      "date": "2026-05-03T02:26:29+00:00"
     }
   ]
 }
