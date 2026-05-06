@@ -1,7 +1,91 @@
 {
-  "updated": "2026-05-06T22:59:11.351343+00:00",
-  "count": 35,
+  "updated": "2026-05-06T23:58:32.242977+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "a1ef3c1680c9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 53.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Hermosillo - Magdalena, km 53, dirección Hermosillo. Reducción de carriles por atención de accidente (incendio de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Hermosillo - Magdalena, km 53, dirección Hermosillo. ",
+      "link": "https://nitter.net/CAPUFE/status/2052175297592615183#m",
+      "date": "2026-05-06T23:54:53+00:00"
+    },
+    {
+      "id": "9c879e6af226",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 177.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Navojoa - Cd. Obregón, km 177, dirección Navojoa. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Navojoa - Cd. Obregón, km 177, dirección Navojoa",
+      "link": "https://nitter.net/CAPUFE/status/2052174608237732322#m",
+      "date": "2026-05-06T23:52:08+00:00"
+    },
+    {
+      "id": "0d08642aacff",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 15.0,
+      "lat": 19.37065,
+      "lon": -99.2958,
+      "resolved": true,
+      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Libramiento Noreste de Querétaro (Chichimequillas), km 15, dirección San Luis Potosí. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Libramien",
+      "link": "https://nitter.net/CAPUFE/status/2052174203021852870#m",
+      "date": "2026-05-06T23:50:32+00:00"
+    },
+    {
+      "id": "c3aec64066cf",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 021+000, de la carretera San Hipólito-Jalapa. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km 021+000, de la carretera San Hipólito-Jalapa. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2052173805062115504#m",
+      "date": "2026-05-06T23:48:57+00:00"
+    },
+    {
+      "id": "3c5b56e136e7",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 12.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "En #Chiapas continúa cierre parcial de circulación por #Maniobras de arrastre y salvamento, cerca del km 012+500, de la carretera Catazajá - Rancho Nuevo. Atienda indicación Vial. En #Chiapas continúa cierre parcial de circulación por #Maniobras de arrastre y salvamento, cerca de",
+      "link": "https://nitter.net/GN_Carreteras/status/2052173537700368539#m",
+      "date": "2026-05-06T23:47:53+00:00"
+    },
+    {
+      "id": "49f66360f466",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Lib. Sur Qro.",
+      "route_key": "libramiento-queretaro",
+      "km": 40.0,
+      "lat": 20.5408,
+      "lon": -100.334,
+      "resolved": true,
+      "text": "#Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 040+900, de la carretera Ent. Tula - Cd. Victoria. Atienda Indicación Vial. #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 040+900, de la carretera Ent. Tu",
+      "link": "https://nitter.net/GN_Carreteras/status/2052172696163586307#m",
+      "date": "2026-05-06T23:44:32+00:00"
+    },
     {
       "id": "d6fd2de4875a",
       "account": "@GN_carreteras",
@@ -227,20 +311,6 @@
       "date": "2026-05-06T20:54:29+00:00"
     },
     {
-      "id": "afb0b8326c5a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 57.0,
-      "lat": 20.1192,
-      "lon": -99.3956,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 57, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 57, dirección CDMX. El accidente ha sido atendi",
-      "link": "https://nitter.net/CAPUFE/status/2052123398851924277#m",
-      "date": "2026-05-06T20:28:39+00:00"
-    },
-    {
       "id": "1972d205288f",
       "account": "@GN_carreteras",
       "type": "roadwork",
@@ -449,48 +519,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 008+900, de la carretera Coatzacoalcos-Villahermosa, con dirección a Nuevo Teapa, Ver. Atienda Indicación Vial. #TomePrecauciones en #Veracruz se registra cierre parcial de ci",
       "link": "https://nitter.net/GN_Carreteras/status/2052037072240681082#m",
       "date": "2026-05-06T14:45:37+00:00"
-    },
-    {
-      "id": "0615d23d9384",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 83.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 083+700, de la carretera Ent. La Tinaja-Cosoleacaque, con dirección a Coatzacoalcos, Ver. Atienda Indicación Vial. #TomePrecauciones en #Veracruz se registra cierre parcial de",
-      "link": "https://nitter.net/GN_Carreteras/status/2052036318956306819#m",
-      "date": "2026-05-06T14:42:38+00:00"
-    },
-    {
-      "id": "109a5006d27a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 182.0,
-      "lat": 31.20232,
-      "lon": -106.46288,
-      "resolved": true,
-      "text": "#Tomeprecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del km 182+300, de la carretera Cd. Victoria - Monterrey, con dirección a Montemorelos, N.L. Atienda indicación Vial. #Tomeprecauciones en #NuevoLeón se registra cierre parcial de c",
-      "link": "https://nitter.net/GN_Carreteras/status/2052034977143869514#m",
-      "date": "2026-05-06T14:37:18+00:00"
-    },
-    {
-      "id": "b91a81df5be9",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "Lib. Sur Qro.",
-      "route_key": "libramiento-queretaro",
-      "km": 119.0,
-      "lat": 20.588,
-      "lon": -100.39,
-      "resolved": true,
-      "text": "#Tomeprecauciones en #Zacatecas se registra cierre parcial de circulación por #Vehiculoincendiado por falla mecánica cerca del km 119+200, de la carretera ent. Luis Moya - ent Osiris. Atienda indicación Vial. #Tomeprecauciones en #Zacatecas se registra cierre parcial de circulaci",
-      "link": "https://nitter.net/GN_Carreteras/status/2052025707342016750#m",
-      "date": "2026-05-06T14:00:28+00:00"
     }
   ]
 }
