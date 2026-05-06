@@ -1,9 +1,51 @@
 {
-  "updated": "2026-05-06T20:52:26.578131+00:00",
-  "count": 36,
+  "updated": "2026-05-06T21:58:50.708256+00:00",
+  "count": 35,
   "incidents": [
     {
-      "id": "62908504e8c7",
+      "id": "c7e4d6d53003",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 19, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 19, dirección Querétaro",
+      "link": "https://nitter.net/CAPUFE/status/2052145597755355425#m",
+      "date": "2026-05-06T21:56:52+00:00"
+    },
+    {
+      "id": "1bf11fcfb86e",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 128.0,
+      "lat": 17.983345,
+      "lon": -94.882582,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 128, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 128, dirección Isla. El incidente ha ",
+      "link": "https://nitter.net/CAPUFE/status/2052143385608179719#m",
+      "date": "2026-05-06T21:48:04+00:00"
+    },
+    {
+      "id": "bf9f3591e5c8",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Nayarit tras cierre parcial de circulación por #AccidenteVial cerca del km 021+300, de la carretera Tepic-Mazatlán, con dirección a Tepic, Nay. Maneje con precaución. #VíaLibre en #Nayarit tras cierre parcial de circulación por #AccidenteVial cerca del km 021+300, d",
+      "link": "https://nitter.net/GN_Carreteras/status/2052142590372237432#m",
+      "date": "2026-05-06T21:44:55+00:00"
+    },
+    {
+      "id": "3239cdd85a3e",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -12,9 +54,51 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 122, dirección Querétaro. Reducción de carriles por atención de accidente (salida del camino y volcadura). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétar",
-      "link": "https://nitter.net/CAPUFE/status/2052126586078482454#m",
-      "date": "2026-05-06T20:41:19+00:00"
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 122, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 122, dirección CDMX. El accidente ha sido atendi",
+      "link": "https://nitter.net/CAPUFE/status/2052142546252337157#m",
+      "date": "2026-05-06T21:44:44+00:00"
+    },
+    {
+      "id": "4c2c816e334e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 122.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 122, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 122, dirección CDMX. El accidente ha sido atendido. En la zona se registra c",
+      "link": "https://nitter.net/CAPUFE/status/2052136854380544360#m",
+      "date": "2026-05-06T21:22:07+00:00"
+    },
+    {
+      "id": "65c308ffc12f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 122.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 122, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino y volcadura). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , k",
+      "link": "https://nitter.net/CAPUFE/status/2052130879955182014#m",
+      "date": "2026-05-06T20:58:23+00:00"
+    },
+    {
+      "id": "85b9e15a6987",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 19, dirección Querétaro. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 19, dirección Qu",
+      "link": "https://nitter.net/CAPUFE/status/2052129899268211013#m",
+      "date": "2026-05-06T20:54:29+00:00"
     },
     {
       "id": "afb0b8326c5a",
@@ -199,20 +283,6 @@
       "date": "2026-05-06T19:17:04+00:00"
     },
     {
-      "id": "3b58ec693a8b",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 128.0,
-      "lat": 17.983345,
-      "lon": -94.882582,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 128, dirección Isla. Continúa reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 128, dirección Isla. ",
-      "link": "https://nitter.net/CAPUFE/status/2052104939397083498#m",
-      "date": "2026-05-06T19:15:18+00:00"
-    },
-    {
       "id": "39458c21b6d1",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -227,20 +297,6 @@
       "date": "2026-05-06T19:13:34+00:00"
     },
     {
-      "id": "e0949c98cc4c",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 18.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 18, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 18, dirección Có",
-      "link": "https://nitter.net/CAPUFE/status/2052100614004289723#m",
-      "date": "2026-05-06T18:58:07+00:00"
-    },
-    {
       "id": "7b99dd3f84a3",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -253,62 +309,6 @@
       "text": "#Tomeprecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 143+850, de la carretera Villahermosa-Francisco Escárcega. Atienda indicación Vial. #Tomeprecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial c",
       "link": "https://nitter.net/GN_Carreteras/status/2052094420237894066#m",
       "date": "2026-05-06T18:33:30+00:00"
-    },
-    {
-      "id": "7560b4e61f40",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 194.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 194. Continúa circulación intermitente en ambos sentidos, por atención de accidente (maniobras para el retiro de la unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. Para más infor",
-      "link": "https://nitter.net/CAPUFE/status/2052093791541096667#m",
-      "date": "2026-05-06T18:31:00+00:00"
-    },
-    {
-      "id": "069791104c66",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 57.0,
-      "lat": 20.1192,
-      "lon": -99.3956,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 57, dirección CDMX. Continúa reducción de carriles por atención de accidente (servicios periciales). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , ",
-      "link": "https://nitter.net/CAPUFE/status/2052092898762440717#m",
-      "date": "2026-05-06T18:27:27+00:00"
-    },
-    {
-      "id": "503fb66849be",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 32.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 32, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 32, dirección Veracruz. El i",
-      "link": "https://nitter.net/CAPUFE/status/2052091033047982460#m",
-      "date": "2026-05-06T18:20:02+00:00"
-    },
-    {
-      "id": "0bd15afa84fc",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 148.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 148 al 158, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro , del km 148 al",
-      "link": "https://nitter.net/CAPUFE/status/2052089591893463086#m",
-      "date": "2026-05-06T18:14:19+00:00"
     },
     {
       "id": "87a1ae475301",
@@ -491,20 +491,6 @@
       "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 022+800, de la carretera Xalapa -Veracruz. Atienda indicación Vial. #Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 02",
       "link": "https://nitter.net/GN_Carreteras/status/2052024411218174427#m",
       "date": "2026-05-06T13:55:19+00:00"
-    },
-    {
-      "id": "c334bc69999f",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 86.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Zacatecas tras #AccidenteVial cerca del km 086+500, de la carretera Aguascalientes -Zacatecas. Maneje con precaución. #ViaLibre en #Zacatecas tras #AccidenteVial cerca del km 086+500, de la carretera Aguascalientes -Zacatecas. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2052019922675343619#m",
-      "date": "2026-05-06T13:37:28+00:00"
     }
   ]
 }
