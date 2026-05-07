@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-07T03:55:40.751272+00:00",
-  "count": 35,
+  "updated": "2026-05-07T06:38:28.216354+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "9f9a106b0530",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 53.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 053+400, de la carretera Poza Rica - Veracruz. Atienda Indicación Vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del k",
+      "link": "https://nitter.net/GN_Carreteras/status/2052256763492093990#m",
+      "date": "2026-05-07T05:18:36+00:00"
+    },
+    {
+      "id": "cdae1bfed4e6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 191.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 191, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 191,",
+      "link": "https://nitter.net/CAPUFE/status/2052251709238337554#m",
+      "date": "2026-05-07T04:58:31+00:00"
+    },
     {
       "id": "7ec6c809c0dc",
       "account": "@capufe",
@@ -255,20 +283,6 @@
       "date": "2026-05-07T01:08:15+00:00"
     },
     {
-      "id": "4c025cf2070b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 165.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 165, dirección Querétaro. Cierre a la circulación por choque por alcance múltiple y volcadura de automóvil. El personal de CAPUFE se encuentra en la zona realizando las labores de atención. Toma tus precauciones. Consulta la ubica",
-      "link": "https://nitter.net/CAPUFE/status/2052187932224815591#m",
-      "date": "2026-05-07T00:45:05+00:00"
-    },
-    {
       "id": "c803829bee61",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -295,20 +309,6 @@
       "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 145+900, de la carretera Coatzacoalcos - Villahermosa, con dirección a Villahermosa, Tab. Atienda Indicación Vial. #TomePrecauciones en #Tabasco se registra cierre parcial de c",
       "link": "https://nitter.net/GN_Carreteras/status/2052182520616149250#m",
       "date": "2026-05-07T00:23:35+00:00"
-    },
-    {
-      "id": "1b0a370f703d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 191.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 191, dirección Querétaro. Cierre a la circulación por atención de accidente (incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro , km 191, direcció",
-      "link": "https://nitter.net/CAPUFE/status/2052178407450947593#m",
-      "date": "2026-05-07T00:07:14+00:00"
     },
     {
       "id": "c3aec64066cf",
@@ -477,20 +477,6 @@
       "text": "#Tomeprecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 161+200, de la carretera Coatzacoalcos-Villahermosa, con dirección a Villahermosa, Tab. Atienda indicación Vial. #Tomeprecauciones en #Tabasco se registra cierre parcial de cir",
       "link": "https://nitter.net/GN_Carreteras/status/2052081890228576276#m",
       "date": "2026-05-06T17:43:43+00:00"
-    },
-    {
-      "id": "f644b66d8fc4",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 100.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Chiapas tras #Movimiento de personas pertenecientes a la Caravana \"Dios Bendice\", cerca del km 100+500, de la carretera Tapanatepec-Talismán con ramales a Unión Juárez y Cd. Hidalgo. Maneje con precaución. #VíaLibre en #Chiapas tras #Movimiento de personas perteneci",
-      "link": "https://nitter.net/GN_Carreteras/status/2052081224311611886#m",
-      "date": "2026-05-06T17:41:04+00:00"
     }
   ]
 }
