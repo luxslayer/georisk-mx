@@ -1,7 +1,91 @@
 {
-  "updated": "2026-05-07T09:34:18.307583+00:00",
+  "updated": "2026-05-07T11:49:02.128884+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "0bbc48e2177c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 117.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Hidalgo tras #AccidenteVial cerca del km 117+300, de la carretera Libramiento Norte de la Ciudad de México. Maneje con precaución. #ViaLibre en #Hidalgo tras #AccidenteVial cerca del km 117+300, de la carretera Libramiento Norte de la Ciudad de México. Maneje con pr",
+      "link": "https://nitter.net/GN_Carreteras/status/2052354733717721464#m",
+      "date": "2026-05-07T11:47:54+00:00"
+    },
+    {
+      "id": "c4fb9a29346e",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 217.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 217+800, de la carretera Cuernavaca - Chilpancingo, con dirección a Cuernavaca, Mor. Atienda Indicación Vial. #TomePrecauciones en #Guerrero se registra cierre parcial de circ",
+      "link": "https://nitter.net/GN_Carreteras/status/2052353767295549754#m",
+      "date": "2026-05-07T11:44:03+00:00"
+    },
+    {
+      "id": "c8a681fba07f",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 87.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 87, dirección Estación Don. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojo",
+      "link": "https://nitter.net/CAPUFE/status/2052350163197268120#m",
+      "date": "2026-05-07T11:29:44+00:00"
+    },
+    {
+      "id": "e8c6813cc25e",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 87.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 87, dirección Estación Don. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojo",
+      "link": "https://nitter.net/CAPUFE/status/2052339727580221846#m",
+      "date": "2026-05-07T10:48:16+00:00"
+    },
+    {
+      "id": "d0b16306e9d9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 218.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 218, dirección Cuernavaca. Continúa reducción de carriles por atención de accidente (choque contra muro central e incendio de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista C",
+      "link": "https://nitter.net/CAPUFE/status/2052339449036468596#m",
+      "date": "2026-05-07T10:47:09+00:00"
+    },
+    {
+      "id": "c60cdcdfe5fa",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 87.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 87, dirección Estación Don. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 87,",
+      "link": "https://nitter.net/CAPUFE/status/2052322703743344706#m",
+      "date": "2026-05-07T09:40:37+00:00"
+    },
     {
       "id": "0499cb3a43bd",
       "account": "@capufe",
@@ -43,20 +127,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 205, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 205, dirección CDMX. El accidente ha sido atendi",
       "link": "https://nitter.net/CAPUFE/status/2052318309849182420#m",
       "date": "2026-05-07T09:23:09+00:00"
-    },
-    {
-      "id": "d9d4d62e6445",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 87.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 87, dirección Estación Don. Reducción de carriles por atención de incidente (ponchadura de neumático). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 87, direcció",
-      "link": "https://nitter.net/CAPUFE/status/2052309440334864808#m",
-      "date": "2026-05-07T08:47:55+00:00"
     },
     {
       "id": "06c9fa42267d",
@@ -241,20 +311,6 @@
       "date": "2026-05-07T03:42:06+00:00"
     },
     {
-      "id": "69c01b504c48",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 53.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Hermosillo - Magdalena, km 53, dirección Hermosillo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Hermosillo - Magdalena, km 53, dirección Hermosillo. E",
-      "link": "https://nitter.net/CAPUFE/status/2052229780188131577#m",
-      "date": "2026-05-07T03:31:22+00:00"
-    },
-    {
       "id": "cea7fe13175e",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -269,20 +325,6 @@
       "date": "2026-05-07T03:23:03+00:00"
     },
     {
-      "id": "e1f1c149a10b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 53.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Hermosillo - Magdalena, km 53, dirección Hermosillo. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Hermosillo - Mag",
-      "link": "https://nitter.net/CAPUFE/status/2052225408863551586#m",
-      "date": "2026-05-07T03:14:00+00:00"
-    },
-    {
       "id": "6014f5e2b912",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -295,20 +337,6 @@
       "text": "#VíaLibre en #EdoMéx tras presencia de personas, cerca del km 029+000, de la carretera México (Ecatepec)-Ent. Tizayuca. Maneje con precaución. #VíaLibre en #EdoMéx tras presencia de personas, cerca del km 029+000, de la carretera México (Ecatepec)-Ent. Tizayuca. Maneje con precau",
       "link": "https://nitter.net/GN_Carreteras/status/2052221281269907840#m",
       "date": "2026-05-07T02:57:36+00:00"
-    },
-    {
-      "id": "5748d3ef011c",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 139.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guaymas - Hermosillo, km 139. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopis",
-      "link": "https://nitter.net/CAPUFE/status/2052221262697554189#m",
-      "date": "2026-05-07T02:57:32+00:00"
     },
     {
       "id": "c803829bee61",
@@ -435,34 +463,6 @@
       "text": "#TomePrecauciones en #EdoMéx se registra cierre total de circulación por presencia de personas, cerca del km 029+000, de la carretera México (Ecatepec)-Ent. Tizayuca, con dirección a Pachuca, Hgo. Atienda indicación vial. #TomePrecauciones en #EdoMéx se registra cierre total de c",
       "link": "https://nitter.net/GN_Carreteras/status/2052117723270787384#m",
       "date": "2026-05-06T20:06:06+00:00"
-    },
-    {
-      "id": "24e9c62d16f2",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 180.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "En #SanLuisPotosí continúa cierre total de circulación por #Maniobras de arrastre y salvamento cerca del km 180+000, de la carretera Querétaro-San Luis Potosí, se proporciona vialidad por carriles laterales. Atienda indicación Vial. En #SanLuisPotosí continúa cierre total de circ",
-      "link": "https://nitter.net/GN_Carreteras/status/2052109173379256780#m",
-      "date": "2026-05-06T19:32:07+00:00"
-    },
-    {
-      "id": "890fa05cab5a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chiapas se registra cierre total de circulación por #AccidenteVial cerca del km 012+500, de la carretera Catazajá - Rancho Nuevo, proporcionando vialidad sobre el derecho de vía. Atienda indicación Vial. #TomePrecauciones en #Chiapas se registra cierre total",
-      "link": "https://nitter.net/GN_Carreteras/status/2052105385524248951#m",
-      "date": "2026-05-06T19:17:04+00:00"
     }
   ]
 }
