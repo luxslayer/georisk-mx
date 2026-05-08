@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-08T06:52:21.916067+00:00",
-  "count": 39,
+  "updated": "2026-05-08T08:21:43.384411+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "bd11615c4af7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 70.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 70, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 70, dirección Querétaro. El accidente ha sido atendido. En la zona se re",
+      "link": "https://nitter.net/CAPUFE/status/2052654851553698189#m",
+      "date": "2026-05-08T07:40:27+00:00"
+    },
+    {
+      "id": "256477ea0e3d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 234.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 234, dir. Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 234, dir. Cd. Mend",
+      "link": "https://nitter.net/CAPUFE/status/2052644345434505231#m",
+      "date": "2026-05-08T06:58:42+00:00"
+    },
     {
       "id": "5a9be9121022",
       "account": "@capufe",
@@ -253,48 +281,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 11, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 11, dirección Có",
       "link": "https://nitter.net/CAPUFE/status/2052605425711718626#m",
       "date": "2026-05-08T04:24:03+00:00"
-    },
-    {
-      "id": "c9f8f238d2fb",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 167.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Isla - Acayucan, km 167, dirección Acayucan. Reducción de carriles por atención de incidente. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Isla - Acayucan, km 167, dirección Acayucan. Reducción de carriles por atención de in",
-      "link": "https://nitter.net/CAPUFE/status/2052604988283605339#m",
-      "date": "2026-05-08T04:22:19+00:00"
-    },
-    {
-      "id": "144057c7cea8",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 234.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 234, dir. Cd. Mendoza. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada y labores de limpieza). Así mismo, en la Plaza de Cobro Esperanza, se mantiene la redu",
-      "link": "https://nitter.net/CAPUFE/status/2052603690838524292#m",
-      "date": "2026-05-08T04:17:10+00:00"
-    },
-    {
-      "id": "7cd63613534f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 70.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 70, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). En la zona se registra carga vehicular. Toma tus precauciones Para más información llama al 0️⃣7️⃣4️⃣.",
-      "link": "https://nitter.net/CAPUFE/status/2052602298484805868#m",
-      "date": "2026-05-08T04:11:38+00:00"
     },
     {
       "id": "1c2045fa7949",
