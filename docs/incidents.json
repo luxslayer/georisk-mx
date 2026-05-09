@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-09T10:58:36.995505+00:00",
+  "updated": "2026-05-09T11:55:45.637625+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "617dd0db1eeb",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 72.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Las Choapas - Ocozocoautla, km 72. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). En la zona se reg",
+      "link": "https://nitter.net/CAPUFE/status/2053077761053311424#m",
+      "date": "2026-05-09T11:40:57+00:00"
+    },
+    {
+      "id": "2f16fd948a8f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 99.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 99. Continúa cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada y labores de limpieza). 🔘 Por seguridad de los usuarios se cierra la Plaza de Cobro M",
+      "link": "https://nitter.net/CAPUFE/status/2053075697841602909#m",
+      "date": "2026-05-09T11:32:45+00:00"
+    },
+    {
+      "id": "33a5ed27bcbb",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 72.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 72. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Auto",
+      "link": "https://nitter.net/CAPUFE/status/2053070402293768568#m",
+      "date": "2026-05-09T11:11:42+00:00"
+    },
     {
       "id": "32e2d3874796",
       "account": "@capufe",
@@ -45,7 +87,7 @@
       "date": "2026-05-09T09:58:44+00:00"
     },
     {
-      "id": "0b30c4efac71",
+      "id": "15c32522aa8b",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -54,7 +96,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 99. Continúa cierre a la circulación en ambos sentidos por atención de accidente (labores de limpieza). 🔘 Por seguridad de los usuarios se cierra la Plaza de Cobro Miahuatlán en dirección Oaxaca. Toma tus precaucio",
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 99. Continúa cierre a la circulación en ambos sentidos por atención de accidente (labores de limpieza). 🔘 Por seguridad de los usuarios se cierra la Plaza de Cobro Miahuatlán en dirección Oaxaca. Toma tus precauciones. Par",
       "link": "https://nitter.net/CAPUFE/status/2053052029514183144#m",
       "date": "2026-05-09T09:58:42+00:00"
     },
@@ -269,20 +311,6 @@
       "date": "2026-05-09T06:57:01+00:00"
     },
     {
-      "id": "de0350baddb4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 92.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 92, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 92, dirección Acapulco. El accidente ha",
-      "link": "https://nitter.net/CAPUFE/status/2053001302842482986#m",
-      "date": "2026-05-09T06:37:08+00:00"
-    },
-    {
       "id": "79b904113068",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -295,20 +323,6 @@
       "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 092+100, de la carretera México-Puebla, con dirección a Ciudad de México. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km 092+100, de la carretera México-Puebla, con dirección a Ciudad de México. M",
       "link": "https://nitter.net/GN_Carreteras/status/2052994420253856009#m",
       "date": "2026-05-09T06:09:47+00:00"
-    },
-    {
-      "id": "742b1d5dde94",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Libramiento Oriente de Saltillo, km 12, dirección Monterrey. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Libramiento Oriente de Saltillo, km 12, dirección Monterrey. El ",
-      "link": "https://nitter.net/CAPUFE/status/2052989237587239118#m",
-      "date": "2026-05-09T05:49:11+00:00"
     },
     {
       "id": "0e46ee87f550",
@@ -337,20 +351,6 @@
       "text": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación por #AccidenteVial cerca del km 055+000, de la carretera San Luis Potosí -Matehuala. Atienda Indicación Vial. #TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación por #Accidente",
       "link": "https://nitter.net/GN_Carreteras/status/2052986164890439889#m",
       "date": "2026-05-09T05:36:59+00:00"
-    },
-    {
-      "id": "e2d2e5f46be5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 92.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 92, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 92, dirección CDMX. El accidente ha sido atendido. Tra",
-      "link": "https://nitter.net/CAPUFE/status/2052985378252943761#m",
-      "date": "2026-05-09T05:33:51+00:00"
     },
     {
       "id": "3483c4dd02d9",
