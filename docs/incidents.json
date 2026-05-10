@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-10T11:53:35.133212+00:00",
+  "updated": "2026-05-10T13:22:54.717328+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "79bdf0482902",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Gdl–Tepic",
+      "route_key": "guadalajara-tepic",
+      "km": 27.0,
+      "lat": 20.778662,
+      "lon": -103.592816,
+      "resolved": true,
+      "text": "#ViaLibre en #Jalisco tras #AccidenteVial cerca del km 027+300, de la autopista Guadalajara - Tepic. Maneje con precaución. #ViaLibre en #Jalisco tras #AccidenteVial cerca del km 027+300, de la autopista Guadalajara - Tepic. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2053455934907629823#m",
+      "date": "2026-05-10T12:43:40+00:00"
+    },
+    {
+      "id": "3e62c07c2b7f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 86.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 86, dirección Acapulco. Registra cierre a la circulación en carriles laterales por atención de accidente (persona atropellada). Circulación por carriles centrales. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN ",
+      "link": "https://nitter.net/CAPUFE/status/2053455778074271925#m",
+      "date": "2026-05-10T12:43:03+00:00"
+    },
+    {
+      "id": "ac236653b423",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 107.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 107+100, de la autopista Zapotlanejo - El Desperdicio. Atienda Indicación Vial. #TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca",
+      "link": "https://nitter.net/GN_Carreteras/status/2053455580384137449#m",
+      "date": "2026-05-10T12:42:16+00:00"
+    },
     {
       "id": "6c700bec0550",
       "account": "@capufe",
@@ -269,20 +311,6 @@
       "date": "2026-05-10T06:06:57+00:00"
     },
     {
-      "id": "46422ea30131",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 41.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 41, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 41, dirección CDMX. El accidente ha sido atendido. Tra",
-      "link": "https://nitter.net/CAPUFE/status/2053355310283178176#m",
-      "date": "2026-05-10T06:03:50+00:00"
-    },
-    {
       "id": "717417fd015a",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -505,34 +533,6 @@
       "text": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del km 062+500, de la carretera México - Tuxpan. Atienda Indicación vial. #TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del km 062+5",
       "link": "https://nitter.net/GN_Carreteras/status/2053159943495172346#m",
       "date": "2026-05-09T17:07:31+00:00"
-    },
-    {
-      "id": "21ededc52e48",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 142.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 142+200, de la carretera Perote-Libramiento de Xalapa. Atienda Indicación Vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cer",
-      "link": "https://nitter.net/GN_Carreteras/status/2053147672408702993#m",
-      "date": "2026-05-09T16:18:45+00:00"
-    },
-    {
-      "id": "d257333ea09d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 14.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 014+600, de la carretera Saltillo - Torreón. Atienda Indicación Vial. #TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km ",
-      "link": "https://nitter.net/GN_Carreteras/status/2053139494350491714#m",
-      "date": "2026-05-09T15:46:15+00:00"
     }
   ]
 }
