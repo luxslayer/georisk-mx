@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-10T07:25:50.181511+00:00",
+  "updated": "2026-05-10T09:12:51.557676+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "6202afed787d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 74.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 74, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 74, dirección CDMX. El accidente ha sido atend",
+      "link": "https://nitter.net/CAPUFE/status/2053387974612545851#m",
+      "date": "2026-05-10T08:13:37+00:00"
+    },
     {
       "id": "75e3b58abf02",
       "account": "@capufe",
@@ -309,20 +323,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Córdoba - Veracruz, km 55, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Córdoba - Veracruz, km 55, dirección Veracruz. El accidente h",
       "link": "https://nitter.net/CAPUFE/status/2053321222780228017#m",
       "date": "2026-05-10T03:48:23+00:00"
-    },
-    {
-      "id": "26ea719c6539",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 65.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 65, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 65, dirección CDMX. El incidente ha sido atendi",
-      "link": "https://nitter.net/CAPUFE/status/2053320130214473988#m",
-      "date": "2026-05-10T03:44:02+00:00"
     },
     {
       "id": "4b452f35c4bc",
