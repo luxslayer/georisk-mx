@@ -1,7 +1,77 @@
 {
-  "updated": "2026-05-10T21:57:13.706103+00:00",
+  "updated": "2026-05-10T22:56:13.502958+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "abbfd87792c8",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 31.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 031+300, de la carretera Morelia - Pátzcuaro, con dirección a Morelia, Mich. Atienda Indicación Vial. #TomePrecauciones en #Michoacán se registra cierre parcial de circulació",
+      "link": "https://nitter.net/GN_Carreteras/status/2053606930015256719#m",
+      "date": "2026-05-10T22:43:40+00:00"
+    },
+    {
+      "id": "15a0cbf680a3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Lagos de Moreno - San Luis Potosí, km 16. El accidente ha sido atendido. Se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Lagos de",
+      "link": "https://nitter.net/CAPUFE/status/2053606393580515798#m",
+      "date": "2026-05-10T22:41:33+00:00"
+    },
+    {
+      "id": "0f1b5a34c45a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 246.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 246+500, de la carretera Tuxtla Gutiérrez - Ciudad Cuauhtémoc. Atienda Indicación Vial. #TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVi",
+      "link": "https://nitter.net/GN_Carreteras/status/2053606186054729735#m",
+      "date": "2026-05-10T22:40:43+00:00"
+    },
+    {
+      "id": "cc1ca623224b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 235.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 235, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camipneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 235, direcció",
+      "link": "https://nitter.net/CAPUFE/status/2053598525036847537#m",
+      "date": "2026-05-10T22:10:17+00:00"
+    },
+    {
+      "id": "e47c8733691a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 39.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 39, dirección CDMX. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 39, dirección CDMX. El accidente ha sido atendido. Sin embargo",
+      "link": "https://nitter.net/CAPUFE/status/2053596885361852647#m",
+      "date": "2026-05-10T22:03:46+00:00"
+    },
     {
       "id": "20d305ad8635",
       "account": "@capufe",
@@ -241,20 +311,6 @@
       "date": "2026-05-10T19:16:50+00:00"
     },
     {
-      "id": "78334bcd4846",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 21.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 21, dirección Chamapa. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 21, dirección Chamapa.",
-      "link": "https://nitter.net/CAPUFE/status/2053547640386674957#m",
-      "date": "2026-05-10T18:48:05+00:00"
-    },
-    {
       "id": "07b112a69e1d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,34 +323,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 062+300, de la carretera Ent. La Tinaja - Cosoleacaque, con dirección a Cosamaloapan, Ver. Atienda Indicación Vial. #TomePrecauciones en #Veracruz se registra cierre parcial d",
       "link": "https://nitter.net/GN_Carreteras/status/2053546744357540010#m",
       "date": "2026-05-10T18:44:31+00:00"
-    },
-    {
-      "id": "550acaac15ed",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 61.0,
-      "lat": 18.1643,
-      "lon": -94.5686,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 61, dirección Isla. Reducción de carriles por atención de accidente (salida del camino de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 61, dirección Isla. Reduc",
-      "link": "https://nitter.net/CAPUFE/status/2053542067561722207#m",
-      "date": "2026-05-10T18:25:56+00:00"
-    },
-    {
-      "id": "91c3f1bbdcdb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 323.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 323, dirección Acapulco. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernava",
-      "link": "https://nitter.net/CAPUFE/status/2053533813364473862#m",
-      "date": "2026-05-10T17:53:08+00:00"
     },
     {
       "id": "b2eee5509019",
@@ -449,34 +477,6 @@
       "text": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del km 138+000, de la carretera Monterrey - Nuevo Laredo. Atienda Indicación Vial. #TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca",
       "link": "https://nitter.net/GN_Carreteras/status/2053326088709788055#m",
       "date": "2026-05-10T04:07:43+00:00"
-    },
-    {
-      "id": "4b452f35c4bc",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 135.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 135+500, de la carretera Coatzacoalcos-Villahermosa. Atienda Indicación Vial. #TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca d",
-      "link": "https://nitter.net/GN_Carreteras/status/2053317468634890728#m",
-      "date": "2026-05-10T03:33:27+00:00"
-    },
-    {
-      "id": "fd4a530b946d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Cuernavaca",
-      "route_key": "mexico-cuernavaca",
-      "km": 66.0,
-      "lat": 18.916236,
-      "lon": -99.234,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 066+600, de la carretera México - Cuernavaca a la altura de la localidad de Tulipanes. Atienda Indicación Vial. #TomePrecauciones en #Morelos se registra cierre parcial de circ",
-      "link": "https://nitter.net/GN_Carreteras/status/2053316685340221836#m",
-      "date": "2026-05-10T03:30:21+00:00"
     }
   ]
 }
