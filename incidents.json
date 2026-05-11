@@ -1,7 +1,105 @@
 {
-  "updated": "2026-05-11T21:01:34.377145+00:00",
-  "count": 35,
+  "updated": "2026-05-11T22:32:48.123872+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "3a2cea175e92",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 167.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 167, dirección Acatzingo. Reducción de carriles por atención de accidente (remoción de muros centrales). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopi",
+      "link": "https://nitter.net/CAPUFE/status/2053964972477034696#m",
+      "date": "2026-05-11T22:26:24+00:00"
+    },
+    {
+      "id": "49290e81cae3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 208.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 208, dirección Acatzingo. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 208, ",
+      "link": "https://nitter.net/CAPUFE/status/2053961480559599693#m",
+      "date": "2026-05-11T22:12:32+00:00"
+    },
+    {
+      "id": "941d01a06c4c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 208.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 208, dirección Acatzingo. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 208, dirección Acatzingo. El ac",
+      "link": "https://nitter.net/CAPUFE/status/2053960832292110341#m",
+      "date": "2026-05-11T22:09:57+00:00"
+    },
+    {
+      "id": "4a7809424cb5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 27.0,
+      "lat": 18.0848,
+      "lon": -94.8114,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 27, dirección Cosoleacaque. Reducción de carriles por atención de accidente (salida del camino de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 27,",
+      "link": "https://nitter.net/CAPUFE/status/2053958661865693188#m",
+      "date": "2026-05-11T22:01:20+00:00"
+    },
+    {
+      "id": "55f46b67bce8",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 61.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Querétaro - Irapuato, km 61, dirección Irapuato. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se regi",
+      "link": "https://nitter.net/CAPUFE/status/2053955018236015021#m",
+      "date": "2026-05-11T21:46:51+00:00"
+    },
+    {
+      "id": "83f05f4757cf",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guanajuato se habilita un carril de circulación tras #AccidenteVial cerca del km 054+800, de la carretera Querétaro - Irapuato. Se orienta a la ciudadanía #Rutaalterna carretera Libre Salamanca - Gto. Atienda indicación vial. #TomePrecauciones en #Guanajuato",
+      "link": "https://nitter.net/GN_Carreteras/status/2053945528421900365#m",
+      "date": "2026-05-11T21:09:09+00:00"
+    },
+    {
+      "id": "377e33b91d8f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 1.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, km 1, dirección Córdoba. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, km 1, dirección Córdoba. El accidente ha sido atendido. En la",
+      "link": "https://nitter.net/CAPUFE/status/2053945096043663626#m",
+      "date": "2026-05-11T21:07:26+00:00"
+    },
     {
       "id": "4f2790cfed68",
       "account": "@capufe",
@@ -17,7 +115,7 @@
       "date": "2026-05-11T20:49:01+00:00"
     },
     {
-      "id": "67987414ce35",
+      "id": "d92f480a4da0",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -26,7 +124,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Querétaro - Irapuato, km 54, dirección Irapuato. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Querétaro - Irapuato, km 54, dirección Irapuato. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Pa",
       "link": "https://nitter.net/CAPUFE/status/2053937431511196035#m",
       "date": "2026-05-11T20:36:58+00:00"
     },
@@ -101,34 +199,6 @@
       "date": "2026-05-11T19:44:44+00:00"
     },
     {
-      "id": "7e037eb50ed6",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Acayucan–Cosoleacaque",
-      "route_key": "acayucan-cosoleacaque",
-      "km": 9.0,
-      "lat": 17.9936,
-      "lon": -94.8798,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 9, dirección Cosoleacaque. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaq",
-      "link": "https://nitter.net/CAPUFE/status/2053918110793814209#m",
-      "date": "2026-05-11T19:20:12+00:00"
-    },
-    {
-      "id": "03a0c0eee6c2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 1.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 1, dirección Córdoba. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista",
-      "link": "https://nitter.net/CAPUFE/status/2053917191188164831#m",
-      "date": "2026-05-11T19:16:32+00:00"
-    },
-    {
       "id": "67702ed46219",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -141,62 +211,6 @@
       "text": "#TomePrecauciones en #Michoacan se registra cierre total de circulación por presencia de personas cerca del km 021+200, de la carretera Libre Pátzcuaro - Uruapan. Se orienta a la ciudadanía #Rutaalterna autopista Zirahuén con dirección a Uruapan. Atienda Indicación Vial. #TomePre",
       "link": "https://nitter.net/GN_Carreteras/status/2053914858676965588#m",
       "date": "2026-05-11T19:07:16+00:00"
-    },
-    {
-      "id": "51da260847e4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 61.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 61, dirección Irapuato. Cierre a la circulación por atención de accidente (salida del camino de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro ",
-      "link": "https://nitter.net/CAPUFE/status/2053913136281837869#m",
-      "date": "2026-05-11T19:00:26+00:00"
-    },
-    {
-      "id": "d8785ceb32b1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 208.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 208, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camión de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 208, di",
-      "link": "https://nitter.net/CAPUFE/status/2053910924222685210#m",
-      "date": "2026-05-11T18:51:38+00:00"
-    },
-    {
-      "id": "0d1af8822720",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 24, dirección Puebla. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 24, dirección Puebla. Reducción de carriles por atenc",
-      "link": "https://nitter.net/CAPUFE/status/2053907608797389032#m",
-      "date": "2026-05-11T18:38:28+00:00"
-    },
-    {
-      "id": "0886639b4814",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 1.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 1, dirección Córdoba. Reducción de carriles por atención de accidente (salida del camino y choque contra barreras metálicas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, ",
-      "link": "https://nitter.net/CAPUFE/status/2053905663235916185#m",
-      "date": "2026-05-11T18:30:44+00:00"
     },
     {
       "id": "a10bf7fbb532",
@@ -213,20 +227,6 @@
       "date": "2026-05-11T18:22:18+00:00"
     },
     {
-      "id": "a859deb3947f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 90.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 90, dirección Córdoba. Reducción de carriles por atención de accidente (choque de costado entre tracto camión y camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km",
-      "link": "https://nitter.net/CAPUFE/status/2053902946845315118#m",
-      "date": "2026-05-11T18:19:56+00:00"
-    },
-    {
       "id": "3a0bf30174cd",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -239,20 +239,6 @@
       "text": "#TomePrecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del km 006+500, de la carretera Toluca - Palmillas. Atienda indicación vial. #TomePrecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del km 006+",
       "link": "https://nitter.net/GN_Carreteras/status/2053899915680506081#m",
       "date": "2026-05-11T18:07:54+00:00"
-    },
-    {
-      "id": "67a9be9f0908",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 61.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 61, dirección Irapuato. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACI",
-      "link": "https://nitter.net/CAPUFE/status/2053897299844022616#m",
-      "date": "2026-05-11T17:57:30+00:00"
     },
     {
       "id": "36cef6a0eca9",
@@ -477,20 +463,6 @@
       "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 103+600, de la carretera Maravatío-Morelia, con dirección a Zinapécuaro, Mich. Atienda Indicación Vial. #TomePrecauciones en #Michoacán se registra cierre parcial de circulac",
       "link": "https://nitter.net/GN_Carreteras/status/2053657945951396010#m",
       "date": "2026-05-11T02:06:24+00:00"
-    },
-    {
-      "id": "aec56af313de",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Córdoba",
-      "route_key": "puebla-cordoba",
-      "km": 186.0,
-      "lat": 18.884,
-      "lon": -96.923,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 186+400, de la carretera Puebla-Cordoba, con dirección a Puebla. Atienda Indicación Vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVi",
-      "link": "https://nitter.net/GN_Carreteras/status/2053630142409285991#m",
-      "date": "2026-05-11T00:15:55+00:00"
     }
   ]
 }
