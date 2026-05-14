@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-14T10:56:29.048165+00:00",
-  "count": 37,
+  "updated": "2026-05-14T12:55:25.140581+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "52e91d687bf0",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 17, dirección Cuautla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 17, dirección Cuau",
+      "link": "https://nitter.net/CAPUFE/status/2054906259153764436#m",
+      "date": "2026-05-14T12:46:45+00:00"
+    },
+    {
+      "id": "6156de88d962",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 138.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 138, dirección Acatzingo. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. ",
+      "link": "https://nitter.net/CAPUFE/status/2054885609991233871#m",
+      "date": "2026-05-14T11:24:42+00:00"
+    },
     {
       "id": "03126c3a7d30",
       "account": "@capufe",
@@ -17,7 +45,7 @@
       "date": "2026-05-14T10:29:02+00:00"
     },
     {
-      "id": "b64d39bfce6e",
+      "id": "1aece37049e6",
       "account": "@capufe",
       "type": "roadwork",
       "highway": "Puebla–Acatzingo",
@@ -26,7 +54,7 @@
       "lat": 18.948,
       "lon": -97.45,
       "resolved": true,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Puebla - Acatzingo, km 138, dirección Acatzingo. Se informa a las personas usuarias que continúa la reducción de carriles, por maniobras de grúa para el retiro de unidad siniestrada. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. ",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Puebla - Acatzingo, km 138, dirección Acatzingo. Se informa a las personas usuarias que continúa la reducción de carriles, por maniobras de grúa para el retiro de unidad siniestrada. Maneja con precaución. Para más información llama al 0⃣",
       "link": "https://nitter.net/CAPUFE/status/2054859612042453019#m",
       "date": "2026-05-14T09:41:23+00:00"
     },
@@ -297,34 +325,6 @@
       "date": "2026-05-14T02:12:23+00:00"
     },
     {
-      "id": "5e938e112133",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 216.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 216, dirección Cd. Mendoza. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). 🔘 Dirección Acatzingo, se restablece el tránsito vehicular con reducción de car",
-      "link": "https://nitter.net/CAPUFE/status/2054742894246821975#m",
-      "date": "2026-05-14T01:57:35+00:00"
-    },
-    {
-      "id": "b0b3c630fd9b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 182.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 182. Circulación intermitente en ambos sentidos por atención de accidente (choque contra barrera lateral). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 182. Circulación",
-      "link": "https://nitter.net/CAPUFE/status/2054741450835783828#m",
-      "date": "2026-05-14T01:51:51+00:00"
-    },
-    {
       "id": "ff053fd0abac",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -337,20 +337,6 @@
       "text": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 092+300, de la carretera Los Mochis-Cd. Obregón, a la altura del Mpio. Huatabampo, con dir. a Navojoa ejido los Toltecas. Atienda indicación vial. #TomePrecauciones en #Sonora s",
       "link": "https://nitter.net/GN_Carreteras/status/2054739505832222735#m",
       "date": "2026-05-14T01:44:08+00:00"
-    },
-    {
-      "id": "fd3a4d9d6b41",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 16. Concluyen labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopist",
-      "link": "https://nitter.net/CAPUFE/status/2054738782377635967#m",
-      "date": "2026-05-14T01:41:15+00:00"
     },
     {
       "id": "2ec1aaf3329b",
