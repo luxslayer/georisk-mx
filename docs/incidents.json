@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-14T23:28:42.574703+00:00",
-  "count": 36,
+  "updated": "2026-05-15T01:23:04.760121+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "7c30acc8ef5c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 64.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Querétaro - Irapuato, km 64, dirección Irapuato. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Querétaro - Irapuato, km 64, dirección Irapuato. El accidente ha sido atendid",
+      "link": "https://nitter.net/CAPUFE/status/2055096468935946463#m",
+      "date": "2026-05-15T01:22:34+00:00"
+    },
+    {
+      "id": "f7e37c032d1d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 64.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 64, dirección Irapuato. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopist",
+      "link": "https://nitter.net/CAPUFE/status/2055084518910861784#m",
+      "date": "2026-05-15T00:35:05+00:00"
+    },
+    {
+      "id": "f1982b661e08",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 64.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 64, dirección Irapuato. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL ",
+      "link": "https://nitter.net/CAPUFE/status/2055081923731415123#m",
+      "date": "2026-05-15T00:24:46+00:00"
+    },
+    {
+      "id": "a6285b406ef4",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 28.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "En #Coahuila tras #AccidenteVial cerca del km 028+050, de la carretera Libramiento Norponiente de Saltillo, se libera un carril de circulación. Atienda indicación vial. En #Coahuila tras #AccidenteVial cerca del km 028+050, de la carretera Libramiento Norponiente de Saltillo, se ",
+      "link": "https://nitter.net/GN_Carreteras/status/2055074814382264596#m",
+      "date": "2026-05-14T23:56:31+00:00"
+    },
     {
       "id": "3cb9d188a574",
       "account": "@GN_carreteras",
@@ -297,34 +353,6 @@
       "date": "2026-05-14T20:47:37+00:00"
     },
     {
-      "id": "92e64aa3b8f3",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 181.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 181, dirección Acayucan. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 181, direcc",
-      "link": "https://nitter.net/CAPUFE/status/2055022605552239002#m",
-      "date": "2026-05-14T20:29:04+00:00"
-    },
-    {
-      "id": "69e34cf36662",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 32.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Aut. Querétaro - Irapuato, km 32, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Aut. Querétaro - Irapuato, km 32, di",
-      "link": "https://nitter.net/CAPUFE/status/2055021938578215313#m",
-      "date": "2026-05-14T20:26:25+00:00"
-    },
-    {
       "id": "ff288214e085",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,20 +519,6 @@
       "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 206+000, de la carretera Monterrey-Nuevo Laredo. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca",
       "link": "https://nitter.net/GN_Carreteras/status/2054961034646225030#m",
       "date": "2026-05-14T16:24:24+00:00"
-    },
-    {
-      "id": "6baf67cd2661",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "Coatza–Salina Cruz",
-      "route_key": "coatzacoalcos-salinaCruz",
-      "km": 261.0,
-      "lat": 16.16,
-      "lon": -95.2,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por #presencia de personas cerca del km 261+100, de la carretera Coatzacoalcos - Salina Cruz, proporcionando vialidad por la carretera Libramiento La Ventosa - Salina Cruz. Maneje con precaución. #TomePrecaucion",
-      "link": "https://nitter.net/GN_Carreteras/status/2054960382410981644#m",
-      "date": "2026-05-14T16:21:49+00:00"
     }
   ]
 }
