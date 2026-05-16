@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-16T18:49:20.304189+00:00",
-  "count": 33,
+  "updated": "2026-05-16T19:28:22.419338+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "ba5de6b67c74",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 24.0,
+      "lat": 18.0696,
+      "lon": -94.8228,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 24, dirección Acayucan. Se restablece la circulación de manera intermitente. El personal continúa laborando en la atención del accidente (maniobras para el retiro de tracto camión siniestrado). Atiende las in",
+      "link": "https://nitter.net/CAPUFE/status/2055723488350961889#m",
+      "date": "2026-05-16T18:54:07+00:00"
+    },
     {
       "id": "7ec004d1afaa",
       "account": "@capufe",
@@ -199,20 +213,6 @@
       "date": "2026-05-16T13:54:16+00:00"
     },
     {
-      "id": "4a3c3310d876",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 0.0,
-      "lat": 18.32,
-      "lon": -95.02,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 0. Registra reducción de carriles en la gasa de incorporación a la Aut. Córdoba - Veracruz, dirección Veracruz, por atención de accidente (choque contra barrera metálica). Maneja con precaución. 🟠 CIERRE PARCIAL DE ",
-      "link": "https://nitter.net/CAPUFE/status/2055647102714224906#m",
-      "date": "2026-05-16T13:50:36+00:00"
-    },
-    {
       "id": "81d717633a9a",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -225,20 +225,6 @@
       "text": "#TomePrecauciones en #Jalisco se registra cierre parcial por #AccidenteVial cerca del km 103+600, de la carretera León-Aguascalientes. Atienda Indicación Vial. #TomePrecauciones en #Jalisco se registra cierre parcial por #AccidenteVial cerca del km 103+600, de la carretera León-A",
       "link": "https://nitter.net/GN_Carreteras/status/2055646213043524031#m",
       "date": "2026-05-16T13:47:03+00:00"
-    },
-    {
-      "id": "324b70ae956f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 96.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 96, dirección Querétaro. Continúa la reducción de carriles por atención de accidente (maniobras para retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro",
-      "link": "https://nitter.net/CAPUFE/status/2055642090579575285#m",
-      "date": "2026-05-16T13:30:41+00:00"
     },
     {
       "id": "e14f29ffe823",
