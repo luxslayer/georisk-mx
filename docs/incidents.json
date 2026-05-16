@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-16T19:54:34.625019+00:00",
+  "updated": "2026-05-16T20:19:41.836185+00:00",
   "count": 32,
   "incidents": [
+    {
+      "id": "15769aba1744",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 296.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 296, dirección Córdoba. Cierre a la circulación por atención de accidente (volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Cór",
+      "link": "https://nitter.net/CAPUFE/status/2055740486543921165#m",
+      "date": "2026-05-16T20:01:40+00:00"
+    },
     {
       "id": "ba5de6b67c74",
       "account": "@capufe",
@@ -197,20 +211,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 96, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 96, dirección Querétaro",
       "link": "https://nitter.net/CAPUFE/status/2055649529072861641#m",
       "date": "2026-05-16T14:00:14+00:00"
-    },
-    {
-      "id": "c5fe65fff6e7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 18.0,
-      "lat": 18.266,
-      "lon": -94.9435,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 18, dirección Isla. Reducción de carriles por atención de incidente (choque contra semoviente). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 18, dirección Isla. Reducción d",
-      "link": "https://nitter.net/CAPUFE/status/2055648027906359736#m",
-      "date": "2026-05-16T13:54:16+00:00"
     },
     {
       "id": "81d717633a9a",
