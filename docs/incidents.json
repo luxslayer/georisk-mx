@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-16T17:10:04.564342+00:00",
+  "updated": "2026-05-16T17:49:14.772395+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "7ec004d1afaa",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 24.0,
+      "lat": 18.0696,
+      "lon": -94.8228,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acayucan - Cosoleacaque, km 24, dirección Acayucan. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN ",
+      "link": "https://nitter.net/CAPUFE/status/2055702063229653369#m",
+      "date": "2026-05-16T17:28:59+00:00"
+    },
     {
       "id": "335fdddd59e1",
       "account": "@GN_carreteras",
@@ -225,20 +239,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 96, dirección Querétaro. Continúa la reducción de carriles por atención de accidente (maniobras para retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro",
       "link": "https://nitter.net/CAPUFE/status/2055642090579575285#m",
       "date": "2026-05-16T13:30:41+00:00"
-    },
-    {
-      "id": "33312f74f6b9",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 56.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
-      "link": "https://nitter.net/CAPUFE/status/2055640927843008910#m",
-      "date": "2026-05-16T13:26:03+00:00"
     },
     {
       "id": "e14f29ffe823",
