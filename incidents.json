@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-16T15:59:25.300373+00:00",
+  "updated": "2026-05-16T17:10:04.564342+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "335fdddd59e1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 24.0,
+      "lat": 18.248,
+      "lon": -94.918,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial por #AccidenteVial cerca del km 24+150, de la carretera Tinaja - Cosoleacaque, a la altura del Mpio. Jáltipan de Morelos, con dirección a Coatzacoalcos. Atienda Indicación Vial. #TomePrecauciones en #Veracruz se registra c",
+      "link": "https://nitter.net/GN_Carreteras/status/2055690968116990082#m",
+      "date": "2026-05-16T16:44:54+00:00"
+    },
+    {
+      "id": "0f60a231aae2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 321.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 321, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 321, dirección Acapul",
+      "link": "https://nitter.net/CAPUFE/status/2055685271056732485#m",
+      "date": "2026-05-16T16:22:16+00:00"
+    },
     {
       "id": "09df3c5913dd",
       "account": "@capufe",
@@ -211,20 +239,6 @@
       "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
       "link": "https://nitter.net/CAPUFE/status/2055640927843008910#m",
       "date": "2026-05-16T13:26:03+00:00"
-    },
-    {
-      "id": "dabb5d314df4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Acayucan–Cosoleacaque",
-      "route_key": "acayucan-cosoleacaque",
-      "km": 24.0,
-      "lat": 18.0696,
-      "lon": -94.8228,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 24, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino a cuneta central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 24,",
-      "link": "https://nitter.net/CAPUFE/status/2055639966563148071#m",
-      "date": "2026-05-16T13:22:14+00:00"
     },
     {
       "id": "e14f29ffe823",
@@ -449,20 +463,6 @@
       "text": "#TomePrecauciones en #EdoMex por presencia de personas cerca del km 013+100, de la carretera Toluca - Palmillas a la altura de la caseta de cobro el Dorado. Atienda indicación vial. #TomePrecauciones en #EdoMex por presencia de personas cerca del km 013+100, de la carretera Toluc",
       "link": "https://nitter.net/GN_Carreteras/status/2055353118162919574#m",
       "date": "2026-05-15T18:22:24+00:00"
-    },
-    {
-      "id": "6dff8a13eae8",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 151.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Chihuahua se registra cierre parcial de circulación por #AccidenteVial cerca del km 151+800, de la carretera Gómez Palacio - Jiménez. Atienda indicación vial. #TomePrecauciones en #Chihuahua se registra cierre parcial de circulación por #AccidenteVial cerca ",
-      "link": "https://nitter.net/GN_Carreteras/status/2055340882463805515#m",
-      "date": "2026-05-15T17:33:47+00:00"
     }
   ]
 }
