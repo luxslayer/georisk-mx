@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-16T20:19:41.836185+00:00",
-  "count": 32,
+  "updated": "2026-05-16T21:12:54.888696+00:00",
+  "count": 31,
   "incidents": [
     {
       "id": "15769aba1744",
@@ -197,20 +197,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 24, dirección Acayucan. Se restablece la circulación. El personal continúa con la atención del accidente, por el momento sin afectar los carriles de rodamiento. Maneja con precaución. 🟢 RESTABLECIMIENTO DE ",
       "link": "https://nitter.net/CAPUFE/status/2055652397142192562#m",
       "date": "2026-05-16T14:11:38+00:00"
-    },
-    {
-      "id": "5ea3905c2f81",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 96.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 96, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 96, dirección Querétaro",
-      "link": "https://nitter.net/CAPUFE/status/2055649529072861641#m",
-      "date": "2026-05-16T14:00:14+00:00"
     },
     {
       "id": "81d717633a9a",
