@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-17T20:55:14.546403+00:00",
-  "count": 32,
+  "updated": "2026-05-17T21:57:29.646119+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "b33a3424788d",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 24.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 24, dirección CDMX. Registra carga vehicular a la altura de la incorporación al Viaducto Elevado Tlalpan, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 24, dirección CDMX. Registra carg",
+      "link": "https://nitter.net/CAPUFE/status/2056130661958746436#m",
+      "date": "2026-05-17T21:52:05+00:00"
+    },
+    {
+      "id": "e464eed5c9a1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 197.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del km 197+200, de la carretera Tuxtepec-Oaxaca, a la altura del Mpio. Santa Catarina Ixtepeji. Atienda Indicación Vial. #TomePrecauciones en #Oaxaca se registra cierre parcial de circ",
+      "link": "https://nitter.net/GN_Carreteras/status/2056125743357207015#m",
+      "date": "2026-05-17T21:32:32+00:00"
+    },
+    {
+      "id": "21c58d95ea60",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 42.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 42, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más información l",
+      "link": "https://nitter.net/CAPUFE/status/2056124920095027332#m",
+      "date": "2026-05-17T21:29:16+00:00"
+    },
     {
       "id": "31a528ced0f0",
       "account": "@capufe",
@@ -31,7 +73,7 @@
       "date": "2026-05-17T20:49:58+00:00"
     },
     {
-      "id": "339c32a7860c",
+      "id": "21f0ca95eaab",
       "account": "@capufe",
       "type": "roadwork",
       "highway": "?",
@@ -40,7 +82,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 42, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicu",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 42, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga ",
       "link": "https://nitter.net/CAPUFE/status/2056112966420881813#m",
       "date": "2026-05-17T20:41:46+00:00"
     },
@@ -435,20 +477,6 @@
       "text": "#ViaLibre en #Coahuila tras #AccidenteVial cerca del km 031+500, de la carretera Saltillo - Monterrey. Maneje con precaución. #ViaLibre en #Coahuila tras #AccidenteVial cerca del km 031+500, de la carretera Saltillo - Monterrey. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2055464965599842542#m",
       "date": "2026-05-16T01:46:51+00:00"
-    },
-    {
-      "id": "6f096093d521",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 019+200, de la carretera Xalapa - Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 0",
-      "link": "https://nitter.net/GN_Carreteras/status/2055455628873568276#m",
-      "date": "2026-05-16T01:09:45+00:00"
     }
   ]
 }
