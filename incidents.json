@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-17T11:08:22.691845+00:00",
+  "updated": "2026-05-17T12:10:56.929193+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "f6475bba7a1f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 10.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 10. Registra circulación intermitente en ambos sentidos por atención de accidente (choque por alcance y contra barrera metálica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatl",
+      "link": "https://nitter.net/CAPUFE/status/2055982982221942788#m",
+      "date": "2026-05-17T12:05:15+00:00"
+    },
     {
       "id": "232d34c1a146",
       "account": "@capufe",
@@ -197,20 +211,6 @@
       "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN Aut. La Carbonera - Puerto México, km 227. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por maniobras de grúa para el retiro de la unidad siniestrada. 🔘 Por seguridad, las Plazas de Cobro Los Chorros y",
       "link": "https://nitter.net/CAPUFE/status/2055827878386745751#m",
       "date": "2026-05-17T01:48:56+00:00"
-    },
-    {
-      "id": "f5c190a70b94",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 227.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 227. Cierre a la circulación en ambos sentidos por atención de accidente (choque contra muro central de tracto camión.). En la zona se registra derrame de combustible. Toma tus precauciones. 🔘 Por seguridad, las",
-      "link": "https://nitter.net/CAPUFE/status/2055823674599411778#m",
-      "date": "2026-05-17T01:32:14+00:00"
     },
     {
       "id": "8f7290ad314a",
