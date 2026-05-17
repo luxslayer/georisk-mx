@@ -1,7 +1,77 @@
 {
-  "updated": "2026-05-17T12:10:56.929193+00:00",
-  "count": 34,
+  "updated": "2026-05-17T14:04:17.748412+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "4a1253ac6417",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 298.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 298, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 298, dirección Córdoba",
+      "link": "https://nitter.net/CAPUFE/status/2056006229449637951#m",
+      "date": "2026-05-17T13:37:38+00:00"
+    },
+    {
+      "id": "035e610bbb4c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 298.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 298, dirección Córdoba. Reducción de carriles por atención de accidente (salida del camino de vagoneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 298, direcci",
+      "link": "https://nitter.net/CAPUFE/status/2055999231127703745#m",
+      "date": "2026-05-17T13:09:49+00:00"
+    },
+    {
+      "id": "4ad968fbbc22",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 70.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 70, dirección La Tinaja. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 70, dirección La T",
+      "link": "https://nitter.net/CAPUFE/status/2055998908162040216#m",
+      "date": "2026-05-17T13:08:32+00:00"
+    },
+    {
+      "id": "698d3819a534",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 93.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 93, dirección Veracruz. Registra reducción de carriles por atención de choque contra muro lateral de un tracto camión tipo pipa que transporta combustóleo. Maneja con precaución. Consulta la ubicación aquí",
+      "link": "https://nitter.net/CAPUFE/status/2055994199992905802#m",
+      "date": "2026-05-17T12:49:50+00:00"
+    },
+    {
+      "id": "be7d5aae0004",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 96.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 96, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras para retiro de unidad siniestrada). Dirección Querétaro, por el momento opera de manera normal. Maneja con precaución. 🟠 CIERRE PARCIA",
+      "link": "https://nitter.net/CAPUFE/status/2055988225404002460#m",
+      "date": "2026-05-17T12:26:06+00:00"
+    },
     {
       "id": "f6475bba7a1f",
       "account": "@capufe",
@@ -143,20 +213,6 @@
       "date": "2026-05-17T02:48:41+00:00"
     },
     {
-      "id": "d609c69e0f73",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 93, dirección Puebla. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 93, dirección Puebla. Reducción de carriles por ate",
-      "link": "https://nitter.net/CAPUFE/status/2055839050125193573#m",
-      "date": "2026-05-17T02:33:19+00:00"
-    },
-    {
       "id": "9f85a2050a75",
       "account": "@capufe",
       "type": "accident",
@@ -171,7 +227,7 @@
       "date": "2026-05-17T02:31:34+00:00"
     },
     {
-      "id": "72aab42f0d3e",
+      "id": "f5c190a70b94",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -180,37 +236,9 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN Aut. La Carbonera - Puerto México, km 227, dirección La Carbonera. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. El personal se encuentra realizando las labores de limpieza. 🔘 Por seguridad, l",
-      "link": "https://nitter.net/CAPUFE/status/2055837235174338584#m",
-      "date": "2026-05-17T02:26:07+00:00"
-    },
-    {
-      "id": "328eac11d884",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 140.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 140, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 140, dirección Acatzingo. ",
-      "link": "https://nitter.net/CAPUFE/status/2055830267399389189#m",
-      "date": "2026-05-17T01:58:25+00:00"
-    },
-    {
-      "id": "e3345fc64557",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 227.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN Aut. La Carbonera - Puerto México, km 227. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por maniobras de grúa para el retiro de la unidad siniestrada. 🔘 Por seguridad, las Plazas de Cobro Los Chorros y",
-      "link": "https://nitter.net/CAPUFE/status/2055827878386745751#m",
-      "date": "2026-05-17T01:48:56+00:00"
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 227. Cierre a la circulación en ambos sentidos por atención de accidente (choque contra muro central de tracto camión.). En la zona se registra derrame de combustible. Toma tus precauciones. 🔘 Por seguridad, las",
+      "link": "https://nitter.net/CAPUFE/status/2055823674599411778#m",
+      "date": "2026-05-17T01:32:14+00:00"
     },
     {
       "id": "8f7290ad314a",
