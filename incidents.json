@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-17T21:57:29.646119+00:00",
-  "count": 34,
+  "updated": "2026-05-17T23:00:28.220601+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "6f3b1d54d23c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 96.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 96, dirección CDMX. Continúa reducción de carriles por atención de accidente (trasvase de carga). Circulación lenta en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 96, direcció",
+      "link": "https://nitter.net/CAPUFE/status/2056143171952800174#m",
+      "date": "2026-05-17T22:41:48+00:00"
+    },
+    {
+      "id": "8ec973016175",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 8.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Durango - Mazatlán, km 8. Cierre a la circulación en ambos sentidos por atención de accidente (choque frontal entre automóviles). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Durango - Mazatlá",
+      "link": "https://nitter.net/CAPUFE/status/2056142925050913126#m",
+      "date": "2026-05-17T22:40:49+00:00"
+    },
+    {
+      "id": "4ec1a302934d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 1.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 1, dirección Cuautla. Reducción de carriles por atención de accidente (volcadura de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 1, dirección Cuautla. Reducci",
+      "link": "https://nitter.net/CAPUFE/status/2056140215169732800#m",
+      "date": "2026-05-17T22:30:03+00:00"
+    },
+    {
+      "id": "29608ff31f5e",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Chiapas tras presencia de personas cerca del km 016+200, de la carretera Puerto Madero-Tapachula. Maneje con precaución. #ViaLibre en #Chiapas tras presencia de personas cerca del km 016+200, de la carretera Puerto Madero-Tapachula. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2056139289323311379#m",
+      "date": "2026-05-17T22:26:22+00:00"
+    },
     {
       "id": "b33a3424788d",
       "account": "@capufe",
@@ -197,34 +253,6 @@
       "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 24, dirección CDMX. Registra carga vehicular a la altura de la incorporación al Viaducto Elevado Tlalpan, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 24, dirección CDMX. Registra carg",
       "link": "https://nitter.net/CAPUFE/status/2056083587800191172#m",
       "date": "2026-05-17T18:45:02+00:00"
-    },
-    {
-      "id": "ac34b5f260d2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 93, dirección Veracruz. Se informa a las personas usuarias que continúa reducción de carriles. El personal de CAPUFE se encuentra realizando las labores de atención del accidente. Toma tus precauciones. Para más inf",
-      "link": "https://nitter.net/CAPUFE/status/2056080635178135629#m",
-      "date": "2026-05-17T18:33:18+00:00"
-    },
-    {
-      "id": "e1a06a847d3a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 96.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 96, dirección CDMX. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 96, dirección CDMX. Continúa reducción de ",
-      "link": "https://nitter.net/CAPUFE/status/2056079006886244861#m",
-      "date": "2026-05-17T18:26:49+00:00"
     },
     {
       "id": "91f94242f1e2",
@@ -463,20 +491,6 @@
       "text": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 220+500, de la carretera Hermosillo - Nogales. Atienda indicación vial. #TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 22",
       "link": "https://nitter.net/GN_Carreteras/status/2055466493651951986#m",
       "date": "2026-05-16T01:52:55+00:00"
-    },
-    {
-      "id": "5ee63b584b25",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Saltillo–Mty",
-      "route_key": "saltillo-monterrey",
-      "km": 31.0,
-      "lat": 25.544697,
-      "lon": -100.6809,
-      "resolved": true,
-      "text": "#ViaLibre en #Coahuila tras #AccidenteVial cerca del km 031+500, de la carretera Saltillo - Monterrey. Maneje con precaución. #ViaLibre en #Coahuila tras #AccidenteVial cerca del km 031+500, de la carretera Saltillo - Monterrey. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2055464965599842542#m",
-      "date": "2026-05-16T01:46:51+00:00"
     }
   ]
 }
