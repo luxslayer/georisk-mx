@@ -1,7 +1,119 @@
 {
-  "updated": "2026-05-19T22:44:34.838220+00:00",
-  "count": 31,
+  "updated": "2026-05-20T00:08:26.250668+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "46045066116c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Acapulco",
+      "route_key": "mexico-acapulco",
+      "km": 95.0,
+      "lat": 18.584,
+      "lon": -99.234,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 95, dirección CDMX. El accidente ha sido atendido. Se restablece la circulación en el Distribuidor vial Palmira. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramien",
+      "link": "https://nitter.net/CAPUFE/status/2056887773005488467#m",
+      "date": "2026-05-20T00:00:34+00:00"
+    },
+    {
+      "id": "4655a2cbe0cd",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 61.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 61, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 61, dirección CDMX. Reducción de carrile",
+      "link": "https://nitter.net/CAPUFE/status/2056882859500003439#m",
+      "date": "2026-05-19T23:41:03+00:00"
+    },
+    {
+      "id": "da9662db68e8",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 208.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 208. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (choque de frente entre vehículos). Por seguridad de las personas usuarias se ",
+      "link": "https://nitter.net/CAPUFE/status/2056882054441148891#m",
+      "date": "2026-05-19T23:37:51+00:00"
+    },
+    {
+      "id": "c5b05ec6dd14",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Acapulco",
+      "route_key": "mexico-acapulco",
+      "km": 95.0,
+      "lat": 18.584,
+      "lon": -99.234,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 95, dirección CDMX. Reducción de carriles en el Distribuidor vial Palmira por atención de accidente (choque por alcance). Circulación lenta en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramient",
+      "link": "https://nitter.net/CAPUFE/status/2056878563152769087#m",
+      "date": "2026-05-19T23:23:59+00:00"
+    },
+    {
+      "id": "1fe38be52158",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 208.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 208. Cierre a la circulación en ambos sentidos por atención de accidente (choque de frente entre vehículos). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxac",
+      "link": "https://nitter.net/CAPUFE/status/2056876297473654996#m",
+      "date": "2026-05-19T23:14:58+00:00"
+    },
+    {
+      "id": "ab14b925b2c7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 172.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 172. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carg",
+      "link": "https://nitter.net/CAPUFE/status/2056875402589532310#m",
+      "date": "2026-05-19T23:11:25+00:00"
+    },
+    {
+      "id": "badd7b19efc8",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 3.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 003+300, de la carretera Paty-Vista Hermosa, a la altura del Mpio. La Piedad, con dir. a Vista Hermosa. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra c",
+      "link": "https://nitter.net/GN_Carreteras/status/2056873047542366541#m",
+      "date": "2026-05-19T23:02:04+00:00"
+    },
+    {
+      "id": "6d311722806f",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 31.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Aut. Querétaro - Irapuato, del km 31 al 30, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Aut. Querétaro - Irapuato, del",
+      "link": "https://nitter.net/CAPUFE/status/2056871915352957001#m",
+      "date": "2026-05-19T22:57:34+00:00"
+    },
     {
       "id": "bddfa123961d",
       "account": "@capufe",
@@ -143,20 +255,6 @@
       "date": "2026-05-19T20:23:15+00:00"
     },
     {
-      "id": "980d7c4650d4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Acayucan–Cosoleacaque",
-      "route_key": "acayucan-cosoleacaque",
-      "km": 35.0,
-      "lat": 18.1098,
-      "lon": -94.7296,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 35, dirección Cosoleacaque. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 35, dirección Co",
-      "link": "https://nitter.net/CAPUFE/status/2056832719594643805#m",
-      "date": "2026-05-19T20:21:49+00:00"
-    },
-    {
       "id": "eecfc3b1ce5a",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -185,34 +283,6 @@
       "date": "2026-05-19T19:40:50+00:00"
     },
     {
-      "id": "5ca03213ac8c",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 178.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Tehuacán - Oaxaca, km 178. Circulación intermitente en ambos sentidos por labores de mantenimiento (no a cargo de CAPUFE). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Tehuacán - Oaxaca, km 178. Circula",
-      "link": "https://nitter.net/CAPUFE/status/2056822313383850266#m",
-      "date": "2026-05-19T19:40:28+00:00"
-    },
-    {
-      "id": "6e1957c620fb",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 96.0,
-      "lat": 18.253631,
-      "lon": -99.522849,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96. Registra carga vehicular en dirección Cuernavaca, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96. Registra carga vehicular en dirección Cuernavaca, sin report",
-      "link": "https://nitter.net/CAPUFE/status/2056818987514687953#m",
-      "date": "2026-05-19T19:27:15+00:00"
-    },
-    {
       "id": "fa3c0479e5e4",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -227,34 +297,6 @@
       "date": "2026-05-19T19:13:02+00:00"
     },
     {
-      "id": "550a38f86093",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 50.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 50, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 50, dirección CDMX. Reducción de carriles por at",
-      "link": "https://nitter.net/CAPUFE/status/2056814787904831622#m",
-      "date": "2026-05-19T19:10:33+00:00"
-    },
-    {
-      "id": "2e1a992f0c8c",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 37.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 37, dirección San Luis Potosí. Se restablece la circulación. En la zona se registra carga vehicular muy intensa por presencia de manifestantes fuera de la jurisdicción a cargo de CAPUFE. Unidades de CAPUFE",
-      "link": "https://nitter.net/CAPUFE/status/2056805730347266178#m",
-      "date": "2026-05-19T18:34:34+00:00"
-    },
-    {
       "id": "022455d06c72",
       "account": "@GN_carreteras",
       "type": "alert",
@@ -267,20 +309,6 @@
       "text": "En #Querétaro se libera un carril de circulación para ambos sentidos, cerca del km 034+400, de la carretera Querétaro-San Luis Potosí. Atienda Indicación Vial. En #Querétaro se libera un carril de circulación para ambos sentidos, cerca del km 034+400, de la carretera Querétaro-Sa",
       "link": "https://nitter.net/GN_Carreteras/status/2056804190047932747#m",
       "date": "2026-05-19T18:28:27+00:00"
-    },
-    {
-      "id": "4ab6627bd16a",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 38.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 38 al 42. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 38 al 42. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2056799659901751512#m",
-      "date": "2026-05-19T18:10:27+00:00"
     },
     {
       "id": "a65745ad6e36",
@@ -421,20 +449,6 @@
       "text": "#VíaLibre en #Oaxaca tras #Maniobras de arrastre y salvamento, cerca del km 005+200, de la carretera Cuacnopalan - Oaxaca, con dirección a Oaxaca. Maneje con precaución. #VíaLibre en #Oaxaca tras #Maniobras de arrastre y salvamento, cerca del km 005+200, de la carretera Cuacnopal",
       "link": "https://nitter.net/GN_Carreteras/status/2056567225230725202#m",
       "date": "2026-05-19T02:46:50+00:00"
-    },
-    {
-      "id": "c72c16399cef",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Chipas tras #AccidenteVial cerca del km 012+300, de la carretera Tapachula/Puerto madero - Cd. Hidalgo, con dirección a Puerto Madero, Chis. Maneje con precaución. #VíaLibre en #Chipas tras #AccidenteVial cerca del km 012+300, de la carretera Tapachula/Puerto madero",
-      "link": "https://nitter.net/GN_Carreteras/status/2056559442598977729#m",
-      "date": "2026-05-19T02:15:54+00:00"
     }
   ]
 }
