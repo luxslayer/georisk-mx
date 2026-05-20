@@ -1,7 +1,91 @@
 {
-  "updated": "2026-05-20T20:20:18.624864+00:00",
-  "count": 37,
+  "updated": "2026-05-20T22:10:20.454410+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "a9c803af60c2",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 145.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 145+600 de la carretera Villahermosa- Francisco Escárcega. Atienda indicación vial. #TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial c",
+      "link": "https://nitter.net/GN_Carreteras/status/2057219484075565206#m",
+      "date": "2026-05-20T21:58:40+00:00"
+    },
+    {
+      "id": "53badb6aace6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 107.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tecate - La Rumorosa, km 107, dirección Tecate. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tecate - La Rumorosa, km 107, dirección Tecate. El",
+      "link": "https://nitter.net/CAPUFE/status/2057218019508535309#m",
+      "date": "2026-05-20T21:52:51+00:00"
+    },
+    {
+      "id": "c42fa1bf14ac",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 39.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 39, dirección Querétaro. Reducción de carriles por atención de accidente (choque de costado). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro ",
+      "link": "https://nitter.net/CAPUFE/status/2057217750041293158#m",
+      "date": "2026-05-20T21:51:47+00:00"
+    },
+    {
+      "id": "34d6a38ec58f",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "Méx–Acapulco",
+      "route_key": "mexico-acapulco",
+      "km": 295.0,
+      "lat": 16.945423,
+      "lon": -99.76005,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 295, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 295, dirección Córdoba",
+      "link": "https://nitter.net/CAPUFE/status/2057205292236947850#m",
+      "date": "2026-05-20T21:02:17+00:00"
+    },
+    {
+      "id": "ce56366fc815",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 46.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guanajuato se registra cierre parcial a la circulación por presencia de personas cerca del km 046+000, de la carretera Morelia - Salamanca, con dirección a Celaya Gto. Maneje con precaución. #TomePrecauciones en #Guanajuato se registra cierre parcial a la ci",
+      "link": "https://nitter.net/GN_Carreteras/status/2057204960094212238#m",
+      "date": "2026-05-20T21:00:58+00:00"
+    },
+    {
+      "id": "27345f211f6e",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
+      "link": "https://nitter.net/CAPUFE/status/2057199173301137656#m",
+      "date": "2026-05-20T20:37:58+00:00"
+    },
     {
       "id": "c24a25ed6140",
       "account": "@capufe",
@@ -213,34 +297,6 @@
       "date": "2026-05-20T17:21:32+00:00"
     },
     {
-      "id": "31c9e2a99093",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 287.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 287, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque contra objeto). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd.",
-      "link": "https://nitter.net/CAPUFE/status/2057147858503995467#m",
-      "date": "2026-05-20T17:14:04+00:00"
-    },
-    {
-      "id": "ead33550bf23",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Acayucan–Cosoleacaque",
-      "route_key": "acayucan-cosoleacaque",
-      "km": 29.0,
-      "lat": 18.094933,
-      "lon": -94.8038,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 29, dirección Cosoleacaque. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 29, dirección ",
-      "link": "https://nitter.net/CAPUFE/status/2057147193211965532#m",
-      "date": "2026-05-20T17:11:25+00:00"
-    },
-    {
       "id": "50954231fe9c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -253,20 +309,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 096+200 de la carretera Cardel - Poza Rica. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 0",
       "link": "https://nitter.net/GN_Carreteras/status/2057141508076110018#m",
       "date": "2026-05-20T16:48:50+00:00"
-    },
-    {
-      "id": "cb53c0b561bc",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Acayucan–Cosoleacaque",
-      "route_key": "acayucan-cosoleacaque",
-      "km": 29.0,
-      "lat": 18.094933,
-      "lon": -94.8038,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 29, dirección Cosoleacaque. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 2",
-      "link": "https://nitter.net/CAPUFE/status/2057141342170419603#m",
-      "date": "2026-05-20T16:48:10+00:00"
     },
     {
       "id": "1b2ea59ce7c0",
@@ -491,34 +533,6 @@
       "text": "En #Querétaro se libera un carril de circulación para ambos sentidos, cerca del km 034+400, de la carretera Querétaro-San Luis Potosí. Atienda Indicación Vial. En #Querétaro se libera un carril de circulación para ambos sentidos, cerca del km 034+400, de la carretera Querétaro-Sa",
       "link": "https://nitter.net/GN_Carreteras/status/2056804190047932747#m",
       "date": "2026-05-19T18:28:27+00:00"
-    },
-    {
-      "id": "a65745ad6e36",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 169.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Sinaloa se registra cierre parcial de circulación por #VehículoIncendiado cerca del km 169+100, de la carretera Durango-Villa Unión, con dir. a Mazatlán. Atienda indicación vial. #TomePrecauciones en #Sinaloa se registra cierre parcial de circulación por #Ve",
-      "link": "https://nitter.net/GN_Carreteras/status/2056784276490768791#m",
-      "date": "2026-05-19T17:09:19+00:00"
-    },
-    {
-      "id": "1d1944baf715",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 222.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chiapas se registra cierre de circulación por #AccidenteVíal cerca del km 222+800, de la carretera Catazajá-Rancho Nuevo entronque Tuxtla Gutiérrez, a la altura de la Loc. Bochitle, con dir. a Ocosingo. Atienda indicación vial. #TomePrecauciones en #Chiapas ",
-      "link": "https://nitter.net/GN_Carreteras/status/2056779687838277844#m",
-      "date": "2026-05-19T16:51:05+00:00"
     }
   ]
 }
