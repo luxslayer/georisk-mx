@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-20T08:26:47.826446+00:00",
+  "updated": "2026-05-20T11:28:51.727581+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "db5834ba55b9",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 185.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "#TomePrecauciones en #SanLuisPotosi se registra cierre parcial de circulación por #AccidenteVial cerca del km 185+015 de la carretera Querétaro-San Luis Potosí, con dir. a Querétaro. Atienda indicación vial. #TomePrecauciones en #SanLuisPotosi se registra cierre parcial de circul",
+      "link": "https://nitter.net/GN_Carreteras/status/2057056245635264582#m",
+      "date": "2026-05-20T11:10:01+00:00"
+    },
+    {
+      "id": "426cb2737844",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 83.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 83, dirección CDMX. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 83, dirección CDMX. El accidente ha sido atendido. Sin embargo, ",
+      "link": "https://nitter.net/CAPUFE/status/2057054626625585293#m",
+      "date": "2026-05-20T11:03:35+00:00"
+    },
+    {
+      "id": "fec39bed72fe",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 83.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 83, dirección CDMX. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuer",
+      "link": "https://nitter.net/CAPUFE/status/2057049623290675422#m",
+      "date": "2026-05-20T10:43:42+00:00"
+    },
     {
       "id": "dd283add52a9",
       "account": "@capufe",
@@ -227,20 +269,6 @@
       "date": "2026-05-20T04:34:49+00:00"
     },
     {
-      "id": "ff5f4a543270",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 190.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 190, dirección Querétaro. El incidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 190, dirección Querétaro. El inc",
-      "link": "https://nitter.net/CAPUFE/status/2056955899290198185#m",
-      "date": "2026-05-20T04:31:17+00:00"
-    },
-    {
       "id": "cc7ed13ddb2e",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,20 +295,6 @@
       "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por presencia de personas cerca del km 006+100, de la carretera Villahermosa-Ciudad del Carmen, a la altura del Mpio. Villahermosa. Maneje con precaución. #TomePrecauciones en #Tabasco se registra cierre parc",
       "link": "https://nitter.net/GN_Carreteras/status/2056954356306464897#m",
       "date": "2026-05-20T04:25:09+00:00"
-    },
-    {
-      "id": "b486b3e0c681",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 150.0,
-      "lat": 17.296306,
-      "lon": -99.728494,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 150, dirección Cuernavaca. Reducción de carriles por atención de incidente (tráiler con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 150, direcci",
-      "link": "https://nitter.net/CAPUFE/status/2056953300054938013#m",
-      "date": "2026-05-20T04:20:57+00:00"
     },
     {
       "id": "84dd498108a3",
@@ -477,20 +491,6 @@
       "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 096+100, de la carretera Tapanatepec-Tuxtla Gutiérrez, con dirección a Ocozocoautla de Espinosa, Chis. Atienda Indicación Vial. #TomePrecauciones en #Chiapas se registra cierre",
       "link": "https://nitter.net/GN_Carreteras/status/2056678963682886103#m",
       "date": "2026-05-19T10:10:50+00:00"
-    },
-    {
-      "id": "eaa2bd234f16",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 94.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 094+300, de la carretera Acatlán de Juárez - Colima, con dirección a Cosamaloapan, Ver, con dirección a Acatlán, Jal.. Atienda Indicación Vial. #TomePrecauciones en #Jalisco se",
-      "link": "https://nitter.net/GN_Carreteras/status/2056652903964655668#m",
-      "date": "2026-05-19T08:27:17+00:00"
     }
   ]
 }
