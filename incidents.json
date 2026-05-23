@@ -1,7 +1,133 @@
 {
-  "updated": "2026-05-23T20:06:28.286098+00:00",
-  "count": 35,
+  "updated": "2026-05-23T21:26:32.284285+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "2ca2cc287697",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Querétaro - Irapuato, km 21, dirección Querétaro. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de unidad siniestrada. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣",
+      "link": "https://nitter.net/CAPUFE/status/2058296532152004873#m",
+      "date": "2026-05-23T21:18:29+00:00"
+    },
+    {
+      "id": "57ebf0d5e3d7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 0.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 0, dirección La Pera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 0, dirección La Pera. El acciden",
+      "link": "https://nitter.net/CAPUFE/status/2058293837110345866#m",
+      "date": "2026-05-23T21:07:46+00:00"
+    },
+    {
+      "id": "c0b195d4fb78",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 49.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 49, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 49, dirección CDMX. Reducción de",
+      "link": "https://nitter.net/CAPUFE/status/2058291735092969651#m",
+      "date": "2026-05-23T20:59:25+00:00"
+    },
+    {
+      "id": "3bbc34cd01c2",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 276.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomesusprecauciones en #Michoacán por presencia de personas cerca del Km 276+000 de la carretera Maravatio-Zapotlanejo a la altura de la caseta de Paníndicuaro. Atienda indicación vial. #Tomesusprecauciones en #Michoacán por presencia de personas cerca del Km 276+000 de la carre",
+      "link": "https://nitter.net/GN_Carreteras/status/2058289557666197960#m",
+      "date": "2026-05-23T20:50:46+00:00"
+    },
+    {
+      "id": "47f81b22bd84",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 49.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 49, dirección Puebla. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 49, dirección Puebla. Reducción de carriles po",
+      "link": "https://nitter.net/CAPUFE/status/2058289226777563466#m",
+      "date": "2026-05-23T20:49:27+00:00"
+    },
+    {
+      "id": "6d209a1b2e75",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 50.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 50, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 50, dirección CDMX. Reducción de carriles por at",
+      "link": "https://nitter.net/CAPUFE/status/2058288731392446844#m",
+      "date": "2026-05-23T20:47:29+00:00"
+    },
+    {
+      "id": "889f7fd839c1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 12.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Barranca Larga - Ventanilla, km 12. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙",
+      "link": "https://nitter.net/CAPUFE/status/2058284656428998688#m",
+      "date": "2026-05-23T20:31:17+00:00"
+    },
+    {
+      "id": "610e1435244e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 12.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Barranca Larga - Ventanilla, km 12. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unid",
+      "link": "https://nitter.net/CAPUFE/status/2058281687109275791#m",
+      "date": "2026-05-23T20:19:29+00:00"
+    },
+    {
+      "id": "3b45049cbf8e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 21, dirección Irapuato. Cierre a la circulación por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 2",
+      "link": "https://nitter.net/CAPUFE/status/2058278444752879716#m",
+      "date": "2026-05-23T20:06:36+00:00"
+    },
     {
       "id": "d630193a4a16",
       "account": "@capufe",
@@ -171,20 +297,6 @@
       "date": "2026-05-23T18:31:35+00:00"
     },
     {
-      "id": "a530e93f739a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 6.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 6, dirección Cuautla. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 6, dirección Cuautla. Reducci",
-      "link": "https://nitter.net/CAPUFE/status/2058252075507581141#m",
-      "date": "2026-05-23T18:21:49+00:00"
-    },
-    {
       "id": "876d40643328",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -199,34 +311,6 @@
       "date": "2026-05-23T18:20:44+00:00"
     },
     {
-      "id": "22158aa50737",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Oriente de Saltillo, km 0, dirección Puerto México. Reducción de carriles por atención de choque de tracto camión contra barrera metálica. En la zona se registra derrame de combustible. Maneja con precaución. Consulta la ubicación aqu",
-      "link": "https://nitter.net/CAPUFE/status/2058251787493134429#m",
-      "date": "2026-05-23T18:20:41+00:00"
-    },
-    {
-      "id": "77570f1a0fac",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 88.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 88, dirección CDMX. Cierre a la circulación en carriles laterales por atención de accidente (choque por alcance múltiple). Circulación por carriles centrales. En la zona se registra carga vehicular. Maneja con precaució",
-      "link": "https://nitter.net/CAPUFE/status/2058251454931206259#m",
-      "date": "2026-05-23T18:19:21+00:00"
-    },
-    {
       "id": "dc48b0392a51",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -239,20 +323,6 @@
       "text": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 155+100, de la carretera Zacatecas - Saltillo. Atienda indicación vial. #TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del",
       "link": "https://nitter.net/GN_Carreteras/status/2058250739626004901#m",
       "date": "2026-05-23T18:16:31+00:00"
-    },
-    {
-      "id": "051b51c03ce8",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 226.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Carbonera - Puerto México, km 226, dirección Puerto México. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Carbonera - Puerto México, km 22",
-      "link": "https://nitter.net/CAPUFE/status/2058249220621013348#m",
-      "date": "2026-05-23T18:10:29+00:00"
     },
     {
       "id": "45d5542de32c",
@@ -477,20 +547,6 @@
       "text": "En #SanLuisPotosí contiúa cierre parcial de circulación por #AccidenteVial cerca del km 129+800, de la carretera Querétaro-San Luis Potosí. Atienda indicación vial. En #SanLuisPotosí contiúa cierre parcial de circulación por #AccidenteVial cerca del km 129+800, de la carretera Qu",
       "link": "https://nitter.net/GN_Carreteras/status/2058015491306799271#m",
       "date": "2026-05-23T02:41:43+00:00"
-    },
-    {
-      "id": "4f5c85bcd59e",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Veracruz tras #VehículoIncendiado derivado a una falla mecánica, cerca del km 024+750 de la carretera Coatzacoalcos-Villahermosa. Maneje con precaución. #VíaLibre en #Veracruz tras #VehículoIncendiado derivado a una falla mecánica, cerca del km 024+750 de la carrete",
-      "link": "https://nitter.net/GN_Carreteras/status/2058002536099983632#m",
-      "date": "2026-05-23T01:50:15+00:00"
     }
   ]
 }
