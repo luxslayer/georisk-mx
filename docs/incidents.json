@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-24T08:57:04.973185+00:00",
+  "updated": "2026-05-24T09:42:45.644061+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "289693dbbcd4",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 11.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Puebla tras #Accidentevial cerca del Km 011+000 de la carretera Cuacnopalan - Oaxaca. Maneje con precaución. #ViaLibre en #Puebla tras #Accidentevial cerca del Km 011+000 de la carretera Cuacnopalan - Oaxaca. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2058474600657281283#m",
+      "date": "2026-05-24T09:06:04+00:00"
+    },
     {
       "id": "f7ff9307a9e0",
       "account": "@GN_carreteras",
@@ -505,20 +519,6 @@
       "text": "#Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación por #Accidentevial cerca del Km 021+800 de la carretera Queretaro-Irapuato. Atienda indicación vial. #Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación por #Accidentevial cerca del ",
       "link": "https://nitter.net/GN_Carreteras/status/2058306958956835245#m",
       "date": "2026-05-23T21:59:55+00:00"
-    },
-    {
-      "id": "1f27a2be5641",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 35.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #EdoMex tras presencia de personas cerca del Km 035+500 de la carretera Toluca-Morelia. Maneje con precaució. #ViaLibre en #EdoMex tras presencia de personas cerca del Km 035+500 de la carretera Toluca-Morelia. Maneje con precaució.",
-      "link": "https://nitter.net/GN_Carreteras/status/2058304967773999302#m",
-      "date": "2026-05-23T21:52:00+00:00"
     }
   ]
 }
