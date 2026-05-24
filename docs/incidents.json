@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-24T17:50:07.328638+00:00",
-  "count": 37,
+  "updated": "2026-05-24T18:27:25.088164+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "ce2859bb8c9a",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 70.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, continúa #lluvia del km 70 al 74. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , continúa #lluvia del km 70 al 74. Disminuye tu velocidad y maneja con precaución.",
+      "link": "https://nitter.net/CAPUFE/status/2058614377574482087#m",
+      "date": "2026-05-24T18:21:29+00:00"
+    },
+    {
+      "id": "ab1112531fec",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 242.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCU",
+      "link": "https://nitter.net/CAPUFE/status/2058612857793658980#m",
+      "date": "2026-05-24T18:15:27+00:00"
+    },
     {
       "id": "c2517501692c",
       "account": "@capufe",
@@ -323,48 +351,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Gtz. Zamora - Tihuatlán, km 204. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Gtz. Zamora - Tihuatlán, km 204. El accidente h",
       "link": "https://nitter.net/CAPUFE/status/2058542239932875130#m",
       "date": "2026-05-24T13:34:50+00:00"
-    },
-    {
-      "id": "3e88a01fedc2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 204.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Gtz. Zamora - Tihuatlán, km 204. Se restablece la circulación de manera normal. Sin embargo, se continúa con la atención del accidente (choque por alcance), por el momento sin afectación a los carriles de rodamiento. Maneja con precau",
-      "link": "https://nitter.net/CAPUFE/status/2058532204150431782#m",
-      "date": "2026-05-24T12:54:57+00:00"
-    },
-    {
-      "id": "2635214316b7",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 89.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 89. Se informa a las personas usuarias que el incidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista ",
-      "link": "https://nitter.net/CAPUFE/status/2058526417483178364#m",
-      "date": "2026-05-24T12:31:58+00:00"
-    },
-    {
-      "id": "94e9c41510da",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 20, dirección Lechería. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 20, dirección Lechería. El ",
-      "link": "https://nitter.net/CAPUFE/status/2058516799755334108#m",
-      "date": "2026-05-24T11:53:45+00:00"
     },
     {
       "id": "09bed440c2af",
