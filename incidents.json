@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-24T18:27:25.088164+00:00",
+  "updated": "2026-05-24T18:54:03.507575+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "ebbfbbc2c722",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 11.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomesusprecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del Km 011+000 de la carretera Libramiento Guadalupe. Atienda indicación vial. #Tomesusprecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial c",
+      "link": "https://nitter.net/GN_Carreteras/status/2058619215507054943#m",
+      "date": "2026-05-24T18:40:42+00:00"
+    },
     {
       "id": "ce2859bb8c9a",
       "account": "@capufe",
@@ -491,20 +505,6 @@
       "text": "#Tomesusprecauciones en #Puebla se registra cierre total de la circulación por #Accidentevial cerca del Km 011+000 de la carretera Cuacnopalan - Oaxaca. Atienda indicación vial. #Tomesusprecauciones en #Puebla se registra cierre total de la circulación por #Accidentevial cerca de",
       "link": "https://nitter.net/GN_Carreteras/status/2058391564620070988#m",
       "date": "2026-05-24T03:36:06+00:00"
-    },
-    {
-      "id": "fe249bc67ace",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 241.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 241+800, de la carretera Maravatío - Zapotlanejo. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca ",
-      "link": "https://nitter.net/GN_Carreteras/status/2058376471773667769#m",
-      "date": "2026-05-24T02:36:08+00:00"
     }
   ]
 }
