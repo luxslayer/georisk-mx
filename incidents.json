@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-24T10:36:43.319273+00:00",
-  "count": 37,
+  "updated": "2026-05-24T11:32:13.533217+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "61867d372c0b",
+      "account": "@capufe",
+      "type": "landslide",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 89.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 89. Se informa a las personas usuarias que continúa la circulación intermitente en ambos sentidos por atención de derrumbe de Talud. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama",
+      "link": "https://nitter.net/CAPUFE/status/2058510199632036131#m",
+      "date": "2026-05-24T11:27:31+00:00"
+    },
+    {
+      "id": "cc2794f1c12b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 204.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gtz. Zamora - Tihuatlán, km 204. Registra circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gt",
+      "link": "https://nitter.net/CAPUFE/status/2058508293568373118#m",
+      "date": "2026-05-24T11:19:57+00:00"
+    },
+    {
+      "id": "09bed440c2af",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 136.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Yucatan se registra cierre parcial de circulación por #AccidenteVial cerca del km 136+500, de la carretera Kantunil-Puerto Juárez. Atienda indicación vial. #TomePrecauciones en #Yucatan se registra cierre parcial de circulación por #AccidenteVial cerca del k",
+      "link": "https://nitter.net/GN_Carreteras/status/2058508091331633624#m",
+      "date": "2026-05-24T11:19:08+00:00"
+    },
+    {
+      "id": "f9e1cc8f611b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 94.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 094+000, de la carretera Tepic - Puerto Vallarta. Atienda indicación vial. #TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del ",
+      "link": "https://nitter.net/GN_Carreteras/status/2058499289798578496#m",
+      "date": "2026-05-24T10:44:10+00:00"
+    },
     {
       "id": "93a82f27b3a7",
       "account": "@GN_carreteras",
@@ -129,7 +185,7 @@
       "date": "2026-05-24T06:15:49+00:00"
     },
     {
-      "id": "12e802fe12e8",
+      "id": "8f1705f80ea0",
       "account": "@capufe",
       "type": "closure",
       "highway": "?",
@@ -138,7 +194,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 89. Registra circulación intermitente en ambos sentidos por atención de derrumbe de Talud. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/aL6kkyRmfvWFhbms8 🟠 CIERRE PARCIAL DE CI",
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 89. Registra circulación intermitente en ambos sentidos por atención de derrumbe de Talud. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/aL6kkyRmfvWFhbms8 🟠 CIERRE PARCIAL DE CIRCULACIÓ",
       "link": "https://nitter.net/CAPUFE/status/2058429606567268523#m",
       "date": "2026-05-24T06:07:16+00:00"
     },
@@ -281,48 +337,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 0, dirección Cuautla. Reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 0, dirección Cuautla.",
       "link": "https://nitter.net/CAPUFE/status/2058408715363963090#m",
       "date": "2026-05-24T04:44:15+00:00"
-    },
-    {
-      "id": "8bab50c8832c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 114.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 114, dirección Puebla. Reducción de carriles por atención de accidente fuera de la cobertura de CAPUFE. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 11",
-      "link": "https://nitter.net/CAPUFE/status/2058408109056422295#m",
-      "date": "2026-05-24T04:41:51+00:00"
-    },
-    {
-      "id": "265df1ea672e",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 99.0,
-      "lat": 18.200446,
-      "lon": -99.534274,
-      "resolved": true,
-      "text": "🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista Cuernavaca - Acapulco, km 99, dirección Cuernavaca. Reducción de carriles por atención de incidente. Maneja con precaución. 🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista Cuernavaca - Acapulco, km 99, dirección Cuernavaca. Reducción de carrile",
-      "link": "https://nitter.net/CAPUFE/status/2058404357272391974#m",
-      "date": "2026-05-24T04:26:56+00:00"
-    },
-    {
-      "id": "883e96c9fb92",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 11.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 11. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Sin embargo, en la zona se registra carga vehicular. Unidades de CAPUFE y Guardia N",
-      "link": "https://nitter.net/CAPUFE/status/2058403819562672364#m",
-      "date": "2026-05-24T04:24:48+00:00"
     },
     {
       "id": "38c9b0657650",
@@ -491,34 +505,6 @@
       "text": "#Tomesusprecauciones en #Tabasco continua cierre total de la circulación por presencia de personas cerca del Km 093+100 de la carretera Villahermosa-Cuidad del Carmen. Atienda indicación vial. #Tomesusprecauciones en #Tabasco continua cierre total de la circulación por presencia ",
       "link": "https://nitter.net/GN_Carreteras/status/2058323936346042673#m",
       "date": "2026-05-23T23:07:22+00:00"
-    },
-    {
-      "id": "d79d9186c6df",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 53.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Durango se registra cierre parcial de circulación por #AccidenteVial cerca del km 053+500, de la carretera Lázaro Cárdenas – Villa Unión. Atienda indicación vial. #TomePrecauciones en #Durango se registra cierre parcial de circulación por #AccidenteVial cerc",
-      "link": "https://nitter.net/GN_Carreteras/status/2058322609331224890#m",
-      "date": "2026-05-23T23:02:06+00:00"
-    },
-    {
-      "id": "565856838303",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 66.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 066+690, de la carretera La Pera-Cuautla. Atienda indicación vial. #TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 066+6",
-      "link": "https://nitter.net/GN_Carreteras/status/2058319570683691410#m",
-      "date": "2026-05-23T22:50:02+00:00"
     }
   ]
 }
