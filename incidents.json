@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-24T21:48:55.543929+00:00",
-  "count": 35,
+  "updated": "2026-05-24T22:23:31.691788+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "8c166dca0bb3",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 2.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomesusprecauciones #Chiapas se registra cierre total de circulación por #AccidenteVial cerca del Km 002+700 de la carretera Arriaga- Ocozocoautla. Se orienta a la ciudadanía #Rutaalterna carretera Tapachula-Juchitán de Zaragoza. Atienda indicación vial. #Tomesusprecauciones #Ch",
+      "link": "https://nitter.net/GN_Carreteras/status/2058673717866070405#m",
+      "date": "2026-05-24T22:17:17+00:00"
+    },
+    {
+      "id": "154dfd3a86d6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 50.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 50, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 50, dirección Querétaro",
+      "link": "https://nitter.net/CAPUFE/status/2058673022945386813#m",
+      "date": "2026-05-24T22:14:31+00:00"
+    },
+    {
+      "id": "c1c01dffc23b",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 44, dirección CDMX. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro ,",
+      "link": "https://nitter.net/CAPUFE/status/2058667013455667703#m",
+      "date": "2026-05-24T21:50:38+00:00"
+    },
     {
       "id": "2295b7464bac",
       "account": "@GN_carreteras",
@@ -283,20 +325,6 @@
       "date": "2026-05-24T18:40:42+00:00"
     },
     {
-      "id": "ce2859bb8c9a",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 70.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, continúa #lluvia del km 70 al 74. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , continúa #lluvia del km 70 al 74. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2058614377574482087#m",
-      "date": "2026-05-24T18:21:29+00:00"
-    },
-    {
       "id": "251c64fdf58f",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,20 +505,6 @@
       "text": "#ViaLibre en #Puebla tras #Accidentevial cerca del Km 011+000 de la carretera Cuacnopalan - Oaxaca. Maneje con precaución. #ViaLibre en #Puebla tras #Accidentevial cerca del Km 011+000 de la carretera Cuacnopalan - Oaxaca. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2058474600657281283#m",
       "date": "2026-05-24T09:06:04+00:00"
-    },
-    {
-      "id": "f7ff9307a9e0",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 10.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 010+500, de la carretera Córdoba - ent. Boticaria. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca d",
-      "link": "https://nitter.net/GN_Carreteras/status/2058445888167526780#m",
-      "date": "2026-05-24T07:11:58+00:00"
     }
   ]
 }
