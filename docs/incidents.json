@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-24T15:54:35.701869+00:00",
-  "count": 35,
+  "updated": "2026-05-24T16:25:37.836820+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "5f1e1f79985a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 160.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomesusprecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del Km 160+000 de la carretera Coatzacoalcos- Villahermosa. Atienda indicación vial. #Tomesusprecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial c",
+      "link": "https://nitter.net/GN_Carreteras/status/2058583935123091550#m",
+      "date": "2026-05-24T16:20:31+00:00"
+    },
+    {
+      "id": "309ac088ee7f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Coatza–Salina Cruz",
+      "route_key": "coatzacoalcos-salinaCruz",
+      "km": 287.0,
+      "lat": 16.16,
+      "lon": -95.2,
+      "resolved": true,
+      "text": "#Tomesusprecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del Km 287+000 de la carretera Coatzacoalcos - Salina Cruz. Atienda indicación vial. #Tomesusprecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cer",
+      "link": "https://nitter.net/GN_Carreteras/status/2058583135588139214#m",
+      "date": "2026-05-24T16:17:20+00:00"
+    },
+    {
+      "id": "dcc2990d7b08",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 339.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomesusprecauciones en #Michoacán se registra cierre total de circulación por #AccidenteVial cerca del Km 339+000 de la carretera Zinapécuaro-Guadalajara. Se orienta a la ciudadanía #Rutaalterna Maravatio-Zapotlanejo dirección Villachuato y Zacapu. Atienda indicación vial. #Tome",
+      "link": "https://nitter.net/GN_Carreteras/status/2058580283423637641#m",
+      "date": "2026-05-24T16:06:00+00:00"
+    },
+    {
+      "id": "c78321be12ee",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 94.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 94, dirección CDMX. Reducción de carriles centrales por atención de accidente (salida de neumático). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 94, dirección CDMX. Reducción de c",
+      "link": "https://nitter.net/CAPUFE/status/2058578002137518412#m",
+      "date": "2026-05-24T15:56:56+00:00"
+    },
     {
       "id": "28a6105edb2a",
       "account": "@capufe",
@@ -449,48 +505,6 @@
       "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 098+100, de la carretera Ciudad Mante - Llera de Canales. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteV",
       "link": "https://nitter.net/GN_Carreteras/status/2058358756291838308#m",
       "date": "2026-05-24T01:25:44+00:00"
-    },
-    {
-      "id": "a3cd827c8f66",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 276.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Michoacán tras presencia de personas cerca del Km 276+000 de la carretera Maravatio-Zapotlanejo a la altura de la caseta de Paníndicuaro. Maneje con precaución. #ViaLibre en #Michoacán tras presencia de personas cerca del Km 276+000 de la carretera Maravatio-Zapotla",
-      "link": "https://nitter.net/GN_Carreteras/status/2058356785103110212#m",
-      "date": "2026-05-24T01:17:54+00:00"
-    },
-    {
-      "id": "c97c47cea922",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 11.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del km 011+050, de la carretera Portezuelo - Palmillas. Atienda indicación vial. #TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del k",
-      "link": "https://nitter.net/GN_Carreteras/status/2058356239348744531#m",
-      "date": "2026-05-24T01:15:44+00:00"
-    },
-    {
-      "id": "32fbb46dbf64",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 462.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomesusprecauciones en #Jalisco se registra total de la circulación por #AccidenteVial cerca del Km 462+000 de la carretera Lagos de Moreno-San Luis Potosí. Atienda indicación vial. #Tomesusprecauciones en #Jalisco se registra total de la circulación por #AccidenteVial cerca del",
-      "link": "https://nitter.net/GN_Carreteras/status/2058354987806118285#m",
-      "date": "2026-05-24T01:10:46+00:00"
     }
   ]
 }
