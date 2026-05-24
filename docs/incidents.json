@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-24T21:22:29.331518+00:00",
+  "updated": "2026-05-24T21:48:55.543929+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "2295b7464bac",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 93.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Tabasco tras presencia de personas cerca del Km 093+100 de la carretera Villahermosa-Cuidad del Carmen. Maneje con precaución. #ViaLibre en #Tabasco tras presencia de personas cerca del Km 093+100 de la carretera Villahermosa-Cuidad del Carmen. Maneje con precaución",
+      "link": "https://nitter.net/GN_Carreteras/status/2058662654135124064#m",
+      "date": "2026-05-24T21:33:19+00:00"
+    },
+    {
+      "id": "e5bc98026460",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 0.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 0, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 0, dirección Cuautla. El acciden",
+      "link": "https://nitter.net/CAPUFE/status/2058660226572693982#m",
+      "date": "2026-05-24T21:23:40+00:00"
+    },
     {
       "id": "4eda59490936",
       "account": "@GN_carreteras",
@@ -269,20 +297,6 @@
       "date": "2026-05-24T18:21:29+00:00"
     },
     {
-      "id": "ab1112531fec",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 242.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCU",
-      "link": "https://nitter.net/CAPUFE/status/2058612857793658980#m",
-      "date": "2026-05-24T18:15:27+00:00"
-    },
-    {
       "id": "251c64fdf58f",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,20 +491,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 010+500, de la carretera Córdoba - ent. Boticaria. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca d",
       "link": "https://nitter.net/GN_Carreteras/status/2058445888167526780#m",
       "date": "2026-05-24T07:11:58+00:00"
-    },
-    {
-      "id": "99577fe66d61",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "Villahermosa–Escárcega",
-      "route_key": "villahermosa-escarcega",
-      "km": 93.0,
-      "lat": 18.386,
-      "lon": -91.36,
-      "resolved": true,
-      "text": "En #Tabasco continua cierre total de circulación por presencia de personas cerca del Km 093+100 en la carretera Villahermosa-Cuidad del Carmen. Se orienta a la ciudadanía #Rutaalterna por los Mpios. Jonuta y Sabancuy incorporándose a la carretera Federal Villahermosa-Escárcega. E",
-      "link": "https://nitter.net/GN_Carreteras/status/2058423158948974991#m",
-      "date": "2026-05-24T05:41:39+00:00"
     }
   ]
 }
