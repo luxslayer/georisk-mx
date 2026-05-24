@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-24T09:42:45.644061+00:00",
+  "updated": "2026-05-24T10:36:43.319273+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "93a82f27b3a7",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Gdl–Tepic",
+      "route_key": "guadalajara-tepic",
+      "km": 121.0,
+      "lat": 21.2166,
+      "lon": -104.36,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 121+900, de la carretera Guadalajara-Tepic. Atienda indicación vial. #TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 121",
+      "link": "https://nitter.net/GN_Carreteras/status/2058496362765783145#m",
+      "date": "2026-05-24T10:32:32+00:00"
+    },
+    {
+      "id": "ea5aa8263b19",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 20, dirección Lechería. Continúa reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 20, dirección Leche",
+      "link": "https://nitter.net/CAPUFE/status/2058488765232873501#m",
+      "date": "2026-05-24T10:02:21+00:00"
+    },
     {
       "id": "289693dbbcd4",
       "account": "@GN_carreteras",
@@ -297,20 +325,6 @@
       "date": "2026-05-24T04:24:48+00:00"
     },
     {
-      "id": "edf404557797",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 186.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 186, dirección Acatzingo. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 186, dirección Acatzingo. El ac",
-      "link": "https://nitter.net/CAPUFE/status/2058399481935057162#m",
-      "date": "2026-05-24T04:07:34+00:00"
-    },
-    {
       "id": "38c9b0657650",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -505,20 +519,6 @@
       "text": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 066+690, de la carretera La Pera-Cuautla. Atienda indicación vial. #TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 066+6",
       "link": "https://nitter.net/GN_Carreteras/status/2058319570683691410#m",
       "date": "2026-05-23T22:50:02+00:00"
-    },
-    {
-      "id": "1cd99b34364b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 21.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación por #Accidentevial cerca del Km 021+800 de la carretera Queretaro-Irapuato. Atienda indicación vial. #Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación por #Accidentevial cerca del ",
-      "link": "https://nitter.net/GN_Carreteras/status/2058306958956835245#m",
-      "date": "2026-05-23T21:59:55+00:00"
     }
   ]
 }
