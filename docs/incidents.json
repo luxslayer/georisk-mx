@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-24T22:49:27.769500+00:00",
+  "updated": "2026-05-24T23:25:25.485771+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "53aa30989f83",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 95.0,
+      "lat": 18.271359,
+      "lon": -99.519041,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Aut. Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 95 al 100, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Aut. Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 95 al 100, sin ",
+      "link": "https://nitter.net/CAPUFE/status/2058688352157622431#m",
+      "date": "2026-05-24T23:15:26+00:00"
+    },
+    {
+      "id": "f0dbe039ce7d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 2.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Chiapas tras #AccidenteVial cerca del Km 002+700 de la carretera Arriaga- Ocozocoautla. Maneje con precaución. #ViaLibre en #Chiapas tras #AccidenteVial cerca del Km 002+700 de la carretera Arriaga- Ocozocoautla. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2058688103259283681#m",
+      "date": "2026-05-24T23:14:27+00:00"
+    },
     {
       "id": "53e669cf915b",
       "account": "@capufe",
@@ -297,20 +325,6 @@
       "date": "2026-05-24T19:47:14+00:00"
     },
     {
-      "id": "5671df916118",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 38.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, continúa #lluvia a la altura del km 38. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , continúa #lluvia a la altura del km 38. Disminuye tu velocidad y maneja con pre",
-      "link": "https://nitter.net/CAPUFE/status/2058634885951095020#m",
-      "date": "2026-05-24T19:42:59+00:00"
-    },
-    {
       "id": "ebbfbbc2c722",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,20 +505,6 @@
       "text": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 121+900, de la carretera Guadalajara-Tepic. Atienda indicación vial. #TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 121",
       "link": "https://nitter.net/GN_Carreteras/status/2058496362765783145#m",
       "date": "2026-05-24T10:32:32+00:00"
-    },
-    {
-      "id": "289693dbbcd4",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 11.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Puebla tras #Accidentevial cerca del Km 011+000 de la carretera Cuacnopalan - Oaxaca. Maneje con precaución. #ViaLibre en #Puebla tras #Accidentevial cerca del Km 011+000 de la carretera Cuacnopalan - Oaxaca. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2058474600657281283#m",
-      "date": "2026-05-24T09:06:04+00:00"
     }
   ]
 }
