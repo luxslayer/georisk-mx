@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-24T13:34:51.590085+00:00",
-  "count": 36,
+  "updated": "2026-05-24T14:35:12.577197+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "e5ac59c1293a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 203.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomesusprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 203+500 de la carretera Tihuatlán - El Palmar. Atienda indicación vial. #Tomesusprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca",
+      "link": "https://nitter.net/GN_Carreteras/status/2058550042483437965#m",
+      "date": "2026-05-24T14:05:50+00:00"
+    },
+    {
+      "id": "f8015ee3fe3b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 139.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomesusprecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del Km 139+400 de la carretera Lagos de Moreno - Guadalajara. Atienda indicación vial. #Tomesusprecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial",
+      "link": "https://nitter.net/GN_Carreteras/status/2058549581877551122#m",
+      "date": "2026-05-24T14:04:00+00:00"
+    },
     {
       "id": "6f062b13c082",
       "account": "@capufe",
@@ -311,20 +339,6 @@
       "date": "2026-05-24T05:34:04+00:00"
     },
     {
-      "id": "6feffce1be1e",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 2.0,
-      "lat": 28.65152,
-      "lon": -106.07624,
-      "resolved": true,
-      "text": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Cd. Obregón - Guaymas, km 2. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Cd. Obregón - Guaymas, km 2. S",
-      "link": "https://nitter.net/CAPUFE/status/2058417725769240781#m",
-      "date": "2026-05-24T05:20:04+00:00"
-    },
-    {
       "id": "9e4b8091e854",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,34 +491,6 @@
       "text": "#ViaLibre en #Morelos tras #AccidenteVial cerca del km 066+690, de la carretera La Pera-Cuautla. Maneje con precaución. #ViaLibre en #Morelos tras #AccidenteVial cerca del km 066+690, de la carretera La Pera-Cuautla. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2058344026936369285#m",
       "date": "2026-05-24T00:27:12+00:00"
-    },
-    {
-      "id": "a69c6fcd2376",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 94.0,
-      "lat": 31.867533,
-      "lon": -116.646133,
-      "resolved": true,
-      "text": "#Tomesusprecauciones en #BajaCalifornia se registra cierre parcial de circulación cerca del km 094+000 de la autopista Tijuana - Ensenada, dirección Ensenada. por labores de mantenimiento. Maneje con precaución. #Tomesusprecauciones en #BajaCalifornia se registra cierre parcial d",
-      "link": "https://nitter.net/GN_Carreteras/status/2058338466816032826#m",
-      "date": "2026-05-24T00:05:07+00:00"
-    },
-    {
-      "id": "3a8d4a32f40c",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomesusprecauciones en #Tabasco continua cierre total de la circulación por presencia de personas cerca del Km 093+100 de la carretera Villahermosa-Cuidad del Carmen. Atienda indicación vial. #Tomesusprecauciones en #Tabasco continua cierre total de la circulación por presencia ",
-      "link": "https://nitter.net/GN_Carreteras/status/2058323936346042673#m",
-      "date": "2026-05-23T23:07:22+00:00"
     }
   ]
 }
