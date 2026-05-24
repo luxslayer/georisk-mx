@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-24T22:23:31.691788+00:00",
+  "updated": "2026-05-24T22:49:27.769500+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "53e669cf915b",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 44, dirección CDMX. El incidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 44, dirección CDMX. El incidente ha sido atendido. Sin embargo, ",
+      "link": "https://nitter.net/CAPUFE/status/2058681532982673541#m",
+      "date": "2026-05-24T22:48:20+00:00"
+    },
+    {
+      "id": "5acf9b8e2272",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 24.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, dirección CDMX. Continúa carga vehicular en diversos puntos de la autopista, sin reporte de incidente: 🔘 Km 24, a la altura de la incorporación al Viaducto Elevado Tlalpan. 🔘 Km 31, a la altura del Poblado de Topilejo. 🔘 km 47, a ",
+      "link": "https://nitter.net/CAPUFE/status/2058679938220208565#m",
+      "date": "2026-05-24T22:42:00+00:00"
+    },
+    {
+      "id": "330e77b4d26e",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 24.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 24, dirección CDMX. Registra carga vehicular a la altura de la incorporación al Viaducto Elevado Tlalpan, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 24, dirección CDMX. Registra carg",
+      "link": "https://nitter.net/CAPUFE/status/2058677055332516067#m",
+      "date": "2026-05-24T22:30:33+00:00"
+    },
     {
       "id": "8c166dca0bb3",
       "account": "@GN_carreteras",
@@ -87,7 +129,7 @@
       "date": "2026-05-24T21:21:05+00:00"
     },
     {
-      "id": "bfcbcf1cb3a0",
+      "id": "61aca2c774a3",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -96,7 +138,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. P",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precauc",
       "link": "https://nitter.net/CAPUFE/status/2058659147705425931#m",
       "date": "2026-05-24T21:19:23+00:00"
     },
@@ -267,48 +309,6 @@
       "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, continúa #lluvia a la altura del km 38. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , continúa #lluvia a la altura del km 38. Disminuye tu velocidad y maneja con pre",
       "link": "https://nitter.net/CAPUFE/status/2058634885951095020#m",
       "date": "2026-05-24T19:42:59+00:00"
-    },
-    {
-      "id": "3751e69b6ff5",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoPuebla, registra #lluvia del km 17 al 33. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoPuebla , registra #lluvia del km 17 al 33. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2058634829332107741#m",
-      "date": "2026-05-24T19:42:45+00:00"
-    },
-    {
-      "id": "493d11cd2074",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 241.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 241, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque de costado). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acat",
-      "link": "https://nitter.net/CAPUFE/status/2058634235842269638#m",
-      "date": "2026-05-24T19:40:24+00:00"
-    },
-    {
-      "id": "e70316fc0c23",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 242.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Continúa reducción de carriles por atención de choque por alcance entre tracto camiones. En la zona se registra derrame de diésel y carga vehicular. Maneja con precaución. Consulta",
-      "link": "https://nitter.net/CAPUFE/status/2058633968803529067#m",
-      "date": "2026-05-24T19:39:20+00:00"
     },
     {
       "id": "ebbfbbc2c722",
