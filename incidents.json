@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-24T18:54:03.507575+00:00",
-  "count": 36,
+  "updated": "2026-05-24T19:32:36.902684+00:00",
+  "count": 35,
   "incidents": [
     {
       "id": "ebbfbbc2c722",
@@ -351,20 +351,6 @@
       "text": "#Tomesusprecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del Km 139+400 de la carretera Lagos de Moreno - Guadalajara. Atienda indicación vial. #Tomesusprecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial",
       "link": "https://nitter.net/GN_Carreteras/status/2058549581877551122#m",
       "date": "2026-05-24T14:04:00+00:00"
-    },
-    {
-      "id": "6f062b13c082",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 204.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Gtz. Zamora - Tihuatlán, km 204. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Gtz. Zamora - Tihuatlán, km 204. El accidente h",
-      "link": "https://nitter.net/CAPUFE/status/2058542239932875130#m",
-      "date": "2026-05-24T13:34:50+00:00"
     },
     {
       "id": "09bed440c2af",
