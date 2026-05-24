@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-24T16:25:37.836820+00:00",
-  "count": 36,
+  "updated": "2026-05-24T16:50:14.549955+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "f20c29064f4e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 94.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 94, dirección CDMX. El accidente en carriles centrales ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 94, dirección CDMX. El",
+      "link": "https://nitter.net/CAPUFE/status/2058589374690787417#m",
+      "date": "2026-05-24T16:42:08+00:00"
+    },
+    {
+      "id": "c8b9ae7fcb06",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 50.0,
+      "lat": 19.183333,
+      "lon": -98.56,
+      "resolved": true,
+      "text": "#Tomesusprecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del Km 050+200 de la carretera Amozoc-Perote. Atienda indicación vial #Tomesusprecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del Km 0",
+      "link": "https://nitter.net/GN_Carreteras/status/2058587593118241209#m",
+      "date": "2026-05-24T16:35:03+00:00"
+    },
     {
       "id": "5f1e1f79985a",
       "account": "@GN_carreteras",
@@ -367,18 +395,18 @@
       "date": "2026-05-24T06:47:59+00:00"
     },
     {
-      "id": "b16da36ab01a",
+      "id": "8f1705f80ea0",
       "account": "@capufe",
-      "type": "accident",
+      "type": "closure",
       "highway": "?",
       "route_key": "unknown",
-      "km": 114.0,
+      "km": 89.0,
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 114, dirección Puebla. Continúa reducción de carriles por atención de accidente fuera de la cobertura de CAPUFE. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 114, dirección Puebla. Continúa r",
-      "link": "https://nitter.net/CAPUFE/status/2058439052731318366#m",
-      "date": "2026-05-24T06:44:48+00:00"
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 89. Registra circulación intermitente en ambos sentidos por atención de derrumbe de Talud. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/aL6kkyRmfvWFhbms8 🟠 CIERRE PARCIAL DE CIRCULACIÓ",
+      "link": "https://nitter.net/CAPUFE/status/2058429606567268523#m",
+      "date": "2026-05-24T06:07:16+00:00"
     },
     {
       "id": "99577fe66d61",
@@ -491,20 +519,6 @@
       "text": "#Tomesusprecauciones en #Coahuila se registra cierre total de circulación por labores de reconexión principal de la red eléctrica, cerca del km 036+500, de la autopista Libramiento Norponiente-Saltillo. Atienda indicación vial. #Tomesusprecauciones en #Coahuila se registra cierre",
       "link": "https://nitter.net/GN_Carreteras/status/2058365785463009678#m",
       "date": "2026-05-24T01:53:40+00:00"
-    },
-    {
-      "id": "f1538d139c92",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 98.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 098+100, de la carretera Ciudad Mante - Llera de Canales. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteV",
-      "link": "https://nitter.net/GN_Carreteras/status/2058358756291838308#m",
-      "date": "2026-05-24T01:25:44+00:00"
     }
   ]
 }
