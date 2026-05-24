@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-24T11:32:13.533217+00:00",
+  "updated": "2026-05-24T12:30:09.946255+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "94e9c41510da",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 20, dirección Lechería. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 20, dirección Lechería. El ",
+      "link": "https://nitter.net/CAPUFE/status/2058516799755334108#m",
+      "date": "2026-05-24T11:53:45+00:00"
+    },
     {
       "id": "61867d372c0b",
       "account": "@capufe",
@@ -323,20 +337,6 @@
       "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Salina Cruz - La Ventosa, km 47. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por atención del accidente. El personal se encuentra realizando los servicios periciales en el lugar. Toma tus prec",
       "link": "https://nitter.net/CAPUFE/status/2058410844409491734#m",
       "date": "2026-05-24T04:52:43+00:00"
-    },
-    {
-      "id": "5cd1e1eda859",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 0, dirección Cuautla. Reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 0, dirección Cuautla.",
-      "link": "https://nitter.net/CAPUFE/status/2058408715363963090#m",
-      "date": "2026-05-24T04:44:15+00:00"
     },
     {
       "id": "38c9b0657650",
