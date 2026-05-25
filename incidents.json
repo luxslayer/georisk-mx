@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-25T16:18:45.562753+00:00",
-  "count": 39,
+  "updated": "2026-05-25T17:14:37.254915+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "f9182ebc0a3d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 2019.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Sonora se registra cierre parcial de circulación por #Accidentevial cerca del km 2019+000, de la carretera Los Mochis - Cd. Obregón. Atienda indicación vial. #Tomeprecauciones en #Sonora se registra cierre parcial de circulación por #Accidentevial cerca del ",
+      "link": "https://nitter.net/GN_Carreteras/status/2058956501985767611#m",
+      "date": "2026-05-25T17:00:58+00:00"
+    },
+    {
+      "id": "15415ff6aa5a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 179.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 179, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 179, dirección Querétaro. El accidente ha s",
+      "link": "https://nitter.net/CAPUFE/status/2058955665947628030#m",
+      "date": "2026-05-25T16:57:38+00:00"
+    },
+    {
+      "id": "b2dc8d6719a1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 105.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Sonora se registra cierre parcial de circulación por #Accidentevial cerca del km 105+900, de la carretera Sonoyta - San Luis Rio Colorado. Atienda indicación vial. #Tomeprecauciones en #Sonora se registra cierre parcial de circulación por #Accidentevial cerc",
+      "link": "https://nitter.net/GN_Carreteras/status/2058954129083355544#m",
+      "date": "2026-05-25T16:51:32+00:00"
+    },
     {
       "id": "2c74c2f4ab80",
       "account": "@capufe",
@@ -283,34 +325,6 @@
       "date": "2026-05-25T14:20:50+00:00"
     },
     {
-      "id": "d8708c0d8590",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 33.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 33, dirección CDMX. Registra carga vehicular por labores de mantenimiento en los carriles laterales (no a cargo de CAPUFE). Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 33, dirección CDMX. Registra carga vehicular",
-      "link": "https://nitter.net/CAPUFE/status/2058903185939431916#m",
-      "date": "2026-05-25T13:29:06+00:00"
-    },
-    {
-      "id": "a23a4d837962",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 163.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 163. Continúa circulación en contraflujo, por labores de mantenimiento sobre Puente El Carrizo. Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatl",
-      "link": "https://nitter.net/CAPUFE/status/2058901412029878622#m",
-      "date": "2026-05-25T13:22:03+00:00"
-    },
-    {
       "id": "905a86507f51",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -519,34 +533,6 @@
       "text": "#Tomesusprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 019+000 de la carretera Zihuatanejo-La Mira. Atienda indicación vial. #Tomesusprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca d",
       "link": "https://nitter.net/GN_Carreteras/status/2058659577135050886#m",
       "date": "2026-05-24T21:21:05+00:00"
-    },
-    {
-      "id": "f8dbcf4fe52d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 11.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomesusprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 011+000 de la autopista Puebla–Córdoba. Atienda indicación vial. #Tomesusprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km",
-      "link": "https://nitter.net/GN_Carreteras/status/2058655868720120178#m",
-      "date": "2026-05-24T21:06:21+00:00"
-    },
-    {
-      "id": "b20cbe395fa5",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 339.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Michoacán tras #AccidenteVial cerca del Km 339+000 de la carretera Zinapécuaro-Guadalajara. Se orienta a la ciudadanía #Rutaalterna Maravatio-Zapotlanejo dirección Villachuato y Zacapu. Maneje con precaución. #ViaLibre en #Michoacán tras #AccidenteVial cerca del Km ",
-      "link": "https://nitter.net/GN_Carreteras/status/2058649980781355336#m",
-      "date": "2026-05-24T20:42:57+00:00"
     }
   ]
 }
