@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-25T21:29:17.529586+00:00",
-  "count": 37,
+  "updated": "2026-05-25T21:56:57.393885+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "0678dbbd17a1",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Michoacán se registra cierre parcial de circulación por presencia de personas cerca del km 021+600, de la carretera Pátzcuaro - Uruapan. Atienda indicación vial. #Tomeprecauciones en #Michoacán se registra cierre parcial de circulación por presencia de perso",
+      "link": "https://nitter.net/GN_Carreteras/status/2059025345316032978#m",
+      "date": "2026-05-25T21:34:31+00:00"
+    },
     {
       "id": "62f8664c0677",
       "account": "@capufe",
@@ -297,20 +311,6 @@
       "date": "2026-05-25T19:57:53+00:00"
     },
     {
-      "id": "c31434e7abe9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 49.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 49, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central y salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 49, dirección ",
-      "link": "https://nitter.net/CAPUFE/status/2059000465556164619#m",
-      "date": "2026-05-25T19:55:40+00:00"
-    },
-    {
       "id": "a22c5796455e",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -505,20 +505,6 @@
       "text": "#ViaLibre en #Tamaulipas se registra cierre parcial de circulación tras presencia de personas cerca del Km 042+000 de la carretera Tampico – Cd. Mante. Maneje con precaución. #ViaLibre en #Tamaulipas se registra cierre parcial de circulación tras presencia de personas cerca del K",
       "link": "https://nitter.net/GN_Carreteras/status/2058871277452935355#m",
       "date": "2026-05-25T11:22:19+00:00"
-    },
-    {
-      "id": "3c2d912f9b6b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 21.0,
-      "lat": 18.257,
-      "lon": -94.93075,
-      "resolved": true,
-      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #Accidentevial cerca del Km 021+100 de la carretera Córdoba - ent. La Tinaja. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #Accidentevial cerca de",
-      "link": "https://nitter.net/GN_Carreteras/status/2058785542624457035#m",
-      "date": "2026-05-25T05:41:38+00:00"
     }
   ]
 }
