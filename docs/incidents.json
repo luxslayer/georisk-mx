@@ -1,7 +1,119 @@
 {
-  "updated": "2026-05-25T01:50:42.665744+00:00",
-  "count": 38,
+  "updated": "2026-05-25T03:16:37.011035+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "431dbd810e39",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 92.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 92, dirección Veracruz. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 92, dirección Veracru",
+      "link": "https://nitter.net/CAPUFE/status/2058743812223045659#m",
+      "date": "2026-05-25T02:55:49+00:00"
+    },
+    {
+      "id": "0d61ee12367b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 29.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Guerrero se registra cierre total de circulación por #AccidenteVial cerca del Km 029+700 de la carretera Puentes de Ixtla - Iguala. Se orienta a la ciudadanía #Rutaalterna carretera Libre Iguala-Taxco. Atienda indicación vial. #Tomeprecauciones en #Guerrero ",
+      "link": "https://nitter.net/GN_Carreteras/status/2058743329358250189#m",
+      "date": "2026-05-25T02:53:53+00:00"
+    },
+    {
+      "id": "13bba171275b",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 145.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 145, dirección Querétaro. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 145, dirección Querétaro. El incidente ha s",
+      "link": "https://nitter.net/CAPUFE/status/2058740509955293430#m",
+      "date": "2026-05-25T02:42:41+00:00"
+    },
+    {
+      "id": "eec50abcbbf4",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 44, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 44, dirección CDMX. El incidente ha sido atendido",
+      "link": "https://nitter.net/CAPUFE/status/2058740108715561140#m",
+      "date": "2026-05-25T02:41:06+00:00"
+    },
+    {
+      "id": "8cac96b39aaf",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 21, dirección Veracruz. Reducción de carriles por atención de accidente (choque de costado y salida del camino de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, ",
+      "link": "https://nitter.net/CAPUFE/status/2058737461103116480#m",
+      "date": "2026-05-25T02:30:34+00:00"
+    },
+    {
+      "id": "5cbbd6a6665f",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 256.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista Cuernavaca - Acapulco, km 256, dirección Cuernavaca. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución. 🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista Cuernavaca - Acapulco, km 256, dirección C",
+      "link": "https://nitter.net/CAPUFE/status/2058735237903851729#m",
+      "date": "2026-05-25T02:21:44+00:00"
+    },
+    {
+      "id": "7d83c9ba04b7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 294.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 294, dirección Córdoba. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (choque por alcance). En la zona se registra carga vehicular. Maneja c",
+      "link": "https://nitter.net/CAPUFE/status/2058733718139769334#m",
+      "date": "2026-05-25T02:15:42+00:00"
+    },
+    {
+      "id": "c29607823354",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 28.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Puente de Ixtla - Iguala, km 28. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. ➡️ Dirección Iguala, por seguridad de las personas usuarias, se desvía el tránsito vehicul",
+      "link": "https://nitter.net/CAPUFE/status/2058730575658139657#m",
+      "date": "2026-05-25T02:03:13+00:00"
+    },
     {
       "id": "5d95c3c0bad5",
       "account": "@capufe",
@@ -73,7 +185,7 @@
       "date": "2026-05-25T00:56:04+00:00"
     },
     {
-      "id": "baaeab56a15d",
+      "id": "0eda7d3db3a7",
       "account": "@capufe",
       "type": "rollover",
       "highway": "?",
@@ -82,7 +194,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Puente de Ixtla - Iguala, km 28. Cierre a la circulación en ambos sentidos por atención de volcadura de tracto camión tipo pipa. En la zona se registra derrame de combustible. Toma tus precauciones. Consulta la ubicación aquí: https://m",
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Puente de Ixtla - Iguala, km 28. Cierre a la circulación en ambos sentidos por atención de volcadura de tracto camión tipo pipa. En la zona se registra derrame de combustible. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.",
       "link": "https://nitter.net/CAPUFE/status/2058712650515726411#m",
       "date": "2026-05-25T00:51:59+00:00"
     },
@@ -171,34 +283,6 @@
       "date": "2026-05-24T22:48:20+00:00"
     },
     {
-      "id": "43c4efd3a387",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, dirección CDMX. Continúa carga vehicular en diversos puntos de la autopista, sin reporte de incidente: 🔘 Km 24, a la altura de la incorporación al Viaducto Elevado Tlalpan. 🔘 Km 31, a la altura del Poblado de Topilejo. 🔘 km 47, a la altur",
-      "link": "https://nitter.net/CAPUFE/status/2058679938220208565#m",
-      "date": "2026-05-24T22:42:00+00:00"
-    },
-    {
-      "id": "330e77b4d26e",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 24, dirección CDMX. Registra carga vehicular a la altura de la incorporación al Viaducto Elevado Tlalpan, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 24, dirección CDMX. Registra carg",
-      "link": "https://nitter.net/CAPUFE/status/2058677055332516067#m",
-      "date": "2026-05-24T22:30:33+00:00"
-    },
-    {
       "id": "8c166dca0bb3",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -211,34 +295,6 @@
       "text": "#Tomesusprecauciones #Chiapas se registra cierre total de circulación por #AccidenteVial cerca del Km 002+700 de la carretera Arriaga- Ocozocoautla. Se orienta a la ciudadanía #Rutaalterna carretera Tapachula-Juchitán de Zaragoza. Atienda indicación vial. #Tomesusprecauciones #Ch",
       "link": "https://nitter.net/GN_Carreteras/status/2058673717866070405#m",
       "date": "2026-05-24T22:17:17+00:00"
-    },
-    {
-      "id": "154dfd3a86d6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 50.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 50, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 50, dirección Querétaro",
-      "link": "https://nitter.net/CAPUFE/status/2058673022945386813#m",
-      "date": "2026-05-24T22:14:31+00:00"
-    },
-    {
-      "id": "c1c01dffc23b",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 44.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 44, dirección CDMX. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro ,",
-      "link": "https://nitter.net/CAPUFE/status/2058667013455667703#m",
-      "date": "2026-05-24T21:50:38+00:00"
     },
     {
       "id": "2295b7464bac",
@@ -255,20 +311,6 @@
       "date": "2026-05-24T21:33:19+00:00"
     },
     {
-      "id": "e5bc98026460",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 0, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 0, dirección Cuautla. El acciden",
-      "link": "https://nitter.net/CAPUFE/status/2058660226572693982#m",
-      "date": "2026-05-24T21:23:40+00:00"
-    },
-    {
       "id": "4eda59490936",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -281,48 +323,6 @@
       "text": "#Tomesusprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 019+000 de la carretera Zihuatanejo-La Mira. Atienda indicación vial. #Tomesusprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca d",
       "link": "https://nitter.net/GN_Carreteras/status/2058659577135050886#m",
       "date": "2026-05-24T21:21:05+00:00"
-    },
-    {
-      "id": "61aca2c774a3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 242.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precauc",
-      "link": "https://nitter.net/CAPUFE/status/2058659147705425931#m",
-      "date": "2026-05-24T21:19:23+00:00"
-    },
-    {
-      "id": "3b13d26d4767",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 241.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 241, dirección Cd. Mendoza. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 241",
-      "link": "https://nitter.net/CAPUFE/status/2058658523349647819#m",
-      "date": "2026-05-24T21:16:54+00:00"
-    },
-    {
-      "id": "6e8aded3727e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 0, dirección Cuautla. Reducción de carriles por atención de accidente (vagoneta siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 0, dirección Cuautla. Reducción",
-      "link": "https://nitter.net/CAPUFE/status/2058657563604906314#m",
-      "date": "2026-05-24T21:13:05+00:00"
     },
     {
       "id": "f8dbcf4fe52d",
@@ -365,20 +365,6 @@
       "text": "#Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación por #Accidentevial cerca del Km 004+900 de la carretera Celaya - Ojuelos. Atienda indicación vial. #Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación por #Accidentevial cerca del Km",
       "link": "https://nitter.net/GN_Carreteras/status/2058635957050474746#m",
       "date": "2026-05-24T19:47:14+00:00"
-    },
-    {
-      "id": "e70316fc0c23",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 242.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Continúa reducción de carriles por atención de choque por alcance entre tracto camiones. En la zona se registra derrame de diésel y carga vehicular. Maneja con precaución. Consulta",
-      "link": "https://nitter.net/CAPUFE/status/2058633968803529067#m",
-      "date": "2026-05-24T19:39:20+00:00"
     },
     {
       "id": "ebbfbbc2c722",
@@ -519,20 +505,6 @@
       "text": "#Tomesusprecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del Km 139+400 de la carretera Lagos de Moreno - Guadalajara. Atienda indicación vial. #Tomesusprecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial",
       "link": "https://nitter.net/GN_Carreteras/status/2058549581877551122#m",
       "date": "2026-05-24T14:04:00+00:00"
-    },
-    {
-      "id": "09bed440c2af",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 136.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Yucatan se registra cierre parcial de circulación por #AccidenteVial cerca del km 136+500, de la carretera Kantunil-Puerto Juárez. Atienda indicación vial. #TomePrecauciones en #Yucatan se registra cierre parcial de circulación por #AccidenteVial cerca del k",
-      "link": "https://nitter.net/GN_Carreteras/status/2058508091331633624#m",
-      "date": "2026-05-24T11:19:08+00:00"
     }
   ]
 }
