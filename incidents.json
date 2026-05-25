@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-25T23:28:30.797830+00:00",
+  "updated": "2026-05-25T23:54:37.440146+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "b1be6bae08ff",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 262.0,
+      "lat": 18.884,
+      "lon": -96.923,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 262+500, en la carretera Puebla-Cordoba, a la altura del Mpio. Nogales, con dir. a Orizaba. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre parcial ",
+      "link": "https://nitter.net/GN_Carreteras/status/2059060394174353901#m",
+      "date": "2026-05-25T23:53:48+00:00"
+    },
+    {
+      "id": "f44ee7effaef",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 94.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 94, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 94, dirección Acapulco. El accidente ha ",
+      "link": "https://nitter.net/CAPUFE/status/2059056278605893982#m",
+      "date": "2026-05-25T23:37:26+00:00"
+    },
     {
       "id": "bafecf61c356",
       "account": "@capufe",
@@ -241,20 +269,6 @@
       "date": "2026-05-25T21:34:31+00:00"
     },
     {
-      "id": "62f8664c0677",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 0, dirección Cuautla. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 0, dirección Cuautla. Red",
-      "link": "https://nitter.net/CAPUFE/status/2059023638595076176#m",
-      "date": "2026-05-25T21:27:44+00:00"
-    },
-    {
       "id": "5fa108698cf2",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -477,20 +491,6 @@
       "text": "#Tomeprecauciones en #Michoacán se registra cierre parcial de circulación por #Accidentevial cerca del Km 006+800 de la carretera La Piedad - Carapan. Atienda indicación vial. #Tomeprecauciones en #Michoacán se registra cierre parcial de circulación por #Accidentevial cerca del K",
       "link": "https://nitter.net/GN_Carreteras/status/2058900883543347503#m",
       "date": "2026-05-25T13:19:57+00:00"
-    },
-    {
-      "id": "2a512e4cc7ea",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 29.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Guerrero continua cierre total de circulación por #AccidenteVial cerca del Km 029+700 de la carretera Puentes de Ixtla - Iguala. Se orienta a la ciudadanía #Rutaalterna carretera Libre Iguala-Taxco. Atienda indicación vial. #Tomeprecauciones en #Guerrero con",
-      "link": "https://nitter.net/GN_Carreteras/status/2058876076198171017#m",
-      "date": "2026-05-25T11:41:23+00:00"
     }
   ]
 }
