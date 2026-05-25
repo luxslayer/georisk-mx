@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-25T00:58:20.532334+00:00",
+  "updated": "2026-05-25T01:50:42.665744+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "5d95c3c0bad5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 294.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 294, dirección Córdoba. Cierre a la circulación por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd.",
+      "link": "https://nitter.net/CAPUFE/status/2058726196473401599#m",
+      "date": "2026-05-25T01:45:49+00:00"
+    },
+    {
+      "id": "d2e55af4653c",
+      "account": "@capufe",
+      "type": "fire",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 145.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 145, dirección Querétaro. Reducción de carriles por atención de incidente (conato de incendio de tracto camión tipo pipa). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 145, dirección Qu",
+      "link": "https://nitter.net/CAPUFE/status/2058725802032734392#m",
+      "date": "2026-05-25T01:44:15+00:00"
+    },
+    {
+      "id": "ae2a5433639c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 112.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Colima se registra cierre parcial de circulación por #AccidenteVial cerca del Km 112+000 de la carretera Colima-Tecomán. Atienda indicación vial. #Tomeprecauciones en #Colima se registra cierre parcial de circulación por #AccidenteVial cerca del Km 112+000 d",
+      "link": "https://nitter.net/GN_Carreteras/status/2058723778520117286#m",
+      "date": "2026-05-25T01:36:12+00:00"
+    },
+    {
+      "id": "74fc1da970bd",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 67.0,
+      "lat": 18.1541,
+      "lon": -94.4882,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 67, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 67, dirección Isla. Red",
+      "link": "https://nitter.net/CAPUFE/status/2058721044718866566#m",
+      "date": "2026-05-25T01:25:20+00:00"
+    },
     {
       "id": "6aed42b7a9ec",
       "account": "@GN_carreteras",
@@ -283,62 +339,6 @@
       "date": "2026-05-24T21:06:21+00:00"
     },
     {
-      "id": "a13a25bf9c96",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 241.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 241, dirección Cd. Mendoza. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). En la zona se registra carga vehicular intensa. Maneja con precauc",
-      "link": "https://nitter.net/CAPUFE/status/2058654151119192318#m",
-      "date": "2026-05-24T20:59:32+00:00"
-    },
-    {
-      "id": "bee12afb6ba2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 242.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unid",
-      "link": "https://nitter.net/CAPUFE/status/2058653723488854031#m",
-      "date": "2026-05-24T20:57:50+00:00"
-    },
-    {
-      "id": "befc3172ec81",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 63.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 63, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 63, dirección Cuernavaca. El accidente ha",
-      "link": "https://nitter.net/CAPUFE/status/2058652787605422351#m",
-      "date": "2026-05-24T20:54:07+00:00"
-    },
-    {
-      "id": "bdbb5ca09675",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 50.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 50, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 50, dirección Querétaro.",
-      "link": "https://nitter.net/CAPUFE/status/2058652301414346979#m",
-      "date": "2026-05-24T20:52:11+00:00"
-    },
-    {
       "id": "b20cbe395fa5",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -365,6 +365,20 @@
       "text": "#Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación por #Accidentevial cerca del Km 004+900 de la carretera Celaya - Ojuelos. Atienda indicación vial. #Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación por #Accidentevial cerca del Km",
       "link": "https://nitter.net/GN_Carreteras/status/2058635957050474746#m",
       "date": "2026-05-24T19:47:14+00:00"
+    },
+    {
+      "id": "e70316fc0c23",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 242.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Continúa reducción de carriles por atención de choque por alcance entre tracto camiones. En la zona se registra derrame de diésel y carga vehicular. Maneja con precaución. Consulta",
+      "link": "https://nitter.net/CAPUFE/status/2058633968803529067#m",
+      "date": "2026-05-24T19:39:20+00:00"
     },
     {
       "id": "ebbfbbc2c722",
@@ -519,20 +533,6 @@
       "text": "#TomePrecauciones en #Yucatan se registra cierre parcial de circulación por #AccidenteVial cerca del km 136+500, de la carretera Kantunil-Puerto Juárez. Atienda indicación vial. #TomePrecauciones en #Yucatan se registra cierre parcial de circulación por #AccidenteVial cerca del k",
       "link": "https://nitter.net/GN_Carreteras/status/2058508091331633624#m",
       "date": "2026-05-24T11:19:08+00:00"
-    },
-    {
-      "id": "f9e1cc8f611b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 94.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 094+000, de la carretera Tepic - Puerto Vallarta. Atienda indicación vial. #TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del ",
-      "link": "https://nitter.net/GN_Carreteras/status/2058499289798578496#m",
-      "date": "2026-05-24T10:44:10+00:00"
     }
   ]
 }
