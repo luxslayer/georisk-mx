@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-25T17:14:37.254915+00:00",
-  "count": 38,
+  "updated": "2026-05-25T18:04:48.578181+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "7f1e8e631e2c",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 29.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "En #Guerrero continúa cierre total de circulación por #LaboresdeLimpieza cerca del km 029+700, de la carretera Puentes de Ixtla-Iguala. Se proporciona #Rutaalterna por la carretera Libre Iguala-Taxco. Atienda indicación vial. En #Guerrero continúa cierre total de circulación por ",
+      "link": "https://nitter.net/GN_Carreteras/status/2058969043000774744#m",
+      "date": "2026-05-25T17:50:48+00:00"
+    },
+    {
+      "id": "8037502dbe0b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 171.0,
+      "lat": 20.55436,
+      "lon": -100.274,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Querétaro se registra cierre parcial de circulación por #AccidenteVial cerca del km 171+800, de la carretera México-Querétaro, con dirección a la Ciudad de México. Atienda indicación vial. #TomePrecauciones en #Querétaro se registra cierre parcial de circula",
+      "link": "https://nitter.net/GN_Carreteras/status/2058966809651347961#m",
+      "date": "2026-05-25T17:41:55+00:00"
+    },
+    {
+      "id": "ff9226f3f6df",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 171.0,
+      "lat": 20.55436,
+      "lon": -100.274,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Querétaro se registra cierre parcial de circulación por #AccidenteVial cerca del km 171+800, de la carretera México-Querétaro, con dirección a la Ciudad de México. Atienda indicación vial. #TomePrecauciones en #Querétaro se registra cierre parcial de circula",
+      "link": "https://nitter.net/GN_Carreteras/status/2058966429781651762#m",
+      "date": "2026-05-25T17:40:25+00:00"
+    },
     {
       "id": "f9182ebc0a3d",
       "account": "@GN_carreteras",
@@ -311,20 +353,6 @@
       "date": "2026-05-25T14:25:31+00:00"
     },
     {
-      "id": "57f1dc6b0fb3",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 98.0,
-      "lat": 18.218174,
-      "lon": -99.530466,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Aut. Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 98 al 97 sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Aut. Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 98 al 97 sin repo",
-      "link": "https://nitter.net/CAPUFE/status/2058916204975136984#m",
-      "date": "2026-05-25T14:20:50+00:00"
-    },
-    {
       "id": "905a86507f51",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,48 +519,6 @@
       "text": "#ViaLibre en #Chiapas tras #AccidenteVial cerca del Km 002+700 de la carretera Arriaga- Ocozocoautla. Maneje con precaución. #ViaLibre en #Chiapas tras #AccidenteVial cerca del Km 002+700 de la carretera Arriaga- Ocozocoautla. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2058688103259283681#m",
       "date": "2026-05-24T23:14:27+00:00"
-    },
-    {
-      "id": "8c166dca0bb3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 2.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomesusprecauciones #Chiapas se registra cierre total de circulación por #AccidenteVial cerca del Km 002+700 de la carretera Arriaga- Ocozocoautla. Se orienta a la ciudadanía #Rutaalterna carretera Tapachula-Juchitán de Zaragoza. Atienda indicación vial. #Tomesusprecauciones #Ch",
-      "link": "https://nitter.net/GN_Carreteras/status/2058673717866070405#m",
-      "date": "2026-05-24T22:17:17+00:00"
-    },
-    {
-      "id": "2295b7464bac",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Tabasco tras presencia de personas cerca del Km 093+100 de la carretera Villahermosa-Cuidad del Carmen. Maneje con precaución. #ViaLibre en #Tabasco tras presencia de personas cerca del Km 093+100 de la carretera Villahermosa-Cuidad del Carmen. Maneje con precaución",
-      "link": "https://nitter.net/GN_Carreteras/status/2058662654135124064#m",
-      "date": "2026-05-24T21:33:19+00:00"
-    },
-    {
-      "id": "4eda59490936",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomesusprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 019+000 de la carretera Zihuatanejo-La Mira. Atienda indicación vial. #Tomesusprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca d",
-      "link": "https://nitter.net/GN_Carreteras/status/2058659577135050886#m",
-      "date": "2026-05-24T21:21:05+00:00"
     }
   ]
 }
