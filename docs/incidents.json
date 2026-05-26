@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-26T23:29:00.940975+00:00",
-  "count": 34,
+  "updated": "2026-05-26T23:55:27.961279+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "19227adafea1",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Oaxaca se registra presencia de personas cerca del km 016+000, de la carretera Oaxaca - Tehuantepec a la altura de TAD Pemex. Maneje con precaución. #TomePrecauciones en #Oaxaca se registra presencia de personas cerca del km 016+000, de la carretera Oaxaca -",
+      "link": "https://nitter.net/GN_Carreteras/status/2059421150770295212#m",
+      "date": "2026-05-26T23:47:19+00:00"
+    },
     {
       "id": "b16ee024af0e",
       "account": "@capufe",
@@ -141,6 +155,20 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 34. Reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central). En la zona se registra #lluvia. Disminuye tu velocidad y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoP",
       "link": "https://nitter.net/CAPUFE/status/2059403263544267188#m",
       "date": "2026-05-26T22:36:14+00:00"
+    },
+    {
+      "id": "b90fc9a77b47",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Chapalilla - Compostela, km 16. Se informa a las personas usuarias que se registra circulación intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Atiende la",
+      "link": "https://nitter.net/CAPUFE/status/2059396882032402720#m",
+      "date": "2026-05-26T22:10:53+00:00"
     },
     {
       "id": "9c21865323c8",
@@ -463,20 +491,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 094+100, de la carretera Cd. Valles -Tampico, con dirección a Villa Cacalilao, Ver. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circu",
       "link": "https://nitter.net/GN_Carreteras/status/2059302364671037483#m",
       "date": "2026-05-26T15:55:18+00:00"
-    },
-    {
-      "id": "e283fb204ab7",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 163.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "En #BajaCalifornia continúa cierre total de circulación por presencia de personas cerca del km 163+100, de la carretera Ensenada-Lázaro Cárdenas, a la altura del Ejido Tres Potrillos, sin ruta alterna. Atienda indicación vial. En #BajaCalifornia continúa cierre total de circulaci",
-      "link": "https://nitter.net/GN_Carreteras/status/2059300966147440908#m",
-      "date": "2026-05-26T15:49:44+00:00"
     }
   ]
 }
