@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-26T18:02:36.791974+00:00",
+  "updated": "2026-05-26T19:18:49.996004+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "38197130e469",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 178.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 178+740, de la carretera Apatzingán - Pátzcuaro. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca d",
+      "link": "https://nitter.net/GN_Carreteras/status/2059339018362368084#m",
+      "date": "2026-05-26T18:20:57+00:00"
+    },
+    {
+      "id": "1da3564d22c7",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Lib. Sur Qro.",
+      "route_key": "libramiento-queretaro",
+      "km": 90.0,
+      "lat": 20.588,
+      "lon": -100.39,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 090+800, de la carretera Ent. Santa Cruz-Cananea. Atienda indicación vial. #TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km",
+      "link": "https://nitter.net/GN_Carreteras/status/2059337162886132142#m",
+      "date": "2026-05-26T18:13:34+00:00"
+    },
     {
       "id": "ac2ed5ce5aae",
       "account": "@capufe",
@@ -505,34 +533,6 @@
       "text": "#Tomeprecauciones en #Veracruz se registra cierre de circulación por #AccidenteVial cerca del km 241+600, en la carretera Puebla-Cordoba , a la altura del Mpio. de Maltrata, con dir. a Puebla. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre de circulaci",
       "link": "https://nitter.net/GN_Carreteras/status/2059129616451657781#m",
       "date": "2026-05-26T04:28:51+00:00"
-    },
-    {
-      "id": "983a6b9175ad",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 147.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "Arriban a la Loc. de Ranchería Cumuapa, Tab. en el km 147+900, lugar donde pernoctarán, para el día de mañana continuar su marcha. Arriban a la Loc. de Ranchería Cumuapa, Tab. en el km 147+900, lugar donde pernoctarán, para el día de mañana continuar su marcha. Guardia Nacional C",
-      "link": "https://nitter.net/GN_Carreteras/status/2059112350435664125#m",
-      "date": "2026-05-26T03:20:15+00:00"
-    },
-    {
-      "id": "0164153b36bc",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 58.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Puebla se registra cierre de circulación tras maniobras por #AccidenteVial cerca del km 058+100, en la carretera San Hipólito-Xalapa, a la altura del Mpio. San Nicolás Buenos Aires. Atienda indicación vial. #Tomeprecauciones en #Puebla se registra cierre de ",
-      "link": "https://nitter.net/GN_Carreteras/status/2059108305683861966#m",
-      "date": "2026-05-26T03:04:11+00:00"
     }
   ]
 }
