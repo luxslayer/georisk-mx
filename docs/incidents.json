@@ -1,7 +1,77 @@
 {
-  "updated": "2026-05-26T23:55:27.961279+00:00",
+  "updated": "2026-05-27T01:01:25.565145+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "951d344c424e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 231.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 A",
+      "link": "https://nitter.net/CAPUFE/status/2059438238339661929#m",
+      "date": "2026-05-27T00:55:13+00:00"
+    },
+    {
+      "id": "dbc8b337aba3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 89.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 89, dirección Acapulco. Reducción de carriles laterales por atención de accidente (choque contra muro central). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramient",
+      "link": "https://nitter.net/CAPUFE/status/2059432172222640218#m",
+      "date": "2026-05-27T00:31:06+00:00"
+    },
+    {
+      "id": "49a1a2678c02",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 34.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 34, dirección CDMX. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 34, dirección CDMX. El accidente ha sido ate",
+      "link": "https://nitter.net/CAPUFE/status/2059430549526073693#m",
+      "date": "2026-05-27T00:24:40+00:00"
+    },
+    {
+      "id": "298cb5020421",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 34.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 34, dirección CDMX. Continúa reducción de carriles por atención de accidente (reacomodo de muro central). Dirección Puebla, opera de manera normal. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , k",
+      "link": "https://nitter.net/CAPUFE/status/2059428256730796035#m",
+      "date": "2026-05-27T00:15:33+00:00"
+    },
+    {
+      "id": "ec1f1c4c2c45",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 72.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial por #AccidenteVial cerca del km 072+250, de la carretera Matamoros-Reynosa. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre parcial por #AccidenteVial cerca del km 072+250, de la carretera Ma",
+      "link": "https://nitter.net/GN_Carreteras/status/2059428162518262001#m",
+      "date": "2026-05-27T00:15:10+00:00"
+    },
     {
       "id": "19227adafea1",
       "account": "@GN_carreteras",
@@ -157,20 +227,6 @@
       "date": "2026-05-26T22:36:14+00:00"
     },
     {
-      "id": "b90fc9a77b47",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Chapalilla - Compostela, km 16. Se informa a las personas usuarias que se registra circulación intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Atiende la",
-      "link": "https://nitter.net/CAPUFE/status/2059396882032402720#m",
-      "date": "2026-05-26T22:10:53+00:00"
-    },
-    {
       "id": "9c21865323c8",
       "account": "@capufe",
       "type": "alert",
@@ -295,48 +351,6 @@
       "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del km 039+600, de la carretera Barranca Larga - Ventanilla. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca de",
       "link": "https://nitter.net/GN_Carreteras/status/2059376890922647830#m",
       "date": "2026-05-26T20:51:26+00:00"
-    },
-    {
-      "id": "c03c9d73b064",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 96.0,
-      "lat": 18.253631,
-      "lon": -99.522849,
-      "resolved": true,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia del km 96 al 98. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia del km 96 al 98. Disminuye tu velocidad y maneja ",
-      "link": "https://nitter.net/CAPUFE/status/2059375260152062047#m",
-      "date": "2026-05-26T20:44:58+00:00"
-    },
-    {
-      "id": "7b6ac5df4b27",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 26.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 #AVISO a las personas usuarias de la autopista #ChamapaLechería 🚧 Continuarán los trabajos de mantenimiento a partir del km 26 dirección Lechería, con cierres parciales de carriles. Anticipe sus tiempos de traslado y maneje con precaución. 🚧 #AVISO a las personas usuarias de la",
-      "link": "https://nitter.net/CAPUFE/status/2059372358947758425#m",
-      "date": "2026-05-26T20:33:26+00:00"
-    },
-    {
-      "id": "90fccf1e7837",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 231.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. Continúa reducción de carriles por atención de accidente (volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, k",
-      "link": "https://nitter.net/CAPUFE/status/2059371675267813574#m",
-      "date": "2026-05-26T20:30:43+00:00"
     },
     {
       "id": "38197130e469",
@@ -477,20 +491,6 @@
       "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del km 282+900, de la carretera Coatzacoalcos - Salinas Cruz, con dirección a Salina Cruz, Oax. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre parcial de circ",
       "link": "https://nitter.net/GN_Carreteras/status/2059309635455078777#m",
       "date": "2026-05-26T16:24:11+00:00"
-    },
-    {
-      "id": "eaafb729792b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 94.0,
-      "lat": 29.5864,
-      "lon": -106.3644,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 094+100, de la carretera Cd. Valles -Tampico, con dirección a Villa Cacalilao, Ver. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circu",
-      "link": "https://nitter.net/GN_Carreteras/status/2059302364671037483#m",
-      "date": "2026-05-26T15:55:18+00:00"
     }
   ]
 }
