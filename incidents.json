@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-28T22:58:43.659458+00:00",
-  "count": 36,
+  "updated": "2026-05-28T23:35:55.405631+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "d21fb9d219d4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 46.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 46, dirección Irapuato. Reducción de carriles por atención de accidente (salida del camino de camión de carga y choque contra barrera metálica). En la zona se registra carga vehicular. Maneja con precaución. 🟠 C",
+      "link": "https://nitter.net/CAPUFE/status/2060139886322094276#m",
+      "date": "2026-05-28T23:23:19+00:00"
+    },
+    {
+      "id": "84a8357619d3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 28.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 28, dirección Nuevo Teapa. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista N",
+      "link": "https://nitter.net/CAPUFE/status/2060138478050955425#m",
+      "date": "2026-05-28T23:17:43+00:00"
+    },
     {
       "id": "ced752549e1d",
       "account": "@capufe",
@@ -171,20 +199,6 @@
       "date": "2026-05-28T22:00:00+00:00"
     },
     {
-      "id": "279a2403e4cd",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 49.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Agua Dulce - Cárdenas, km 49, dirección Agua Dulce. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Agua Dulce - Cárdenas, km 49, dirección Agua D",
-      "link": "https://nitter.net/CAPUFE/status/2060113960460865793#m",
-      "date": "2026-05-28T21:40:17+00:00"
-    },
-    {
       "id": "e05b447dbc4b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -213,34 +227,6 @@
       "date": "2026-05-28T21:27:03+00:00"
     },
     {
-      "id": "bd44b1e38476",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 49.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Agua Dulce - Cárdenas, km 49, dirección Agua Dulce. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se regi",
-      "link": "https://nitter.net/CAPUFE/status/2060106570696986844#m",
-      "date": "2026-05-28T21:10:56+00:00"
-    },
-    {
-      "id": "cdf00b1b085b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 79.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 79, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 79, dirección CDMX. El accidente ha sido atendi",
-      "link": "https://nitter.net/CAPUFE/status/2060103997680193630#m",
-      "date": "2026-05-28T21:00:42+00:00"
-    },
-    {
       "id": "a359a502e1ba",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -253,34 +239,6 @@
       "text": "#TomePrecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del km 022+650, de la carretera México-ent. Tizayuca a inmediaciones del Mpio. Ecatepec. Atienda indicación vial. #TomePrecauciones en #EdoMex se registra cierre parcial de circulación",
       "link": "https://nitter.net/GN_Carreteras/status/2060102469485555994#m",
       "date": "2026-05-28T20:54:38+00:00"
-    },
-    {
-      "id": "93c3ce77dd38",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 139.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Las Choapas - Ocozocoautla, km 139. Continúa circulación intermitente en ambos sentidos por atención de accidente (choque de frente entre tracto camión y motocicleta). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIE",
-      "link": "https://nitter.net/CAPUFE/status/2060100043219071157#m",
-      "date": "2026-05-28T20:44:59+00:00"
-    },
-    {
-      "id": "b8afb21c141e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 49.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Agua Dulce - Cárdenas, km 49, dirección Agua Dulce. Cierre a la circulación por atención de accidente (salida del camino). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Agua Dulce - Cárdenas, k",
-      "link": "https://nitter.net/CAPUFE/status/2060099710833090718#m",
-      "date": "2026-05-28T20:43:40+00:00"
     },
     {
       "id": "d7f4d449e241",
