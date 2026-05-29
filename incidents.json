@@ -1,7 +1,77 @@
 {
-  "updated": "2026-05-29T13:14:26.143921+00:00",
-  "count": 38,
+  "updated": "2026-05-29T14:24:23.753795+00:00",
+  "count": 40,
   "incidents": [
+    {
+      "id": "c0670fa29832",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
+      "link": "https://nitter.net/CAPUFE/status/2060364967899971996#m",
+      "date": "2026-05-29T14:17:42+00:00"
+    },
+    {
+      "id": "a5077ca5e67d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 39.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 39, dirección Irapuato. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro ",
+      "link": "https://nitter.net/CAPUFE/status/2060363904283271508#m",
+      "date": "2026-05-29T14:13:29+00:00"
+    },
+    {
+      "id": "4d8734872941",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 86.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Agua Dulce - Cárdenas, km 86, dirección Agua Dulce. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autop",
+      "link": "https://nitter.net/CAPUFE/status/2060362209771852180#m",
+      "date": "2026-05-29T14:06:45+00:00"
+    },
+    {
+      "id": "c3000650f3cd",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 79.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 79, dirección Isla. Reducción de carriles por atención de accidente (salida del camino y choque contra barrera metálica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 79, d",
+      "link": "https://nitter.net/CAPUFE/status/2060357582296920326#m",
+      "date": "2026-05-29T13:48:21+00:00"
+    },
+    {
+      "id": "bcf112342455",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 75.0,
+      "lat": 20.22,
+      "lon": -99.59,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Barranca Larga - Ventanilla, km 75. Circulación intermitente en ambos sentidos por atención de salida del camino de vagoneta. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/M3GJJuKF572peU3Y8 🟠 CIERRE PARCIAL ",
+      "link": "https://nitter.net/CAPUFE/status/2060350276385542616#m",
+      "date": "2026-05-29T13:19:20+00:00"
+    },
     {
       "id": "bea70763d75f",
       "account": "@capufe",
@@ -241,20 +311,6 @@
       "date": "2026-05-29T09:55:52+00:00"
     },
     {
-      "id": "60557caf8c56",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 146.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 146, dirección Querétaro. Reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 146, dire",
-      "link": "https://nitter.net/CAPUFE/status/2060292208083788044#m",
-      "date": "2026-05-29T09:28:35+00:00"
-    },
-    {
       "id": "7266d4174ca0",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,20 +323,6 @@
       "text": "#TomePrecauciones en #Michoacan se registra cierre parcial de circulación por #AccidenteVial cerca del km 005+950, de la carretera La Piedad- Carapan dirección La Piedad de Cavadas. Atienda indicación vial. #TomePrecauciones en #Michoacan se registra cierre parcial de circulación",
       "link": "https://nitter.net/GN_Carreteras/status/2060287736381161891#m",
       "date": "2026-05-29T09:10:49+00:00"
-    },
-    {
-      "id": "67786e20d05f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 107.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tecate - La Rumorosa, km 107, dirección La Rumorosa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tecate - La Rumorosa, km 107, dirección La Ru",
-      "link": "https://nitter.net/CAPUFE/status/2060280600418726155#m",
-      "date": "2026-05-29T08:42:27+00:00"
     },
     {
       "id": "7343c9e31d5f",
@@ -309,20 +351,6 @@
       "text": "#ViaLibre en #Puebla tras #AccidenteVial cerca del km 077+400, de la carretera Amozoc-Perote. Maneje con precaución. #ViaLibre en #Puebla tras #AccidenteVial cerca del km 077+400, de la carretera Amozoc-Perote. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2060278360673013971#m",
       "date": "2026-05-29T08:33:33+00:00"
-    },
-    {
-      "id": "5ae88fee2844",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 178.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 178, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 A",
-      "link": "https://nitter.net/CAPUFE/status/2060278158897607022#m",
-      "date": "2026-05-29T08:32:45+00:00"
     },
     {
       "id": "305616a78b83",
