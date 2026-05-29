@@ -1,7 +1,105 @@
 {
-  "updated": "2026-05-29T03:47:25.246648+00:00",
-  "count": 34,
+  "updated": "2026-05-29T05:32:43.292914+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "f8be16df0bc3",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 75.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Veracruz tras #AccidenteVial cerca del km 075+000, de la carretera Cardel - Poza Rica. Maneje con precaución. #ViaLibre en #Veracruz tras #AccidenteVial cerca del km 075+000, de la carretera Cardel - Poza Rica. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2060231857245970898#m",
+      "date": "2026-05-29T05:28:46+00:00"
+    },
+    {
+      "id": "75ddb5ee652d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 197.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Guaymas - Hermosillo, km 197, dirección Hermosillo. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Guaymas - Hermosill",
+      "link": "https://nitter.net/CAPUFE/status/2060220991343620113#m",
+      "date": "2026-05-29T04:45:36+00:00"
+    },
+    {
+      "id": "9f042fefe430",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 46.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 46, dirección Querétaro. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Maneja con precaución. Para m",
+      "link": "https://nitter.net/CAPUFE/status/2060220409014898950#m",
+      "date": "2026-05-29T04:43:17+00:00"
+    },
+    {
+      "id": "e5ad21ff74b4",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 017+500, de la carretera Villahermosa - Francisco Escárcega. Atienda indicación vial. #TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial",
+      "link": "https://nitter.net/GN_Carreteras/status/2060212802585866271#m",
+      "date": "2026-05-29T04:13:03+00:00"
+    },
+    {
+      "id": "1f6a285084e5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 46.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 46, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopis",
+      "link": "https://nitter.net/CAPUFE/status/2060208487200587999#m",
+      "date": "2026-05-29T03:55:54+00:00"
+    },
+    {
+      "id": "338df7ec3a12",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLEC",
+      "link": "https://nitter.net/CAPUFE/status/2060208339703808469#m",
+      "date": "2026-05-29T03:55:19+00:00"
+    },
+    {
+      "id": "0c53e9abafdb",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 63.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 63, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 63, dirección Cuernavaca. El accidente ha",
+      "link": "https://nitter.net/CAPUFE/status/2060208114893312477#m",
+      "date": "2026-05-29T03:54:26+00:00"
+    },
     {
       "id": "f478eef1da55",
       "account": "@GN_carreteras",
@@ -31,7 +129,7 @@
       "date": "2026-05-29T03:34:59+00:00"
     },
     {
-      "id": "35d634253614",
+      "id": "0997a0c3b848",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -40,7 +138,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 56, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más informaci",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 56, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más inf",
       "link": "https://nitter.net/CAPUFE/status/2060201496516440271#m",
       "date": "2026-05-29T03:28:08+00:00"
     },
@@ -199,20 +297,6 @@
       "date": "2026-05-29T02:00:04+00:00"
     },
     {
-      "id": "a8f9d40a3121",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 28.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 28, dirección Nuevo Teapa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 28, direc",
-      "link": "https://nitter.net/CAPUFE/status/2060166755155087804#m",
-      "date": "2026-05-29T01:10:05+00:00"
-    },
-    {
       "id": "aabdc192e75f",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -225,20 +309,6 @@
       "text": "#ViaLibre en #Hidalgo tras presencia de personas cerca del km 020+500, de la carretera Álamo - Tamazunchale a la altura del Mpio. San Felipe Orizatlán. Maneje con precaución. #ViaLibre en #Hidalgo tras presencia de personas cerca del km 020+500, de la carretera Álamo - Tamazuncha",
       "link": "https://nitter.net/GN_Carreteras/status/2060166369002295657#m",
       "date": "2026-05-29T01:08:33+00:00"
-    },
-    {
-      "id": "f9c90b7b4870",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 58.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 58, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 58, dirección Cuernavaca. Reducció",
-      "link": "https://nitter.net/CAPUFE/status/2060165928336150817#m",
-      "date": "2026-05-29T01:06:48+00:00"
     },
     {
       "id": "8fb132690add",
@@ -449,34 +519,6 @@
       "text": "#ViaLibre en #Jalisco tras #AccidenteVial cerca del km 141+300, de la carretera Lagos de Moreno - El Desperdicio. Maneje con precaución. #ViaLibre en #Jalisco tras #AccidenteVial cerca del km 141+300, de la carretera Lagos de Moreno - El Desperdicio. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2060038215684256061#m",
       "date": "2026-05-28T16:39:18+00:00"
-    },
-    {
-      "id": "93af0fab32e2",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 182.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Puebla tras #AccidenteVial cerca del km 182+900, de la carretera Pachuca-Tuxpan, con dirección a Pachuca, Hgo. Maneje con precaución. #ViaLibre en #Puebla tras #AccidenteVial cerca del km 182+900, de la carretera Pachuca-Tuxpan, con dirección a Pachuca, Hgo. Maneje ",
-      "link": "https://nitter.net/GN_Carreteras/status/2060037600224645357#m",
-      "date": "2026-05-28T16:36:52+00:00"
-    },
-    {
-      "id": "5a60d0a6deb9",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 158.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 158+800, de la carretera Torreón - Saltillo. Atienda indicación vial. #TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km ",
-      "link": "https://nitter.net/GN_Carreteras/status/2060034455608123729#m",
-      "date": "2026-05-28T16:24:22+00:00"
     }
   ]
 }
