@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-30T16:26:15.905470+00:00",
+  "updated": "2026-05-30T16:51:07.385991+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "59e3f350025b",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 52.0,
+      "lat": 18.1796,
+      "lon": -94.6892,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 52, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 52, dirección Isla. El incidente ha ",
+      "link": "https://nitter.net/CAPUFE/status/2060764770131714135#m",
+      "date": "2026-05-30T16:46:23+00:00"
+    },
+    {
+      "id": "6b9fd202eafc",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 60.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "En #Michoacán continúa cierre total de circulación por presencia de personas, cerca del km 060+500, de la carretera Acalpican-Manzanillo, se proporciona #RutaAlterna por la carretera Purépero Paracho. Atienda indicación vial. En #Michoacán continúa cierre total de circulación por",
+      "link": "https://nitter.net/GN_Carreteras/status/2060762315037749671#m",
+      "date": "2026-05-30T16:36:37+00:00"
+    },
     {
       "id": "75880d5d1a4a",
       "account": "@capufe",
@@ -325,20 +353,6 @@
       "date": "2026-05-30T12:51:01+00:00"
     },
     {
-      "id": "0fbae6a7e19b",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 23.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 23, dirección Cuernavaca. Concluyen labores de mantenimiento. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 23, dirección Cuernavaca. Concluyen",
-      "link": "https://nitter.net/CAPUFE/status/2060701912807190776#m",
-      "date": "2026-05-30T12:36:36+00:00"
-    },
-    {
       "id": "97f8d5eac3f5",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,20 +505,6 @@
       "text": "#ViaLibre en #Oaxaca tras presencia de personas cerca del km 001+900, de la carretera Oaxaca-Puerto Ángel, a la altura de la caseta de cobro No. 225, Barranca Larga-Ventanilla, Mpio. Yogana. Maneje con precaución. #ViaLibre en #Oaxaca tras presencia de personas cerca del km 001+9",
       "link": "https://nitter.net/GN_Carreteras/status/2060536780672139643#m",
       "date": "2026-05-30T01:40:26+00:00"
-    },
-    {
-      "id": "b1bb0fadd2ee",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 139.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Michoacan tras presencia de personas, cerca del km 139+200, de la ctra. Zamora–Tangancícuaro, a inmediaciones de la Loc. Tangancícuaro de Arista. Maneje con precaución. #ViaLibre en #Michoacan tras presencia de personas, cerca del km 139+200, de la ctra. Zamora–Tang",
-      "link": "https://nitter.net/GN_Carreteras/status/2060534985027674335#m",
-      "date": "2026-05-30T01:33:17+00:00"
     }
   ]
 }
