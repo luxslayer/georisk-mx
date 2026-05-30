@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-30T04:48:31.201261+00:00",
-  "count": 33,
+  "updated": "2026-05-30T06:08:43.172411+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "bf043016a9a2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 57.0,
+      "lat": 20.1192,
+      "lon": -99.3956,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 57, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 57",
+      "link": "https://nitter.net/CAPUFE/status/2060594813330678097#m",
+      "date": "2026-05-30T05:31:02+00:00"
+    },
+    {
+      "id": "2f639cfdeb47",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 124.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 124. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada y trasvase de carga). Atie",
+      "link": "https://nitter.net/CAPUFE/status/2060590156101419376#m",
+      "date": "2026-05-30T05:12:31+00:00"
+    },
     {
       "id": "a0c9eac1432e",
       "account": "@capufe",
@@ -351,20 +379,6 @@
       "text": "#TomePrecauciones en #Guerrero se registra cierre total de circulación por #AccidenteVíal cerca del km 131+800, de la carretera Acapulco-Zihuatanejo, a la altura del poblado San Luis de la Loma, Mpio. de Tecpán de Galeana. Atienda indicación vial. #TomePrecauciones en #Guerrero s",
       "link": "https://nitter.net/GN_Carreteras/status/2060533818176491675#m",
       "date": "2026-05-30T01:28:39+00:00"
-    },
-    {
-      "id": "9995ce8d350d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 104.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. La Tinaja - Isla, km 104, dirección Isla. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal de CAPUFE y Bomberos, continúan realizando las labores de atención del accidente. En la zona s",
-      "link": "https://nitter.net/CAPUFE/status/2060533031769674127#m",
-      "date": "2026-05-30T01:25:32+00:00"
     },
     {
       "id": "5c1a6a4c68a2",
