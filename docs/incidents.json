@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-30T20:26:17.691485+00:00",
-  "count": 36,
+  "updated": "2026-05-30T20:50:18.932922+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "5e60a9d67526",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 153.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, del km 153 al 158, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , del km 153 al 158, dirección CDMX. Reducción de",
+      "link": "https://nitter.net/CAPUFE/status/2060820831912009751#m",
+      "date": "2026-05-30T20:29:09+00:00"
+    },
     {
       "id": "054b4ea0b4b2",
       "account": "@capufe",
@@ -213,46 +227,18 @@
       "date": "2026-05-30T17:49:58+00:00"
     },
     {
-      "id": "f8b5edf320f7",
+      "id": "d0dda07de55c",
       "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 332.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 104.0,
+      "lat": 18.149,
+      "lon": -94.448,
       "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 332, dirección Acapulco. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernava",
-      "link": "https://nitter.net/CAPUFE/status/2060777913994100999#m",
-      "date": "2026-05-30T17:38:36+00:00"
-    },
-    {
-      "id": "5173e6f91e43",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación. El personal continúa con la atención del accidente, por el momento sin afectar los carriles de rodamiento. Sin embargo, en la zona se registra circulación en contraflujo p",
-      "link": "https://nitter.net/CAPUFE/status/2060775367871213599#m",
-      "date": "2026-05-30T17:28:29+00:00"
-    },
-    {
-      "id": "cef7db69c875",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 124.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 124. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada y trasvase de carga). Atiende las indicaciones viales y maneja con precaución. ",
-      "link": "https://nitter.net/CAPUFE/status/2060772436111413712#m",
-      "date": "2026-05-30T17:16:50+00:00"
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 104, dirección Isla. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de las unidades siniestradas. Toma tus precauciones. Para más información llama al 0",
+      "link": "https://nitter.net/CAPUFE/status/2060779732757536929#m",
+      "date": "2026-05-30T17:45:50+00:00"
     },
     {
       "id": "79e2c2081324",
@@ -491,20 +477,6 @@
       "text": "#ViaLibre en #Veracruz tras cierre total de circulación por #AccidenteVial cerca del km 104+500, de la carretera ent. La tinaja-Cosoleacaque. Maneje con precaución. #ViaLibre en #Veracruz tras cierre total de circulación por #AccidenteVial cerca del km 104+500, de la carretera en",
       "link": "https://nitter.net/GN_Carreteras/status/2060550301950570725#m",
       "date": "2026-05-30T02:34:09+00:00"
-    },
-    {
-      "id": "7343c9e31d5f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 104.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 104. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camiones. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/HCBU5fh7ygTdBU227 🔴 CIERRE DE CIRC",
-      "link": "https://nitter.net/CAPUFE/status/2060279224452182514#m",
-      "date": "2026-05-29T08:36:59+00:00"
     }
   ]
 }
