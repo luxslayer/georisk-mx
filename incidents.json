@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-30T09:17:41.904674+00:00",
-  "count": 36,
+  "updated": "2026-05-30T10:12:33.223066+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "bd514a2464e6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 18.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 18, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 18, dirección CDMX. El accidente ha sido atendido. Tra",
+      "link": "https://nitter.net/CAPUFE/status/2060664757477138640#m",
+      "date": "2026-05-30T10:08:58+00:00"
+    },
     {
       "id": "d5e268564d97",
       "account": "@capufe",
