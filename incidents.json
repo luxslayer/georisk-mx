@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-30T10:12:33.223066+00:00",
+  "updated": "2026-05-30T11:00:57.640475+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "14e60b59246d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 332.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 332, dirección Acapulco. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 332, dirección Acapulco",
+      "link": "https://nitter.net/CAPUFE/status/2060675199326945408#m",
+      "date": "2026-05-30T10:50:27+00:00"
+    },
     {
       "id": "bd514a2464e6",
       "account": "@capufe",
@@ -267,20 +281,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 57, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 57",
       "link": "https://nitter.net/CAPUFE/status/2060594813330678097#m",
       "date": "2026-05-30T05:31:02+00:00"
-    },
-    {
-      "id": "2f639cfdeb47",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 124.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 124. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada y trasvase de carga). Atie",
-      "link": "https://nitter.net/CAPUFE/status/2060590156101419376#m",
-      "date": "2026-05-30T05:12:31+00:00"
     },
     {
       "id": "aa358e59e55b",
