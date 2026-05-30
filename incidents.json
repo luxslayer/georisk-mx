@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-30T20:50:18.932922+00:00",
+  "updated": "2026-05-30T21:24:27.427990+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "1bdaee2e4630",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 137.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Puebla se registra cierre total de circulación por #AccidenteVíal cerca del km 137+200, de la carretera Tulancingo - Tihuatlán, con dirección a Tuxpan, Ver. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre total de circulación por #Ac",
+      "link": "https://nitter.net/GN_Carreteras/status/2060828247537946933#m",
+      "date": "2026-05-30T20:58:37+00:00"
+    },
+    {
+      "id": "2e9ae9a446bc",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 262.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre total de circulación por presencia de personas cerca del km 262+100, de la carretera Pachuca - Tuxpan, con dirección a Tuxpan, Ver. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre total de circulación po",
+      "link": "https://nitter.net/GN_Carreteras/status/2060826889334219065#m",
+      "date": "2026-05-30T20:53:13+00:00"
+    },
     {
       "id": "5e60a9d67526",
       "account": "@capufe",
@@ -449,34 +477,6 @@
       "text": "#TomePrecaución en #Chiapas se registra #Movimiento de personas de la Caravana Dios Bendice, cerca del km 217+000 de la carretera Tapanatepec-Talismán con ramales a Unión Juárez y Cd. Hidalgo, avanzan con dirección a Arriaga, Chis. Atienda Indicación Vial. #TomePrecaución en #Chi",
       "link": "https://nitter.net/GN_Carreteras/status/2060556881752461410#m",
       "date": "2026-05-30T03:00:18+00:00"
-    },
-    {
-      "id": "fd50846c5167",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 189.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre total por presencia de personas, cerca del km 189+430, de la carretera Pachuca-Tuxpan, a la altura de la Loc. Zacate Colorado, sin ruta alterna. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre total por ",
-      "link": "https://nitter.net/GN_Carreteras/status/2060555663244153202#m",
-      "date": "2026-05-30T02:55:28+00:00"
-    },
-    {
-      "id": "6306513aae1e",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 104.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "#ViaLibre en #Veracruz tras cierre total de circulación por #AccidenteVial cerca del km 104+500, de la carretera ent. La tinaja-Cosoleacaque. Maneje con precaución. #ViaLibre en #Veracruz tras cierre total de circulación por #AccidenteVial cerca del km 104+500, de la carretera en",
-      "link": "https://nitter.net/GN_Carreteras/status/2060550301950570725#m",
-      "date": "2026-05-30T02:34:09+00:00"
     }
   ]
 }
