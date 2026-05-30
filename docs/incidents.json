@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-30T21:24:27.427990+00:00",
-  "count": 34,
+  "updated": "2026-05-30T21:49:29.148206+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "dde4e25d7a98",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 262.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Veracruz tras presencia de personas cerca del km 262+100, de la carretera Pachuca - Tuxpan, con dirección a Tuxpan, Ver. Maneje con precaución. #VíaLibre en #Veracruz tras presencia de personas cerca del km 262+100, de la carretera Pachuca - Tuxpan, con dirección a ",
+      "link": "https://nitter.net/GN_Carreteras/status/2060838439604658260#m",
+      "date": "2026-05-30T21:39:07+00:00"
+    },
+    {
+      "id": "8ac15d873be2",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 288.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 288, dirección Cd. Mendoza. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 288, dirección C",
+      "link": "https://nitter.net/CAPUFE/status/2060837854977175774#m",
+      "date": "2026-05-30T21:36:47+00:00"
+    },
     {
       "id": "1bdaee2e4630",
       "account": "@GN_carreteras",
@@ -241,34 +269,6 @@
       "date": "2026-05-30T18:20:14+00:00"
     },
     {
-      "id": "a7e3c4424c5b",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 104.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 104, dirección Isla. Se informa a las personas usuarias que se restablece la circulación de manera intermitente. El personal continúa realizando las maniobras de grúa para el retiro de las unidades siniestradas. Atien",
-      "link": "https://nitter.net/CAPUFE/status/2060780773725339856#m",
-      "date": "2026-05-30T17:49:58+00:00"
-    },
-    {
-      "id": "d0dda07de55c",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 104.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 104, dirección Isla. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de las unidades siniestradas. Toma tus precauciones. Para más información llama al 0",
-      "link": "https://nitter.net/CAPUFE/status/2060779732757536929#m",
-      "date": "2026-05-30T17:45:50+00:00"
-    },
-    {
       "id": "79e2c2081324",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -463,20 +463,6 @@
       "text": "En #Oaxaca se retiran las personas que se encontraban en el km 019+000, de la carretera Oaxaca-Tehuantepec, a la altura de la TAD Pemex, Mpio. Santa María del Tule. Maneje con precaución. En #Oaxaca se retiran las personas que se encontraban en el km 019+000, de la carretera Oaxa",
       "link": "https://nitter.net/GN_Carreteras/status/2060557447903826080#m",
       "date": "2026-05-30T03:02:33+00:00"
-    },
-    {
-      "id": "45d52ebbeb0c",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 217.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecaución en #Chiapas se registra #Movimiento de personas de la Caravana Dios Bendice, cerca del km 217+000 de la carretera Tapanatepec-Talismán con ramales a Unión Juárez y Cd. Hidalgo, avanzan con dirección a Arriaga, Chis. Atienda Indicación Vial. #TomePrecaución en #Chi",
-      "link": "https://nitter.net/GN_Carreteras/status/2060556881752461410#m",
-      "date": "2026-05-30T03:00:18+00:00"
     }
   ]
 }
