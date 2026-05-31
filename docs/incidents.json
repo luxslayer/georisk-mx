@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-31T21:24:27.245579+00:00",
+  "updated": "2026-05-31T21:49:24.048344+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "529dc606ab2d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 104.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVíal cerca del km 104+300, de la carretera Puebla - Tehuacán. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVíal cerca del km 104+3",
+      "link": "https://nitter.net/GN_Carreteras/status/2061203392995668309#m",
+      "date": "2026-05-31T21:49:18+00:00"
+    },
+    {
+      "id": "3113be832ce9",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 289.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVia cerca del km 289+900, de la carretera Pinotepa Nacional - Salina Cruz, con dirección a Oaxaca. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre parcial de circulación ",
+      "link": "https://nitter.net/GN_Carreteras/status/2061202447050109381#m",
+      "date": "2026-05-31T21:45:33+00:00"
+    },
     {
       "id": "519034c75597",
       "account": "@capufe",
@@ -519,34 +547,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 272+370, de la carretera Puebla-Cordoba, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #Acciden",
       "link": "https://nitter.net/GN_Carreteras/status/2060946530895323246#m",
       "date": "2026-05-31T04:48:38+00:00"
-    },
-    {
-      "id": "4693196936b7",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 27.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVíal cerca del km 027+500, de la carretera La Rinconada - La Piedad. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVíal cerca",
-      "link": "https://nitter.net/GN_Carreteras/status/2060900208037573115#m",
-      "date": "2026-05-31T01:44:33+00:00"
-    },
-    {
-      "id": "30b5fd44cf2d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Hidalgo tras #AccidenteVíal cerca del km 093+000, de la carretera Libramiento Norte de la Ciudad de México, con dirección a Querétaro. Maneje con precaución. #VíaLibre en #Hidalgo tras #AccidenteVíal cerca del km 093+000, de la carretera Libramiento Norte de la Ciud",
-      "link": "https://nitter.net/GN_Carreteras/status/2060893262081294736#m",
-      "date": "2026-05-31T01:16:57+00:00"
     }
   ]
 }
