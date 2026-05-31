@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-31T08:28:31.268524+00:00",
+  "updated": "2026-05-31T09:34:50.594230+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "295a0fabe273",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 181.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 181, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 181, dirección Isla. Red",
+      "link": "https://nitter.net/CAPUFE/status/2061011860673982777#m",
+      "date": "2026-05-31T09:08:13+00:00"
+    },
     {
       "id": "29e7f0180404",
       "account": "@capufe",
@@ -281,20 +295,6 @@
       "text": "🟠 CARGA VEHICULAR 🟠 Aut. Las Choapas - Ocozocoautla, km 99. El accidente ha sido atendido. Se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Aut. Las Choapas - Ocozocoautla, km 99. El accidente ha si",
       "link": "https://nitter.net/CAPUFE/status/2060942696756195775#m",
       "date": "2026-05-31T04:33:24+00:00"
-    },
-    {
-      "id": "0556593ebfaf",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 99.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 99. Continúa cierre a la circulación en ambos sentidos por atención del accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULAC",
-      "link": "https://nitter.net/CAPUFE/status/2060934542500770224#m",
-      "date": "2026-05-31T04:00:59+00:00"
     },
     {
       "id": "4693196936b7",
