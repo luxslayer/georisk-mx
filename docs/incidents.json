@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-31T10:43:02.357579+00:00",
+  "updated": "2026-05-31T11:35:37.242598+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "1f515c8be056",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 98.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #VehículoIncendiado derivado a una falla mecánica cerca del km 098+300, de la Tuxpan-Tampico. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #Vehícu",
+      "link": "https://nitter.net/GN_Carreteras/status/2061047133407490116#m",
+      "date": "2026-05-31T11:28:23+00:00"
+    },
     {
       "id": "9ae65f4aac84",
       "account": "@capufe",
@@ -533,20 +547,6 @@
       "text": "#TomePrecauciones en #Hidalgo se registra cierre total de circulación por #AccidenteVíal cerca del km 093+000, de la carretera Libramiento Norte de la Ciudad de México, con dirección a Querétaro. Atienda indicación vial. #TomePrecauciones en #Hidalgo se registra cierre total de c",
       "link": "https://nitter.net/GN_Carreteras/status/2060814055317659843#m",
       "date": "2026-05-30T20:02:13+00:00"
-    },
-    {
-      "id": "de9027815dd5",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Lib. Sur Qro.",
-      "route_key": "libramiento-queretaro",
-      "km": 38.0,
-      "lat": 20.53136,
-      "lon": -100.3228,
-      "resolved": true,
-      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVíal cerca del km 038+100, de la carretera Ent. Morelos Ent. Pachuca - Tuxpan, con dirección a Texcoco. Atienda indicación vial. #TomePrecauciones en #EdoMéx se registra cierre parcial de circula",
-      "link": "https://nitter.net/GN_Carreteras/status/2060804298821263659#m",
-      "date": "2026-05-30T19:23:27+00:00"
     }
   ]
 }
