@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-31T11:35:37.242598+00:00",
+  "updated": "2026-05-31T12:35:52.019845+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "1d30798ab898",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 31.0,
+      "lat": 18.227,
+      "lon": -94.88825,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 31, dirección La Tinaja. Registra cierres intermitentes por atención de accidente (maniobras para retiro de la unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE ",
+      "link": "https://nitter.net/CAPUFE/status/2061049219918475514#m",
+      "date": "2026-05-31T11:36:41+00:00"
+    },
     {
       "id": "1f515c8be056",
       "account": "@GN_carreteras",
@@ -295,20 +309,6 @@
       "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVíal cerca del km 009+200, de la carretera Libramiento Norte de la Ciudad de México, con dirección a Atlacomulco, Edo. Méx. Atienda indicación vial. #TomePrecauciones en #EdoMéx se registra cierr",
       "link": "https://nitter.net/GN_Carreteras/status/2060949372490109110#m",
       "date": "2026-05-31T04:59:55+00:00"
-    },
-    {
-      "id": "476e7613fd2b",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 134.0,
-      "lat": 17.975491,
-      "lon": -94.889564,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 134, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 134, dirección Isla. Red",
-      "link": "https://nitter.net/CAPUFE/status/2060948746762932448#m",
-      "date": "2026-05-31T04:57:26+00:00"
     },
     {
       "id": "6d3611c132de",
