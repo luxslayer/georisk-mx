@@ -1,7 +1,77 @@
 {
-  "updated": "2026-05-31T05:35:59.388597+00:00",
-  "count": 37,
+  "updated": "2026-05-31T07:25:19.955784+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "68690e262ffd",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 88.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 88, dirección Acapulco. Registra reducción de carriles laterales y en la gasa de salida a Plaza Galerías, por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 ",
+      "link": "https://nitter.net/CAPUFE/status/2060982555159998780#m",
+      "date": "2026-05-31T07:11:47+00:00"
+    },
+    {
+      "id": "77f91d37edc6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 22.0,
+      "lat": 32.330705,
+      "lon": -116.97869,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 22. Registra reducción de carriles en el retorno en dirección Tijuana, por atención de accidente (choque de frente). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 22. Re",
+      "link": "https://nitter.net/CAPUFE/status/2060977730376626668#m",
+      "date": "2026-05-31T06:52:36+00:00"
+    },
+    {
+      "id": "0b84974678ae",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 17.0,
+      "lat": 18.034133,
+      "lon": -94.8494,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 17, dirección Cosoleacaque. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 17, dirección",
+      "link": "https://nitter.net/CAPUFE/status/2060976495040876985#m",
+      "date": "2026-05-31T06:47:42+00:00"
+    },
+    {
+      "id": "04889e6d7d03",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 12.0,
+      "lat": 32.41443,
+      "lon": -117.00574,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 12, dirección Tijuana. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 12, dirección Tijuana. El ac",
+      "link": "https://nitter.net/CAPUFE/status/2060972976137269300#m",
+      "date": "2026-05-31T06:33:43+00:00"
+    },
+    {
+      "id": "fee794291354",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 12.0,
+      "lat": 32.41443,
+      "lon": -117.00574,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 12, dirección Tijuana. Reducción de carriles por atención de accidente (choque contra piedra). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 12, dirección Tijuana. Reduc",
+      "link": "https://nitter.net/CAPUFE/status/2060960575207678422#m",
+      "date": "2026-05-31T05:44:26+00:00"
+    },
     {
       "id": "1f8c4586d247",
       "account": "@capufe",
@@ -199,20 +269,6 @@
       "date": "2026-05-31T02:12:21+00:00"
     },
     {
-      "id": "547dcc1688a1",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 287.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Cd. Mendoza - Córdoba, km 287, dirección Cd. Mendoza. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Cd. Mendoza - Córdoba, km 287, dirección Cd. Mendoza. ",
-      "link": "https://nitter.net/CAPUFE/status/2060903321871798509#m",
-      "date": "2026-05-31T01:56:56+00:00"
-    },
-    {
       "id": "4693196936b7",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -225,48 +281,6 @@
       "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVíal cerca del km 027+500, de la carretera La Rinconada - La Piedad. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVíal cerca",
       "link": "https://nitter.net/GN_Carreteras/status/2060900208037573115#m",
       "date": "2026-05-31T01:44:33+00:00"
-    },
-    {
-      "id": "21627665d95a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 19. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Teh",
-      "link": "https://nitter.net/CAPUFE/status/2060899289597939797#m",
-      "date": "2026-05-31T01:40:54+00:00"
-    },
-    {
-      "id": "34f687ceba3c",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 287.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cd. Mendoza - Córdoba, km 287, dirección Cd. Mendoza. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cd. Mendoza - Córdoba, km 287, dirección Cd. ",
-      "link": "https://nitter.net/CAPUFE/status/2060896850761126395#m",
-      "date": "2026-05-31T01:31:13+00:00"
-    },
-    {
-      "id": "32d2b20eeb3a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 99.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Las Choapas - Ocozocoautla, km 99. Continúa cierre a la circulación en ambos sentidos por atención del accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴",
-      "link": "https://nitter.net/CAPUFE/status/2060895870829080937#m",
-      "date": "2026-05-31T01:27:19+00:00"
     },
     {
       "id": "30b5fd44cf2d",
@@ -283,20 +297,6 @@
       "date": "2026-05-31T01:16:57+00:00"
     },
     {
-      "id": "499805a053d9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 206.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Navojoa - Cd. Obregón, km 206, dirección Navojoa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Navojoa - Cd. Obregón, km 206, dirección Navojoa",
-      "link": "https://nitter.net/CAPUFE/status/2060893062839058889#m",
-      "date": "2026-05-31T01:16:10+00:00"
-    },
-    {
       "id": "93b8e0bcd336",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -309,20 +309,6 @@
       "text": "En #Michoacán continúa cierre total de circulación por presencia de personas, cerca del km 060+500, de la carretera Acalpican-Manzanillo, se proporciona #RutaAlterna por la carretera Purépero Paracho. Atienda indicación vial. En #Michoacán continúa cierre total de circulación por",
       "link": "https://nitter.net/GN_Carreteras/status/2060887771192123894#m",
       "date": "2026-05-31T00:55:08+00:00"
-    },
-    {
-      "id": "d579d5f6d96e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 206.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 206, dirección Navojoa. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd",
-      "link": "https://nitter.net/CAPUFE/status/2060884249901756597#m",
-      "date": "2026-05-31T00:41:09+00:00"
     },
     {
       "id": "682895de29a5",
