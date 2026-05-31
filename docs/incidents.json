@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-31T12:35:52.019845+00:00",
-  "count": 39,
+  "updated": "2026-05-31T13:35:44.574809+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "e22b927ecf34",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 31.0,
+      "lat": 18.227,
+      "lon": -94.88825,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 31, dirección La Tinaja. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra c",
+      "link": "https://nitter.net/CAPUFE/status/2061077905489138056#m",
+      "date": "2026-05-31T13:35:44.571786+00:00"
+    },
+    {
+      "id": "bf9549641a35",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 53.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 53, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance y volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 53, dirección Querét",
+      "link": "https://nitter.net/CAPUFE/status/2061067487551078751#m",
+      "date": "2026-05-31T12:49:16+00:00"
+    },
     {
       "id": "1d30798ab898",
       "account": "@capufe",
@@ -241,20 +269,6 @@
       "date": "2026-05-31T05:44:26+00:00"
     },
     {
-      "id": "1f8c4586d247",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 31.0,
-      "lat": 18.227,
-      "lon": -94.88825,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 31, dirección La Tinaja. Reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 31, ",
-      "link": "https://nitter.net/CAPUFE/status/2060955880821076152#m",
-      "date": "2026-05-31T05:25:47+00:00"
-    },
-    {
       "id": "99d97e92403d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,34 +281,6 @@
       "text": "#VíaLibre en #Puebla tras #AccidenteVíal cerca del km 137+200, de la carretera Tulancingo - Tihuatlán, con dirección a Tuxpan, Ver. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVíal cerca del km 137+200, de la carretera Tulancingo - Tihuatlán, con dirección a Tuxpan",
       "link": "https://nitter.net/GN_Carreteras/status/2060954650715542006#m",
       "date": "2026-05-31T05:20:54+00:00"
-    },
-    {
-      "id": "f8cac5417987",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 167.0,
-      "lat": 30.75592,
-      "lon": -106.44278,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Carretera Cd. del Carmen - Zacatal, km 167. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (choque de frente). Toma tus precauciones. 🟠 CIERRE PARCIAL DE CIRCULAC",
-      "link": "https://nitter.net/CAPUFE/status/2060953947506933918#m",
-      "date": "2026-05-31T05:18:06+00:00"
-    },
-    {
-      "id": "dbda081fb0e7",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 134.0,
-      "lat": 17.975491,
-      "lon": -94.889564,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 134, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 134, dirección Isla. El incidente ha",
-      "link": "https://nitter.net/CAPUFE/status/2060953332257013788#m",
-      "date": "2026-05-31T05:15:39+00:00"
     },
     {
       "id": "8d60211c8df9",
