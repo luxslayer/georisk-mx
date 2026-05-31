@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-31T17:27:35.161402+00:00",
+  "updated": "2026-05-31T17:53:10.599730+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "45376fc300bf",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 17. Cierre a la circulación en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopist",
+      "link": "https://nitter.net/CAPUFE/status/2061141586780496025#m",
+      "date": "2026-05-31T17:43:43+00:00"
+    },
+    {
+      "id": "d212377ad61e",
+      "account": "@capufe",
+      "type": "rollover",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 49.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Puente de Ixtla - Iguala, km 49. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos por atención de volcadura de tracto camión. En la zona se registra carga vehicular. Atiende las ",
+      "link": "https://nitter.net/CAPUFE/status/2061139015798022160#m",
+      "date": "2026-05-31T17:33:30+00:00"
+    },
+    {
+      "id": "2b0893c3bdfb",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 118.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Jalisco tras #AccidenteVial cerca del km 118+100, de la carretera Lagos de Moreno-Guadalajara con ramal a Yahualica, con dirección a Lagos de Moreno. Maneje con precaución. #VíaLibre en #Jalisco tras #AccidenteVial cerca del km 118+100, de la carretera Lagos de More",
+      "link": "https://nitter.net/GN_Carreteras/status/2061138358051487907#m",
+      "date": "2026-05-31T17:30:53+00:00"
+    },
     {
       "id": "eab040e72cba",
       "account": "@capufe",
@@ -339,34 +381,6 @@
       "date": "2026-05-31T09:08:13+00:00"
     },
     {
-      "id": "29e7f0180404",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 79.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 79, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 79, dirección CDMX. El accidente ha sido atend",
-      "link": "https://nitter.net/CAPUFE/status/2061000417970950636#m",
-      "date": "2026-05-31T08:22:45+00:00"
-    },
-    {
-      "id": "23b98b62c401",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 31.0,
-      "lat": 18.227,
-      "lon": -94.88825,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 31, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla",
-      "link": "https://nitter.net/CAPUFE/status/2060997440447078675#m",
-      "date": "2026-05-31T08:10:55+00:00"
-    },
-    {
       "id": "99d97e92403d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -519,20 +533,6 @@
       "text": "#VíaLibre en #Colima tras #VehículoIncendiado derivado a una falla mecánica, cerca del km 033+300, de la carretera Colima-Ent. Tecomán, con dirección a Tecolapa, Col. Maneje con precaución. #VíaLibre en #Colima tras #VehículoIncendiado derivado a una falla mecánica, cerca del km ",
       "link": "https://nitter.net/GN_Carreteras/status/2060851177097666678#m",
       "date": "2026-05-30T22:29:44+00:00"
-    },
-    {
-      "id": "0d0a3e76e79c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Lib. Sur Qro.",
-      "route_key": "libramiento-queretaro",
-      "km": 38.0,
-      "lat": 20.53136,
-      "lon": -100.3228,
-      "resolved": true,
-      "text": "#VíaLibre en #EdoMéx tras #AccidenteVíal cerca del km 038+100, de la carretera Ent. Morelos Ent. Pachuca - Tuxpan. Maneje con precaución. #VíaLibre en #EdoMéx tras #AccidenteVíal cerca del km 038+100, de la carretera Ent. Morelos Ent. Pachuca - Tuxpan. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2060849870077149506#m",
-      "date": "2026-05-30T22:24:32+00:00"
     }
   ]
 }
