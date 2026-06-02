@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-02T07:47:30.662274+00:00",
-  "count": 34,
+  "updated": "2026-06-02T09:33:57.221439+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "620c4df94b37",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 63.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 63, dirección Cuernavaca. Registra reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 63, dirección Cuernavaca.",
+      "link": "https://nitter.net/CAPUFE/status/2061737050454261875#m",
+      "date": "2026-06-02T09:09:52+00:00"
+    },
+    {
+      "id": "ca465b0bc435",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 231.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 231, dirección Acatzingo. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULAC",
+      "link": "https://nitter.net/CAPUFE/status/2061733442971222456#m",
+      "date": "2026-06-02T08:55:32+00:00"
+    },
+    {
+      "id": "8610abfbb6c0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 235.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 235, dirección Cd. Mendoza. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 235, di",
+      "link": "https://nitter.net/CAPUFE/status/2061726688753442943#m",
+      "date": "2026-06-02T08:28:42+00:00"
+    },
+    {
+      "id": "7fc783ae03cd",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 231.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 231, dirección Acatzingo. Registra reducción de carriles por atención de accidente (volcadura de tracto camión y caída de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo -",
+      "link": "https://nitter.net/CAPUFE/status/2061722666181005715#m",
+      "date": "2026-06-02T08:12:43+00:00"
+    },
+    {
+      "id": "167c26b77770",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 42.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 42, dirección Querétaro. Registra reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 42, dirección Q",
+      "link": "https://nitter.net/CAPUFE/status/2061721087608500504#m",
+      "date": "2026-06-02T08:06:26+00:00"
+    },
     {
       "id": "3151130a8fcc",
       "account": "@capufe",
@@ -157,20 +227,6 @@
       "date": "2026-06-02T03:30:56+00:00"
     },
     {
-      "id": "35359338658e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 33.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Pera - Cuautla, km 33, dirección Cuautla. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). ➡ Por seguridad de las personas usuarias, se desvía el tránsito vehicular a la altura del ",
-      "link": "https://nitter.net/CAPUFE/status/2061651472215843162#m",
-      "date": "2026-06-02T03:29:49+00:00"
-    },
-    {
       "id": "6ae17a27fead",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -183,62 +239,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVia cerca del km 235+500, de la carretera Pachuca - Tempoal. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVia cerca del km 235",
       "link": "https://nitter.net/GN_Carreteras/status/2061647590496579809#m",
       "date": "2026-06-02T03:14:23+00:00"
-    },
-    {
-      "id": "8fc725a916f0",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 288.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Cd. Mendoza - Córdoba, km 288, dirección Cd. Mendoza. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Cd. Mendoza - Córdoba, km 288, dirección Cd. Mendoza. ",
-      "link": "https://nitter.net/CAPUFE/status/2061647338221846779#m",
-      "date": "2026-06-02T03:13:23+00:00"
-    },
-    {
-      "id": "c14322bc84bb",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 162.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 162, dirección Puebla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 162, dirección Puebla. El inc",
-      "link": "https://nitter.net/CAPUFE/status/2061646195865407791#m",
-      "date": "2026-06-02T03:08:51+00:00"
-    },
-    {
-      "id": "85e97b278e2d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 187.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Guaymas - Hermosillo, km 187. Se informa a las personas usuarias, que se registra reducción de carriles en ambos sentidos por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades",
-      "link": "https://nitter.net/CAPUFE/status/2061643472000503847#m",
-      "date": "2026-06-02T02:58:01+00:00"
-    },
-    {
-      "id": "18f006efb065",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 31.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Barranca Larga - Ventanilla, km 31. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Barranca Larga - Ventanilla, km 31. El accidente ha si",
-      "link": "https://nitter.net/CAPUFE/status/2061642589271474330#m",
-      "date": "2026-06-02T02:54:31+00:00"
     },
     {
       "id": "78b27d8bb764",
@@ -463,20 +463,6 @@
       "text": "#Tomesusprecauciones en #Coahuila se registra cierre total de circulación por presencia de personas cerca del Km 010+500 de la carretera San Pedro-Torreón. Se orienta a la ciudadanía #Rutaalterna carretera San Pedro-Saltillo. Atienda la indicación vial. #Tomesusprecauciones en #C",
       "link": "https://nitter.net/GN_Carreteras/status/2061547214879727964#m",
       "date": "2026-06-01T20:35:32+00:00"
-    },
-    {
-      "id": "d1db3061e01b",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 80.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guerrero se registra presencia de personas cerca del km 080+200, de la carretera Acapulco-Zihuatanejo, a la altura de la caseta del Ent. Sta. Rosa-Hacienda de Cabaña. Sin afectación a la circulación. Atienda indicación vial. L #TomePrecauciones en #Guerrero ",
-      "link": "https://nitter.net/GN_Carreteras/status/2061523928926110045#m",
-      "date": "2026-06-01T19:03:00+00:00"
     }
   ]
 }
