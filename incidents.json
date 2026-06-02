@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-02T03:48:01.878019+00:00",
-  "count": 33,
+  "updated": "2026-06-02T05:40:00.066144+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "b84acd21dc50",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 31.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 31. Registra reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, k",
+      "link": "https://nitter.net/CAPUFE/status/2061683130440765519#m",
+      "date": "2026-06-02T05:35:37+00:00"
+    },
+    {
+      "id": "183d56c83648",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 33.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 33, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 33, dirección Cuautla. El accid",
+      "link": "https://nitter.net/CAPUFE/status/2061674456808890871#m",
+      "date": "2026-06-02T05:01:09+00:00"
+    },
+    {
+      "id": "fd739aabbed3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 187.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guaymas - Hermosillo, km 187. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 ",
+      "link": "https://nitter.net/CAPUFE/status/2061672391483302017#m",
+      "date": "2026-06-02T04:52:56+00:00"
+    },
+    {
+      "id": "60c56d2df607",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 10.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomesusprecauciones en #Coahuila continua cierre total de circulación por presencia de personas cerca del Km 010+500 de la carretera San Pedro-Torreón. Se orienta a la ciudadanía #Rutaalterna carretera San Pedro-Saltillo. Atienda la indicación vial. #Tomesusprecauciones en #Coah",
+      "link": "https://nitter.net/GN_Carreteras/status/2061671016976228361#m",
+      "date": "2026-06-02T04:47:29+00:00"
+    },
+    {
+      "id": "b62e4b408938",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 22.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomesuspreucaciones en #CdMex se registra cierre total de circulación por caída de talón de tierra y árboles, cerca del Km 022+000 de la carretera Chamapa -La venta con dirección a Toluca. Maneje con precaución. #Tomesuspreucaciones en #CdMex se registra cierre total de circulac",
+      "link": "https://nitter.net/GN_Carreteras/status/2061669932010504489#m",
+      "date": "2026-06-02T04:43:10+00:00"
+    },
+    {
+      "id": "edca64e8f20a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 235.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 235, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendo",
+      "link": "https://nitter.net/CAPUFE/status/2061663112596455526#m",
+      "date": "2026-06-02T04:16:04+00:00"
+    },
     {
       "id": "b2e3c7c7fd09",
       "account": "@capufe",
@@ -73,7 +157,7 @@
       "date": "2026-06-02T03:08:51+00:00"
     },
     {
-      "id": "80d92a3bcf56",
+      "id": "85e97b278e2d",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -82,7 +166,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Guaymas - Hermosillo, km 187. Se informa a las personas usuarias, que se registra reducción de carriles en ambos sentidos por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades sinie",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Guaymas - Hermosillo, km 187. Se informa a las personas usuarias, que se registra reducción de carriles en ambos sentidos por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades",
       "link": "https://nitter.net/CAPUFE/status/2061643472000503847#m",
       "date": "2026-06-02T02:58:01+00:00"
     },
@@ -297,20 +381,6 @@
       "date": "2026-06-02T00:58:48+00:00"
     },
     {
-      "id": "e155dd3b09a0",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 10.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Chamapa - Lechería, km 10, dirección Lechería. Registra carga vehicular a la altura de la salida a la Plaza de Cobro Atizapán, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Chamapa - Lechería, km 10, dirección Lecher",
-      "link": "https://nitter.net/CAPUFE/status/2061613052861018339#m",
-      "date": "2026-06-02T00:57:09+00:00"
-    },
-    {
       "id": "60df83d35f73",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -435,34 +505,6 @@
       "text": "#Tomesusprecauciones en #Coahuila se registra cierre total de circulación por presencia de personas cerca del Km 010+500 de la carretera San Pedro-Torreón. Se orienta a la ciudadanía #Rutaalterna carretera San Pedro-Saltillo. Atienda la indicación vial. #Tomesusprecauciones en #C",
       "link": "https://nitter.net/GN_Carreteras/status/2061547214879727964#m",
       "date": "2026-06-01T20:35:32+00:00"
-    },
-    {
-      "id": "d1db3061e01b",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 80.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guerrero se registra presencia de personas cerca del km 080+200, de la carretera Acapulco-Zihuatanejo, a la altura de la caseta del Ent. Sta. Rosa-Hacienda de Cabaña. Sin afectación a la circulación. Atienda indicación vial. L #TomePrecauciones en #Guerrero ",
-      "link": "https://nitter.net/GN_Carreteras/status/2061523928926110045#m",
-      "date": "2026-06-01T19:03:00+00:00"
-    },
-    {
-      "id": "ac1286006216",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 11.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chihuahua se registra presencia de personas, cerca del km 011+800, de la carretera Jiménez-Delicias, a la altura de la caseta Savalza, sin afectación a la circulación. Atienda indicación vial. #TomePrecauciones en #Chihuahua se registra presencia de personas",
-      "link": "https://nitter.net/GN_Carreteras/status/2061519748911837280#m",
-      "date": "2026-06-01T18:46:23+00:00"
     }
   ]
 }
