@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-03T05:12:19.916007+00:00",
-  "count": 30,
+  "updated": "2026-06-03T07:10:52.143993+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "ccf319b18e47",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 77.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 77, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 77, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2062063888934293890#m",
+      "date": "2026-06-03T06:48:37+00:00"
+    },
+    {
+      "id": "2ad58cc8c959",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, del km 21 al 23. Registra circulación en contraflujo por labores de mantenimiento. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , del km 21 al 23. Registra circulación en contraflujo por labo",
+      "link": "https://nitter.net/CAPUFE/status/2062053984760733901#m",
+      "date": "2026-06-03T06:09:15+00:00"
+    },
+    {
+      "id": "3b069b97f94c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Nayarit se registra cierre total de circulación por #AccidenteVial cerca del km 054+900, de la carretera Tepic - Mazatlán, con dirección a la Col. Pantano Grande, ruta alterna carretera libre de Mazatlán. Atienda indicación vial. #TomePrecauciones en #Nayari",
+      "link": "https://nitter.net/GN_Carreteras/status/2062048341819564147#m",
+      "date": "2026-06-03T05:46:50+00:00"
+    },
+    {
+      "id": "ebc24220ff78",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 2.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Coahuila tras presencia de personas cerca del km 002+800, de la carretera Saltillo-Torreón. Maneje con precaución. #VíaLibre en #Coahuila tras presencia de personas cerca del km 002+800, de la carretera Saltillo-Torreón. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2062044244651487671#m",
+      "date": "2026-06-03T05:30:33+00:00"
+    },
     {
       "id": "38d3192a89c6",
       "account": "@capufe",
@@ -255,20 +311,6 @@
       "date": "2026-06-03T01:55:03+00:00"
     },
     {
-      "id": "6c69cf6fed2f",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 77.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 77, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 77, dirección ",
-      "link": "https://nitter.net/CAPUFE/status/2061981269601251586#m",
-      "date": "2026-06-03T01:20:19+00:00"
-    },
-    {
       "id": "c8780ec7d934",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -393,34 +435,6 @@
       "text": "#VíaLibre en #Guerrero tras presencia de personas cerca del km 080+200, de la carretera Acapulco-Zihuatanejo. Maneje con precaución. #VíaLibre en #Guerrero tras presencia de personas cerca del km 080+200, de la carretera Acapulco-Zihuatanejo. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2061919190013837312#m",
       "date": "2026-06-02T21:13:38+00:00"
-    },
-    {
-      "id": "6b77338fd9bb",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 147.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Guerrero tras presencia de personas cerca del km 147+700, de la carretera Mexicali - Tijuana. Maneje con precaución. #VíaLibre en #Guerrero tras presencia de personas cerca del km 147+700, de la carretera Mexicali - Tijuana. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2061914457471594825#m",
-      "date": "2026-06-02T20:54:49+00:00"
-    },
-    {
-      "id": "b179b47b6c5e",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 170.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Sinaloa se registra cierre total de circulación por presencia de personas a un costado de la Caseta de Cobro Cuatro Caminos, Sin., cerca del km 170+000, de la carretera Culiacán – Los Mochis. Atienda indicación vial. #TomePrecauciones en #Sinaloa se registra",
-      "link": "https://nitter.net/GN_Carreteras/status/2061912919290388653#m",
-      "date": "2026-06-02T20:48:43+00:00"
     }
   ]
 }
