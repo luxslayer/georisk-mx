@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-03T07:10:52.143993+00:00",
+  "updated": "2026-06-03T09:08:12.309801+00:00",
   "count": 31,
   "incidents": [
+    {
+      "id": "8ea98ecfdd9d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 181.0,
+      "lat": 31.17256,
+      "lon": -106.46154,
+      "resolved": true,
+      "text": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del km 181+500, de la carretera Cd. Victoria-Monterrey, con dirección a Linares, N.L. Atienda indicación vial. #TomePrecauciones en #NuevoLeón se registra cierre parcial de circulac",
+      "link": "https://nitter.net/GN_Carreteras/status/2062094499635982805#m",
+      "date": "2026-06-03T08:50:15+00:00"
+    },
+    {
+      "id": "e0d5f1c87711",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 167.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del km 167+000, de la carretera Monterrey-Reynosa, con dirección a Cadereyta, N.L. Atienda indicación vial. #TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación",
+      "link": "https://nitter.net/GN_Carreteras/status/2062092849378734164#m",
+      "date": "2026-06-03T08:43:41+00:00"
+    },
+    {
+      "id": "461664dd56de",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 132.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "En #Sinaloa continúa cierre parcial de circulación por presencia de personas cerca del km 132+200, de la carretera Mazatlán - Culiacán, con dirección a Sinaloa. Atienda indicación vial. En #Sinaloa continúa cierre parcial de circulación por presencia de personas cerca del km 132+",
+      "link": "https://nitter.net/GN_Carreteras/status/2062082156696940814#m",
+      "date": "2026-06-03T08:01:12+00:00"
+    },
+    {
+      "id": "31acbefd9934",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 170.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "En #Sinaloa se continúa cierre parcial de circulación por presencia de personas a un costado de la Caseta de Cobro Costa Rica Sin., cerca del km 170+000, de la carretera Culiacán – Los Mochis. Atienda indicación vial. En #Sinaloa se continúa cierre parcial de circulación por pres",
+      "link": "https://nitter.net/GN_Carreteras/status/2062081864198672652#m",
+      "date": "2026-06-03T08:00:02+00:00"
+    },
     {
       "id": "ccf319b18e47",
       "account": "@capufe",
@@ -379,62 +435,6 @@
       "text": "En #Chiapas continúa cierre parcial de circulación por presencia de personas cerca del km 089+400, de la carretera Ocozocoautla - Arriaga. Atienda indicación vial. En #Chiapas continúa cierre parcial de circulación por presencia de personas cerca del km 089+400, de la carretera O",
       "link": "https://nitter.net/GN_Carreteras/status/2061957215997567279#m",
       "date": "2026-06-02T23:44:44+00:00"
-    },
-    {
-      "id": "660f6b962763",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 216.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 216+500, de la carretera Monclova-Piedras Negras, con dirección a Piedras Negras Coah. Atienda indicación vial. #TomePrecauciones en #Coahuila se registra cierre parcial de ci",
-      "link": "https://nitter.net/GN_Carreteras/status/2061951369796272187#m",
-      "date": "2026-06-02T23:21:30+00:00"
-    },
-    {
-      "id": "edd54437ef11",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 22.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #CDMX tras #Laboresdelimpieza sobre la vía cerca del Km 022+000 de la carretera Chamapa-La venta con dirección a Toluca. Maneje con precaución. #VíaLibre en #CDMX tras #Laboresdelimpieza sobre la vía cerca del Km 022+000 de la carretera Chamapa-La venta con dirección",
-      "link": "https://nitter.net/GN_Carreteras/status/2061942312352018800#m",
-      "date": "2026-06-02T22:45:30+00:00"
-    },
-    {
-      "id": "ee559261e43d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 228.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 228+000, de la carretera Córdoba-Puebla, con dirección a Veracruz. Maneje con precaución. #VíaLibre en #Veracruz tras #AccidenteVial cerca del km 228+000, de la carretera Córdoba-Puebla, con dirección a Veracruz. Maneje con ",
-      "link": "https://nitter.net/GN_Carreteras/status/2061929509922705433#m",
-      "date": "2026-06-02T21:54:38+00:00"
-    },
-    {
-      "id": "1c9a3ed1304c",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 80.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Guerrero tras presencia de personas cerca del km 080+200, de la carretera Acapulco-Zihuatanejo. Maneje con precaución. #VíaLibre en #Guerrero tras presencia de personas cerca del km 080+200, de la carretera Acapulco-Zihuatanejo. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2061919190013837312#m",
-      "date": "2026-06-02T21:13:38+00:00"
     }
   ]
 }
