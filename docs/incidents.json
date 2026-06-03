@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-03T09:08:12.309801+00:00",
-  "count": 31,
+  "updated": "2026-06-03T11:17:01.702066+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "a9bbfafda77a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 25.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 25. Registra circulación intermitente en ambos sentidos por atención de accidente (choque de costado). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Pue",
+      "link": "https://nitter.net/CAPUFE/status/2062128567115247889#m",
+      "date": "2026-06-03T11:05:37+00:00"
+    },
+    {
+      "id": "fa566f38db54",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 148.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #EdoMéx continúa cierre parcial de circulación por #AccidenteVial de limpieza sobre la vía cerca del km 148+800, de la carretera Libramiento Norte de la Ciudad México, con dirección a Puebla. Maneje con precaución. #TomePrecauciones en #EdoMéx continúa cierre",
+      "link": "https://nitter.net/GN_Carreteras/status/2062121317655027824#m",
+      "date": "2026-06-03T10:36:49+00:00"
+    },
+    {
+      "id": "3cd89901e67b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Nayarit tras #AccidenteVial cerca del km 054+900, de la carretera Tepic - Mazatlán, con dirección a la Col. Pantano Grande. Maneje conprecaución. #VíaLibre en #Nayarit tras #AccidenteVial cerca del km 054+900, de la carretera Tepic - Mazatlán, con dirección a la Col",
+      "link": "https://nitter.net/GN_Carreteras/status/2062117656182841801#m",
+      "date": "2026-06-03T10:22:16+00:00"
+    },
+    {
+      "id": "04b0f0a24f6d",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 77.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 77, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 77, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2062107859697979522#m",
+      "date": "2026-06-03T09:43:20+00:00"
+    },
     {
       "id": "8ea98ecfdd9d",
       "account": "@GN_carreteras",
@@ -311,20 +367,6 @@
       "date": "2026-06-03T02:21:31+00:00"
     },
     {
-      "id": "05d0e415af60",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 163.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 163, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 163, dirección Isla. El accidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2061994351291519430#m",
-      "date": "2026-06-03T02:12:18+00:00"
-    },
-    {
       "id": "5aa50203993e",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -407,34 +449,6 @@
       "text": "En #Sinaloa continúa cierre total de circulación por presencia de personas cerca del km 132+200, de la carretera Mazatlán - Culiacán, con dirección a Sinaloa. Atienda indicación vial. En #Sinaloa continúa cierre total de circulación por presencia de personas cerca del km 132+200,",
       "link": "https://nitter.net/GN_Carreteras/status/2061967228858143055#m",
       "date": "2026-06-03T00:24:31+00:00"
-    },
-    {
-      "id": "8d861edcc34c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 176.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 176+500, de la carretera Sonoyta - San Luis Río Colorado. Atienda indicación vial. #TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerc",
-      "link": "https://nitter.net/GN_Carreteras/status/2061958912023081348#m",
-      "date": "2026-06-02T23:51:28+00:00"
-    },
-    {
-      "id": "3797c0864330",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 89.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "En #Chiapas continúa cierre parcial de circulación por presencia de personas cerca del km 089+400, de la carretera Ocozocoautla - Arriaga. Atienda indicación vial. En #Chiapas continúa cierre parcial de circulación por presencia de personas cerca del km 089+400, de la carretera O",
-      "link": "https://nitter.net/GN_Carreteras/status/2061957215997567279#m",
-      "date": "2026-06-02T23:44:44+00:00"
     }
   ]
 }
