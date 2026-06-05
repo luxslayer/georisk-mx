@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-05T03:48:07.998282+00:00",
-  "count": 33,
+  "updated": "2026-06-05T05:37:13.560611+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "499071e4466a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 51.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 51, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 51, dirección Querétaro. El accidente ha sid",
+      "link": "https://nitter.net/CAPUFE/status/2062757080897826853#m",
+      "date": "2026-06-05T04:43:06+00:00"
+    },
+    {
+      "id": "f45fcc212d97",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 61.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 61, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIEN",
+      "link": "https://nitter.net/CAPUFE/status/2062756622447874228#m",
+      "date": "2026-06-05T04:41:17+00:00"
+    },
+    {
+      "id": "189be1975b33",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 23.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Sinaloa se registra presencia de personas cerca del km 023+500, de la autopista Lic. Benito Juárez, a la altura de la caseta \"El Pisal\", sin afectación a la circulación ya que las plumas se encuentran levantadas, evitando con ello el cobro de peaje. #TomePre",
+      "link": "https://nitter.net/GN_Carreteras/status/2062755195675627833#m",
+      "date": "2026-06-05T04:35:37+00:00"
+    },
+    {
+      "id": "beaae57b7ddf",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 41.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 41, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 41, dirección Cuernavaca. El accidente ha",
+      "link": "https://nitter.net/CAPUFE/status/2062752667923837130#m",
+      "date": "2026-06-05T04:25:34+00:00"
+    },
+    {
+      "id": "7d88079a93d5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 41.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 41, dirección Cuernavaca. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , k",
+      "link": "https://nitter.net/CAPUFE/status/2062744086788948184#m",
+      "date": "2026-06-05T03:51:28+00:00"
+    },
     {
       "id": "e94029b2298a",
       "account": "@capufe",
@@ -227,34 +297,6 @@
       "date": "2026-06-05T02:03:45+00:00"
     },
     {
-      "id": "47faebcd4bcd",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 51.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 51, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 51, dirección Querétaro. El accidente ha sido atendido. En la zona se re",
-      "link": "https://nitter.net/CAPUFE/status/2062715901435093464#m",
-      "date": "2026-06-05T01:59:28+00:00"
-    },
-    {
-      "id": "153cdb5d2bff",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 219.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 219, dirección Acatzingo. Reducción de carriles por atención a incidente (inundación de carriles). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 219, dirección",
-      "link": "https://nitter.net/CAPUFE/status/2062712090758910323#m",
-      "date": "2026-06-05T01:44:20+00:00"
-    },
-    {
       "id": "226656481cb4",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -281,48 +323,6 @@
       "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 051+000, de la carretera México-Querétaro. Atienda indicación vial. #TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 051+00",
       "link": "https://nitter.net/GN_Carreteras/status/2062700684148129847#m",
       "date": "2026-06-05T00:59:00+00:00"
-    },
-    {
-      "id": "c44ad0c8554a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 51.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 51, dirección Querétaro. Reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 51, dirección ",
-      "link": "https://nitter.net/CAPUFE/status/2062698657384665132#m",
-      "date": "2026-06-05T00:50:57+00:00"
-    },
-    {
-      "id": "50d0155e9c5c",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 10.0,
-      "lat": 28.7296,
-      "lon": -106.1052,
-      "resolved": true,
-      "text": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Cd. Obregón - Guaymas, km 10. Registra presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución. ⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Cd. Obregón - Guaymas, km 10. Registra presencia de manif",
-      "link": "https://nitter.net/CAPUFE/status/2062694751795659235#m",
-      "date": "2026-06-05T00:35:26+00:00"
-    },
-    {
-      "id": "5720262cae69",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 165.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 165, dirección Puebla. Registra reducción de carriles por atención de incidente (tracto camión con falla mecánica). Circulación lenta en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista ",
-      "link": "https://nitter.net/CAPUFE/status/2062694176454521253#m",
-      "date": "2026-06-05T00:33:09+00:00"
     },
     {
       "id": "76fbcda8e820",
@@ -449,20 +449,6 @@
       "text": "#VíaLibre en #Sinaloa tras presencia de personas a un costado de la Caseta de Cobro Cuatro Caminos, cerca del km 170+000, de la carretera Culiacán – Los Mochis. Maneje con precaución. #VíaLibre en #Sinaloa tras presencia de personas a un costado de la Caseta de Cobro Cuatro Camin",
       "link": "https://nitter.net/GN_Carreteras/status/2062656868992876679#m",
       "date": "2026-06-04T22:04:54+00:00"
-    },
-    {
-      "id": "5e45bca0a5a7",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 170.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Sinaloa tras presencia de personas a un costado de la Caseta de Cobro Costa Rica Sin., cerca del km 170+000, de la carretera Culiacán – Los Mochis. Maneje con precaución. #VíaLibre en #Sinaloa tras presencia de personas a un costado de la Caseta de Cobro Costa Rica ",
-      "link": "https://nitter.net/GN_Carreteras/status/2062655581719069026#m",
-      "date": "2026-06-04T21:59:47+00:00"
     }
   ]
 }
