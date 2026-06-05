@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05T07:37:41.177277+00:00",
-  "count": 34,
+  "updated": "2026-06-05T09:15:25.322165+00:00",
+  "count": 32,
   "incidents": [
     {
       "id": "f485b4d13e0c",
@@ -281,34 +281,6 @@
       "text": "En #Guerrero continúa cierre parcial de circulación por #Maniobras de trasvase cerca del km 025+500, de la carretera Acapulco - Zihuatanejo, con dirección a Zihuatanejo, Gro. Atienda indicación vial. En #Guerrero continúa cierre parcial de circulación por #Maniobras de trasvase c",
       "link": "https://nitter.net/GN_Carreteras/status/2062732529149608065#m",
       "date": "2026-06-05T03:05:33+00:00"
-    },
-    {
-      "id": "b768d77bca47",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 41.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 41, dirección Cuernavaca. Registra reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 41, dirección Cuernavaca. Registr",
-      "link": "https://nitter.net/CAPUFE/status/2062730704316744082#m",
-      "date": "2026-06-05T02:58:18+00:00"
-    },
-    {
-      "id": "c622cf8c079e",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 219.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 219, dirección Acatzingo. El incidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 219, dirección Acatzingo. El incidente ha si",
-      "link": "https://nitter.net/CAPUFE/status/2062728236228821007#m",
-      "date": "2026-06-05T02:48:29+00:00"
     },
     {
       "id": "5be50bfb7256",
