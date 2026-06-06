@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-06T20:29:47.078865+00:00",
+  "updated": "2026-06-06T20:55:50.147381+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "ec5a944a79f3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 159.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 159, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. En la zona se registra carga vehicular. Maneja con precaución. Para más información lla",
+      "link": "https://nitter.net/CAPUFE/status/2063364115947463044#m",
+      "date": "2026-06-06T20:55:15+00:00"
+    },
+    {
+      "id": "11f5b68a4c63",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Lib. Sur Qro.",
+      "route_key": "libramiento-queretaro",
+      "km": 47.0,
+      "lat": 20.57384,
+      "lon": -100.3732,
+      "resolved": true,
+      "text": "#TomePrecauciones en #EDOMX se registra cierre parcial de circulación por #Accidentevial cerca del km 047+500, de la carretera Ent. Morelos-Ent. Pachuca-Tuxpan, a inmediaciones de la plaza de cobro Tulancingo, con dir. a Cd. de Mx. Atienda indicación vial. #TomePrecauciones en #E",
+      "link": "https://nitter.net/GN_Carreteras/status/2063363728561635482#m",
+      "date": "2026-06-06T20:53:42+00:00"
+    },
+    {
+      "id": "041406b35b37",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 28.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 28. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 28. El accidente h",
+      "link": "https://nitter.net/CAPUFE/status/2063360653557973068#m",
+      "date": "2026-06-06T20:41:29+00:00"
+    },
+    {
+      "id": "7b871a740be0",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 73.0,
+      "lat": 19.118475,
+      "lon": -98.383475,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #Accidentevial cerca del km 073+100, de la carretera México-Puebla , a la altura de la cabecera Mpal. Santa Rita Tlahuapan, con dir. a Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla se regis",
+      "link": "https://nitter.net/GN_Carreteras/status/2063360274380263664#m",
+      "date": "2026-06-06T20:39:59+00:00"
+    },
+    {
+      "id": "492c4ee2dcde",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 79.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 79, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 79, dirección Córdoba. El inc",
+      "link": "https://nitter.net/CAPUFE/status/2063360188170522851#m",
+      "date": "2026-06-06T20:39:38+00:00"
+    },
     {
       "id": "b083a2e31c73",
       "account": "@capufe",
@@ -269,34 +339,6 @@
       "date": "2026-06-06T17:47:24+00:00"
     },
     {
-      "id": "131187fb5335",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con ",
-      "link": "https://nitter.net/CAPUFE/status/2063316601558941987#m",
-      "date": "2026-06-06T17:46:27+00:00"
-    },
-    {
-      "id": "3394b99e138b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 2.0,
-      "lat": 18.314,
-      "lon": -95.0115,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 2, dirección La Tinaja. Cierre a la circulación en la gasa de incorporación en dirección Veracruz, por atención de accidente (maniobras para retiro de unidad siniestrada). Toma tus precauciones. Para más información llama a",
-      "link": "https://nitter.net/CAPUFE/status/2063316140160368672#m",
-      "date": "2026-06-06T17:44:37+00:00"
-    },
-    {
       "id": "780393e8972b",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -309,20 +351,6 @@
       "text": "#TomePrecauciones en #Sinaloa se registra presencia de personas cerca del km 170+000, de la carretera Culiacán-Los Mochis, a la altura de la Caseta de cobro Cuatro Caminos. Atienda indicación vial. #TomePrecauciones en #Sinaloa se registra presencia de personas cerca del km 170+0",
       "link": "https://nitter.net/GN_Carreteras/status/2063315202448232861#m",
       "date": "2026-06-06T17:40:53+00:00"
-    },
-    {
-      "id": "b5a17ff132fc",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 278.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Chilpancingo, km 278. Parador del Marqués (fuera de la cobertura de CAPUFE). Se restablece la circulación con reducción de carriles en ambos sentidos por presencia de manifestantes. Para más información llama al 088 de @GN_Carreteras.",
-      "link": "https://nitter.net/CAPUFE/status/2063310901583712738#m",
-      "date": "2026-06-06T17:23:48+00:00"
     },
     {
       "id": "759599133bf7",
@@ -435,34 +463,6 @@
       "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación por #Accidentevial cerca del km 062+000, de la carretera Cd. Victoria-Monterrey. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación por #Accidentevial",
       "link": "https://nitter.net/GN_Carreteras/status/2063258812396507593#m",
       "date": "2026-06-06T13:56:49+00:00"
-    },
-    {
-      "id": "e9f65a318e8e",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 132.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Sinaloa se registra presencia de personas cerca del km 132+000, de la carretera Culiacán-Los Mochis a la altura de la caseta de cobro No.11 Puente Sinaloa. Se orienta a la ciudadanía, libre acceso vehicular. Atienda indicación vial. #TomePrecauciones en #Sin",
-      "link": "https://nitter.net/GN_Carreteras/status/2063258088950354250#m",
-      "date": "2026-06-06T13:53:56+00:00"
-    },
-    {
-      "id": "b0e8eb352399",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 178.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Sinaloa se registra presencia de personas cerca del km 178+800, de la autopista Mazatlán-Culiacán a la altura de la caseta de cobro Costa Rica. Se orienta a la ciudadanía, libre acceso vehicular. Atienda indicación vial. #TomePrecauciones en #Sinaloa se regi",
-      "link": "https://nitter.net/GN_Carreteras/status/2063257762604151203#m",
-      "date": "2026-06-06T13:52:38+00:00"
     }
   ]
 }
