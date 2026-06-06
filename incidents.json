@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-06T16:55:32.879889+00:00",
-  "count": 38,
+  "updated": "2026-06-06T17:31:34.173557+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "b5a17ff132fc",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 278.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Chilpancingo, km 278. Parador del Marqués (fuera de la cobertura de CAPUFE). Se restablece la circulación con reducción de carriles en ambos sentidos por presencia de manifestantes. Para más información llama al 088 de @GN_Carreteras.",
+      "link": "https://nitter.net/CAPUFE/status/2063310901583712738#m",
+      "date": "2026-06-06T17:23:48+00:00"
+    },
+    {
+      "id": "ca93b5d5706a",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 28.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 28. Reducción de carriles en ambos sentidos por atención de incidente (camión de carga con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 28.",
+      "link": "https://nitter.net/CAPUFE/status/2063308983910171083#m",
+      "date": "2026-06-06T17:16:10+00:00"
+    },
+    {
+      "id": "759599133bf7",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Méx–Acapulco",
+      "route_key": "mexico-acapulco",
+      "km": 278.0,
+      "lat": 16.968,
+      "lon": -99.743333,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por presencia de personas cerca del km 278+000, de la carretera Autopista México-Acapulco, a la altura del Mpio. de Chilpancingo. Atienda indicación vial. #TomePrecauciones en #Guerrero se registra cierre pa",
+      "link": "https://nitter.net/GN_Carreteras/status/2063308488550285572#m",
+      "date": "2026-06-06T17:14:12+00:00"
+    },
     {
       "id": "463a3b44062f",
       "account": "@capufe",
@@ -311,34 +353,6 @@
       "date": "2026-06-06T14:59:57+00:00"
     },
     {
-      "id": "d492fa458a3b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 60.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 60, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 60, dirección CDMX. Reducción de carrile",
-      "link": "https://nitter.net/CAPUFE/status/2063270529889337640#m",
-      "date": "2026-06-06T14:43:22+00:00"
-    },
-    {
-      "id": "2f57c2a697f0",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 86.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 86, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 86, dirección CDMX. El accidente ha sido atendido. En la zona se registra car",
-      "link": "https://nitter.net/CAPUFE/status/2063268197583704559#m",
-      "date": "2026-06-06T14:34:06+00:00"
-    },
-    {
       "id": "829cba9d1acd",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -505,34 +519,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #AccidenteVial cerca del km 104+200, de la carretera Libramiento Perote. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #AccidenteVial cerca d",
       "link": "https://nitter.net/GN_Carreteras/status/2063110070179651727#m",
       "date": "2026-06-06T04:05:46+00:00"
-    },
-    {
-      "id": "79052ddaf9b3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 77.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacan se registra cierre parcial de la circulación por #AccidenteVial cerca del km 077+800, de la carretera Macrolibramiento de Morelia. Atienda indicación vial. #TomePrecauciones en #Michoacan se registra cierre parcial de la circulación por #AccidenteV",
-      "link": "https://nitter.net/GN_Carreteras/status/2063109664976290197#m",
-      "date": "2026-06-06T04:04:09+00:00"
-    },
-    {
-      "id": "a8a0b38db44f",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 138.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Hidalgo se registra cierre parcial de la circulación por #AccidenteVial cerca del km 138+000, de la carretera Libramiento Norte de la Ciudad de México. Atienda indicación vial. #TomePrecauciones en #Hidalgo se registra cierre parcial de la circulación por #A",
-      "link": "https://nitter.net/GN_Carreteras/status/2063109074409931059#m",
-      "date": "2026-06-06T04:01:48+00:00"
     }
   ]
 }
