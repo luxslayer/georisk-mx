@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-06T21:53:53.245591+00:00",
-  "count": 32,
+  "updated": "2026-06-06T22:27:13.067984+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "adc80a9c178c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 6.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tamaulipas se registra cierre total de circulación por #Accidentevial cerca del km 006+900, de la carretera Libramiento Reynosa Sur II, a la altura del poblado el Guerreño. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre total de",
+      "link": "https://nitter.net/GN_Carreteras/status/2063386985633305010#m",
+      "date": "2026-06-06T22:26:07+00:00"
+    },
     {
       "id": "d76ecc0c3079",
       "account": "@GN_carreteras",
@@ -339,20 +353,6 @@
       "date": "2026-06-06T18:05:47+00:00"
     },
     {
-      "id": "e6b1cba7ee99",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 278.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 SE RETIRAN MANIFESTANTES 🟢 Libramiento Chilpancingo, km 278. Parador del Marqués (fuera de la cobertura de CAPUFE). Se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 SE RETIRAN MANIFESTANTES 🟢 Libramiento Chilpancingo, ",
-      "link": "https://nitter.net/CAPUFE/status/2063320816880624022#m",
-      "date": "2026-06-06T18:03:12+00:00"
-    },
-    {
       "id": "780393e8972b",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -435,20 +435,6 @@
       "text": "#TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación por #Accidentevial cerca del km 048+600, de la carretera la Chicharrona-Cuencamé, con dir. a Río Grande, se da vialidad por el derecho de vía. Atienda indicación vial. #TomePrecauciones en #Zacatecas se ",
       "link": "https://nitter.net/GN_Carreteras/status/2063282422767128783#m",
       "date": "2026-06-06T15:30:38+00:00"
-    },
-    {
-      "id": "3a5be333804f",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 194.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de la circulación por #Accidentevial cerca del km 194+700, de la carretera Tuxtla Gutiérrez-Cd. Cuauhtémoc, con dir. a Comitán. Atienda indicación vial. #TomePrecauciones en #Chiapas se registra cierre parcial de la circula",
-      "link": "https://nitter.net/GN_Carreteras/status/2063280771473829972#m",
-      "date": "2026-06-06T15:24:04+00:00"
     }
   ]
 }
