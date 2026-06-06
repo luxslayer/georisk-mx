@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-06T09:46:43.115561+00:00",
-  "count": 37,
+  "updated": "2026-06-06T10:41:39.083143+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "fac165cbc7d1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 52.0,
+      "lat": 20.0912,
+      "lon": -99.3416,
+      "resolved": true,
+      "text": "#TomePrecauciones en #EdoMex se registra cierre parcial de la circulación por #Accidentevial cerca del km 052+000, de la carretera México-Querétaro. Atienda indicación vial. #TomePrecauciones en #EdoMex se registra cierre parcial de la circulación por #Accidentevial cerca del km ",
+      "link": "https://nitter.net/GN_Carreteras/status/2063202653694312892#m",
+      "date": "2026-06-06T10:13:39+00:00"
+    },
     {
       "id": "8353843b9cfd",
       "account": "@capufe",
@@ -297,20 +311,6 @@
       "date": "2026-06-06T05:23:36+00:00"
     },
     {
-      "id": "3a4bdd1720e1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 46.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 46. Cierre a la circulación en ambos sentidos por atención del accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 ",
-      "link": "https://nitter.net/CAPUFE/status/2063129127763292177#m",
-      "date": "2026-06-06T05:21:29+00:00"
-    },
-    {
       "id": "494a684202af",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -505,20 +505,6 @@
       "text": "#ViaLibre en #Jalisco tras #Accidentevial cerca del Km 006+600 del Libramiento Lagos de Moreno. Maneje con precaución #ViaLibre en #Jalisco tras #Accidentevial cerca del Km 006+600 del Libramiento Lagos de Moreno. Maneje con precaución",
       "link": "https://nitter.net/GN_Carreteras/status/2063017108225626577#m",
       "date": "2026-06-05T21:56:22+00:00"
-    },
-    {
-      "id": "9441f83f8ec8",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 187.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Sonora tras presencia de personas cerca del km 187+500, de la carretera Los Mochis - Cd Obregón a la altura de la caseta de cobro Magdalena de kino. Maneje con precaución. #ViaLibre en #Sonora tras presencia de personas cerca del km 187+500, de la carretera Los Moch",
-      "link": "https://nitter.net/GN_Carreteras/status/2063016569639162314#m",
-      "date": "2026-06-05T21:54:13+00:00"
     }
   ]
 }
