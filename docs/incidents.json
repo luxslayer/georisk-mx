@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-06T08:58:22.151481+00:00",
+  "updated": "2026-06-06T09:46:43.115561+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "8353843b9cfd",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 113.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 113, dirección CDMX. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 113, dirección CDMX. El accidente ha ",
+      "link": "https://nitter.net/CAPUFE/status/2063194896408760566#m",
+      "date": "2026-06-06T09:42:50+00:00"
+    },
+    {
+      "id": "c21e7e8f7f90",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 50.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 50, dirección CDMX. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 50, dirección CDMX. El accidente ha si",
+      "link": "https://nitter.net/CAPUFE/status/2063194194458374315#m",
+      "date": "2026-06-06T09:40:02+00:00"
+    },
+    {
+      "id": "b14c98849e9c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 151.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Jalisco se registra cierre total de circulación por #AccidenteVial cerca del km 151+500, de la carretera Lagos de Moreno-Guadalajara con dirección Lagos de Moreno. Se orienta a la ciudadanía #Rutaalterna autopista Lagos de Moreno-Zapotlanejo. #TomePrecaucion",
+      "link": "https://nitter.net/GN_Carreteras/status/2063190900075909220#m",
+      "date": "2026-06-06T09:26:57+00:00"
+    },
+    {
+      "id": "a355487e62be",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Jalisco tras #AccidenteVial cerca del km 056+500, de la carretera Acatlán de Juárez - Colima. Maneje con precaución. #ViaLibre en #Jalisco tras #AccidenteVial cerca del km 056+500, de la carretera Acatlán de Juárez - Colima. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2063184327681126857#m",
+      "date": "2026-06-06T09:00:50+00:00"
+    },
+    {
+      "id": "692daa2d0729",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 73.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
+      "link": "https://nitter.net/CAPUFE/status/2063183852336542090#m",
+      "date": "2026-06-06T08:58:57+00:00"
+    },
     {
       "id": "ed95cb0e70c2",
       "account": "@GN_carreteras",
@@ -241,48 +311,6 @@
       "date": "2026-06-06T05:21:29+00:00"
     },
     {
-      "id": "83b16f90729d",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 29.0,
-      "lat": 18.233,
-      "lon": -94.89675,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 29, dirección La Tinaja. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 29, dirección La T",
-      "link": "https://nitter.net/CAPUFE/status/2063128762225463667#m",
-      "date": "2026-06-06T05:20:02+00:00"
-    },
-    {
-      "id": "e497b36a2975",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 118.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 118, dirección La Tinaja. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (volcadura de tracto camión y caída de carga). En la zona se registra car",
-      "link": "https://nitter.net/CAPUFE/status/2063127414033580495#m",
-      "date": "2026-06-06T05:14:41+00:00"
-    },
-    {
-      "id": "13aba96bd7da",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 113.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 113, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro",
-      "link": "https://nitter.net/CAPUFE/status/2063126179750568320#m",
-      "date": "2026-06-06T05:09:46+00:00"
-    },
-    {
       "id": "494a684202af",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,34 +519,6 @@
       "text": "#ViaLibre en #Sonora tras presencia de personas cerca del km 187+500, de la carretera Los Mochis - Cd Obregón a la altura de la caseta de cobro Magdalena de kino. Maneje con precaución. #ViaLibre en #Sonora tras presencia de personas cerca del km 187+500, de la carretera Los Moch",
       "link": "https://nitter.net/GN_Carreteras/status/2063016569639162314#m",
       "date": "2026-06-05T21:54:13+00:00"
-    },
-    {
-      "id": "cdfb1c430d89",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 220.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Oaxaca se registra presencia de personas cerca del Km 220+000, de la carretera Cuacnopalan-Oaxaca a la altura de la caseta de cobro No. 79, San Pablo Huitzo. Atienda indicación vial. #Tomeprecauciones en #Oaxaca se registra presencia de personas cerca del Km",
-      "link": "https://nitter.net/GN_Carreteras/status/2063015487332610337#m",
-      "date": "2026-06-05T21:49:55+00:00"
-    },
-    {
-      "id": "fa334d347f29",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 31.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Aguascalientes se registra cierre total de circulación por presencia de personas cerca del km 031+500, de la carretera Aguascalientes - Zacatecas. Atienda indicación vial. #TomePrecauciones en #Aguascalientes se registra cierre total de circulación por prese",
-      "link": "https://nitter.net/GN_Carreteras/status/2063013737825452358#m",
-      "date": "2026-06-05T21:42:58+00:00"
     }
   ]
 }
