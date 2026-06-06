@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-06T23:26:58.828363+00:00",
-  "count": 31,
+  "updated": "2026-06-06T23:52:37.801109+00:00",
+  "count": 30,
   "incidents": [
     {
-      "id": "a859b187c361",
+      "id": "200b2e7e362e",
       "account": "@capufe",
       "type": "accident",
       "highway": "Tijuana–Ensenada",
@@ -12,9 +12,23 @@
       "lat": 31.867967,
       "lon": -116.686867,
       "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 81, dirección Ensenada. Registra reducción de carriles por atención de accidente (choque por alcance múltiple). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 81, direcci",
-      "link": "https://nitter.net/CAPUFE/status/2063402179197653450#m",
-      "date": "2026-06-06T23:26:30+00:00"
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 81, dirección Ensenada. Registra reducción de carriles por atención de accidente (choque por alcance y salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km ",
+      "link": "https://nitter.net/CAPUFE/status/2063406744739418365#m",
+      "date": "2026-06-06T23:44:38+00:00"
+    },
+    {
+      "id": "86033f2f7ca8",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 94.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 94, dirección CDMX. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 94, dirección CDMX. El accidente ha sido atendido. Sin embargo, ",
+      "link": "https://nitter.net/CAPUFE/status/2063402833559363774#m",
+      "date": "2026-06-06T23:29:06+00:00"
     },
     {
       "id": "dd13c68c36af",
@@ -239,34 +253,6 @@
       "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
       "link": "https://nitter.net/CAPUFE/status/2063356473371992190#m",
       "date": "2026-06-06T20:24:53+00:00"
-    },
-    {
-      "id": "7378bd1e743e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 159.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 159, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre tracto camión y automóviles. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: http",
-      "link": "https://nitter.net/CAPUFE/status/2063352542768107726#m",
-      "date": "2026-06-06T20:09:16+00:00"
-    },
-    {
-      "id": "de72a5cda7c8",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 28.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 28. Continúa reducción de carriles en ambos sentidos por atención de incidente (camión de carga con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Igual",
-      "link": "https://nitter.net/CAPUFE/status/2063344887236268512#m",
-      "date": "2026-06-06T19:38:50+00:00"
     },
     {
       "id": "e6eb40e37029",
