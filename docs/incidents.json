@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-06T21:28:06.025230+00:00",
+  "updated": "2026-06-06T21:53:53.245591+00:00",
   "count": 32,
   "incidents": [
+    {
+      "id": "d76ecc0c3079",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 73.0,
+      "lat": 19.118475,
+      "lon": -98.383475,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #Accidentevial cerca del km 073+300, de la carretera México-Puebla, a la altura del Mpio. Santa Rita Tlahuapan, con dir. a Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre p",
+      "link": "https://nitter.net/GN_Carreteras/status/2063375280048111768#m",
+      "date": "2026-06-06T21:39:37+00:00"
+    },
+    {
+      "id": "5af9f89274a4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 159.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 159, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQueré",
+      "link": "https://nitter.net/CAPUFE/status/2063373250118267055#m",
+      "date": "2026-06-06T21:31:33+00:00"
+    },
     {
       "id": "15eae5a1bfbc",
       "account": "@GN_carreteras",
@@ -325,20 +353,6 @@
       "date": "2026-06-06T18:03:12+00:00"
     },
     {
-      "id": "18e3aa3b43c2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 2.0,
-      "lat": 18.314,
-      "lon": -95.0115,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 2, dirección La Tinaja. El accidente ha sido atendido. La gasa de incorporación a la autopista en dirección Veracruz opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopis",
-      "link": "https://nitter.net/CAPUFE/status/2063320330764943578#m",
-      "date": "2026-06-06T18:01:16+00:00"
-    },
-    {
       "id": "780393e8972b",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -435,20 +449,6 @@
       "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de la circulación por #Accidentevial cerca del km 194+700, de la carretera Tuxtla Gutiérrez-Cd. Cuauhtémoc, con dir. a Comitán. Atienda indicación vial. #TomePrecauciones en #Chiapas se registra cierre parcial de la circula",
       "link": "https://nitter.net/GN_Carreteras/status/2063280771473829972#m",
       "date": "2026-06-06T15:24:04+00:00"
-    },
-    {
-      "id": "bb1a5daf7784",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 23.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Sinaloa tras presencia de personas cerca del km 023+500, de la Autopista Lic. Benito Juárez a la altura de la caseta de cobro El Pisal. Maneje con precaución. #ViaLibre en #Sinaloa tras presencia de personas cerca del km 023+500, de la Autopista Lic. Benito Juárez a",
-      "link": "https://nitter.net/GN_Carreteras/status/2063276465605505463#m",
-      "date": "2026-06-06T15:06:57+00:00"
     }
   ]
 }
