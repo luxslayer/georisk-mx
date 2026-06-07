@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-07T17:33:18.853099+00:00",
-  "count": 26,
+  "updated": "2026-06-07T18:33:08.976230+00:00",
+  "count": 25,
   "incidents": [
+    {
+      "id": "8191d1e298c2",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 36.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Cierre total de circulación sobre la carretera libre y con afectación en un carril sobre la autopista, ambos con dirección a Toluca, Edo. Méx. Cierre total de circulación sobre la carretera libre y con afectación en un carril sobre la autopista, ambos con dirección a Toluca, Edo.",
+      "link": "https://nitter.net/GN_Carreteras/status/2063685067004579880#m",
+      "date": "2026-06-07T18:10:36+00:00"
+    },
+    {
+      "id": "da79dce96e5a",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 36.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #EdoMx se registra presencia de personas cerca del km 036+300, de la carretera México (Ent. Constituyentes)-Toluca (Lerma), a inmediaciones de La Marquesa, con dir. a Toluca. Atienda indicación vial. #TomePrecauciones en #EdoMx se registra presencia de person",
+      "link": "https://nitter.net/GN_Carreteras/status/2063685021064478920#m",
+      "date": "2026-06-07T18:10:25+00:00"
+    },
+    {
+      "id": "6d489739b95b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 102.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #Accidentevial cerca del km 102+500, de la carretera Xalapa-Veracruz, a la altura de la Loc. Ampliación Las Bajadas, con dir. a Paso de Ovejas. Atienda indicación vial. #TomePrecauciones en #Veracruz se ",
+      "link": "https://nitter.net/GN_Carreteras/status/2063678559252574548#m",
+      "date": "2026-06-07T17:44:44+00:00"
+    },
     {
       "id": "056380f14231",
       "account": "@GN_carreteras",
@@ -241,20 +283,6 @@
       "date": "2026-06-07T14:29:58+00:00"
     },
     {
-      "id": "f183d2c268a7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 232.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 232, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 232, dirección A",
-      "link": "https://nitter.net/CAPUFE/status/2063628222282039439#m",
-      "date": "2026-06-07T14:24:43+00:00"
-    },
-    {
       "id": "cb0a797fa401",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -323,48 +351,6 @@
       "text": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #Accidentevial cerca del km 028+000, de la carretera Chilpancingo-Acapulco, a la altura del poblado Acahuizotla, con dir. a Ocotito. Atienda indicación vial. #TomePrecauciones en #Guerrero se registra ci",
       "link": "https://nitter.net/GN_Carreteras/status/2063455976393511081#m",
       "date": "2026-06-07T03:00:16+00:00"
-    },
-    {
-      "id": "215bf3c873ca",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 42.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #Accidentevial cerca del km 042+600, de la carretera Lagos de moreno-Guadalajara, a inmediaciones del Mpio. San Juan de Los Lagos, con dir. a Guadalajara. Atienda indicación vial. #TomePrecauciones en #Ja",
-      "link": "https://nitter.net/GN_Carreteras/status/2063426779725914469#m",
-      "date": "2026-06-07T01:04:15+00:00"
-    },
-    {
-      "id": "103a23914e73",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 57.0,
-      "lat": 20.1192,
-      "lon": -99.3956,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre de circulación por maniobras tras #Accidentevial cerca del km 057+200, de la carretera Pátzcuaro-Copándaro, a la altura del Mpio. Buena Vista. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre de circula",
-      "link": "https://nitter.net/GN_Carreteras/status/2063425589986357317#m",
-      "date": "2026-06-07T00:59:31+00:00"
-    },
-    {
-      "id": "96e02db975e7",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 141.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #Accidentevial cerca del km 141+800, de la carretera Coatzacoalcos-Villahermosa, a la altura de la Loc. Marín, con dir. a Cárdenas. Atienda indicación vial. #TomePrecauciones en #Tabasco se registra cierr",
-      "link": "https://nitter.net/GN_Carreteras/status/2063423151120216291#m",
-      "date": "2026-06-07T00:49:50+00:00"
     }
   ]
 }
