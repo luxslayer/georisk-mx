@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-07T23:27:10.211715+00:00",
-  "count": 28,
+  "updated": "2026-06-07T23:53:25.892187+00:00",
+  "count": 30,
   "incidents": [
+    {
+      "id": "4016c782c88d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 65.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 65, dirección CDMX. Continúa reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular intensa. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxico",
+      "link": "https://nitter.net/CAPUFE/status/2063769466651959749#m",
+      "date": "2026-06-07T23:45:58+00:00"
+    },
+    {
+      "id": "f79447a0a875",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 250.0,
+      "lat": 18.884,
+      "lon": -96.923,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #Accidentevial cerca del km 250+000, de la carretera Puebla-Cordoba, a la altura del Mpio. Maltrata, con dir. a Puebla. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial ",
+      "link": "https://nitter.net/GN_Carreteras/status/2063768627547873780#m",
+      "date": "2026-06-07T23:42:38+00:00"
+    },
+    {
+      "id": "773a244bdb9b",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 320.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 320, dirección Acapulco. Se informa a las personas usuarias que el incidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "link": "https://nitter.net/CAPUFE/status/2063768518751932473#m",
+      "date": "2026-06-07T23:42:12+00:00"
+    },
+    {
+      "id": "aa9d4be4a7af",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 170.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 170, dirección Acatzingo. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 170, dirección Aca",
+      "link": "https://nitter.net/CAPUFE/status/2063767493664018865#m",
+      "date": "2026-06-07T23:38:08+00:00"
+    },
     {
       "id": "2c90802b398c",
       "account": "@capufe",
@@ -87,7 +143,7 @@
       "date": "2026-06-07T22:39:45+00:00"
     },
     {
-      "id": "944ab49efc69",
+      "id": "c18cdcb3433f",
       "account": "@capufe",
       "type": "closure",
       "highway": "Cuernavaca–Acapulco",
@@ -96,7 +152,7 @@
       "lat": 16.8531,
       "lon": -99.8237,
       "resolved": true,
-      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 320, dirección Acapulco. Reducción de carriles por atención de derrumbe de talud. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/4MjQVRtE8B5MUu1N8 🟠 CIERRE PARCIAL DE CIRCULA",
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 320, dirección Acapulco. Reducción de carriles por atención de derrumbe de talud. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/4MjQVRtE8B5MUu1N8 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 A",
       "link": "https://nitter.net/CAPUFE/status/2063750737721466898#m",
       "date": "2026-06-07T22:31:33+00:00"
     },
@@ -169,20 +225,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 65, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 65, direcc",
       "link": "https://nitter.net/CAPUFE/status/2063742543905411475#m",
       "date": "2026-06-07T21:58:59+00:00"
-    },
-    {
-      "id": "b1c0104f5bc8",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 265.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 265, dirección Córdoba. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendo",
-      "link": "https://nitter.net/CAPUFE/status/2063742158394241041#m",
-      "date": "2026-06-07T21:57:27+00:00"
     },
     {
       "id": "3045eb69b918",
@@ -379,20 +421,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #Accidentevial cerca del km 233+500, de la carretera Puebla-Cordoba, a la altura del Mpio. Ozuluama de Maltrata. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circ",
       "link": "https://nitter.net/GN_Carreteras/status/2063643086962446457#m",
       "date": "2026-06-07T15:23:47+00:00"
-    },
-    {
-      "id": "a17da8f8dfae",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 127.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #Accidentevial cerca del km 127+300, de la carretera Tuxpan–Tampico, a la altura del Mpio. Ozuluama de Mascareñas, con dir. a Ozuluama. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra",
-      "link": "https://nitter.net/GN_Carreteras/status/2063642006912475184#m",
-      "date": "2026-06-07T15:19:29+00:00"
     }
   ]
 }
