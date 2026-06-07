@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-07T16:38:22.938735+00:00",
-  "count": 29,
+  "updated": "2026-06-07T17:33:18.853099+00:00",
+  "count": 26,
   "incidents": [
+    {
+      "id": "056380f14231",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 220.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Oaxaca se registra presencia de personas cerca del km 220+000, de la carretera Cuacnopalan-Oaxaca, a la altura de la caseta de cobro No. 79, San Pablo Huitzo. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra presencia de personas cerca del k",
+      "link": "https://nitter.net/GN_Carreteras/status/2063673512892486023#m",
+      "date": "2026-06-07T17:24:41+00:00"
+    },
+    {
+      "id": "42c9e7743770",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 9.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #Accidentevial cerca del km 009+700, de la carretera Matamoros–Reynosa, a la altura de la localidad Pájaros Azules, con dir. a Matamoros. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se re",
+      "link": "https://nitter.net/GN_Carreteras/status/2063663435271795150#m",
+      "date": "2026-06-07T16:44:38+00:00"
+    },
     {
       "id": "9a34e00848e6",
       "account": "@GN_carreteras",
@@ -227,34 +255,6 @@
       "date": "2026-06-07T14:24:43+00:00"
     },
     {
-      "id": "8bb310682bb7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 232.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 232, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura sobre carpeta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 232, direcci",
-      "link": "https://nitter.net/CAPUFE/status/2063615040565961159#m",
-      "date": "2026-06-07T13:32:20+00:00"
-    },
-    {
-      "id": "97ceeb622f8a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 51.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 51, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 51, dirección Cuernavaca. Reducción de car",
-      "link": "https://nitter.net/CAPUFE/status/2063609074294329699#m",
-      "date": "2026-06-07T13:08:37+00:00"
-    },
-    {
       "id": "cb0a797fa401",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -365,48 +365,6 @@
       "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #Accidentevial cerca del km 141+800, de la carretera Coatzacoalcos-Villahermosa, a la altura de la Loc. Marín, con dir. a Cárdenas. Atienda indicación vial. #TomePrecauciones en #Tabasco se registra cierr",
       "link": "https://nitter.net/GN_Carreteras/status/2063423151120216291#m",
       "date": "2026-06-07T00:49:50+00:00"
-    },
-    {
-      "id": "96b55011c7aa",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 93.0,
-      "lat": 20.3208,
-      "lon": -99.7844,
-      "resolved": true,
-      "text": "#TomePrecauciones en #EdoMx se registra cierre parcial de circulación por #Accidentevial cerca del km 093+400, de la carretera México-Querétaro, a inmediaciones del Mpio. San Francisco Soyaniquilpan, con dir. a Cd. de Mx. Atienda indicación vial. #TomePrecauciones en #EdoMx se re",
-      "link": "https://nitter.net/GN_Carreteras/status/2063422088564646179#m",
-      "date": "2026-06-07T00:45:37+00:00"
-    },
-    {
-      "id": "6c381d4b42bc",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 43.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #Accidentevial cerca del km 043+900, de la carretera Xalapa-Veracruz, a la altura del Mpio. Rinconada. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación po",
-      "link": "https://nitter.net/GN_Carreteras/status/2063419475114828151#m",
-      "date": "2026-06-07T00:35:14+00:00"
-    },
-    {
-      "id": "5c7b32b9a5e6",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 250.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #Accidentevial cerca del km 250+800, de la carretera Cd. Victoria-Matamoros, a la altura de la Loc. la Comunidad, con dir. a Matamoros. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se regi",
-      "link": "https://nitter.net/GN_Carreteras/status/2063414932444459227#m",
-      "date": "2026-06-07T00:17:10+00:00"
     }
   ]
 }
