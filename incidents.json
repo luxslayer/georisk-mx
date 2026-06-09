@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-09T07:49:21.023173+00:00",
-  "count": 33,
+  "updated": "2026-06-09T09:15:33.513303+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "bd7b9fd4dab6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 210.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 210, dirección La Carbonera. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACI",
+      "link": "https://nitter.net/CAPUFE/status/2064274761564274764#m",
+      "date": "2026-06-09T09:13:50+00:00"
+    },
+    {
+      "id": "ccf497bf1fd8",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 62.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 62, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Tránsito lento en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 62, dirección C",
+      "link": "https://nitter.net/CAPUFE/status/2064263618158329988#m",
+      "date": "2026-06-09T08:29:33+00:00"
+    },
+    {
+      "id": "cf9dd7ba9201",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 198.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #EdoMex se registra cierre parcial de circulación por #Vehiculoincendiado por falla mecánica cerca del km 198+300, de la autopista Puebla- Orizaba. Atienda indicación vial. #TomePrecauciones en #EdoMex se registra cierre parcial de circulación por #Vehiculoin",
+      "link": "https://nitter.net/GN_Carreteras/status/2064260746796466346#m",
+      "date": "2026-06-09T08:18:08+00:00"
+    },
+    {
+      "id": "fb040a8686c7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 64.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 64, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 64, dirección Cuernavaca. El accidente ha",
+      "link": "https://nitter.net/CAPUFE/status/2064259868588982677#m",
+      "date": "2026-06-09T08:14:39+00:00"
+    },
+    {
+      "id": "2613e977b183",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 127.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "TomePrecauciones en #Coahuila se registra cierre parcial de la circulación con dirección Piedras Negras por #AccidenteVial cerca del km 127+800, de la carretera Monclova - Piedras Negras. Atienda indicación vial. TomePrecauciones en #Coahuila se registra cierre parcial de la circ",
+      "link": "https://nitter.net/GN_Carreteras/status/2064259076515574137#m",
+      "date": "2026-06-09T08:11:30+00:00"
+    },
+    {
+      "id": "02d7d356d2b1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 64.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 64, dirección Cuernavaca. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIA",
+      "link": "https://nitter.net/CAPUFE/status/2064255538037137790#m",
+      "date": "2026-06-09T07:57:26+00:00"
+    },
     {
       "id": "7bb05912aa98",
       "account": "@capufe",
@@ -435,34 +519,6 @@
       "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #afectaciónclimatológica, (socavón sobre la carpeta asfáltica) cerca del km 066+200, de la carretera Oaxaca-Tehuantepec con dirección Tehuantepec. Maneje con precaución. #TomePrecauciones en #Oaxaca se reg",
       "link": "https://nitter.net/GN_Carreteras/status/2064098441572106412#m",
       "date": "2026-06-08T21:33:12+00:00"
-    },
-    {
-      "id": "6004f927844a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 47.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Jalisco tras #AccidenteVial cerca del km 047+300, de la carretera León - Aguascalientes, con dirección León Gto. Maneje con precaución. #ViaLibre en #Jalisco tras #AccidenteVial cerca del km 047+300, de la carretera León - Aguascalientes, con dirección León Gto. Man",
-      "link": "https://nitter.net/GN_Carreteras/status/2064096308164522349#m",
-      "date": "2026-06-08T21:24:43+00:00"
-    },
-    {
-      "id": "0503988cdae3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Lib. Sur Qro.",
-      "route_key": "libramiento-queretaro",
-      "km": 11.0,
-      "lat": 20.512,
-      "lon": -100.362,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de la circulación por #AccidenteVial cerca del km 011+100, de la carretera Libramiento sur Tuxtla Gutiérrez. Maneje con precaución. #TomePrecauciones en #Chiapas se registra cierre parcial de la circulación por #AccidenteVi",
-      "link": "https://nitter.net/GN_Carreteras/status/2064095910724784457#m",
-      "date": "2026-06-08T21:23:08+00:00"
     }
   ]
 }
