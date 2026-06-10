@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-10T07:37:33.778545+00:00",
-  "count": 32,
+  "updated": "2026-06-10T09:21:19.134040+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "e0f8a949480b",
+      "account": "@capufe",
+      "type": "fire",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 97.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 97, dirección Veracruz. Reducción de carriles por atención de incidente (conato de incendio de tracto camión y caída de carga). Tránsito lento en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 A",
+      "link": "https://nitter.net/CAPUFE/status/2064638766807920983#m",
+      "date": "2026-06-10T09:20:15+00:00"
+    },
+    {
+      "id": "19080db548b7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 163.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 163, dirección Isla. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra car",
+      "link": "https://nitter.net/CAPUFE/status/2064636615696252984#m",
+      "date": "2026-06-10T09:11:42+00:00"
+    },
+    {
+      "id": "f11aefe0ff82",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 163.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 163, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isl",
+      "link": "https://nitter.net/CAPUFE/status/2064629831367573637#m",
+      "date": "2026-06-10T08:44:45+00:00"
+    },
+    {
+      "id": "2315481a9a2b",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 46.0,
+      "lat": 29.08096,
+      "lon": -106.23552,
+      "resolved": true,
+      "text": "#ViaLibre en #Sonora tras presencia de personas cerca del km 046+300, de la carretera Cd. Obregón-Hermosillo, a la altura del Mpio. Vicam. Maneje con precaución. #ViaLibre en #Sonora tras presencia de personas cerca del km 046+300, de la carretera Cd. Obregón-Hermosillo, a la alt",
+      "link": "https://nitter.net/GN_Carreteras/status/2064620118215114879#m",
+      "date": "2026-06-10T08:06:09+00:00"
+    },
+    {
+      "id": "ae9e6d08cb6d",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 48.0,
+      "lat": 29.10048,
+      "lon": -106.24276,
+      "resolved": true,
+      "text": "#ViaLibre en #Sonora tras presencia de personas cerca del km 048+000, de la carretera Cd. Obregón-Hermosillo, a la altura del Mpio. Vicam. Maneje con precaución. #ViaLibre en #Sonora tras presencia de personas cerca del km 048+000, de la carretera Cd. Obregón-Hermosillo, a la alt",
+      "link": "https://nitter.net/GN_Carreteras/status/2064619465396953339#m",
+      "date": "2026-06-10T08:03:33+00:00"
+    },
     {
       "id": "a5d8a229bb2d",
       "account": "@capufe",
@@ -185,20 +255,6 @@
       "date": "2026-06-10T04:07:57+00:00"
     },
     {
-      "id": "3dc97003e988",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 50.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 50, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 50, dirección Cuernavaca. Reducció",
-      "link": "https://nitter.net/CAPUFE/status/2064553387195056620#m",
-      "date": "2026-06-10T03:40:59+00:00"
-    },
-    {
       "id": "3e3f0feef867",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -213,18 +269,32 @@
       "date": "2026-06-10T02:51:11+00:00"
     },
     {
-      "id": "8f87ff938428",
+      "id": "46a94bb2adbd",
       "account": "@capufe",
       "type": "accident",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 79.0,
-      "lat": 31.8758,
-      "lon": -116.696,
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 294.0,
+      "lat": 31.738,
+      "lon": -106.487,
       "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 79, dirección Tijuana. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 79, dirección Tijuana. Reducci",
-      "link": "https://nitter.net/CAPUFE/status/2064539576513781965#m",
-      "date": "2026-06-10T02:46:06+00:00"
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cd. Mendoza - Córdoba, km 294, dirección Cd. Mendoza. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaució",
+      "link": "https://nitter.net/CAPUFE/status/2064530475683623410#m",
+      "date": "2026-06-10T02:09:57+00:00"
+    },
+    {
+      "id": "c25bedaa1def",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 294.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 294, dirección Cd. Mendoza. Se atiende choque por alcance múltiple entre camión de carga y automóviles, por el momento, sin afectación a los carriles de rodamiento. Sin embargo, en la zona se registra carga vehicular. Maneja",
+      "link": "https://nitter.net/CAPUFE/status/2064525204563390881#m",
+      "date": "2026-06-10T01:49:00+00:00"
     },
     {
       "id": "d77066a884e2",
@@ -421,34 +491,6 @@
       "text": "El tránsito de vehículos particulares y de carga será de manera intermitente cada 10 minutos se dará paso por cada carril. El tránsito de vehículos particulares y de carga será de manera intermitente cada 10 minutos se dará paso por cada carril. Guardia Nacional Carreteras (@GN_C",
       "link": "https://nitter.net/GN_Carreteras/status/2064407964883021933#m",
       "date": "2026-06-09T18:03:08+00:00"
-    },
-    {
-      "id": "09def540cb37",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 191.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #BajaCalifornia se registra presencia de personas cerca del km 191+500, de la carretera Ensenada-Lázaro Cárdenas, a la altura de Loc. San Quintín. Atienda indicación vial. #TomePrecauciones en #BajaCalifornia se registra presencia de personas cerca del km 191",
-      "link": "https://nitter.net/GN_Carreteras/status/2064407742127763742#m",
-      "date": "2026-06-09T18:02:15+00:00"
-    },
-    {
-      "id": "bb0b5bd8af23",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #EdoMx se registra presencia de personas cerca del km 013+100, de la carretera Toluca-Ixtlahuaca, a la altura de la Caseta de Cobro el Dorado, dando libre paso sin cobro de peaje en ambos sentidos. Atienda indicación vial. #TomePrecauciones en #EdoMx se regis",
-      "link": "https://nitter.net/GN_Carreteras/status/2064406116633575811#m",
-      "date": "2026-06-09T17:55:47+00:00"
     }
   ]
 }
