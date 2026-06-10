@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-10T02:23:49.726106+00:00",
-  "count": 32,
+  "updated": "2026-06-10T03:47:32.214527+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "3dc97003e988",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 50.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 50, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 50, dirección Cuernavaca. Reducció",
+      "link": "https://nitter.net/CAPUFE/status/2064553387195056620#m",
+      "date": "2026-06-10T03:40:59+00:00"
+    },
+    {
+      "id": "3e3f0feef867",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 191.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #BajaCalifornia tras presencia de personas, cerca del km 191+500, cerca de la carretera Ensenada-Lázaro Cárdenas. Maneje con precaución. #VíaLibre en #BajaCalifornia tras presencia de personas, cerca del km 191+500, cerca de la carretera Ensenada-Lázaro Cárdenas. Man",
+      "link": "https://nitter.net/GN_Carreteras/status/2064540854744682670#m",
+      "date": "2026-06-10T02:51:11+00:00"
+    },
+    {
+      "id": "8f87ff938428",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 79.0,
+      "lat": 31.8758,
+      "lon": -116.696,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 79, dirección Tijuana. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 79, dirección Tijuana. Reducci",
+      "link": "https://nitter.net/CAPUFE/status/2064539576513781965#m",
+      "date": "2026-06-10T02:46:06+00:00"
+    },
     {
       "id": "0e202ab4ea11",
       "account": "@capufe",
@@ -169,34 +211,6 @@
       "text": "🟠 CARGA VEHICULAR 🟠 Autopista Chamapa - Lechería, km 12, dirección Lechería. Se restablece la circulación. Sin embargo, se continúa con la atención del accidente (choque de costado), por el momento sin afectación a los carriles de rodamiento. En la zona se registra carga vehicula",
       "link": "https://nitter.net/CAPUFE/status/2064493363814944896#m",
       "date": "2026-06-09T23:42:29+00:00"
-    },
-    {
-      "id": "8314db7b85de",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Chamapa - Lechería, km 12, dirección Lechería. Cierre a la circulación por atención de accidente (choque de costado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Chamapa - Lechería, km 12, di",
-      "link": "https://nitter.net/CAPUFE/status/2064490758996967571#m",
-      "date": "2026-06-09T23:32:07+00:00"
-    },
-    {
-      "id": "cb1e2c3ec1ee",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 63.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 63, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 63, dirección CDMX. El accidente ha sido atendi",
-      "link": "https://nitter.net/CAPUFE/status/2064489579910926474#m",
-      "date": "2026-06-09T23:27:26+00:00"
     },
     {
       "id": "d77066a884e2",
@@ -421,34 +435,6 @@
       "text": "#TomePrecauciones en #EdoMx se registra presencia de personas cerca del km 013+100, de la carretera Toluca-Ixtlahuaca, a la altura de la Caseta de Cobro el Dorado, dando libre paso sin cobro de peaje en ambos sentidos. Atienda indicación vial. #TomePrecauciones en #EdoMx se regis",
       "link": "https://nitter.net/GN_Carreteras/status/2064406116633575811#m",
       "date": "2026-06-09T17:55:47+00:00"
-    },
-    {
-      "id": "0ce54f547bd5",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "Los manifestantes dan paso libre sin corbo de peaje por un carril. Los manifestantes dan paso libre sin corbo de peaje por un carril. Guardia Nacional Carreteras (@GN_Carreteras) #TomePrecauciones en #CdMxse registra presencia de personas cerca del km 024+600, de la carretera Méx",
-      "link": "https://nitter.net/GN_Carreteras/status/2064404830681018856#m",
-      "date": "2026-06-09T17:50:41+00:00"
-    },
-    {
-      "id": "426f4652136e",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #CdMxse registra presencia de personas cerca del km 024+600, de la carretera México -Cuernavaca, a la altura de la Caseta de Cobro Tlalpan, con dir. a Morelos. Maneje con precaución. #TomePrecauciones en #CdMxse registra presencia de personas cerca del km 024",
-      "link": "https://nitter.net/GN_Carreteras/status/2064404689689387509#m",
-      "date": "2026-06-09T17:50:07+00:00"
     }
   ]
 }
