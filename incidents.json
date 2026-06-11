@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-10T23:04:26.981245+00:00",
+  "updated": "2026-06-11T00:00:02.230348+00:00",
   "count": 29,
   "incidents": [
+    {
+      "id": "0b002d4cac42",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 10.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Córdoba - Veracruz, km 10, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Córdoba - Veracruz, km 10, dirección Cór",
+      "link": "https://nitter.net/CAPUFE/status/2064860118420754618#m",
+      "date": "2026-06-10T23:59:50+00:00"
+    },
+    {
+      "id": "7b0f021ea68d",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 220.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Oaxaca tras presencia de personas cerca del km 220+000, de la carretera Cuacnopalan-Oaxaca, en la caseta de cobro No. 79, San Pablo Huitzo. Maneje con precaución. #ViaLibre en #Oaxaca tras presencia de personas cerca del km 220+000, de la carretera Cuacnopalan-Oaxac",
+      "link": "https://nitter.net/GN_Carreteras/status/2064858495803854853#m",
+      "date": "2026-06-10T23:53:23+00:00"
+    },
+    {
+      "id": "f13bb62b5081",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 3.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Guerrero tras un cierre presencia de personas cerca del km 003+800, cerca de la carretera Chilpancingo - Acapulco, a la altura del Mpio. Parador de Márquez, Gro. Maneje con precaución. #ViaLibre en #Guerrero tras un cierre presencia de personas cerca del km 003+800,",
+      "link": "https://nitter.net/GN_Carreteras/status/2064855019556425777#m",
+      "date": "2026-06-10T23:39:34+00:00"
+    },
+    {
+      "id": "d738d2a22857",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 0.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en el #AeropuertodeOaxaca tras un cierre al acceso principal del interior del Aeropuerto, por presencia de personas cerca del km 000+300, de la carretera Oaxaca- Puerto Ángel. Maneje con precaución. #ViaLibre en el #AeropuertodeOaxaca tras un cierre al acceso principal ",
+      "link": "https://nitter.net/GN_Carreteras/status/2064852480484163602#m",
+      "date": "2026-06-10T23:29:29+00:00"
+    },
+    {
+      "id": "64b490a4b163",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 52.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 52, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 52, dirección Querétaro. El accidente ha sido atendido. En la zo",
+      "link": "https://nitter.net/CAPUFE/status/2064847387206529491#m",
+      "date": "2026-06-10T23:09:14+00:00"
+    },
     {
       "id": "1de3adbab66d",
       "account": "@capufe",
@@ -171,20 +241,6 @@
       "date": "2026-06-10T21:20:42+00:00"
     },
     {
-      "id": "0068418a8017",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 53.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, Plaza de Cobro Tlalpan, continúa cierre a la circulación dirección CDMX. 🔘Dirección Cuernavaca se restablece la vialidad con reducción de carriles. ➡️ Se desvía el tránsito vehicular hacia carretera libre a la altura del km 53 (Pobl",
-      "link": "https://nitter.net/CAPUFE/status/2064818102240743808#m",
-      "date": "2026-06-10T21:12:52+00:00"
-    },
-    {
       "id": "0ef3edda7ff3",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -197,34 +253,6 @@
       "text": "#ViaLibre en #Puebla tras un #AccidenteVial cerca del km 009+100, de la carretera Amozoc-Perote, a la altura del Mpio. de Acajete, Pue. Maneje con precaución. #ViaLibre en #Puebla tras un #AccidenteVial cerca del km 009+100, de la carretera Amozoc-Perote, a la altura del Mpio. de",
       "link": "https://nitter.net/GN_Carreteras/status/2064817539834585478#m",
       "date": "2026-06-10T21:10:38+00:00"
-    },
-    {
-      "id": "33b49e44edb7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 52.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 52, dirección Querétaro. Cierre a la circulación por atención de accidente (choque por alcance entre tracto camión y automóvil). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuer",
-      "link": "https://nitter.net/CAPUFE/status/2064815092273680820#m",
-      "date": "2026-06-10T21:00:55+00:00"
-    },
-    {
-      "id": "46955fef484d",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 276.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 SE RETIRAN MANIFESTANTES 🟢 Libramiento Chilpancingo, km 276. Parador del Marqués (fuera de la cobertura de CAPUFE). Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 SE RETIRAN MAN",
-      "link": "https://nitter.net/CAPUFE/status/2064814348766240849#m",
-      "date": "2026-06-10T20:57:57+00:00"
     },
     {
       "id": "d38202f83f58",
@@ -379,34 +407,6 @@
       "text": "#ViaLibre en #Sonora tras presencia de personas cerca del km 046+300, de la carretera Cd. Obregón-Hermosillo, a la altura del Mpio. Vicam. Maneje con precaución. #ViaLibre en #Sonora tras presencia de personas cerca del km 046+300, de la carretera Cd. Obregón-Hermosillo, a la alt",
       "link": "https://nitter.net/GN_Carreteras/status/2064620118215114879#m",
       "date": "2026-06-10T08:06:09+00:00"
-    },
-    {
-      "id": "ae9e6d08cb6d",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 48.0,
-      "lat": 29.10048,
-      "lon": -106.24276,
-      "resolved": true,
-      "text": "#ViaLibre en #Sonora tras presencia de personas cerca del km 048+000, de la carretera Cd. Obregón-Hermosillo, a la altura del Mpio. Vicam. Maneje con precaución. #ViaLibre en #Sonora tras presencia de personas cerca del km 048+000, de la carretera Cd. Obregón-Hermosillo, a la alt",
-      "link": "https://nitter.net/GN_Carreteras/status/2064619465396953339#m",
-      "date": "2026-06-10T08:03:33+00:00"
-    },
-    {
-      "id": "3e3f0feef867",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 191.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #BajaCalifornia tras presencia de personas, cerca del km 191+500, cerca de la carretera Ensenada-Lázaro Cárdenas. Maneje con precaución. #VíaLibre en #BajaCalifornia tras presencia de personas, cerca del km 191+500, cerca de la carretera Ensenada-Lázaro Cárdenas. Man",
-      "link": "https://nitter.net/GN_Carreteras/status/2064540854744682670#m",
-      "date": "2026-06-10T02:51:11+00:00"
     }
   ]
 }
