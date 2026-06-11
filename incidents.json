@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-11T21:18:00.448411+00:00",
+  "updated": "2026-06-11T22:12:55.387051+00:00",
   "count": 24,
   "incidents": [
+    {
+      "id": "72da47b1db3b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 84.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Tehuacán - Oaxaca, km 84. El accidente ha sido atendido. En la zona se registra carga vehicular en ambos sentidos. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Tehuacán - Oaxaca, km 84. El accidente ha sido atendido. En la zona se registra ca",
+      "link": "https://nitter.net/CAPUFE/status/2065190721091465356#m",
+      "date": "2026-06-11T21:53:31+00:00"
+    },
     {
       "id": "a22cd62f9e88",
       "account": "@capufe",
@@ -155,20 +169,6 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 71, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla , km 71",
       "link": "https://nitter.net/CAPUFE/status/2065153361708519563#m",
       "date": "2026-06-11T19:25:04+00:00"
-    },
-    {
-      "id": "2e00de5675d5",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 73.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2065152086816198682#m",
-      "date": "2026-06-11T19:20:00+00:00"
     },
     {
       "id": "28022ca1ef97",
