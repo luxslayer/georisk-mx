@@ -1,7 +1,119 @@
 {
-  "updated": "2026-06-11T07:49:54.769569+00:00",
-  "count": 28,
+  "updated": "2026-06-11T09:36:40.393335+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "0fb3a2877303",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 118.0,
+      "lat": 17.863609,
+      "lon": -99.606631,
+      "resolved": true,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, registra #lluvia del km 118 al 179. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, registra #lluvia del km 118 al 179. Disminuye tu velocidad y m",
+      "link": "https://nitter.net/CAPUFE/status/2065004913604575568#m",
+      "date": "2026-06-11T09:35:11+00:00"
+    },
+    {
+      "id": "80ea5a4d6649",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 32.0,
+      "lat": 18.224,
+      "lon": -94.884,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 32, dirección Isla. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 32, dirección Isla. Continúa ",
+      "link": "https://nitter.net/CAPUFE/status/2065002346518597720#m",
+      "date": "2026-06-11T09:24:59+00:00"
+    },
+    {
+      "id": "4bde8d513ba5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 52.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABL",
+      "link": "https://nitter.net/CAPUFE/status/2065001395720212894#m",
+      "date": "2026-06-11T09:21:13+00:00"
+    },
+    {
+      "id": "50f88bfc3ba3",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 32.0,
+      "lat": 18.224,
+      "lon": -94.884,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 032+300, de la autopista ent. La Tinaja - Cosoleacaque con dirección Minatitlán. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulac",
+      "link": "https://nitter.net/GN_Carreteras/status/2064999869853352302#m",
+      "date": "2026-06-11T09:15:09+00:00"
+    },
+    {
+      "id": "af8c0159a31a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 104.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del km 104+000, de la carretera Monterrey-Nuevo Laredo con dirección Monterrey. Atienda indicación vial #TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por",
+      "link": "https://nitter.net/GN_Carreteras/status/2064998789593629052#m",
+      "date": "2026-06-11T09:10:51+00:00"
+    },
+    {
+      "id": "4be0f63baa2e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 52.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Se informa a las personas usuarias que los accidentes han sido atendidos, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para m",
+      "link": "https://nitter.net/CAPUFE/status/2064994622674223339#m",
+      "date": "2026-06-11T08:54:18+00:00"
+    },
+    {
+      "id": "187c9e175cb2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 66.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 66, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 66, dirección Cuernavaca. El accidente ha",
+      "link": "https://nitter.net/CAPUFE/status/2064992880670769338#m",
+      "date": "2026-06-11T08:47:23+00:00"
+    },
+    {
+      "id": "71a778567018",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 52.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Cierre a la circulación por atención de accidentes: 🔘 Choque por alcance entre autobús y unidad de carga. 🔘 Volcadura sobre carpeta de vehículo. Toma tus precauciones. Para más información llama al 0⃣7⃣4",
+      "link": "https://nitter.net/CAPUFE/status/2064987420777480598#m",
+      "date": "2026-06-11T08:25:41+00:00"
+    },
     {
       "id": "a1acc56097f4",
       "account": "@capufe",
@@ -143,20 +255,6 @@
       "date": "2026-06-11T06:34:36+00:00"
     },
     {
-      "id": "c77f948161e1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 32.0,
-      "lat": 18.224,
-      "lon": -94.884,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 32, dirección Isla. Reducción de carriles por atención de accidente (salida del camino de camión de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 32, dirección Isla.",
-      "link": "https://nitter.net/CAPUFE/status/2064948580670947838#m",
-      "date": "2026-06-11T05:51:21+00:00"
-    },
-    {
       "id": "99e7632ee952",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -211,20 +309,6 @@
       "text": "#ViaLibre en #CDMX tras presencia de personas cerca del km 024+600, de la carretera México-Cuernavaca, a la altura de la caseta No 1 Tlalpan. Maneje con precaución. #ViaLibre en #CDMX tras presencia de personas cerca del km 024+600, de la carretera México-Cuernavaca, a la altura ",
       "link": "https://nitter.net/GN_Carreteras/status/2064929629719179646#m",
       "date": "2026-06-11T04:36:02+00:00"
-    },
-    {
-      "id": "750b24682241",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 231.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 231, dirección Acatzingo. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 231, dirección ",
-      "link": "https://nitter.net/CAPUFE/status/2064921744251511268#m",
-      "date": "2026-06-11T04:04:42+00:00"
     },
     {
       "id": "9f70ad885dd7",
@@ -365,34 +449,6 @@
       "text": "#ViaLibre en #Guerrero tras un cierre presencia de personas cerca del km 003+800, cerca de la carretera Chilpancingo - Acapulco, a la altura del Mpio. Parador de Márquez, Gro. Maneje con precaución. #ViaLibre en #Guerrero tras un cierre presencia de personas cerca del km 003+800,",
       "link": "https://nitter.net/GN_Carreteras/status/2064855019556425777#m",
       "date": "2026-06-10T23:39:34+00:00"
-    },
-    {
-      "id": "d738d2a22857",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en el #AeropuertodeOaxaca tras un cierre al acceso principal del interior del Aeropuerto, por presencia de personas cerca del km 000+300, de la carretera Oaxaca- Puerto Ángel. Maneje con precaución. #ViaLibre en el #AeropuertodeOaxaca tras un cierre al acceso principal ",
-      "link": "https://nitter.net/GN_Carreteras/status/2064852480484163602#m",
-      "date": "2026-06-10T23:29:29+00:00"
-    },
-    {
-      "id": "2aac85cc6678",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 219.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chihuahua se registra cierre parcial de circulación por #AccidenteVial cerca del km 219+000, de la carretera Gómez Palacio - Jiménez, a la altura del Mpio. Laguna de Gachupín, Chih., con Dir. a Cd. Jiménez, Chi. Atienda indicación vial. #TomePrecauciones en ",
-      "link": "https://nitter.net/GN_Carreteras/status/2064834146833228235#m",
-      "date": "2026-06-10T22:16:38+00:00"
     }
   ]
 }
