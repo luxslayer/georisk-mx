@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-12T13:42:08.042387+00:00",
-  "count": 31,
+  "updated": "2026-06-12T15:08:38.980181+00:00",
+  "count": 30,
   "incidents": [
+    {
+      "id": "e097d6f75c18",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
+      "link": "https://nitter.net/CAPUFE/status/2065441529217397183#m",
+      "date": "2026-06-12T14:30:09+00:00"
+    },
+    {
+      "id": "71e45b4320ca",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 0.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en el #AeropuertodeOaxaca se registra cierre total al acceso principal del interior del Aeropuerto, por presencia de personas cerca del km 000+300, de la carretera Oaxaca- Puerto Ángel. Atienda indicación vial. #TomePrecauciones en el #AeropuertodeOaxaca se regi",
+      "link": "https://nitter.net/GN_Carreteras/status/2065440659280966092#m",
+      "date": "2026-06-12T14:26:41+00:00"
+    },
+    {
+      "id": "23c6d02be700",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 90.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🟠 CIERRES INTERMITENTES DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 90, dirección CDMX. Se realizan cierres intermitentes a la circulación por labores de mantenimiento (bacheo). El personal se encuentra en la zona realizando las acciones necesarias para agilizar el restab",
+      "link": "https://nitter.net/CAPUFE/status/2065434327526048069#m",
+      "date": "2026-06-12T14:01:32+00:00"
+    },
+    {
+      "id": "031fbfca63d0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 365.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 365, dirección Acapulco. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "link": "https://nitter.net/CAPUFE/status/2065434163239391440#m",
+      "date": "2026-06-12T14:00:53+00:00"
+    },
+    {
+      "id": "38ebb4ce8d25",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 96.0,
+      "lat": 18.253631,
+      "lon": -99.522849,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96. Registra carga vehicular en dirección Cuernavaca, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96. Registra carga vehicular en dirección Cuernavaca, sin report",
+      "link": "https://nitter.net/CAPUFE/status/2065430101152440812#m",
+      "date": "2026-06-12T13:44:44+00:00"
+    },
     {
       "id": "75d21b4db350",
       "account": "@capufe",
@@ -213,48 +283,6 @@
       "date": "2026-06-12T11:47:08+00:00"
     },
     {
-      "id": "53953633a2f5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 48, dirección CDMX. Continúa cierre a la circulación por atención de accidente (choque por alcance y salida del camino de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutM",
-      "link": "https://nitter.net/CAPUFE/status/2065385661712961621#m",
-      "date": "2026-06-12T10:48:09+00:00"
-    },
-    {
-      "id": "9952c454f1ce",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 21.0,
-      "lat": 18.257,
-      "lon": -94.93075,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 21, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida de neumático). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 21, dirección La Tinaj",
-      "link": "https://nitter.net/CAPUFE/status/2065377033228562651#m",
-      "date": "2026-06-12T10:13:52+00:00"
-    },
-    {
-      "id": "d5043330b6b4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 48, dirección CDMX. Cierre a la circulación por atención de accidente (choque por alcance y salida del camino de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuer",
-      "link": "https://nitter.net/CAPUFE/status/2065363809414295583#m",
-      "date": "2026-06-12T09:21:19+00:00"
-    },
-    {
       "id": "49f947037b41",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -269,20 +297,6 @@
       "date": "2026-06-12T08:40:04+00:00"
     },
     {
-      "id": "83d5054fc7d4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 21.0,
-      "lat": 18.257,
-      "lon": -94.93075,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 21, dirección La Tinaja. Reducción de carriles por atención de accidente (salida de neumático). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 21, dirección La Tinaja. Reducc",
-      "link": "https://nitter.net/CAPUFE/status/2065335322439782461#m",
-      "date": "2026-06-12T07:28:07+00:00"
-    },
-    {
       "id": "e9ecd615c10e",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -295,20 +309,6 @@
       "text": "#ViaLibre en #Tabasco tras presencia de personas cerca del km 070+000, de la carretera Coatzacoalcos-Villahermosa, a la altura de la Caseta de Cobro Sánchez Magallanes. Maneje con precaución. #ViaLibre en #Tabasco tras presencia de personas cerca del km 070+000, de la carretera C",
       "link": "https://nitter.net/GN_Carreteras/status/2065327715968831659#m",
       "date": "2026-06-12T06:57:54+00:00"
-    },
-    {
-      "id": "1537615fa3bc",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 115.0,
-      "lat": 17.916794,
-      "lon": -99.595206,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 115, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 115, dirección Acapul",
-      "link": "https://nitter.net/CAPUFE/status/2065325717978591558#m",
-      "date": "2026-06-12T06:49:57+00:00"
     },
     {
       "id": "afa8c04820a7",
@@ -421,20 +421,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 082+500, de la carretera Ent. La Tinaja-Veracruz, a la altura de la Loc. el Rincón. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circu",
       "link": "https://nitter.net/GN_Carreteras/status/2065145230630756848#m",
       "date": "2026-06-11T18:52:46+00:00"
-    },
-    {
-      "id": "de17427797ae",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 116.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Chiahuahua tras presencia de personas cerca del km 116+400, de la carretera Jiménez-Delicias, a inmediaciones de la caseta de Cobro Saucillo. Maneje con precaución. #ViaLibre en #Chiahuahua tras presencia de personas cerca del km 116+400, de la carretera Jiménez-Del",
-      "link": "https://nitter.net/GN_Carreteras/status/2065141628637974735#m",
-      "date": "2026-06-11T18:38:27+00:00"
     }
   ]
 }
