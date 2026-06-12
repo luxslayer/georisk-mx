@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-12T07:03:21.259006+00:00",
-  "count": 31,
+  "updated": "2026-06-12T08:50:38.912241+00:00",
+  "count": 29,
   "incidents": [
+    {
+      "id": "49f947037b41",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Lib. Sur Qro.",
+      "route_key": "libramiento-queretaro",
+      "km": 0.0,
+      "lat": 20.545,
+      "lon": -100.45,
+      "resolved": true,
+      "text": "#TomePrecaucion en #EdoMX se registra cierre total de circulación por maniobras tras #AccidenteVial cerca del km 000+010, de la carretera Lib. Arco Norte, a inmediaciones de la intercepción del Arco Norte y Maravatío-Atlacomulco. Atienda indicación vial. #TomePrecaucion en #EdoMX",
+      "link": "https://nitter.net/GN_Carreteras/status/2065353427513676077#m",
+      "date": "2026-06-12T08:40:04+00:00"
+    },
+    {
+      "id": "83d5054fc7d4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 21.0,
+      "lat": 18.257,
+      "lon": -94.93075,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 21, dirección La Tinaja. Reducción de carriles por atención de accidente (salida de neumático). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 21, dirección La Tinaja. Reducc",
+      "link": "https://nitter.net/CAPUFE/status/2065335322439782461#m",
+      "date": "2026-06-12T07:28:07+00:00"
+    },
     {
       "id": "e9ecd615c10e",
       "account": "@GN_carreteras",
@@ -241,34 +269,6 @@
       "date": "2026-06-12T02:28:08+00:00"
     },
     {
-      "id": "650b3ea65765",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 86.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 86, dirección CDMX. Reducción de carriles centrales por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 86, dirección CDMX. Reducci",
-      "link": "https://nitter.net/CAPUFE/status/2065246680505520607#m",
-      "date": "2026-06-12T01:35:53+00:00"
-    },
-    {
-      "id": "801bcaa56bf1",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 19 al 24. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 19 al 24. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2065245763051897193#m",
-      "date": "2026-06-12T01:32:14+00:00"
-    },
-    {
       "id": "14d67b99093b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -407,34 +407,6 @@
       "text": "#TomePrecauciones en #Chihuahua se registra presencia de personas cerca del km 030+500, de la carretera Chihuahua–Cd. Juárez, a inmediaciones de la Caseta de Cobro Sacramento. Atienda indicación vial. #TomePrecauciones en #Chihuahua se registra presencia de personas cerca del km ",
       "link": "https://nitter.net/GN_Carreteras/status/2065136180509761781#m",
       "date": "2026-06-11T18:16:48+00:00"
-    },
-    {
-      "id": "7328a08ad307",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 278.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guerrero se registra cierre total de circulación por presencia de personas cerca del km 278+000, a la altura del Parador del Márquez al entronque con la carretera libre Chilpancingo de los Bravo-Acapulco. Atienda indicación vial. #TomePrecauciones en #Guerre",
-      "link": "https://nitter.net/GN_Carreteras/status/2065133810107228368#m",
-      "date": "2026-06-11T18:07:23+00:00"
-    },
-    {
-      "id": "c2e18049360b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 83.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 083+900, de la carretera Cuacnopalan-Oaxaca, a la altura del Mpio. San José Miahuatlán. con dirección a Oaxaca. Atienda indicación vial. #TomePrecauciones en #Puebla se registra",
-      "link": "https://nitter.net/GN_Carreteras/status/2065131395429638499#m",
-      "date": "2026-06-11T17:57:47+00:00"
     }
   ]
 }
