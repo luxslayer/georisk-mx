@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-12T20:48:55.619529+00:00",
-  "count": 31,
+  "updated": "2026-06-12T21:37:51.694399+00:00",
+  "count": 29,
   "incidents": [
+    {
+      "id": "e9c7b40c2ba3",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 71.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Se informa a las personas usuarias que se restablece la circulación en los siguientes puntos de la #AutMéxicoCuernavaca: ➡️ Viaducto Elevado de Tlalpan y la Plaza de Cobro Tlalpan, operan de manera normal en ambos sentidos. ➡️ Dirección",
+      "link": "https://nitter.net/CAPUFE/status/2065547927129567521#m",
+      "date": "2026-06-12T21:32:56+00:00"
+    },
+    {
+      "id": "e1be50987a9b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 89.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 89, dirección Veracruz. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 89, dirección Veracru",
+      "link": "https://nitter.net/CAPUFE/status/2065541571240501541#m",
+      "date": "2026-06-12T21:07:41+00:00"
+    },
     {
       "id": "f75f775bff0f",
       "account": "@GN_carreteras",
@@ -87,7 +115,7 @@
       "date": "2026-06-12T20:07:47+00:00"
     },
     {
-      "id": "3ed48d149f84",
+      "id": "0c9e032a84eb",
       "account": "@capufe",
       "type": "closure",
       "highway": "Méx–Cuernavaca",
@@ -96,7 +124,7 @@
       "lat": 18.916858,
       "lon": -99.234,
       "resolved": true,
-      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 71, dirección CDMX. Se desvía la vialidad a la Aut. La Pera - Cuautla por cierre a la circulación en el Viaducto Elevado de Tlalpan y la Plaza de Cobro Tlalpan por presencia de manifestantes, para tomar la siguiente vía a",
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 71, dirección CDMX. Se desvía la vialidad a la Aut. La Pera - Cuautla por cierre a la circulación en el Viaducto Elevado de Tlalpan y la Plaza de Cobro Tlalpan por presencia de manifestantes, para tomar la siguiente vía alterna: ",
       "link": "https://nitter.net/CAPUFE/status/2065526083362103410#m",
       "date": "2026-06-12T20:06:08+00:00"
     },
@@ -225,62 +253,6 @@
       "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 71, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIEN",
       "link": "https://nitter.net/CAPUFE/status/2065507251683533187#m",
       "date": "2026-06-12T18:51:18+00:00"
-    },
-    {
-      "id": "fe55e7b42ad8",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Méx–Cuernavaca",
-      "route_key": "mexico-cuernavaca",
-      "km": 53.0,
-      "lat": 18.914618,
-      "lon": -99.234,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 53 (Poblado Tres Marías), dirección CDMX. Se desvía la vialidad a la carretera Federal Libre por cierre a la circulación en el Viaducto Elevado de Tlalpan y la Plaza de Cobro Tlalpan por presencia de manifestantes. ➡️ Así mismo, ",
-      "link": "https://nitter.net/CAPUFE/status/2065505975931449612#m",
-      "date": "2026-06-12T18:46:14+00:00"
-    },
-    {
-      "id": "5dbb7de8c1af",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 38.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca. Registra cierre a la circulación en el Viaducto Elevado de Tlalpan y la Plaza de Cobro Tlalpan, en ambos sentidos por presencia de manifestantes. ➡️ Se sugiere a la ciudadanía que viaja con dirección a CDMX y se encuentra en las inm",
-      "link": "https://nitter.net/CAPUFE/status/2065504700338970822#m",
-      "date": "2026-06-12T18:41:10+00:00"
-    },
-    {
-      "id": "4cba27b20d04",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 286.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 286, dirección Córdoba. Reducción de carriles por atención de incidente. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 286, dirección Córdoba. Reducción de carrile",
-      "link": "https://nitter.net/CAPUFE/status/2065501578635698313#m",
-      "date": "2026-06-12T18:28:46+00:00"
-    },
-    {
-      "id": "7d42420a96ca",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 177.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 177, dirección Cd. Mendoza. Se informa a las personas usuarias que el accidente ha sido atendido. En la zona se registra carga vehicular intensa. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. ☑️ ",
-      "link": "https://nitter.net/CAPUFE/status/2065495028441432408#m",
-      "date": "2026-06-12T18:02:44+00:00"
     },
     {
       "id": "f72cc489dcdc",
