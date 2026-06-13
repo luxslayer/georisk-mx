@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T23:28:44.284325+00:00",
-  "count": 36,
+  "updated": "2026-06-13T23:55:12.341525+00:00",
+  "count": 35,
   "incidents": [
     {
       "id": "c360661a34a9",
@@ -295,20 +295,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 74, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 74, dirección Cuernavaca. El accidente ha",
       "link": "https://nitter.net/CAPUFE/status/2065884932598013979#m",
       "date": "2026-06-13T19:52:04+00:00"
-    },
-    {
-      "id": "4a5198c8bd71",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 196.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 196. Continúa cierre a la circulación en ambos sentidos por atención de accidente (choque de frente entre vagonetas). ➡ Dir. Tehuacán, por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carretera",
-      "link": "https://nitter.net/CAPUFE/status/2065882088591548726#m",
-      "date": "2026-06-13T19:40:46+00:00"
     },
     {
       "id": "c3a5d376f929",
