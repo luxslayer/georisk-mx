@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-13T18:34:59.456215+00:00",
+  "updated": "2026-06-13T19:34:50.964197+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "c3a5d376f929",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 110.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del km 110+700, de la autopista Libramiento Arco Norte. Atienda indicación vial. #TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del k",
+      "link": "https://nitter.net/GN_Carreteras/status/2065873523873026261#m",
+      "date": "2026-06-13T19:06:44+00:00"
+    },
+    {
+      "id": "cb7cc311be5d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Las Choapas - Ocozocoautla, km 54. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Las Choapas - Ocozocoautla, km 54. El acciden",
+      "link": "https://nitter.net/CAPUFE/status/2065872224368660612#m",
+      "date": "2026-06-13T19:01:34+00:00"
+    },
+    {
+      "id": "d72ffa9d9ac0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 51.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Agua Dulce - Cárdenas, km 51, dirección Cárdenas. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se regist",
+      "link": "https://nitter.net/CAPUFE/status/2065868573864542659#m",
+      "date": "2026-06-13T18:47:04+00:00"
+    },
     {
       "id": "a1294d531481",
       "account": "@GN_carreteras",
@@ -311,34 +353,6 @@
       "date": "2026-06-13T15:45:03+00:00"
     },
     {
-      "id": "e4c8cacdfe48",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 38.0,
-      "lat": 18.206,
-      "lon": -94.8585,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 38, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 38, dirección La Tinaja. El inc",
-      "link": "https://nitter.net/CAPUFE/status/2065819664257519966#m",
-      "date": "2026-06-13T15:32:43+00:00"
-    },
-    {
-      "id": "021941cf6751",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 54.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 54, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 54, dire",
-      "link": "https://nitter.net/CAPUFE/status/2065819485219467650#m",
-      "date": "2026-06-13T15:32:01+00:00"
-    },
-    {
       "id": "3041fad97a38",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,20 +491,6 @@
       "text": "#VíaLibre en #Nayarit tras #AccidenteVial cerca del km 008+100, de la carretera Guadalajara-Tepic, cerca del Mpio. de El Trapichillo, con dirección a Tepic. Maneje con precaución. #VíaLibre en #Nayarit tras #AccidenteVial cerca del km 008+100, de la carretera Guadalajara-Tepic, c",
       "link": "https://nitter.net/GN_Carreteras/status/2065672874870948091#m",
       "date": "2026-06-13T05:49:26+00:00"
-    },
-    {
-      "id": "325717cf596e",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 184.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 184+000, de la carretera Tihuatlán-El Palmar, cerca del Mpio. de Papantla, con dirección a El Palmar. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierr",
-      "link": "https://nitter.net/GN_Carreteras/status/2065671353923936630#m",
-      "date": "2026-06-13T05:43:23+00:00"
     }
   ]
 }
