@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-13T08:35:02.525185+00:00",
+  "updated": "2026-06-13T10:02:15.213636+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "25f272776c2c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 64.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 64, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central y volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 64, direc",
+      "link": "https://nitter.net/CAPUFE/status/2065735258536829412#m",
+      "date": "2026-06-13T09:57:19+00:00"
+    },
+    {
+      "id": "c4959ec45ba1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 231.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. A",
+      "link": "https://nitter.net/CAPUFE/status/2065729394094538766#m",
+      "date": "2026-06-13T09:34:01+00:00"
+    },
+    {
+      "id": "b6ab1473a27b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 86.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 86, dirección Acapulco. Reducción de carriles laterales por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 86, dirección Acapulco. Reducci",
+      "link": "https://nitter.net/CAPUFE/status/2065724931757752500#m",
+      "date": "2026-06-13T09:16:17+00:00"
+    },
     {
       "id": "acd4b94a0154",
       "account": "@capufe",
@@ -283,20 +325,6 @@
       "date": "2026-06-13T04:46:51+00:00"
     },
     {
-      "id": "1d97afa49321",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 231.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (desprendimiento y volcadura de remolque). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCUL",
-      "link": "https://nitter.net/CAPUFE/status/2065653441842626575#m",
-      "date": "2026-06-13T04:32:13+00:00"
-    },
-    {
       "id": "80aa512fd1c3",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -311,20 +339,6 @@
       "date": "2026-06-13T04:23:54+00:00"
     },
     {
-      "id": "54b434122ab0",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 92.0,
-      "lat": 31.8676,
-      "lon": -116.6524,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 92, dirección Ensenada. Reducción de carriles por atención de accidente (salida del camino de automóvil). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista ",
-      "link": "https://nitter.net/CAPUFE/status/2065650966444089570#m",
-      "date": "2026-06-13T04:22:22+00:00"
-    },
-    {
       "id": "f836d670fb84",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -337,20 +351,6 @@
       "text": "#VíaLibre en #Nayarit tras #AccidenteVial cerca del km 132+000, de la carretera Guadalajara-Tepic, en el Mpio. El Comedero, con dirección a Tequepexpan. Maneje con precaución. #VíaLibre en #Nayarit tras #AccidenteVial cerca del km 132+000, de la carretera Guadalajara-Tepic, en el",
       "link": "https://nitter.net/GN_Carreteras/status/2065647321463832850#m",
       "date": "2026-06-13T04:07:53+00:00"
-    },
-    {
-      "id": "b9d095a0b4e1",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 104.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 104, dirección Navojoa. Reducción de carriles por atención de incidente (pick up con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 104, direcció",
-      "link": "https://nitter.net/CAPUFE/status/2065647101233500170#m",
-      "date": "2026-06-13T04:07:01+00:00"
     },
     {
       "id": "498c54f01ea3",
