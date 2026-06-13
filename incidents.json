@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-13T17:38:04.212403+00:00",
+  "updated": "2026-06-13T18:34:59.456215+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "a1294d531481",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 054+200, de la autopista México- Cuernavaca. Atienda indicación vial. #TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 05",
+      "link": "https://nitter.net/GN_Carreteras/status/2065864753793143101#m",
+      "date": "2026-06-13T18:31:53+00:00"
+    },
+    {
+      "id": "40d330200179",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Sinaloa continua presencia de personas cerca del km 019+300, de la carretera Culiacán-Los Mochis, a la altura de la Caseta de Cobro No. 10 Puente Culiacán. La Caseta labora libre de peaje. Atienda indicación vial. #Tomeprecauciones en #Sinaloa continua prese",
+      "link": "https://nitter.net/GN_Carreteras/status/2065863912482865516#m",
+      "date": "2026-06-13T18:28:33+00:00"
+    },
+    {
+      "id": "c959f57bf54a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 196.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 196. Cierre a la circulación en ambos sentidos por atención de accidente (choque de frente entre vagonetas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxac",
+      "link": "https://nitter.net/CAPUFE/status/2065863258100105340#m",
+      "date": "2026-06-13T18:25:57+00:00"
+    },
+    {
+      "id": "d44195f8aeb1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 63.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Jalisco tras #AccidenteVial cerca del km 063+800, de la carretera Puerto Vallarta-Melaque, cerca del Mpio. de La Huerta, con dirección a Puerto Vallarta. Maneje con precaución. #ViaLibre en #Jalisco tras #AccidenteVial cerca del km 063+800, de la carretera Puerto Va",
+      "link": "https://nitter.net/GN_Carreteras/status/2065861559075631468#m",
+      "date": "2026-06-13T18:19:12+00:00"
+    },
+    {
+      "id": "64b2abb4a39c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 67.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Nayarit tras #AccidenteVial cerca del km 067+500, de la carretera Tepic-Mazatlán, con dirección a Nayarit. Se orienta a la ciudadanía #Rutaalterna autopista Tepic-Mazatlán. Atienda indicación vial. #ViaLibre en #Nayarit tras #AccidenteVial cerca del km 067+500, de l",
+      "link": "https://nitter.net/GN_Carreteras/status/2065851236713124030#m",
+      "date": "2026-06-13T17:38:11+00:00"
+    },
     {
       "id": "4fe2c74295fe",
       "account": "@capufe",
@@ -269,20 +339,6 @@
       "date": "2026-06-13T15:32:01+00:00"
     },
     {
-      "id": "baf41bfb8478",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 54.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 54, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 54, dirección CDMX. Reducción de carriles por ate",
-      "link": "https://nitter.net/CAPUFE/status/2065816624884486617#m",
-      "date": "2026-06-13T15:20:39+00:00"
-    },
-    {
       "id": "3041fad97a38",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -435,62 +491,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 184+000, de la carretera Tihuatlán-El Palmar, cerca del Mpio. de Papantla, con dirección a El Palmar. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierr",
       "link": "https://nitter.net/GN_Carreteras/status/2065671353923936630#m",
       "date": "2026-06-13T05:43:23+00:00"
-    },
-    {
-      "id": "90b6f28f9c27",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Córdoba",
-      "route_key": "puebla-cordoba",
-      "km": 238.0,
-      "lat": 18.884,
-      "lon": -96.923,
-      "resolved": true,
-      "text": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 238+640, de la carretera Puebla-Cordoba (directo), cerca del Mpio. de Maltrata, con dirección a Puebla. Maneje con precaución. #VíaLibre en #Veracruz tras #AccidenteVial cerca del km 238+640, de la carretera Puebla-Cordoba (",
-      "link": "https://nitter.net/GN_Carreteras/status/2065657124705693888#m",
-      "date": "2026-06-13T04:46:51+00:00"
-    },
-    {
-      "id": "80aa512fd1c3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 88.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 088+200, de la carretera Ent. La Tinaja-Veracruz (directo), a la altura de la localidad de San Miguel, con dirección a Veracruz. Maneje con precaución. #VíaLibre en #Veracruz tras #AccidenteVial cerca del km 088+200, de la c",
-      "link": "https://nitter.net/GN_Carreteras/status/2065651349899927968#m",
-      "date": "2026-06-13T04:23:54+00:00"
-    },
-    {
-      "id": "f836d670fb84",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Gdl–Tepic",
-      "route_key": "guadalajara-tepic",
-      "km": 132.0,
-      "lat": 21.2672,
-      "lon": -104.47,
-      "resolved": true,
-      "text": "#VíaLibre en #Nayarit tras #AccidenteVial cerca del km 132+000, de la carretera Guadalajara-Tepic, en el Mpio. El Comedero, con dirección a Tequepexpan. Maneje con precaución. #VíaLibre en #Nayarit tras #AccidenteVial cerca del km 132+000, de la carretera Guadalajara-Tepic, en el",
-      "link": "https://nitter.net/GN_Carreteras/status/2065647321463832850#m",
-      "date": "2026-06-13T04:07:53+00:00"
-    },
-    {
-      "id": "498c54f01ea3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 36.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 036+600, de la carretera Morelia - Pátzcuaro, en la localidad de El Carmen, con dirección a El Sauz. Maneje con precaución. #VíaLibre en #Michoacán tras #AccidenteVial cerca del km 036+600, de la carretera Morelia - Pátzcua",
-      "link": "https://nitter.net/GN_Carreteras/status/2065646455075770700#m",
-      "date": "2026-06-13T04:04:27+00:00"
     }
   ]
 }
