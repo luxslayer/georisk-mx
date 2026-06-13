@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-13T21:31:35.031941+00:00",
-  "count": 33,
+  "updated": "2026-06-13T22:27:27.976052+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "c58661967720",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 4.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠CARGA VEHICULAR🟠 Autopista Chamapa - Lechería, km 4, dirección Lechería. Registra carga vehicular por atención de incidente fuera de la jurisdicción a cargo de CAPUFE. Toma tus precauciones. 🟠CARGA VEHICULAR🟠 Autopista Chamapa - Lechería, km 4, dirección Lechería. Registra carga",
+      "link": "https://nitter.net/CAPUFE/status/2065923602264822055#m",
+      "date": "2026-06-13T22:25:44+00:00"
+    },
+    {
+      "id": "bf0b8917b716",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 93.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro, registra #lluvia a la altura del km 93. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro , registra #lluvia a la altura del km 93. Disminuye tu velocidad y maneja con precauc",
+      "link": "https://nitter.net/CAPUFE/status/2065920285962875347#m",
+      "date": "2026-06-13T22:12:33+00:00"
+    },
+    {
+      "id": "3b4a1f61bcd1",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 23.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 23, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 23, dirección Veracruz. El i",
+      "link": "https://nitter.net/CAPUFE/status/2065916203831296261#m",
+      "date": "2026-06-13T21:56:20+00:00"
+    },
+    {
+      "id": "ae32cee802cf",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
+      "link": "https://nitter.net/CAPUFE/status/2065913389054902302#m",
+      "date": "2026-06-13T21:45:09+00:00"
+    },
+    {
+      "id": "49ba3e3ab3f8",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 23.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 23, dirección Veracruz. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 23, dirección V",
+      "link": "https://nitter.net/CAPUFE/status/2065911178761470050#m",
+      "date": "2026-06-13T21:36:22+00:00"
+    },
+    {
+      "id": "9dfa2c2c612a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 40.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 040+000, de la carretera Querétaro-San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial ce",
+      "link": "https://nitter.net/GN_Carreteras/status/2065910427800781303#m",
+      "date": "2026-06-13T21:33:23+00:00"
+    },
     {
       "id": "22f016ae2f24",
       "account": "@GN_carreteras",
@@ -269,34 +353,6 @@
       "date": "2026-06-13T17:38:11+00:00"
     },
     {
-      "id": "4fe2c74295fe",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 54.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Las Choapas - Ocozocoautla, km 54. El accidente ha sido atendido. En la zona se registra carga vehicular en ambos sentidos. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Las Choapas - Ocozocoautla, km 54. El accidente ha sido atendido. En la z",
-      "link": "https://nitter.net/CAPUFE/status/2065850663498649914#m",
-      "date": "2026-06-13T17:35:54+00:00"
-    },
-    {
-      "id": "39b374fef76b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 54.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 54, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 54, dirección CDMX. El accidente ha sido atendi",
-      "link": "https://nitter.net/CAPUFE/status/2065847555628425662#m",
-      "date": "2026-06-13T17:23:33+00:00"
-    },
-    {
       "id": "8c5a18ec296e",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -309,20 +365,6 @@
       "text": "#ViaLibre en #Guanajuato tras #AccidenteVial cerca del km 049+950, de la carretera Querétaro-San Luis Potosí, cerca del Mpio. de San Jerónimo, con dirección a San Luis Potosí. Maneje con precaución. #ViaLibre en #Guanajuato tras #AccidenteVial cerca del km 049+950, de la carreter",
       "link": "https://nitter.net/GN_Carreteras/status/2065847166216638791#m",
       "date": "2026-06-13T17:22:00+00:00"
-    },
-    {
-      "id": "63492126deca",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 60.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Agua Dulce - Cárdenas, km 60, dirección Cárdenas. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Agua Dulce - Cárdenas, km 60, dirección Cárdenas",
-      "link": "https://nitter.net/CAPUFE/status/2065846909332341079#m",
-      "date": "2026-06-13T17:20:59+00:00"
     },
     {
       "id": "2e71a3278c0f",
@@ -449,20 +491,6 @@
       "text": "#TomePrecauciones en #Guanajuato se registra cierre total de circulación por #AccidenteVial cerca del km 049+950, de la carretera Querétaro-San Luis Potosí, cerca del Mpio. de San Jerónimo, con dirección a San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #Guanajuato",
       "link": "https://nitter.net/GN_Carreteras/status/2065738747845517566#m",
       "date": "2026-06-13T10:11:11+00:00"
-    },
-    {
-      "id": "070bcdb28ecc",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 63.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 063+800, de la carretera Puerto Vallarta-Melaque, cerca del Mpio. de La Huerta, con dirección a Puerto Vallarta. Atienda indicación vial. #TomePrecauciones en #Jalisco se regis",
-      "link": "https://nitter.net/GN_Carreteras/status/2065698121808486714#m",
-      "date": "2026-06-13T07:29:45+00:00"
     }
   ]
 }
