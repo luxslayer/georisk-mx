@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-13T22:27:27.976052+00:00",
+  "updated": "2026-06-13T22:52:43.152312+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "19545f98df1a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 220.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del km 220+300, de la carretera Libramiento Norte con dirección a Tula, Hgo. Atienda indicación vial. #TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #Ac",
+      "link": "https://nitter.net/GN_Carreteras/status/2065928530433568829#m",
+      "date": "2026-06-13T22:45:19+00:00"
+    },
+    {
+      "id": "b9c98843d44c",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 19, dirección Veracruz. Reducción de carriles por atención de incidente (automóviles con ponchadura de neumático). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 19, dire",
+      "link": "https://nitter.net/CAPUFE/status/2065924224087212189#m",
+      "date": "2026-06-13T22:28:12+00:00"
+    },
     {
       "id": "c58661967720",
       "account": "@capufe",
@@ -311,20 +339,6 @@
       "date": "2026-06-13T18:28:33+00:00"
     },
     {
-      "id": "c959f57bf54a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 196.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 196. Cierre a la circulación en ambos sentidos por atención de accidente (choque de frente entre vagonetas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxac",
-      "link": "https://nitter.net/CAPUFE/status/2065863258100105340#m",
-      "date": "2026-06-13T18:25:57+00:00"
-    },
-    {
       "id": "d44195f8aeb1",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,20 +491,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 019+000, de la carretera Ent. La Tinaja-Cosoleacaque (directo), cerca del Mpio. de Jáltipan de Morelos, con dirección a Cosoleacaque. Atienda indicación vial. #TomePrecaucione",
       "link": "https://nitter.net/GN_Carreteras/status/2065783699262624180#m",
       "date": "2026-06-13T13:09:48+00:00"
-    },
-    {
-      "id": "b2fa406fb0ea",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Gdl–Tepic",
-      "route_key": "guadalajara-tepic",
-      "km": 49.0,
-      "lat": 20.875594,
-      "lon": -103.790992,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Guanajuato se registra cierre total de circulación por #AccidenteVial cerca del km 049+950, de la carretera Querétaro-San Luis Potosí, cerca del Mpio. de San Jerónimo, con dirección a San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #Guanajuato",
-      "link": "https://nitter.net/GN_Carreteras/status/2065738747845517566#m",
-      "date": "2026-06-13T10:11:11+00:00"
     }
   ]
 }
