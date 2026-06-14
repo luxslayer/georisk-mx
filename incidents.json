@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-14T12:46:34.904188+00:00",
-  "count": 35,
+  "updated": "2026-06-14T13:36:42.582366+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "b090ef9f8785",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 8.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 8, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 8, dirección Cuautla. El acciden",
+      "link": "https://nitter.net/CAPUFE/status/2066151135098904706#m",
+      "date": "2026-06-14T13:29:52+00:00"
+    },
+    {
+      "id": "c1ff7f715028",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 7.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #Accidentevial, cerca del km 007+900, de la autopista La pera - Cuautla a la altura de la caseta de cobro No. 24 Tepoztlán. Atienda indicación vial. #TomePrecauciones en #Morelos se registra cierre parcia",
+      "link": "https://nitter.net/GN_Carreteras/status/2066150449695076859#m",
+      "date": "2026-06-14T13:27:09+00:00"
+    },
+    {
+      "id": "693c8920baf0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 60.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 60, dirección Cuernavaca. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 60, dirección Cuernavaca. Reducción de",
+      "link": "https://nitter.net/CAPUFE/status/2066142544505851974#m",
+      "date": "2026-06-14T12:55:44+00:00"
+    },
     {
       "id": "fd0650b036d5",
       "account": "@capufe",
@@ -325,20 +367,6 @@
       "date": "2026-06-14T05:18:19+00:00"
     },
     {
-      "id": "799e83c09531",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 14.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Oriente de Saltillo, km 14, dirección Puerto México. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Orien",
-      "link": "https://nitter.net/CAPUFE/status/2066026876884115637#m",
-      "date": "2026-06-14T05:16:07+00:00"
-    },
-    {
       "id": "061418d6eb89",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,20 +505,6 @@
       "text": "#TomePrecauciones en #EdoMex se registra cierre total de circulación por maniobras de arrastre tras #AccidenteVial cerca del km 083+000, de la carretera México-Querétaro con dirección a Cd. México. Atienda indicación vial. #TomePrecauciones en #EdoMex se registra cierre total de ",
       "link": "https://nitter.net/GN_Carreteras/status/2065963152798269947#m",
       "date": "2026-06-14T01:02:54+00:00"
-    },
-    {
-      "id": "c8d53c306346",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 60.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Tabasco tras #AccidenteVial cerca del km 060+000, de la carretera Coatzacoalcos - Villahermosa, con dirección Villahermosa. Maneje con precaución. #ViaLibre en #Tabasco tras #AccidenteVial cerca del km 060+000, de la carretera Coatzacoalcos - Villahermosa, con direc",
-      "link": "https://nitter.net/GN_Carreteras/status/2065956781746991589#m",
-      "date": "2026-06-14T00:37:35+00:00"
     }
   ]
 }
