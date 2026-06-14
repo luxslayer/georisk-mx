@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-14T09:11:18.397616+00:00",
-  "count": 36,
+  "updated": "2026-06-14T10:34:38.025069+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "0e8e3e5739bc",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 56.0,
+      "lat": 32.0552,
+      "lon": -116.834,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tijuana - Ensenada, km 56, dirección Ensenada. Continúa cierre a la circulación por atención de accidente (servicios periciales). ➡ Por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carretera libre a la altura del km",
+      "link": "https://nitter.net/CAPUFE/status/2066104724365922686#m",
+      "date": "2026-06-14T10:25:27+00:00"
+    },
+    {
+      "id": "834d5201ce79",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 64.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 64, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 64, dirección Cuernavaca. El accidente ha",
+      "link": "https://nitter.net/CAPUFE/status/2066093676074348649#m",
+      "date": "2026-06-14T09:41:33+00:00"
+    },
     {
       "id": "0554f76966bf",
       "account": "@capufe",
@@ -185,6 +213,20 @@
       "date": "2026-06-14T05:29:26+00:00"
     },
     {
+      "id": "52160fcc8242",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 82.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 82, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las maniobras de grúa para el retiro de las unidades siniestradas. En la zona",
+      "link": "https://nitter.net/CAPUFE/status/2066027430754537622#m",
+      "date": "2026-06-14T05:18:19+00:00"
+    },
+    {
       "id": "799e83c09531",
       "account": "@capufe",
       "type": "accident",
@@ -269,20 +311,6 @@
       "date": "2026-06-14T03:58:04+00:00"
     },
     {
-      "id": "3ef0d4a3bd0d",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 73.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2066005209751429612#m",
-      "date": "2026-06-14T03:50:01+00:00"
-    },
-    {
       "id": "05c556396df6",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -339,20 +367,6 @@
       "date": "2026-06-14T03:07:57+00:00"
     },
     {
-      "id": "36726300bd16",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 196.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 196. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular en ambos sentidos. Maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣. ☑️ ACT",
-      "link": "https://nitter.net/CAPUFE/status/2065990014387749285#m",
-      "date": "2026-06-14T02:49:38+00:00"
-    },
-    {
       "id": "c2861af8cffc",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -379,20 +393,6 @@
       "text": "#ViaLibre en #Tamaulipas tras #AccidenteVial cerca del km 040+000, de la carretera Querétaro-San Luis Potosí. Maneje con precaución. #ViaLibre en #Tamaulipas tras #AccidenteVial cerca del km 040+000, de la carretera Querétaro-San Luis Potosí. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2065970949724233878#m",
       "date": "2026-06-14T01:33:52+00:00"
-    },
-    {
-      "id": "fcb43a258883",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 82.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 82, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y automóviles. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/nwiCorU3LphACaaEA 🟠 CIER",
-      "link": "https://nitter.net/CAPUFE/status/2065969305238315058#m",
-      "date": "2026-06-14T01:27:20+00:00"
     },
     {
       "id": "37ee8f2131a7",
@@ -491,20 +491,6 @@
       "text": "#ViaLibre en #Chiapas tras #AccidenteVial cerca del km 151+900, de la carretera Las Choapas-Ocozocoautla, con dirección Ocuilapa de Juárez, Chis. Maneje con precaución. #ViaLibre en #Chiapas tras #AccidenteVial cerca del km 151+900, de la carretera Las Choapas-Ocozocoautla, con d",
       "link": "https://nitter.net/GN_Carreteras/status/2065950759343079711#m",
       "date": "2026-06-14T00:13:39+00:00"
-    },
-    {
-      "id": "74f3c2cc271f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 196.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 196. Continúa cierre a la circulación en ambos sentidos por atención de choque de frente entre vagonetas. Se sugiere a la ciudadanía tomar las siguientes vías alternas: ➡ Dir. Oaxaca, desvío hacia carretera libre a la altu",
-      "link": "https://nitter.net/CAPUFE/status/2065893411555532858#m",
-      "date": "2026-06-13T20:25:46+00:00"
     }
   ]
 }
