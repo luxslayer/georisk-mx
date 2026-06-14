@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-14T22:29:35.015786+00:00",
+  "updated": "2026-06-14T22:56:32.518093+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "b5e481e9ae4b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Zac–Durango",
+      "route_key": "zacatecas-durango",
+      "km": 30.0,
+      "lat": 22.96045,
+      "lon": -102.7916,
+      "resolved": true,
+      "text": "#ViaLibre en #Zacatecas tras #Accidentevial, cerca del km 030+700, de la carretera Zacatecas - Durango con dirección Zacatecas. Maneje con precaución. #ViaLibre en #Zacatecas tras #Accidentevial , cerca del km 030+700, de la carretera Zacatecas - Durango con dirección Zacatecas. ",
+      "link": "https://nitter.net/GN_Carreteras/status/2066289131999690909#m",
+      "date": "2026-06-14T22:38:13+00:00"
+    },
+    {
+      "id": "b3e0ea25f151",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Cuernavaca",
+      "route_key": "mexico-cuernavaca",
+      "km": 63.0,
+      "lat": 18.915862,
+      "lon": -99.234,
+      "resolved": true,
+      "text": "#ViaLibre en #Morelos tras #Accidentevial, cerca del km 063+450, de la autopista México - Cuernavaca con dirección Cuernavaca. Maneje con precaución. #ViaLibre en #Morelos tras #Accidentevial , cerca del km 063+450, de la autopista México - Cuernavaca con dirección Cuernavaca. Ma",
+      "link": "https://nitter.net/GN_Carreteras/status/2066287699519009231#m",
+      "date": "2026-06-14T22:32:31+00:00"
+    },
     {
       "id": "1b9c360c6ab1",
       "account": "@GN_carreteras",
@@ -449,34 +477,6 @@
       "text": "#ViaLibre en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 019+200, de la carretera Francisco Escárcega con ramales a Nuevo Coahuila con dirección a Villahermosa. Maneje con precaución. #ViaLibre en #Tabasco se registra cierre parcial de circu",
       "link": "https://nitter.net/GN_Carreteras/status/2066115156019458326#m",
       "date": "2026-06-14T11:06:54+00:00"
-    },
-    {
-      "id": "301a9338ce62",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 317.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Guerrero tras #AccidenteVial cerca del km 317+000, de la carretera Acapulco-Chilpancingo con dirección a Julián Blanco, Gro. Maneje con precaución. #ViaLibre en #Guerrero tras #AccidenteVial cerca del km 317+000, de la carretera Acapulco-Chilpancingo con dirección a",
-      "link": "https://nitter.net/GN_Carreteras/status/2066114922665116035#m",
-      "date": "2026-06-14T11:05:58+00:00"
-    },
-    {
-      "id": "6fb4d935051b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 209.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #Accidentevial, cerca del km 209+600, de la autopista Libramiento Norte. Atienda indicación vial. #TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #Accidentevial , cerca del k",
-      "link": "https://nitter.net/GN_Carreteras/status/2066114433487618099#m",
-      "date": "2026-06-14T11:04:02+00:00"
     }
   ]
 }
