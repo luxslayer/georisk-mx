@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-14T14:49:50.084801+00:00",
+  "updated": "2026-06-14T15:37:07.044431+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "dfe4b99dddc3",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 55.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tamaulipas se registra cierre total de circulación por #AccidenteVial cerca del km 055+900, de la carretera Ciudad Victoria - Monterrey con dirección a Oyama Tamps. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se registra cierre total de circula",
+      "link": "https://nitter.net/GN_Carreteras/status/2066179461880357272#m",
+      "date": "2026-06-14T15:22:26+00:00"
+    },
+    {
+      "id": "a5cf02cc6ead",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 161.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 161, dirección CDMX. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 161, dirección CDMX. Reducción de carriles por ate",
+      "link": "https://nitter.net/CAPUFE/status/2066174198171468264#m",
+      "date": "2026-06-14T15:01:31+00:00"
+    },
+    {
+      "id": "e1085c2c7b21",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 57.0,
+      "lat": 20.1192,
+      "lon": -99.3956,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 57, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 57, dirección Cuernavaca. Reducció",
+      "link": "https://nitter.net/CAPUFE/status/2066171728884043849#m",
+      "date": "2026-06-14T14:51:42+00:00"
+    },
     {
       "id": "29673a5f5dd4",
       "account": "@GN_carreteras",
@@ -283,34 +325,6 @@
       "date": "2026-06-14T08:05:53+00:00"
     },
     {
-      "id": "6b4e6434cbbc",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 120.0,
-      "lat": 17.828153,
-      "lon": -99.614247,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cuernavaca - Acapulco, km 120, dirección Cuernavaca. Reducción de carriles por atención de accidente (incendio de vagoneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cuernavaca - Acapulco, km 120, dirección Cuernavaca. R",
-      "link": "https://nitter.net/CAPUFE/status/2066064460498735523#m",
-      "date": "2026-06-14T07:45:27+00:00"
-    },
-    {
-      "id": "9f2cbc6a807b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 82.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 82, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIEN",
-      "link": "https://nitter.net/CAPUFE/status/2066063124847886840#m",
-      "date": "2026-06-14T07:40:09+00:00"
-    },
-    {
       "id": "2471528637f8",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -463,20 +477,6 @@
       "text": "#ViaLibre en #Tamaulipas tras #AccidenteVial cerca del km 040+000, de la carretera Querétaro-San Luis Potosí. Maneje con precaución. #ViaLibre en #Tamaulipas tras #AccidenteVial cerca del km 040+000, de la carretera Querétaro-San Luis Potosí. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2065970949724233878#m",
       "date": "2026-06-14T01:33:52+00:00"
-    },
-    {
-      "id": "37ee8f2131a7",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Acapulco",
-      "route_key": "mexico-acapulco",
-      "km": 95.0,
-      "lat": 18.584,
-      "lon": -99.234,
-      "resolved": true,
-      "text": "En #Oaxaca continua #AccidenteVial cerca del km 095+500, de la carretera Tehuacán - Oaxaca. Se orienta a la ciudadanía que se habilita vialidad por el carril derecho. Atienda indicación vial. En #Oaxaca continua #AccidenteVial cerca del km 095+500, de la carretera Tehuacán - Oaxa",
-      "link": "https://nitter.net/GN_Carreteras/status/2065967098182959124#m",
-      "date": "2026-06-14T01:18:34+00:00"
     }
   ]
 }
