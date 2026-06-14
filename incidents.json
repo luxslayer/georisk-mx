@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-14T20:33:11.128791+00:00",
+  "updated": "2026-06-14T21:31:42.380505+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "8d8b12ed0c7c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 82.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Jalisco tras #Accidentevial, cerca del km 082+900, de la Carretera Guadalajara–Tepic con dirección Guadalajara. Maneje con precaución. #ViaLibre en #Jalisco tras #Accidentevial , cerca del km 082+900, de la Carretera Guadalajara–Tepic con dirección Guadalajara. Mane",
+      "link": "https://nitter.net/GN_Carreteras/status/2066263599723467233#m",
+      "date": "2026-06-14T20:56:46+00:00"
+    },
+    {
+      "id": "07cc09f973cf",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Cuernavaca",
+      "route_key": "mexico-cuernavaca",
+      "km": 60.0,
+      "lat": 18.915489,
+      "lon": -99.234,
+      "resolved": true,
+      "text": "#ViaLibre en #Morelos tras #AccidenteVial cerca del Km 060+100 de la carretera México-Cuernavaca con dirección Cuernavaca. Maneje con precaución. #ViaLibre en #Morelos tras #AccidenteVial cerca del Km 060+100 de la carretera México-Cuernavaca con dirección Cuernavaca. Maneje con ",
+      "link": "https://nitter.net/GN_Carreteras/status/2066263164069495070#m",
+      "date": "2026-06-14T20:55:02+00:00"
+    },
+    {
+      "id": "7ae375ffdb3d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Toluca–Palmillas",
+      "route_key": "toluca-palmillas",
+      "km": 6.0,
+      "lat": 19.37168,
+      "lon": -99.69832,
+      "resolved": true,
+      "text": "#TomePrecauciones en #EdoMex se registra cierre parcial de circulación por #Accidentevial, cerca del km 006+550, de la carretera Toluca - Palmillas con dirección Atlacomulco. Atienda indicación vial. #TomePrecauciones en #EdoMex se registra cierre parcial de circulación por #Acci",
+      "link": "https://nitter.net/GN_Carreteras/status/2066258486514639198#m",
+      "date": "2026-06-14T20:36:27+00:00"
+    },
     {
       "id": "b21a3fe09a60",
       "account": "@capufe",
@@ -435,48 +477,6 @@
       "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #Vehiculoincendiado por falla mecánica, cerca del km 014+100, de la carretera Arriaga- Ocozocoautla. Atienda indicación vial. #TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #V",
       "link": "https://nitter.net/GN_Carreteras/status/2066054829789614407#m",
       "date": "2026-06-14T07:07:11+00:00"
-    },
-    {
-      "id": "e7713f557936",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 171.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Veracruz tras presencia de personas cerca del km 171+500, de la carretera Paso del toro - Acayucan. Maneje con precaución. #ViaLibre en #Veracruz tras presencia de personas cerca del km 171+500, de la carretera Paso del toro - Acayucan. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2066053161651962319#m",
-      "date": "2026-06-14T07:00:33+00:00"
-    },
-    {
-      "id": "2059f1cd8aee",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 83.0,
-      "lat": 20.2648,
-      "lon": -99.6764,
-      "resolved": true,
-      "text": "#ViaLibre en #EdoMex tras #AccidenteVial cerca del km 083+000, de la carretera México-Querétaro con dirección a Cd. México. Maneje con precaución. #ViaLibre en #EdoMex tras #AccidenteVial cerca del km 083+000, de la carretera México-Querétaro con dirección a Cd. México. Maneje co",
-      "link": "https://nitter.net/GN_Carreteras/status/2066052478202704194#m",
-      "date": "2026-06-14T06:57:50+00:00"
-    },
-    {
-      "id": "061418d6eb89",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 317.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 317+000, de la carretera Acapulco-Chilpancingo con dirección a Julián Blanco, Gro. Atienda indicación vial. #TomePrecauciones en #Guerrero se registra cierre parcial de circul",
-      "link": "https://nitter.net/GN_Carreteras/status/2066026375975219527#m",
-      "date": "2026-06-14T05:14:07+00:00"
     }
   ]
 }
