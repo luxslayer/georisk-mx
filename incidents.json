@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-14T10:34:38.025069+00:00",
+  "updated": "2026-06-14T11:43:03.484530+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "d7cb8ed12ac9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 8.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 8, dirección Cuautla. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 8, dirección Cuautla. Red",
+      "link": "https://nitter.net/CAPUFE/status/2066118856112759051#m",
+      "date": "2026-06-14T11:21:36+00:00"
+    },
+    {
+      "id": "5744cc86f307",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 019+200, de la carretera Francisco Escárcega con ramales a Nuevo Coahuila con dirección a Villahermosa. Maneje con precaución. #ViaLibre en #Tabasco se registra cierre parcial de circu",
+      "link": "https://nitter.net/GN_Carreteras/status/2066115156019458326#m",
+      "date": "2026-06-14T11:06:54+00:00"
+    },
+    {
+      "id": "301a9338ce62",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 317.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Guerrero tras #AccidenteVial cerca del km 317+000, de la carretera Acapulco-Chilpancingo con dirección a Julián Blanco, Gro. Maneje con precaución. #ViaLibre en #Guerrero tras #AccidenteVial cerca del km 317+000, de la carretera Acapulco-Chilpancingo con dirección a",
+      "link": "https://nitter.net/GN_Carreteras/status/2066114922665116035#m",
+      "date": "2026-06-14T11:05:58+00:00"
+    },
+    {
+      "id": "6fb4d935051b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 209.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #Accidentevial, cerca del km 209+600, de la autopista Libramiento Norte. Atienda indicación vial. #TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #Accidentevial , cerca del k",
+      "link": "https://nitter.net/GN_Carreteras/status/2066114433487618099#m",
+      "date": "2026-06-14T11:04:02+00:00"
+    },
+    {
+      "id": "bffee518e2e8",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 83.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #Accidentevial, cerca del km 083+100, de la carretera Los Reyes - Zacatepec con dirección Apizaco Tlax. Atienda indicación vial. #TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación p",
+      "link": "https://nitter.net/GN_Carreteras/status/2066113592621981741#m",
+      "date": "2026-06-14T11:00:41+00:00"
+    },
     {
       "id": "0e8e3e5739bc",
       "account": "@capufe",
@@ -297,20 +367,6 @@
       "date": "2026-06-14T04:02:27+00:00"
     },
     {
-      "id": "8026d3eba77d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 196.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 196. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RES",
-      "link": "https://nitter.net/CAPUFE/status/2066007238049730911#m",
-      "date": "2026-06-14T03:58:04+00:00"
-    },
-    {
       "id": "05c556396df6",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -435,62 +491,6 @@
       "text": "#ViaLibre en #Tabasco tras #AccidenteVial cerca del km 060+000, de la carretera Coatzacoalcos - Villahermosa, con dirección Villahermosa. Maneje con precaución. #ViaLibre en #Tabasco tras #AccidenteVial cerca del km 060+000, de la carretera Coatzacoalcos - Villahermosa, con direc",
       "link": "https://nitter.net/GN_Carreteras/status/2065956781746991589#m",
       "date": "2026-06-14T00:37:35+00:00"
-    },
-    {
-      "id": "46afe0dd884c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 176.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 176+000, de la carretera Paso del Toro-Acayucan. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del",
-      "link": "https://nitter.net/GN_Carreteras/status/2065955614979715362#m",
-      "date": "2026-06-14T00:32:56+00:00"
-    },
-    {
-      "id": "52824860039d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 240.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Michoacán tras cierre parcial de circulación por #AccidenteVial cerca del km 240+000, de la carretera Maravatío-Zapotlanejo. Maneje con precaución. #ViaLibre en #Michoacán tras cierre parcial de circulación por #AccidenteVial cerca del km 240+000, de la carretera Ma",
-      "link": "https://nitter.net/GN_Carreteras/status/2065953119540826199#m",
-      "date": "2026-06-14T00:23:01+00:00"
-    },
-    {
-      "id": "d6f803525d98",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 54.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Morelos tras cierre parcial de circulación por #AccidenteVial cerca del km 054+200, de la autopista México- Cuernavaca. Maneje con precaución. #ViaLibre en #Morelos tras cierre parcial de circulación por #AccidenteVial cerca del km 054+200, de la autopista México- C",
-      "link": "https://nitter.net/GN_Carreteras/status/2065952141177417738#m",
-      "date": "2026-06-14T00:19:08+00:00"
-    },
-    {
-      "id": "4629ed0b3e61",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 151.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "#ViaLibre en #Chiapas tras #AccidenteVial cerca del km 151+900, de la carretera Las Choapas-Ocozocoautla, con dirección Ocuilapa de Juárez, Chis. Maneje con precaución. #ViaLibre en #Chiapas tras #AccidenteVial cerca del km 151+900, de la carretera Las Choapas-Ocozocoautla, con d",
-      "link": "https://nitter.net/GN_Carreteras/status/2065950759343079711#m",
-      "date": "2026-06-14T00:13:39+00:00"
     }
   ]
 }
