@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-17T22:37:33.875340+00:00",
+  "updated": "2026-06-17T23:37:10.179636+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "9d40f2a9feda",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 57.0,
+      "lat": 20.1192,
+      "lon": -99.3956,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 57, dirección Cuernavaca. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 57, dirección Cuernavaca. Reducción de",
+      "link": "https://nitter.net/CAPUFE/status/2067390843594436674#m",
+      "date": "2026-06-17T23:36:02+00:00"
+    },
+    {
+      "id": "6a83381591e1",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 0.0,
+      "lat": 18.32,
+      "lon": -95.02,
+      "resolved": true,
+      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista La Tinaja - Isla, km 0, dirección Isla. Continúa reducción de carriles en la gaza de incorporación a la autopista por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTE",
+      "link": "https://nitter.net/CAPUFE/status/2067390103782047824#m",
+      "date": "2026-06-17T23:33:05+00:00"
+    },
+    {
+      "id": "9c8d97317d40",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 7.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Villahermosa, km 7, dirección Cárdenas. Se restablece la circulación con reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. 🟠 CIERRE PARCIAL DE CIRCULACIÓN",
+      "link": "https://nitter.net/CAPUFE/status/2067387646767190052#m",
+      "date": "2026-06-17T23:23:19+00:00"
+    },
+    {
+      "id": "490699a84bf6",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 0.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en el #AeropuertodeOaxaca tras presencia de personas cerca del km 000+300, de la carretera Oaxaca-Puerto Ángel. Maneje con precaución. #VíaLibre en el #AeropuertodeOaxaca tras presencia de personas cerca del km 000+300, de la carretera Oaxaca-Puerto Ángel. Maneje con pr",
+      "link": "https://nitter.net/GN_Carreteras/status/2067377677166645323#m",
+      "date": "2026-06-17T22:43:42+00:00"
+    },
     {
       "id": "5adaca424c8d",
       "account": "@GN_carreteras",
@@ -227,48 +283,6 @@
       "date": "2026-06-17T20:52:10+00:00"
     },
     {
-      "id": "293637a0a3d6",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 25.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Querétaro - Irapuato, km 25, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Querétaro - Irapuato,",
-      "link": "https://nitter.net/CAPUFE/status/2067349259318333729#m",
-      "date": "2026-06-17T20:50:47+00:00"
-    },
-    {
-      "id": "355b55ffa9bd",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 52.0,
-      "lat": 32.0864,
-      "lon": -116.858,
-      "resolved": true,
-      "text": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Tijuana - Ensenada, Plaza de Cobro Ensenada. Se retiran los manifestantes. Sin embargo, en el km 52 de la autopista, se registra cierre a la circulación en ambos sentidos por atención de accidente. Toma tus precauciones. 🟢 SE RETIRAN MANIFES",
-      "link": "https://nitter.net/CAPUFE/status/2067346678982594568#m",
-      "date": "2026-06-17T20:40:32+00:00"
-    },
-    {
-      "id": "92ed0619fe2a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 99.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 99, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 99, dirección CDMX. El accidente ha sido atendido. Tram",
-      "link": "https://nitter.net/CAPUFE/status/2067345697196638638#m",
-      "date": "2026-06-17T20:36:38+00:00"
-    },
-    {
       "id": "dd1aa04740d9",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,20 +505,6 @@
       "text": "#VíaLibre en #Nayarit tras #AccidenteVial cerca del Km 033+000 de la carretera Libramiento de Mazatlán. Maneje con precaución. #VíaLibre en #Nayarit tras #AccidenteVial cerca del Km 033+000 de la carretera Libramiento de Mazatlán. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2067265800684077122#m",
       "date": "2026-06-17T15:19:09+00:00"
-    },
-    {
-      "id": "814e7b930dd0",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en el #AeropuertodeOaxaca se registra cierre total al acceso principal del interior del Aeropuerto, por presencia de personas cerca del km 000+300, de la carretera Oaxaca- Puerto Ángel. Atienda indicación vial. #TomePrecauciones en el #AeropuertodeOaxaca se regi",
-      "link": "https://nitter.net/GN_Carreteras/status/2067252117031522511#m",
-      "date": "2026-06-17T14:24:47+00:00"
     }
   ]
 }
