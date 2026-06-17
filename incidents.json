@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-17T11:38:40.284154+00:00",
+  "updated": "2026-06-17T13:23:57.526672+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "35bb2ea6d8d5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 155.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 155, dirección Puebla. Se restablece la circulación con reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRC",
+      "link": "https://nitter.net/CAPUFE/status/2067235418819432717#m",
+      "date": "2026-06-17T13:18:25+00:00"
+    },
+    {
+      "id": "8c503e29d1bc",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 15.0,
+      "lat": 19.37065,
+      "lon": -99.2958,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #Jalisco se registra cierre parcial de circulación tras #AccidenteVial cerca del Km 015+322 de la autopista León-Aguascalientes con dirección Guadalajara. Atienda indicación vial. #Tomeprecauciones en #Jalisco se registra cierre parcial de circulación tras #A",
+      "link": "https://nitter.net/GN_Carreteras/status/2067231206198903150#m",
+      "date": "2026-06-17T13:01:41+00:00"
+    },
+    {
+      "id": "dfd8e7516c76",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 155.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Puebla - Acatzingo, km 155, dirección Puebla. Cierre a la circulación por atención de incidente (tracto camión con falla mecánica). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Puebla - Acatzi",
+      "link": "https://nitter.net/CAPUFE/status/2067229437943255395#m",
+      "date": "2026-06-17T12:54:39+00:00"
+    },
+    {
+      "id": "33a25631862a",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 138.0,
+      "lat": 17.970255,
+      "lon": -94.894218,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 138, dirección Acayucan. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 138, dirección Acayu",
+      "link": "https://nitter.net/CAPUFE/status/2067227119587905838#m",
+      "date": "2026-06-17T12:45:27+00:00"
+    },
+    {
+      "id": "93b63e652c80",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 33.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Nayarit se registra cierre parcial de circulación tras #AccidenteVial cerca del Km 033+000 de la carretera Libramiento de Mazatlán. Atienda indicación vial. #Tomeprecauciones en #Nayarit se registra cierre parcial de circulación tras #AccidenteVial cerca del",
+      "link": "https://nitter.net/GN_Carreteras/status/2067211068124922366#m",
+      "date": "2026-06-17T11:41:40+00:00"
+    },
     {
       "id": "0bf192af6dde",
       "account": "@capufe",
@@ -197,48 +267,6 @@
       "text": "#ViaLibre en #Oaxaca tras cierre parcial de circulación por #AccidenteVial cerca del Km 156+000 de la carretera Coatzacoalcos-Salina Cruz con dirección a Donají Oax. Maneje con precaución. #ViaLibre en #Oaxaca tras cierre parcial de circulación por #AccidenteVial cerca del Km 156",
       "link": "https://nitter.net/GN_Carreteras/status/2067076639515627589#m",
       "date": "2026-06-17T02:47:29+00:00"
-    },
-    {
-      "id": "342e04be6cba",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 251.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 251, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 251, dirección A",
-      "link": "https://nitter.net/CAPUFE/status/2067075619733516329#m",
-      "date": "2026-06-17T02:43:26+00:00"
-    },
-    {
-      "id": "8e62edf0af8c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 321.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuernavaca - Acapulco, km 321, dirección Acapulco. Cierre a la circulación por atención de accidente (volcadura de automóvil). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuernavaca - Acapulc",
-      "link": "https://nitter.net/CAPUFE/status/2067075373783732293#m",
-      "date": "2026-06-17T02:42:28+00:00"
-    },
-    {
-      "id": "1fc8e2c7c9c8",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 251.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 251, dirección Acatzingo. Cierre a la circulación por atención de accidente (volcadura de pick up). En la zona se registra carga vehicular. Maneja con precaución. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. M",
-      "link": "https://nitter.net/CAPUFE/status/2067068871639433634#m",
-      "date": "2026-06-17T02:16:37+00:00"
     },
     {
       "id": "330887050dec",
@@ -449,34 +477,6 @@
       "text": "#Tomeprecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del Km 014+000 de la carretera Apizaco -Tejocotal. Atienda indicación vial. #Tomeprecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del Km 0",
       "link": "https://nitter.net/GN_Carreteras/status/2066982776281174021#m",
       "date": "2026-06-16T20:34:31+00:00"
-    },
-    {
-      "id": "3c0f32429c27",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 6.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Oaxaca se registra cierre parcial de circulación por #Afectaciónclimatologica (socavón) cerca del Km 006+200 de la carretera Oaxaca - Tehuantepec con dirección Tehuantepec. Se recomienda a la ciudadanía disminuir la velocidad y atender indicaciones viales. #",
-      "link": "https://nitter.net/GN_Carreteras/status/2066981944210985256#m",
-      "date": "2026-06-16T20:31:12+00:00"
-    },
-    {
-      "id": "cd8689dda2ca",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 97.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #SanLuisPotosi se registra cierre de circulación en un carril por #Accidentevial cerca del km 097+100, de la carretera San Luis Potosí-Matehuala. Maneje con precaución. #ViaLibre en #SanLuisPotosi se registra cierre de circulación en un carril por #Accidentevial cerc",
-      "link": "https://nitter.net/GN_Carreteras/status/2066977205297516841#m",
-      "date": "2026-06-16T20:12:22+00:00"
     }
   ]
 }
