@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-17T05:45:22.016300+00:00",
-  "count": 36,
+  "updated": "2026-06-17T08:00:10.419668+00:00",
+  "count": 35,
   "incidents": [
     {
       "id": "88eb52b8120a",
@@ -267,20 +267,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 205, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 205, dirección",
       "link": "https://nitter.net/CAPUFE/status/2067062303854358706#m",
       "date": "2026-06-17T01:50:32+00:00"
-    },
-    {
-      "id": "563b58365076",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 199.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠 Aut. Acatzingo - Cd. Mendoza, km 199, dir. Cd Mendoza. Registra reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠 Aut. Acatzingo - Cd. Mendoza, km 199, dir. Cd Mendoza. Re",
-      "link": "https://nitter.net/CAPUFE/status/2067057017697472893#m",
-      "date": "2026-06-17T01:29:31+00:00"
     },
     {
       "id": "72a18dfa8af3",
