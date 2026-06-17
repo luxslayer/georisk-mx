@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-17T08:00:10.419668+00:00",
-  "count": 35,
+  "updated": "2026-06-17T09:50:00.957531+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "a53017802a40",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 44, dirección Córdoba. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 44, dirección Córdoba. Red",
+      "link": "https://nitter.net/CAPUFE/status/2067170991382438080#m",
+      "date": "2026-06-17T09:02:25+00:00"
+    },
     {
       "id": "88eb52b8120a",
       "account": "@GN_carreteras",
@@ -225,48 +239,6 @@
       "text": "#Tomeprecauciones en #Jalisco se registra cierre parcial de circulación tras #AccidenteVial cerca del Km 059+500 de la carretera Ciudad Guzmán-Colima con dirección a Colima. Atienda indicación vial. #Tomeprecauciones en #Jalisco se registra cierre parcial de circulación tras #Acc",
       "link": "https://nitter.net/GN_Carreteras/status/2067067794697383987#m",
       "date": "2026-06-17T02:12:21+00:00"
-    },
-    {
-      "id": "093410e5221b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 10.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 10, dirección Lechería. Reducción de carriles por atención de choque por alcance múltiple entre un tracto camión y automóviles. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación ",
-      "link": "https://nitter.net/CAPUFE/status/2067063440208752985#m",
-      "date": "2026-06-17T01:55:02+00:00"
-    },
-    {
-      "id": "aff81b045551",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 199.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Acatzingo - Cd. Mendoza, km 199, dir. Cd Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Acatzingo - Cd. Mendoza, km 199, dir. Cd Mendoza. El accid",
-      "link": "https://nitter.net/CAPUFE/status/2067062416278458752#m",
-      "date": "2026-06-17T01:50:58+00:00"
-    },
-    {
-      "id": "6b65589f77ff",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 205.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 205, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 205, dirección",
-      "link": "https://nitter.net/CAPUFE/status/2067062303854358706#m",
-      "date": "2026-06-17T01:50:32+00:00"
     },
     {
       "id": "72a18dfa8af3",
