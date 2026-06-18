@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-18T18:19:49.810911+00:00",
-  "count": 35,
+  "updated": "2026-06-18T19:19:12.775368+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "f48f1b41d179",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 68.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Zacatecas se registra presencia de personas cerca del km 068+800, de la carretera La Chicharrona-Cuencamé, a la altura de la Unidad Regional De Seguridad Rio Grande, sin afectación a la circulación. Atienda indicación vial. #Tomeprecauciones en #Zacatecas se",
+      "link": "https://nitter.net/GN_Carreteras/status/2067687793048814017#m",
+      "date": "2026-06-18T19:16:00+00:00"
+    },
+    {
+      "id": "9311577d171f",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 155.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #BC se registra cierre total en ambos sentidos de circulación por presencia de personas, cerca del Km 155+000, de la carretera Tijuana-San Miguel, a la altura de la Loc. Maclovio Rojas. Atienda indicación vial. #Tomeprecauciones en #BC se registra cierre tota",
+      "link": "https://nitter.net/GN_Carreteras/status/2067686475060142499#m",
+      "date": "2026-06-18T19:10:46+00:00"
+    },
+    {
+      "id": "aa6f03df6b15",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 55.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 55, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 55, dirección Querétaro. El accidente ha sido atendido. En la zo",
+      "link": "https://nitter.net/CAPUFE/status/2067684110873575492#m",
+      "date": "2026-06-18T19:01:22+00:00"
+    },
+    {
+      "id": "19a5ba3e0965",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 55.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 55, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓ",
+      "link": "https://nitter.net/CAPUFE/status/2067677427078164660#m",
+      "date": "2026-06-18T18:34:48+00:00"
+    },
+    {
+      "id": "704a94fe5b96",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 43.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 43, dirección Veracruz. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 43, dirección V",
+      "link": "https://nitter.net/CAPUFE/status/2067675779278717393#m",
+      "date": "2026-06-18T18:28:15+00:00"
+    },
     {
       "id": "f29bb40b1cb3",
       "account": "@capufe",
@@ -73,7 +143,7 @@
       "date": "2026-06-18T17:41:25+00:00"
     },
     {
-      "id": "342bed7f5320",
+      "id": "e6d90381b0cb",
       "account": "@capufe",
       "type": "rollover",
       "highway": "?",
@@ -82,7 +152,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 182, dirección Navojoa. Reducción de carriles por atención de volcadura de vagoneta. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/tF8nY8TnreYiHosV8 🟠 CIERRE PARCIAL DE CIRCULACIÓN ",
+      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 182, dirección Navojoa. Reducción de carriles por atención de volcadura de vagoneta. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/tF8nY8TnreYiHosV8 🟠 CIERRE PARCIAL DE CIRC",
       "link": "https://nitter.net/CAPUFE/status/2067660789402447967#m",
       "date": "2026-06-18T17:28:42+00:00"
     },
@@ -283,48 +353,6 @@
       "date": "2026-06-18T15:26:36+00:00"
     },
     {
-      "id": "e3eeba88aeed",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 75.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 75, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla , km 75, dirección Puebla. Redu",
-      "link": "https://nitter.net/CAPUFE/status/2067628159667683439#m",
-      "date": "2026-06-18T15:19:02+00:00"
-    },
-    {
-      "id": "41c1ef2b58fb",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 91.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 91, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla , km 91, dirección CDMX. Reducció",
-      "link": "https://nitter.net/CAPUFE/status/2067627858537636099#m",
-      "date": "2026-06-18T15:17:50+00:00"
-    },
-    {
-      "id": "a805744291c9",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 82.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, del km 82 al 83, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla , del km 82 al 83, di",
-      "link": "https://nitter.net/CAPUFE/status/2067627023330168902#m",
-      "date": "2026-06-18T15:14:31+00:00"
-    },
-    {
       "id": "484aa0642f91",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -449,48 +477,6 @@
       "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 133+500, de la carretera Perote - Banderilla, con dirección a Perote. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #Ac",
       "link": "https://nitter.net/GN_Carreteras/status/2067492118017237440#m",
       "date": "2026-06-18T06:18:27+00:00"
-    },
-    {
-      "id": "80c1ab409e3a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 118.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del Km 118+000, de la carretera Libramiento Norte de la Ciudad de México, con dirección a Puebla. Atienda indicación vial. #Tomeprecauciones en #Hidalgo se registra cierre parcial de ",
-      "link": "https://nitter.net/GN_Carreteras/status/2067480762555777099#m",
-      "date": "2026-06-18T05:33:20+00:00"
-    },
-    {
-      "id": "42d61a2469c7",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 50.0,
-      "lat": 20.08,
-      "lon": -99.32,
-      "resolved": true,
-      "text": "#VíaLibre en #EdoMéx tras #AccidenteVial cerca del Km 050+200, de la carretera México-Querétaro (directo), con dirección a Cd. Méx. Maneje con precaución. #VíaLibre en #EdoMéx tras #AccidenteVial cerca del Km 050+200, de la carretera México-Querétaro (directo), con dirección a Cd",
-      "link": "https://nitter.net/GN_Carreteras/status/2067476645083054465#m",
-      "date": "2026-06-18T05:16:58+00:00"
-    },
-    {
-      "id": "17947bcfe057",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 134.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 134+500, de la carretera Tuxpan-Tampico, con dirección a Tampico. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #Accide",
-      "link": "https://nitter.net/GN_Carreteras/status/2067475171712074097#m",
-      "date": "2026-06-18T05:11:07+00:00"
     }
   ]
 }
