@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-18T21:18:46.451853+00:00",
-  "count": 34,
+  "updated": "2026-06-18T22:16:47.708516+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "24f859c3748c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 146.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 146, dirección Acatzingo. Reducción de carriles por atención de accidente (salida de neumático de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 146, direcció",
+      "link": "https://nitter.net/CAPUFE/status/2067732832793862350#m",
+      "date": "2026-06-18T22:14:58+00:00"
+    },
+    {
+      "id": "8ae69c3a2851",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 26.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 26, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 26, dirección Cuernavaca. Reducción de car",
+      "link": "https://nitter.net/CAPUFE/status/2067731074180919537#m",
+      "date": "2026-06-18T22:07:59+00:00"
+    },
+    {
+      "id": "637388a7d1e1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 105.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Estación Don - Navojoa, km 105, dirección Estación Don. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Estación Don - Navojoa, km 105, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2067719835509727375#m",
+      "date": "2026-06-18T21:23:19+00:00"
+    },
     {
       "id": "4361f8b967e8",
       "account": "@GN_carreteras",
@@ -367,34 +409,6 @@
       "date": "2026-06-18T17:43:35+00:00"
     },
     {
-      "id": "9ae1c586992a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 141.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 141, dirección Acatzingo. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢",
-      "link": "https://nitter.net/CAPUFE/status/2067663992537952463#m",
-      "date": "2026-06-18T17:41:25+00:00"
-    },
-    {
-      "id": "342bed7f5320",
-      "account": "@capufe",
-      "type": "rollover",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 182.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 182, dirección Navojoa. Reducción de carriles por atención de volcadura de vagoneta. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/tF8nY8TnreYiHosV8 🟠 CIERRE PARCIAL DE CIRCULACIÓN ",
-      "link": "https://nitter.net/CAPUFE/status/2067660789402447967#m",
-      "date": "2026-06-18T17:28:42+00:00"
-    },
-    {
       "id": "71bf08488c88",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -435,34 +449,6 @@
       "text": "#Tomeprecauciones en #Zacatecas se registra presencia de personas cerca del Km 118+560 de la carretera Aguascalientes-Zacatecas a la altura de la caseta de cobro Vetagrande. se orienta a al ciudadanía que la caseta labora libre de peaje. Atienda indicación vial. #Tomeprecauciones",
       "link": "https://nitter.net/GN_Carreteras/status/2067652204270342346#m",
       "date": "2026-06-18T16:54:35+00:00"
-    },
-    {
-      "id": "44f753696d83",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 194.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro , del km 194 al 207, dirección Querétaro. Reducció",
-      "link": "https://nitter.net/CAPUFE/status/2067651098404430254#m",
-      "date": "2026-06-18T16:50:11+00:00"
-    },
-    {
-      "id": "47bd9db6775e",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 153.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 153 al 158, dirección CDMX. Reducción de carriles por labores de mantenimiento. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro , del km 153 al 158, dirección CDMX. Reducción de carri",
-      "link": "https://nitter.net/CAPUFE/status/2067650898747130099#m",
-      "date": "2026-06-18T16:49:24+00:00"
     },
     {
       "id": "410465d4c3ec",
