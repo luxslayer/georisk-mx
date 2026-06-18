@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-18T09:36:35.857252+00:00",
+  "updated": "2026-06-18T11:27:06.156265+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "092b0c2b268d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 7.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Villahermosa, km 7, dirección Cárdenas. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Villaherm",
+      "link": "https://nitter.net/CAPUFE/status/2067567758456283181#m",
+      "date": "2026-06-18T11:19:01+00:00"
+    },
     {
       "id": "b61c64039b41",
       "account": "@capufe",
@@ -365,20 +379,6 @@
       "text": "#Tomeprecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del Km 021+300, de la carretera Tuxtla Gutiérrez-San Cristóbal de las Casas, con dirección a San Cristóbal. Atienda indicación vial. #Tomeprecauciones en #Chiapas se registra cierre p",
       "link": "https://nitter.net/GN_Carreteras/status/2067450965192536244#m",
       "date": "2026-06-18T03:34:56+00:00"
-    },
-    {
-      "id": "3635dba4d552",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 50.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 50, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 50, dirección CDMX. El accidente ha sido atendido",
-      "link": "https://nitter.net/CAPUFE/status/2067447528988024840#m",
-      "date": "2026-06-18T03:21:16+00:00"
     },
     {
       "id": "2f294f855e37",
