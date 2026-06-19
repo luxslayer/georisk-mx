@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-19T21:29:12.901884+00:00",
-  "count": 33,
+  "updated": "2026-06-19T21:55:55.736221+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "e19f46096277",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 62.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Querétaro - Irapuato, km 62. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles en ambos sentidos por presencia de manifestantes. En la zona se registra carga vehicular intensa. Maneja con precau",
+      "link": "https://nitter.net/CAPUFE/status/2068090314792018061#m",
+      "date": "2026-06-19T21:55:28+00:00"
+    },
     {
       "id": "e336ac94c7ee",
       "account": "@capufe",
@@ -253,48 +267,6 @@
       "text": "#ViaLibre en #Zacatecas tras presencia de personas cerca del km 287+800, de la carretera Guadalajara-Zacatecas, a la altura de la UNIRSA Malpaso Villanueva. Maneje con precaución. #ViaLibre en #Zacatecas tras presencia de personas cerca del km 287+800, de la carretera Guadalajara",
       "link": "https://nitter.net/GN_Carreteras/status/2068044494428139618#m",
       "date": "2026-06-19T18:53:24+00:00"
-    },
-    {
-      "id": "615ee692d6ca",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 178.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista Tehuacán - Oaxaca, km 178. Circulación intermitente en ambos sentidos a la altura del Poblado Nochixtlán, por presencia de manifestantes. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista Tehuacán - Oaxaca, km 178. Circul",
-      "link": "https://nitter.net/CAPUFE/status/2068040894813442475#m",
-      "date": "2026-06-19T18:39:06+00:00"
-    },
-    {
-      "id": "e20283a44daa",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 286.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 286, dirección Córdoba. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camión y automóviles. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/xpsNYupvEbDkdHTG",
-      "link": "https://nitter.net/CAPUFE/status/2068039094337224933#m",
-      "date": "2026-06-19T18:31:57+00:00"
-    },
-    {
-      "id": "af70620771d6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 87.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 87, dirección CDMX. El accidente en carriles laterales ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 87, dirección CDMX. El",
-      "link": "https://nitter.net/CAPUFE/status/2068037875472490737#m",
-      "date": "2026-06-19T18:27:06+00:00"
     },
     {
       "id": "7cd56ce854ad",
