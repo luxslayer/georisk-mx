@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-19T22:50:08.573836+00:00",
-  "count": 30,
+  "updated": "2026-06-19T23:27:26.205294+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "0f5b49a97571",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 89.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 89, dirección Acapulco. Cierre a la circulación en carriles centrales por atención de accidente (choque contra muro central). Circulación por carriles laterales. En la zona se registra carga vehicular. Maneja con precau",
+      "link": "https://nitter.net/CAPUFE/status/2068112425098821928#m",
+      "date": "2026-06-19T23:23:20+00:00"
+    },
+    {
+      "id": "37acdb395895",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 97.0,
+      "lat": 18.235902,
+      "lon": -99.526658,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuernavaca - Acapulco, km 97, dirección Cuernavaca. Cierre a la circulación por atención de incidente (autobús con falla mecánica). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuernavaca - Ac",
+      "link": "https://nitter.net/CAPUFE/status/2068111820611620951#m",
+      "date": "2026-06-19T23:20:56+00:00"
+    },
+    {
+      "id": "abafe56adcbd",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 220.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Oaxaca tras presencia de personas cerca del Km 220+000, de la carretera Cuacnopalan-Oaxaca, en la Caseta de Cobro No. 79. Maneje con precaución. #ViaLibre en #Oaxaca tras presencia de personas cerca del Km 220+000, de la carretera Cuacnopalan-Oaxaca, en la Caseta de",
+      "link": "https://nitter.net/GN_Carreteras/status/2068110386092535879#m",
+      "date": "2026-06-19T23:15:14+00:00"
+    },
+    {
+      "id": "b07dfd0888c3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 284.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 284, dirección Córdoba. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 284, dirección Córdoba.",
+      "link": "https://nitter.net/CAPUFE/status/2068105119254671783#m",
+      "date": "2026-06-19T22:54:18+00:00"
+    },
     {
       "id": "70bcdc75bb4e",
       "account": "@GN_carreteras",
@@ -227,34 +283,6 @@
       "date": "2026-06-19T20:08:10+00:00"
     },
     {
-      "id": "b1ff298cbd94",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 20, dirección Veracruz. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 20, di",
-      "link": "https://nitter.net/CAPUFE/status/2068061321300512822#m",
-      "date": "2026-06-19T20:00:16+00:00"
-    },
-    {
-      "id": "601595030677",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 178.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Tehuacán - Oaxaca, km 178. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Tehuacán - Oaxaca, km 178. Se",
-      "link": "https://nitter.net/CAPUFE/status/2068059851347947925#m",
-      "date": "2026-06-19T19:54:25+00:00"
-    },
-    {
       "id": "b0dac92d3407",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -407,20 +435,6 @@
       "text": "#Tomeprecauciones en #Sonora se registra presencia de personas cerca del Km 130+000, de la carretera Los Mochis-Cd. Obregón, en la Caseta de Cobro No. 148, Estación Don, sin afectación a la circulación ni cobro de peaje. Atienda indicación vial. #Tomeprecauciones en #Sonora se re",
       "link": "https://nitter.net/GN_Carreteras/status/2068018412266156321#m",
       "date": "2026-06-19T17:09:46+00:00"
-    },
-    {
-      "id": "ee32c9c9afc0",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 6.0,
-      "lat": 19.40782,
-      "lon": -99.19824,
-      "resolved": true,
-      "text": "Se orienta a la población a tomar la #RutaAlterna desviandose por las calles del Municipio. Se orienta a la población a tomar la #RutaAlterna desviandose por las calles del Municipio. Guardia Nacional Carreteras (@GN_Carreteras) #Tomeprecauciones en #Chiapas se registra cierre to",
-      "link": "https://nitter.net/GN_Carreteras/status/2068015256060715137#m",
-      "date": "2026-06-19T16:57:13+00:00"
     }
   ]
 }
