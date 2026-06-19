@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-19T23:27:26.205294+00:00",
-  "count": 31,
+  "updated": "2026-06-19T23:54:16.901164+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "d91e4511e74d",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 97.0,
+      "lat": 18.235902,
+      "lon": -99.526658,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 97, dirección Cuernavaca. El incidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 97, dirección Cuernavaca. El incide",
+      "link": "https://nitter.net/CAPUFE/status/2068117290877387203#m",
+      "date": "2026-06-19T23:42:40+00:00"
+    },
+    {
+      "id": "a4fea9719e64",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "Zac–Durango",
+      "route_key": "zacatecas-durango",
+      "km": 26.0,
+      "lat": 22.935177,
+      "lon": -102.763813,
+      "resolved": true,
+      "text": "#ViaLibre en #Zacatecas tras presencia de personas cerca del Km 026+850, de la carretera Zacatecas-Durango, en la \"Caseta de Cobro Calera\". Maneje con precaución. #ViaLibre en #Zacatecas tras presencia de personas cerca del Km 026+850, de la carretera Zacatecas-Durango, en la \"Ca",
+      "link": "https://nitter.net/GN_Carreteras/status/2068115584680661172#m",
+      "date": "2026-06-19T23:35:53+00:00"
+    },
     {
       "id": "0f5b49a97571",
       "account": "@capufe",
@@ -421,20 +449,6 @@
       "text": "#ViaLibre en #Sonora tras presencia de personas cerca del Km 187+200, de la carretera Hermosillo-Nogales, en la Caseta de Cobro Magdalena de Kino. Maneje con precaución. #ViaLibre en #Sonora tras presencia de personas cerca del Km 187+200, de la carretera Hermosillo-Nogales, en l",
       "link": "https://nitter.net/GN_Carreteras/status/2068023963192562154#m",
       "date": "2026-06-19T17:31:49+00:00"
-    },
-    {
-      "id": "9dad18f400c4",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 130.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Sonora se registra presencia de personas cerca del Km 130+000, de la carretera Los Mochis-Cd. Obregón, en la Caseta de Cobro No. 148, Estación Don, sin afectación a la circulación ni cobro de peaje. Atienda indicación vial. #Tomeprecauciones en #Sonora se re",
-      "link": "https://nitter.net/GN_Carreteras/status/2068018412266156321#m",
-      "date": "2026-06-19T17:09:46+00:00"
     }
   ]
 }
