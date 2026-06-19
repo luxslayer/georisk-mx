@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-19T20:35:46.252222+00:00",
-  "count": 32,
+  "updated": "2026-06-19T21:29:12.901884+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "e336ac94c7ee",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 62.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Querétaro - Irapuato, km 62. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣. ☑️ ACTUALIZACIÓN. Autop",
+      "link": "https://nitter.net/CAPUFE/status/2068076012449955919#m",
+      "date": "2026-06-19T20:58:39+00:00"
+    },
+    {
+      "id": "76655ae5704e",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 88.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Guerrero tras presencia de personas cerca del Km 088+800, de la carretera Chilpancingo-Acapulco, en la Caseta de Cobro No. 103, Palo Blanco. Maneje con precaución. #ViaLibre en #Guerrero tras presencia de personas cerca del Km 088+800, de la carretera Chilpancingo-A",
+      "link": "https://nitter.net/GN_Carreteras/status/2068071034255753319#m",
+      "date": "2026-06-19T20:38:52+00:00"
+    },
     {
       "id": "b2dd63b97ee0",
       "account": "@GN_carreteras",
@@ -435,20 +463,6 @@
       "text": "Sin afectación a la circulación, los manifestantes mantienen levantadas las plumas evitando el cobro de peaje. Sin afectación a la circulación, los manifestantes mantienen levantadas las plumas evitando el cobro de peaje. Guardia Nacional Carreteras (@GN_Carreteras) #Tomeprecauci",
       "link": "https://nitter.net/GN_Carreteras/status/2068010460218081633#m",
       "date": "2026-06-19T16:38:10+00:00"
-    },
-    {
-      "id": "4a6cad0bf6bf",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 203.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Sonora se registra presencia de personas cerca del Km 203+500, de la carretera Sonoyta-San Luis Río colorado, en la Caseta de Cobro Mexicali-SLRC. Atienda indicación vial. #Tomeprecauciones en #Sonora se registra presencia de personas cerca del Km 203+500, d",
-      "link": "https://nitter.net/GN_Carreteras/status/2068010438520926553#m",
-      "date": "2026-06-19T16:38:04+00:00"
     }
   ]
 }
