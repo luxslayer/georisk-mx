@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-20T15:11:31.696149+00:00",
+  "updated": "2026-06-20T16:00:58.663950+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "6114b677360b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Gdl–Tepic",
+      "route_key": "guadalajara-tepic",
+      "km": 160.0,
+      "lat": 21.372571,
+      "lon": -104.685,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del Km 160+000, de la carretera Guadalajara-Tepic (directo), con dirección a la caseta de cobro Santa María del Oro. Atienda indicación vial. #Tomeprecauciones en #Nayarit se registra",
+      "link": "https://nitter.net/GN_Carreteras/status/2068355628532203783#m",
+      "date": "2026-06-20T15:29:44+00:00"
+    },
+    {
+      "id": "5cd4ad20d12f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 103.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del Km 103+500, de la carretera Zacatecas-Saltillo, a altura del Mpio. de San Felipe, con Dir. a San Antonio de la Rosa. Atienda indicación vial. #Tomeprecauciones en #Zacatecas se ",
+      "link": "https://nitter.net/GN_Carreteras/status/2068352111432097826#m",
+      "date": "2026-06-20T15:15:46+00:00"
+    },
     {
       "id": "d5c28dc0b102",
       "account": "@GN_carreteras",
@@ -435,34 +463,6 @@
       "text": "#Tomeprecauciones en #BC se registra presencia de personas cerca del Km 196+000, de la carretera Ensenada-Lázaro Cárdenas, sin afectación a la circulación, los manifestantes caminan sobre el derecho de vía. Atienda indicación vial. #Tomeprecauciones en #BC se registra presencia d",
       "link": "https://nitter.net/GN_Carreteras/status/2068068938378772762#m",
       "date": "2026-06-19T20:30:32+00:00"
-    },
-    {
-      "id": "1045557c6551",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 62.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Guerrero tras presencia de personas cerca del Km 062+000, de la carretera Puente de Ixtla-Iguala, en la Caseta de Cobro No. 03, Iguala. Maneje con precaución. #ViaLibre en #Guerrero tras presencia de personas cerca del Km 062+000, de la carretera Puente de Ixtla-Igu",
-      "link": "https://nitter.net/GN_Carreteras/status/2068063310273028304#m",
-      "date": "2026-06-19T20:08:10+00:00"
-    },
-    {
-      "id": "b0dac92d3407",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 88.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Guerrero se registra presencia de personas cerca del Km 088+800, de la carretera Chilpancingo-Acapulco, en la Caseta de Cobro No. 103, Palo Blanco, sin afectación a la circulación, solicitan una cooperación. Atienda indicación vial. #Tomeprecauciones en #Gue",
-      "link": "https://nitter.net/GN_Carreteras/status/2068055393612259335#m",
-      "date": "2026-06-19T19:36:43+00:00"
     }
   ]
 }
