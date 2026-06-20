@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-20T17:57:18.606050+00:00",
+  "updated": "2026-06-20T18:41:01.072197+00:00",
   "count": 31,
   "incidents": [
+    {
+      "id": "a5b219bf822c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 207.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 207+500, de la carretera Puebla-Orizaba, a altura del Mpio. del Palmar de Bravo, con Dir. a Orizaba. Atienda indicación vial. #Tomeprecauciones en #Puebla se registra cierre par",
+      "link": "https://nitter.net/GN_Carreteras/status/2068396505883365516#m",
+      "date": "2026-06-20T18:12:10+00:00"
+    },
+    {
+      "id": "cd43b9f6ef67",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 10.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Poniente Acapulco, km 10, dirección Bajos del Ejido. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Poniente Acapulco, km 10, di",
+      "link": "https://nitter.net/CAPUFE/status/2068395815547109405#m",
+      "date": "2026-06-20T18:09:26+00:00"
+    },
     {
       "id": "82fa46aed95b",
       "account": "@capufe",
@@ -255,20 +283,6 @@
       "date": "2026-06-20T11:46:44+00:00"
     },
     {
-      "id": "0afe454c7c82",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 62.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 62, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopis",
-      "link": "https://nitter.net/CAPUFE/status/2068293587222028354#m",
-      "date": "2026-06-20T11:23:12+00:00"
-    },
-    {
       "id": "3ca4be2eac69",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -421,20 +435,6 @@
       "text": "#ViaLibre en #Zacatecas tras presencia de personas cerca del km 036+700, de la carretera Zacatecas-Saltillo, en la UNIRSE Villa de Cos. Maneje con precaución. #ViaLibre en #Zacatecas tras presencia de personas cerca del km 036+700, de la carretera Zacatecas-Saltillo, en la UNIRSE",
       "link": "https://nitter.net/GN_Carreteras/status/2068093247528792536#m",
       "date": "2026-06-19T22:07:08+00:00"
-    },
-    {
-      "id": "76655ae5704e",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 88.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Guerrero tras presencia de personas cerca del Km 088+800, de la carretera Chilpancingo-Acapulco, en la Caseta de Cobro No. 103, Palo Blanco. Maneje con precaución. #ViaLibre en #Guerrero tras presencia de personas cerca del Km 088+800, de la carretera Chilpancingo-A",
-      "link": "https://nitter.net/GN_Carreteras/status/2068071034255753319#m",
-      "date": "2026-06-19T20:38:52+00:00"
     }
   ]
 }
