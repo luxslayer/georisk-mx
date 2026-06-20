@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-20T17:01:50.281849+00:00",
+  "updated": "2026-06-20T17:57:18.606050+00:00",
   "count": 31,
   "incidents": [
+    {
+      "id": "82fa46aed95b",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 44, dirección Veracruz. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 44, dirección Verac",
+      "link": "https://nitter.net/CAPUFE/status/2068382596422115519#m",
+      "date": "2026-06-20T17:16:54+00:00"
+    },
+    {
+      "id": "a91cc8366f94",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Gdl–Tepic",
+      "route_key": "guadalajara-tepic",
+      "km": 160.0,
+      "lat": 21.372571,
+      "lon": -104.685,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del Km 160+000, de la carretera Guadalajara-Tepic (directo) a altura del Mpio. de El Refugio, con Dir. a El Sauce. Atienda indicación vial. #Tomeprecauciones en #Nayarit se registra c",
+      "link": "https://nitter.net/GN_Carreteras/status/2068382133933027339#m",
+      "date": "2026-06-20T17:15:04+00:00"
+    },
     {
       "id": "c5f074b96602",
       "account": "@capufe",
@@ -241,20 +269,6 @@
       "date": "2026-06-20T11:23:12+00:00"
     },
     {
-      "id": "8c72e2144403",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 27.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 27. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 REST",
-      "link": "https://nitter.net/CAPUFE/status/2068286729409183837#m",
-      "date": "2026-06-20T10:55:57+00:00"
-    },
-    {
       "id": "3ca4be2eac69",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -421,20 +435,6 @@
       "text": "#ViaLibre en #Guerrero tras presencia de personas cerca del Km 088+800, de la carretera Chilpancingo-Acapulco, en la Caseta de Cobro No. 103, Palo Blanco. Maneje con precaución. #ViaLibre en #Guerrero tras presencia de personas cerca del Km 088+800, de la carretera Chilpancingo-A",
       "link": "https://nitter.net/GN_Carreteras/status/2068071034255753319#m",
       "date": "2026-06-19T20:38:52+00:00"
-    },
-    {
-      "id": "b2dd63b97ee0",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 63.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Guanajuato se registra cierre total de circulación en ambos sentidos por presencia de personas, cerca del Km 63+200, de la carretera Salamanca-Celaya, con Dir. a Celaya, #RutaAlterna Villagrán-Celaya. Atienda indicación vial. #Tomeprecauciones en #Guanajuato",
-      "link": "https://nitter.net/GN_Carreteras/status/2068070063458910664#m",
-      "date": "2026-06-19T20:35:00+00:00"
     }
   ]
 }
