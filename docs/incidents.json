@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-20T14:16:25.747878+00:00",
+  "updated": "2026-06-20T15:11:31.696149+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "d5c28dc0b102",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 89.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 089+600, de la carretera Ent. La Tinaja-Cosoleacaque, a altura del Mpio. de Cosamaloapan, con Dir. a Cosoleacaque. Atienda indicación vial. #Tomeprecauciones en #Veracruz se r",
+      "link": "https://nitter.net/GN_Carreteras/status/2068348844480311661#m",
+      "date": "2026-06-20T15:02:47+00:00"
+    },
     {
       "id": "f2de55c5b469",
       "account": "@capufe",
@@ -449,20 +463,6 @@
       "text": "#Tomeprecauciones en #Guerrero se registra presencia de personas cerca del Km 088+800, de la carretera Chilpancingo-Acapulco, en la Caseta de Cobro No. 103, Palo Blanco, sin afectación a la circulación, solicitan una cooperación. Atienda indicación vial. #Tomeprecauciones en #Gue",
       "link": "https://nitter.net/GN_Carreteras/status/2068055393612259335#m",
       "date": "2026-06-19T19:36:43+00:00"
-    },
-    {
-      "id": "15e67d85e5e7",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "Méx–Acapulco",
-      "route_key": "mexico-acapulco",
-      "km": 195.0,
-      "lat": 17.395,
-      "lon": -99.522222,
-      "resolved": true,
-      "text": "#ViaLibre en #Sonora tras presencia de personas cerca del Km 195+300, de la carretera Los Mochis-Cd. Obregón, en la Caseta de Cobro No. 149, Fundición. Maneje con precaución. #ViaLibre en #Sonora tras presencia de personas cerca del Km 195+300, de la carretera Los Mochis-Cd. Obre",
-      "link": "https://nitter.net/GN_Carreteras/status/2068047355195040133#m",
-      "date": "2026-06-19T19:04:46+00:00"
     }
   ]
 }
