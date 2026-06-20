@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-19T23:54:16.901164+00:00",
-  "count": 32,
+  "updated": "2026-06-20T01:00:19.731470+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "312768122e6a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 170.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 170, dirección Corralitos. Continúa reducción de carriles por atención de accidente (maniobras para retiro de unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez P",
+      "link": "https://nitter.net/CAPUFE/status/2068135971250471061#m",
+      "date": "2026-06-20T00:56:54+00:00"
+    },
+    {
+      "id": "9daf614438f8",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 356.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 356, dirección Cuernavaca. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 356, dirección C",
+      "link": "https://nitter.net/CAPUFE/status/2068135751661826219#m",
+      "date": "2026-06-20T00:56:01+00:00"
+    },
+    {
+      "id": "399130a5aac4",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #NuevoLeon se registra cierre parcial de circulación por #VehiculoIncnediado cerca del Km 019+000, de la carretera Monterrey-Nuevo Ladero, a la altura del Mpio. de Apodaca, con Dir. a Tamaulipas. Atienda indicación vial. #Tomeprecauciones en #NuevoLeon se reg",
+      "link": "https://nitter.net/GN_Carreteras/status/2068127451801133480#m",
+      "date": "2026-06-20T00:23:03+00:00"
+    },
+    {
+      "id": "6ee794241b11",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 16. El accidente ha sido atendido. Sin embargo, continúa la circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Mane",
+      "link": "https://nitter.net/CAPUFE/status/2068123909229093000#m",
+      "date": "2026-06-20T00:08:58+00:00"
+    },
+    {
+      "id": "f8ca169e59e1",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 68.0,
+      "lat": 31.9616,
+      "lon": -116.762,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 68, dirección Tijuana. Reducción de carriles por atención de incidente (fuga de agua). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 68, dirección Tijuana. Reducción de ",
+      "link": "https://nitter.net/CAPUFE/status/2068123349239136566#m",
+      "date": "2026-06-20T00:06:44+00:00"
+    },
+    {
+      "id": "a0e7475f8b36",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 89.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Libramiento Cuernavaca, km 89, dirección Acapulco. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Libramiento Cuernavaca, km 89, dirección Acapulco. El accidente ha sido atendido. ",
+      "link": "https://nitter.net/CAPUFE/status/2068122558008848716#m",
+      "date": "2026-06-20T00:03:36+00:00"
+    },
+    {
+      "id": "42ae27ccc5f2",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 196.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #BC tras presencia de personas cerca del Km 196+000, de la carretera Ensenada-Lázaro Cárdenas. Maneje con precaución. #ViaLibre en #BC tras presencia de personas cerca del Km 196+000, de la carretera Ensenada-Lázaro Cárdenas. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2068122428924989789#m",
+      "date": "2026-06-20T00:03:05+00:00"
+    },
     {
       "id": "d91e4511e74d",
       "account": "@capufe",
@@ -143,7 +241,7 @@
       "date": "2026-06-19T22:34:46+00:00"
     },
     {
-      "id": "44e1d46cded9",
+      "id": "f0a442f41dc4",
       "account": "@capufe",
       "type": "accident",
       "highway": "Chih–Cd Juárez",
@@ -152,7 +250,7 @@
       "lat": 31.738,
       "lon": -106.487,
       "resolved": true,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Cd. Mendoza - Córdoba, km 286, dirección Córdoba. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. En la zona se registra carga vehicular. Unidades de Guardia Nacional realizan opera",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cd. Mendoza - Córdoba, km 286, dirección Córdoba. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. En la zona se registra carga vehicular. Unidades de Guardia Nacional realizan",
       "link": "https://nitter.net/CAPUFE/status/2068100197302116711#m",
       "date": "2026-06-19T22:34:45+00:00"
     },
@@ -213,34 +311,6 @@
       "date": "2026-06-19T22:07:08+00:00"
     },
     {
-      "id": "e19f46096277",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 62.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Querétaro - Irapuato, km 62. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles en ambos sentidos por presencia de manifestantes. En la zona se registra carga vehicular intensa. Maneja con precau",
-      "link": "https://nitter.net/CAPUFE/status/2068090314792018061#m",
-      "date": "2026-06-19T21:55:28+00:00"
-    },
-    {
-      "id": "e336ac94c7ee",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 62.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Querétaro - Irapuato, km 62. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣. ☑️ ACTUALIZACIÓN. Autop",
-      "link": "https://nitter.net/CAPUFE/status/2068076012449955919#m",
-      "date": "2026-06-19T20:58:39+00:00"
-    },
-    {
       "id": "76655ae5704e",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -281,20 +351,6 @@
       "text": "#Tomeprecauciones en #BC se registra presencia de personas cerca del Km 196+000, de la carretera Ensenada-Lázaro Cárdenas, sin afectación a la circulación, los manifestantes caminan sobre el derecho de vía. Atienda indicación vial. #Tomeprecauciones en #BC se registra presencia d",
       "link": "https://nitter.net/GN_Carreteras/status/2068068938378772762#m",
       "date": "2026-06-19T20:30:32+00:00"
-    },
-    {
-      "id": "f274b1915366",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 286.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cd. Mendoza - Córdoba, km 286, dirección Córdoba. Se informa a las personas usuarias que continúa cierre a la circulación por atención de choque por alcance múltiple entre tracto camión y automóviles. 🔘 Se desvía el tránsito vehicular a l",
-      "link": "https://nitter.net/CAPUFE/status/2068067272778752352#m",
-      "date": "2026-06-19T20:23:55+00:00"
     },
     {
       "id": "1045557c6551",
@@ -421,34 +477,6 @@
       "text": "#Tomeprecauciones en #Sonora se registra presencia de personas cerca del Km 195+300, de la carretera Los Mochis-Cd. Obregón, en la Caseta de Cobro No. 149, Fundición, sin afectación a la circulación ni cobro de peaje. Atienda indicación vial. #Tomeprecauciones en #Sonora se regis",
       "link": "https://nitter.net/GN_Carreteras/status/2068027813123305967#m",
       "date": "2026-06-19T17:47:07+00:00"
-    },
-    {
-      "id": "bda0468d9452",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 36.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Zacatecas se registra presencia de personas cerca del km 036+700, de la carretera Zacatecas-Saltillo, en la UNIRSE Villa de Cos, sin afectación a la circulación. Atienda indicación vial. #Tomeprecauciones en #Zacatecas se registra presencia de personas cerca",
-      "link": "https://nitter.net/GN_Carreteras/status/2068025543082004932#m",
-      "date": "2026-06-19T17:38:06+00:00"
-    },
-    {
-      "id": "0a982708dd52",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 187.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Sonora tras presencia de personas cerca del Km 187+200, de la carretera Hermosillo-Nogales, en la Caseta de Cobro Magdalena de Kino. Maneje con precaución. #ViaLibre en #Sonora tras presencia de personas cerca del Km 187+200, de la carretera Hermosillo-Nogales, en l",
-      "link": "https://nitter.net/GN_Carreteras/status/2068023963192562154#m",
-      "date": "2026-06-19T17:31:49+00:00"
     }
   ]
 }
