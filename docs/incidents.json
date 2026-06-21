@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-21T21:32:57.439631+00:00",
-  "count": 34,
+  "updated": "2026-06-21T22:30:27.531095+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "c28c70349e1c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 134.0,
+      "lat": 17.975491,
+      "lon": -94.889564,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 134, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla -",
+      "link": "https://nitter.net/CAPUFE/status/2068822821187231962#m",
+      "date": "2026-06-21T22:26:12+00:00"
+    },
+    {
+      "id": "c06511210adf",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 87.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 087+000, de la carretera Ent. La Tinaja-Cosoleacaque, a la altura del Mpio. de Cosamaloapan, con Dir. a Ent. La Tinaja. Maneje con precaución. #VíaLibre en #Veracruz tras #AccidenteVial cerca del km 087+000, de la carretera ",
+      "link": "https://nitter.net/GN_Carreteras/status/2068817228921819276#m",
+      "date": "2026-06-21T22:03:58+00:00"
+    },
+    {
+      "id": "1bcb78002da6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 77.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 77, dirección Isla. Reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 77, dirección Isla. Reduc",
+      "link": "https://nitter.net/CAPUFE/status/2068812561517011395#m",
+      "date": "2026-06-21T21:45:26+00:00"
+    },
+    {
+      "id": "3f1434fa9a25",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 132.0,
+      "lat": 18.8882,
+      "lon": -96.9769,
+      "resolved": true,
+      "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 132+000, de la carretera Puebla-Córdoba, a la altura del Mpio. de Xonacatepec, con Dir. a Puebla. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km 132+000, de la carretera Puebla-Córdoba, a la altur",
+      "link": "https://nitter.net/GN_Carreteras/status/2068811968677364194#m",
+      "date": "2026-06-21T21:43:04+00:00"
+    },
+    {
+      "id": "71b7fcb2a8b1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 2.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 002+500, de la carretera Libramiento Veracruz, a la altura del Mpio. Juan de Alfaro, con Dir. a Minatitlán. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra",
+      "link": "https://nitter.net/GN_Carreteras/status/2068810388678771047#m",
+      "date": "2026-06-21T21:36:47+00:00"
+    },
     {
       "id": "847393b415e1",
       "account": "@capufe",
@@ -199,20 +269,6 @@
       "date": "2026-06-21T18:51:18+00:00"
     },
     {
-      "id": "bf9982983730",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 0, dirección La Pera. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 0, dirección La Pera. Reducció",
-      "link": "https://nitter.net/CAPUFE/status/2068768033963692520#m",
-      "date": "2026-06-21T18:48:29+00:00"
-    },
-    {
       "id": "b4c8b24ea75c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -225,34 +281,6 @@
       "text": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 132+000, de la carretera Puebla-Córdoba, a la altura del Mpio. de Xonacatepec, con Dir. a Puebla. Atienda indicación vial. #Tomeprecauciones en #Puebla se registra cierre parcia",
       "link": "https://nitter.net/GN_Carreteras/status/2068767512880124341#m",
       "date": "2026-06-21T18:46:25+00:00"
-    },
-    {
-      "id": "23ea90a8e1c7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 232.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. El accidente ha sido atendido, se restablece la circulación desde las Plazas de Cobro Los Chorros y Huachichil. En la zona se registra carga vehicular muy intensa. Maneja con precaución. 🟠",
-      "link": "https://nitter.net/CAPUFE/status/2068754115316916548#m",
-      "date": "2026-06-21T17:53:11+00:00"
-    },
-    {
-      "id": "e14939d4a545",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 87.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular intensa. Unidades de CAPUFE y Guardia Nac",
-      "link": "https://nitter.net/CAPUFE/status/2068753603385557451#m",
-      "date": "2026-06-21T17:51:09+00:00"
     },
     {
       "id": "f3d12ef23a29",
@@ -435,48 +463,6 @@
       "text": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 110+300, de la carretera Las Cruces-Pinotepa Nacional, a la altura del poblado El Carrizo, con Dir. a Cruz Grande. Atienda indicación vial. #Tomeprecauciones en #Guerrero se r",
       "link": "https://nitter.net/GN_Carreteras/status/2068564295613374735#m",
       "date": "2026-06-21T05:18:54+00:00"
-    },
-    {
-      "id": "d933fa3676ed",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 8.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Tabasco tras #AccidenteVial cerca del km 008+900, de la carretera Villahermosa-Francisco Escárcega, a la altura del Mpio. Francisco Escárcega, con Dir. a Francisco Escárcega. Maneje con precaución. #VíaLibre en #Tabasco tras #AccidenteVial cerca del km 008+900, de l",
-      "link": "https://nitter.net/GN_Carreteras/status/2068561302331474020#m",
-      "date": "2026-06-21T05:07:01+00:00"
-    },
-    {
-      "id": "ebf2e82152aa",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 89.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del Km 089+600, de la carretera Ent. La Tinaja-Cosoleacaque, a altura del Mpio. de Cosamaloapan, con Dir. a Cosoleacaque. Maneje con precaución. #VíaLibre en #Veracruz tras #AccidenteVial cerca del Km 089+600, de la carretera Ent. ",
-      "link": "https://nitter.net/GN_Carreteras/status/2068560263104639362#m",
-      "date": "2026-06-21T05:02:53+00:00"
-    },
-    {
-      "id": "30c0d768f8c8",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 43.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "Continúa en #Tabasco cierre parcial de circulación por #VehiculosIncnediados cerca del Km 043+900 de la carretera Coatzacoalcos-Villahermosa, a la altura del Mpio. de Cangrejera, con Dir. a Villahermosa. Atienda indicación vial. Continúa en #Tabasco cierre parcial de circulación ",
-      "link": "https://nitter.net/GN_Carreteras/status/2068558585663984112#m",
-      "date": "2026-06-21T04:56:13+00:00"
     }
   ]
 }
