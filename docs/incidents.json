@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-21T07:46:01.657702+00:00",
+  "updated": "2026-06-21T09:21:07.736027+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "6650254fc528",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 232.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Carbonera - Puerto México, km 232, dirección La Carbonera. Cierre a la circulación por atención de accidente (volcadura de tracto camión). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerrada",
+      "link": "https://nitter.net/CAPUFE/status/2068615574251343956#m",
+      "date": "2026-06-21T08:42:40+00:00"
+    },
+    {
+      "id": "6faf78833e76",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 80.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 80, dirección Veracruz. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 80, dirección",
+      "link": "https://nitter.net/CAPUFE/status/2068607921609486732#m",
+      "date": "2026-06-21T08:12:16+00:00"
+    },
+    {
+      "id": "0c3010893df8",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 73.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
+      "link": "https://nitter.net/CAPUFE/status/2068604079501115421#m",
+      "date": "2026-06-21T07:57:00+00:00"
+    },
     {
       "id": "686e50baeec9",
       "account": "@GN_carreteras",
@@ -297,34 +339,6 @@
       "date": "2026-06-21T03:48:02+00:00"
     },
     {
-      "id": "7825257023bb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 154.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 154, dirección Querétaro. Reducción de carriles por atención de choque de costado entre tracto camión tipo pipa que transporta combustible y autobús. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.",
-      "link": "https://nitter.net/CAPUFE/status/2068540365963923495#m",
-      "date": "2026-06-21T03:43:49+00:00"
-    },
-    {
-      "id": "28d5fbe7af56",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 197.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Las Choapas - Ocozocoautla, km 197, dirección Ocozocoautla. Continúa cierre a la circulación por atención de accidente (maniobras para retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓ",
-      "link": "https://nitter.net/CAPUFE/status/2068539478893830459#m",
-      "date": "2026-06-21T03:40:18+00:00"
-    },
-    {
       "id": "ca4a8f11c674",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -337,20 +351,6 @@
       "text": "#Tomeprecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 008+900, de la carretera Villahermosa-Francisco Escárcega, a la altura del Mpio. Francisco Escárcega, con Dir. a Francisco Escárcega. Atienda indicación vial. #Tomeprecauciones",
       "link": "https://nitter.net/GN_Carreteras/status/2068535382916944207#m",
       "date": "2026-06-21T03:24:01+00:00"
-    },
-    {
-      "id": "da0a780dcb55",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 117.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 117, dirección La Tinaja. Reducción de carriles por atención de incidente (pick up con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 117, dirección La Tinaj",
-      "link": "https://nitter.net/CAPUFE/status/2068534058628370580#m",
-      "date": "2026-06-21T03:18:45+00:00"
     },
     {
       "id": "4ac40220a67c",
