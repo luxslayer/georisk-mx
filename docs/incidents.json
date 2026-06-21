@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-21T13:37:33.332629+00:00",
-  "count": 36,
+  "updated": "2026-06-21T14:50:37.422183+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "424ce9ea229c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 74.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 74, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central y volcadura). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 74, dirección Cuernava",
+      "link": "https://nitter.net/CAPUFE/status/2068704687302303788#m",
+      "date": "2026-06-21T14:36:46+00:00"
+    },
+    {
+      "id": "761d92ef9a4a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 182.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 182+300, de la carretera Tuxpan-Tampico, a la altura del Mpio. de Tampico Alto, con Dir. a Tampico. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre ",
+      "link": "https://nitter.net/GN_Carreteras/status/2068703186920091737#m",
+      "date": "2026-06-21T14:30:49+00:00"
+    },
+    {
+      "id": "5ef9dad94589",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 87.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular intensa. Unidades de CAPUFE y Guardia Nac",
+      "link": "https://nitter.net/CAPUFE/status/2068701865097695690#m",
+      "date": "2026-06-21T14:25:33+00:00"
+    },
+    {
+      "id": "b5ee730e9f6d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 87.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "Continúa en #Veracruz cierre parcial de circulación por #AccidenteVial cerca del km 087+000, de la carretera Ent. La Tinaja-Cosoleacaque, a la altura del Mpio. de Cosamaloapan, con Dir. a Ent. La Tinaja. Atienda indicación vial. Continúa en #Veracruz cierre parcial de circulación",
+      "link": "https://nitter.net/GN_Carreteras/status/2068701512159670383#m",
+      "date": "2026-06-21T14:24:09+00:00"
+    },
+    {
+      "id": "094aaeafc1c2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 63.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 63, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 63, dirección Cuernavaca. Reducció",
+      "link": "https://nitter.net/CAPUFE/status/2068700959597859257#m",
+      "date": "2026-06-21T14:21:58+00:00"
+    },
+    {
+      "id": "3c40f569f65c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 70.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuauhtémoc - Osiris, km 70. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carg",
+      "link": "https://nitter.net/CAPUFE/status/2068690095071260683#m",
+      "date": "2026-06-21T13:38:47+00:00"
+    },
     {
       "id": "fc4a5e688d3b",
       "account": "@capufe",
@@ -185,20 +269,6 @@
       "date": "2026-06-21T09:37:43+00:00"
     },
     {
-      "id": "8ff10bf78577",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 80.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 80, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 80, dirección Veracruz. El i",
-      "link": "https://nitter.net/CAPUFE/status/2068628314093203597#m",
-      "date": "2026-06-21T09:33:17+00:00"
-    },
-    {
       "id": "b0b1d12b961c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -213,48 +283,6 @@
       "date": "2026-06-21T09:30:05+00:00"
     },
     {
-      "id": "6650254fc528",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 232.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Carbonera - Puerto México, km 232, dirección La Carbonera. Cierre a la circulación por atención de accidente (volcadura de tracto camión). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerrada",
-      "link": "https://nitter.net/CAPUFE/status/2068615574251343956#m",
-      "date": "2026-06-21T08:42:40+00:00"
-    },
-    {
-      "id": "6faf78833e76",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 80.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 80, dirección Veracruz. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 80, dirección",
-      "link": "https://nitter.net/CAPUFE/status/2068607921609486732#m",
-      "date": "2026-06-21T08:12:16+00:00"
-    },
-    {
-      "id": "0c3010893df8",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 73.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2068604079501115421#m",
-      "date": "2026-06-21T07:57:00+00:00"
-    },
-    {
       "id": "686e50baeec9",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,20 +295,6 @@
       "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 069+900 de la carretera Tuxpan-Tampico, a la altura del localidad de Naranjos, con Dir. a Tuxpan. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre pa",
       "link": "https://nitter.net/GN_Carreteras/status/2068599398599106945#m",
       "date": "2026-06-21T07:38:24+00:00"
-    },
-    {
-      "id": "b26916301023",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 87.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 87, dirección La Tinaja. Cierre a la circulación por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tina",
-      "link": "https://nitter.net/CAPUFE/status/2068598886260777389#m",
-      "date": "2026-06-21T07:36:21+00:00"
     },
     {
       "id": "b8ec30e4db3a",
@@ -477,34 +491,6 @@
       "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del Km 090+900 de la carretera México-Puebla, a la altura del Mpio. de San Martín Texmelucan, con Dir. a Puebla. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del Km 090+900 de la carretera México-Puebla, a la",
       "link": "https://nitter.net/GN_Carreteras/status/2068491665199821161#m",
       "date": "2026-06-21T00:30:18+00:00"
-    },
-    {
-      "id": "742145aca38f",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 89.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "Continúa en #Veracruz cierre intermitente de circulación por #AccidenteVial cerca del Km 089+600, de la carretera Ent. La Tinaja-Cosoleacaque, a altura del Mpio. de Cosamaloapan, con Dir. a Cosoleacaque. Atienda indicación vial. Continúa en #Veracruz cierre intermitente de circul",
-      "link": "https://nitter.net/GN_Carreteras/status/2068490522113528237#m",
-      "date": "2026-06-21T00:25:45+00:00"
-    },
-    {
-      "id": "b9d1165e1ff3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 35.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 035+800, de la carretera Chilpancingo-Acapulco, a la altura del poblado de Acahuizotla, con Dir. a Chilpancingo. Atienda indicación vial. #Tomeprecauciones en #Guerrero se reg",
-      "link": "https://nitter.net/GN_Carreteras/status/2068487051780006095#m",
-      "date": "2026-06-21T00:11:58+00:00"
     }
   ]
 }
