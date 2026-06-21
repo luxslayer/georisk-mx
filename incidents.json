@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-21T16:37:54.658405+00:00",
-  "count": 38,
+  "updated": "2026-06-21T17:35:04.602272+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "873b0ee623c3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 70.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuauhtémoc - Osiris, km 70. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuauhtémoc - Osiris, km 70. El accidente ha sido ate",
+      "link": "https://nitter.net/CAPUFE/status/2068748817583710502#m",
+      "date": "2026-06-21T17:32:08+00:00"
+    },
     {
       "id": "578a7c109e00",
       "account": "@capufe",
@@ -267,48 +281,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 74, dirección Cuernavaca. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 C",
       "link": "https://nitter.net/CAPUFE/status/2068681928576848092#m",
       "date": "2026-06-21T13:06:20+00:00"
-    },
-    {
-      "id": "581a0b688e39",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 74.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 74, dirección Cuernavaca. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCue",
-      "link": "https://nitter.net/CAPUFE/status/2068678462684971234#m",
-      "date": "2026-06-21T12:52:34+00:00"
-    },
-    {
-      "id": "b6b94a14ebcc",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 232.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Carbonera - Puerto México, km 232, dirección La Carbonera. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y",
-      "link": "https://nitter.net/CAPUFE/status/2068672880192180573#m",
-      "date": "2026-06-21T12:30:23+00:00"
-    },
-    {
-      "id": "b46c1209edc2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 70.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuauhtémoc - Osiris, km 70. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista C",
-      "link": "https://nitter.net/CAPUFE/status/2068670830154784951#m",
-      "date": "2026-06-21T12:22:14+00:00"
     },
     {
       "id": "21c354293d97",
