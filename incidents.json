@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-21T17:35:04.602272+00:00",
+  "updated": "2026-06-21T18:37:17.104133+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "23ea90a8e1c7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 232.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. El accidente ha sido atendido, se restablece la circulación desde las Plazas de Cobro Los Chorros y Huachichil. En la zona se registra carga vehicular muy intensa. Maneja con precaución. 🟠",
+      "link": "https://nitter.net/CAPUFE/status/2068754115316916548#m",
+      "date": "2026-06-21T17:53:11+00:00"
+    },
+    {
+      "id": "e14939d4a545",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 87.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular intensa. Unidades de CAPUFE y Guardia Nac",
+      "link": "https://nitter.net/CAPUFE/status/2068753603385557451#m",
+      "date": "2026-06-21T17:51:09+00:00"
+    },
+    {
+      "id": "f3d12ef23a29",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 66.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Oaxaca continua cierre parcial de circulación por #Afectaciónclimatologica (socavón) cerca del Km 066+200 de la carretera Oaxaca-Tehuantepec, con dirección Tehuantepec. Se recomienda a la ciudadanía disminuir la velocidad y atender indicaciones viales. #Tome",
+      "link": "https://nitter.net/GN_Carreteras/status/2068750293077000196#m",
+      "date": "2026-06-21T17:38:00+00:00"
+    },
     {
       "id": "873b0ee623c3",
       "account": "@capufe",
@@ -241,20 +283,6 @@
       "date": "2026-06-21T13:31:54+00:00"
     },
     {
-      "id": "302d0c155035",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 232.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Continúa cierre a la circulación por atención de accidente (trasvase de carga). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán ce",
-      "link": "https://nitter.net/CAPUFE/status/2068684929190302012#m",
-      "date": "2026-06-21T13:18:16+00:00"
-    },
-    {
       "id": "23e756309cb2",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,20 +295,6 @@
       "text": "Continúa en #Veracruz cierre parcial de circulación por #AccidenteVial cerca del km 069+900 de la carretera Tuxpan-Tampico, a la altura del localidad de Naranjos, con Dir. a Tuxpan. Atienda indicación vial. Continúa en #Veracruz cierre parcial de circulación por #AccidenteVial ce",
       "link": "https://nitter.net/GN_Carreteras/status/2068682546590749126#m",
       "date": "2026-06-21T13:08:48+00:00"
-    },
-    {
-      "id": "f4d04392326d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 74.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 74, dirección Cuernavaca. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 C",
-      "link": "https://nitter.net/CAPUFE/status/2068681928576848092#m",
-      "date": "2026-06-21T13:06:20+00:00"
     },
     {
       "id": "21c354293d97",
@@ -491,20 +505,6 @@
       "text": "#Tomeprecauciones en #Tabasco se registra presencia de personas cerca del km 017+000, de la carretera Villahermosa-Ciudad del Carmen, a la altura del Mpio. de Villahermosa, con afectación parcial a la circulación, con Dir. a Villahermosa. Atienda indicación vial. #Tomeprecaucione",
       "link": "https://nitter.net/GN_Carreteras/status/2068529304325984411#m",
       "date": "2026-06-21T02:59:52+00:00"
-    },
-    {
-      "id": "eae54c2ca153",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Chiapas tras #AccidenteVial cerca del Km 093+300 de la carretera Ocozocoautla-Arriaga, a la altura del Mpio. de Ocozocoautla de Espinosa, con Dir. a Cintalapa. Maneje con precaución. #VíaLibre en #Chiapas tras #AccidenteVial cerca del Km 093+300 de la carretera Ocoz",
-      "link": "https://nitter.net/GN_Carreteras/status/2068515795445891505#m",
-      "date": "2026-06-21T02:06:11+00:00"
     }
   ]
 }
