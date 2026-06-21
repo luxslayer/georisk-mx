@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-21T10:42:11.539926+00:00",
-  "count": 34,
+  "updated": "2026-06-21T11:55:23.606601+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "8d3bf17411b7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 15.0,
+      "lat": 19.37065,
+      "lon": -99.2958,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 15, dirección Lechería. Reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 1",
+      "link": "https://nitter.net/CAPUFE/status/2068659866336432483#m",
+      "date": "2026-06-21T11:38:40+00:00"
+    },
+    {
+      "id": "f05165dc55ac",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 87.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87, dirección La Tinaja. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registr",
+      "link": "https://nitter.net/CAPUFE/status/2068657284599656936#m",
+      "date": "2026-06-21T11:28:25+00:00"
+    },
     {
       "id": "eeeb2d31f87a",
       "account": "@capufe",
@@ -297,20 +325,6 @@
       "date": "2026-06-21T05:02:53+00:00"
     },
     {
-      "id": "56e5b3f7f844",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 90.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 90, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 90, dirección La Tinaja. El acc",
-      "link": "https://nitter.net/CAPUFE/status/2068558718413820324#m",
-      "date": "2026-06-21T04:56:45+00:00"
-    },
-    {
       "id": "30c0d768f8c8",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -323,34 +337,6 @@
       "text": "Continúa en #Tabasco cierre parcial de circulación por #VehiculosIncnediados cerca del Km 043+900 de la carretera Coatzacoalcos-Villahermosa, a la altura del Mpio. de Cangrejera, con Dir. a Villahermosa. Atienda indicación vial. Continúa en #Tabasco cierre parcial de circulación ",
       "link": "https://nitter.net/GN_Carreteras/status/2068558585663984112#m",
       "date": "2026-06-21T04:56:13+00:00"
-    },
-    {
-      "id": "31f4ffc92b8d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 154.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 154, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLE",
-      "link": "https://nitter.net/CAPUFE/status/2068556675657650681#m",
-      "date": "2026-06-21T04:48:38+00:00"
-    },
-    {
-      "id": "f45290cdc3de",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 117.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 117, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 117, dirección La Tinaja. El i",
-      "link": "https://nitter.net/CAPUFE/status/2068555302018994632#m",
-      "date": "2026-06-21T04:43:10+00:00"
     },
     {
       "id": "3a7b54b4c78f",
