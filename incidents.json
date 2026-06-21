@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-21T11:55:23.606601+00:00",
-  "count": 33,
+  "updated": "2026-06-21T12:48:03.627756+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "b6b94a14ebcc",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 232.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Carbonera - Puerto México, km 232, dirección La Carbonera. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y",
+      "link": "https://nitter.net/CAPUFE/status/2068672880192180573#m",
+      "date": "2026-06-21T12:30:23+00:00"
+    },
+    {
+      "id": "b46c1209edc2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 70.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuauhtémoc - Osiris, km 70. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista C",
+      "link": "https://nitter.net/CAPUFE/status/2068670830154784951#m",
+      "date": "2026-06-21T12:22:14+00:00"
+    },
+    {
+      "id": "4611ea37375b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 15.0,
+      "lat": 19.37065,
+      "lon": -99.2958,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 15, dirección Lechería. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 15, dirección Lechería. El a",
+      "link": "https://nitter.net/CAPUFE/status/2068665601686385056#m",
+      "date": "2026-06-21T12:01:28+00:00"
+    },
     {
       "id": "8d3bf17411b7",
       "account": "@capufe",
@@ -225,20 +267,6 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Las Choapas - Ocozocoautla, km 197, dirección Ocozocoautla. Continúa cierre a la circulación por atención de accidente (trasvase de carga). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Las Choapas - Oco",
       "link": "https://nitter.net/CAPUFE/status/2068581932787511690#m",
       "date": "2026-06-21T06:28:59+00:00"
-    },
-    {
-      "id": "7653ebabe814",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 18.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 18, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 18, dirección Veracruz. El i",
-      "link": "https://nitter.net/CAPUFE/status/2068574438296068170#m",
-      "date": "2026-06-21T05:59:13+00:00"
     },
     {
       "id": "7312e110af0e",
