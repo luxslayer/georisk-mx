@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-22T18:24:41.655986+00:00",
+  "updated": "2026-06-22T19:42:40.620558+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "88a90695cac8",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 1.0,
+      "lat": 17.953067,
+      "lon": -94.9102,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 1, dirección Acayucan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 1, dirección Acayuc",
+      "link": "https://nitter.net/CAPUFE/status/2069141361203241442#m",
+      "date": "2026-06-22T19:31:57+00:00"
+    },
+    {
+      "id": "346f24110447",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 169.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas cerca del Km 169+000 de la carretera Coatzacoalcos-Salina Cruz con dirección a San Pablo Huitzo. Se orienta #Rutaalterna por el Mpio. de San Lorenzo Cacaotepecque en ambos sentidos. #To",
+      "link": "https://nitter.net/GN_Carreteras/status/2069139442967654610#m",
+      "date": "2026-06-22T19:24:20+00:00"
+    },
+    {
+      "id": "7e79bb04f429",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
+      "link": "https://nitter.net/CAPUFE/status/2069130407786770513#m",
+      "date": "2026-06-22T18:48:26+00:00"
+    },
+    {
+      "id": "31e36d484a95",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 2.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "En #Guerrero tras presencia de personas en movimiento cerca del Km 002+300 de la carretera Cuernavaca-Chilpancingo de los Bravos, Se recomienda hacer uso de #Rutaalterna por el Blv. Vicente Guerrero en ambos sentidos. Atienda Indicación Vial. En #Guerrero tras presencia de person",
+      "link": "https://nitter.net/GN_Carreteras/status/2069130256301146536#m",
+      "date": "2026-06-22T18:47:50+00:00"
+    },
+    {
+      "id": "c9444a7a4c67",
+      "account": "@GN_carreteras",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 2.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Guerrero se registra presencia de personas en movimiento cerca del Km 002+300 de la carretera Cuernavaca-Chilpancingo de los Bravos. Se orienta a la ciudadanía que el transito se mantiene con fluido lento por el carril central. #Tomeprecauciones en #Guerrero",
+      "link": "https://nitter.net/GN_Carreteras/status/2069129227513868578#m",
+      "date": "2026-06-22T18:43:45+00:00"
+    },
     {
       "id": "9eec842118d8",
       "account": "@capufe",
@@ -255,34 +325,6 @@
       "date": "2026-06-22T15:00:04+00:00"
     },
     {
-      "id": "a0d8865a4793",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 84.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, del km 84 al 86, dirección Puebla. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla , del km 84 ",
-      "link": "https://nitter.net/CAPUFE/status/2069072937244663910#m",
-      "date": "2026-06-22T15:00:04+00:00"
-    },
-    {
-      "id": "b03be011b0d2",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 51.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Córdoba - Veracruz, del km 51 al 55. Circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autop",
-      "link": "https://nitter.net/CAPUFE/status/2069072932455014804#m",
-      "date": "2026-06-22T15:00:03+00:00"
-    },
-    {
       "id": "ff232b36c563",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -295,20 +337,6 @@
       "text": "#Tomeprecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 061+000, de la carretera Libramiento Sur Guadalajara, a la altura del Mpio. El Ventarrón, con Dir. a la caseta de cobro Santa Cecilia. Atienda indicación vial. #Tomeprecaucione",
       "link": "https://nitter.net/GN_Carreteras/status/2069064993488736323#m",
       "date": "2026-06-22T14:28:30+00:00"
-    },
-    {
-      "id": "e211802d692e",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 99.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 099+500, de la carretera Tapanatepec-Talismán, a la altura del poblado Benito Juárez, con Dir. a Tapachula. Atienda indicación vial. #Tomeprecauciones en #Chiapas se registra c",
-      "link": "https://nitter.net/GN_Carreteras/status/2069057704216170625#m",
-      "date": "2026-06-22T13:59:32+00:00"
     },
     {
       "id": "82b14c955853",
@@ -505,34 +533,6 @@
       "text": "#Tomeprecauciones en #Toluca se registra cierre parcial de circulación por #AccidenteVial cerca del km 161+500, de la carretera Toluca-Palmillas, a la altura del Mpio. Atlacomulco, con Dir. a Atlacomulco. Atienda indicación vial. #Tomeprecauciones en #Toluca se registra cierre pa",
       "link": "https://nitter.net/GN_Carreteras/status/2068889207511072973#m",
       "date": "2026-06-22T02:49:59+00:00"
-    },
-    {
-      "id": "1a9965e02381",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 201.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 201+500, de la carretera Maravatío-Zinapécuaro, a la altura de la localidad San Miguel las Palomas, con Dir. a Morelia. Atienda indicación vial. #Tomeprecauciones en #Michoac",
-      "link": "https://nitter.net/GN_Carreteras/status/2068888053993644170#m",
-      "date": "2026-06-22T02:45:24+00:00"
-    },
-    {
-      "id": "89128f1d128c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 88.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 088+900, de la carretera Pátzcuaro-Uruapan (directo), a la altura de la Col. Bicentenario, con Dir. a Morelia. Maneje con precaución. #VíaLibre en #Michoacán tras #AccidenteVial cerca del km 088+900, de la carretera Pátzcua",
-      "link": "https://nitter.net/GN_Carreteras/status/2068885934184046637#m",
-      "date": "2026-06-22T02:36:59+00:00"
     }
   ]
 }
