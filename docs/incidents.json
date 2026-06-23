@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-23T13:27:37.186306+00:00",
-  "count": 30,
+  "updated": "2026-06-23T14:23:15.091839+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "21f1ea5e7811",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 220.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Oaxaca tras presencia de personas cerca del Km 220+000 de la carretera Cuacnopalan-Oaxaca a la altura de la caseta No. 79 Huitzo. Maneje con precaución. #ViaLibre en #Oaxaca tras presencia de personas cerca del Km 220+000 de la carretera Cuacnopalan-Oaxaca a la altu",
+      "link": "https://nitter.net/GN_Carreteras/status/2069423166137520478#m",
+      "date": "2026-06-23T14:11:45+00:00"
+    },
+    {
+      "id": "6d18d0bb9c43",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 18.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Chiapas se registra presencia de personas en movimiento por el acotamiento cerca del Km 018+500 se dirigen de la carretera Tepanatepec, Talismán con Ramales a Unión de Juárez. Maneje con precaución. #Tomeprecauciones en #Chiapas se registra presencia de pers",
+      "link": "https://nitter.net/GN_Carreteras/status/2069422542947852493#m",
+      "date": "2026-06-23T14:09:16+00:00"
+    },
+    {
+      "id": "30a796f896ab",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 153.0,
+      "lat": 17.950618,
+      "lon": -94.911673,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 153, dirección Isla. Reducción de carriles por atención de accidente (choque de tracto camión contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 153, direcció",
+      "link": "https://nitter.net/CAPUFE/status/2069417820597649499#m",
+      "date": "2026-06-23T13:50:31+00:00"
+    },
+    {
+      "id": "85c1c4fb2f0a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 68.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 68, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 68, dirección CDMX. Reducción de carriles por at",
+      "link": "https://nitter.net/CAPUFE/status/2069414260837384560#m",
+      "date": "2026-06-23T13:36:22+00:00"
+    },
     {
       "id": "be06f12927f0",
       "account": "@capufe",
@@ -227,20 +283,6 @@
       "date": "2026-06-23T05:41:50+00:00"
     },
     {
-      "id": "79fcabf5cdf4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 6.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Poniente Tampico, km 6. Continúa cierre a la circulación en ambos sentidos por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Poniente Tampico, km",
-      "link": "https://nitter.net/CAPUFE/status/2069288852049609121#m",
-      "date": "2026-06-23T05:18:02+00:00"
-    },
-    {
       "id": "0d1624fa17c1",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -393,34 +435,6 @@
       "text": "En #Guerrero tras presencia de personas en movimiento cerca del Km 002+300 de la carretera Cuernavaca-Chilpancingo de los Bravos, Se recomienda hacer uso de #Rutaalterna por el Blv. Vicente Guerrero en ambos sentidos. Atienda Indicación Vial. En #Guerrero tras presencia de person",
       "link": "https://nitter.net/GN_Carreteras/status/2069130256301146536#m",
       "date": "2026-06-22T18:47:50+00:00"
-    },
-    {
-      "id": "c9444a7a4c67",
-      "account": "@GN_carreteras",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 2.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Guerrero se registra presencia de personas en movimiento cerca del Km 002+300 de la carretera Cuernavaca-Chilpancingo de los Bravos. Se orienta a la ciudadanía que el transito se mantiene con fluido lento por el carril central. #Tomeprecauciones en #Guerrero",
-      "link": "https://nitter.net/GN_Carreteras/status/2069129227513868578#m",
-      "date": "2026-06-22T18:43:45+00:00"
-    },
-    {
-      "id": "c8bc012985a2",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 10.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Zacatecas tras #AccidenteVial cerca del km 010+000, de la carretera Zacatecas -Durango, a la altura del Mpio. San Antonio del Ciprés, con Dir. a Libramiento Víctor Rosales. Maneje con precaución. #ViaLibre en #Zacatecas tras #AccidenteVial cerca del km 010+000, de l",
-      "link": "https://nitter.net/GN_Carreteras/status/2069108098300542985#m",
-      "date": "2026-06-22T17:19:47+00:00"
     }
   ]
 }
