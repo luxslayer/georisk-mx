@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-23T20:48:20.757801+00:00",
+  "updated": "2026-06-23T21:36:46.792801+00:00",
   "count": 32,
   "incidents": [
+    {
+      "id": "70e239a282e7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 94.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 94, dirección Acapulco. Registra cierre a la circulación en el Distribuidor Vial Palmira por atención de accidente (salida de neumático). En la zona se da vialidad por los carriles laterales. Maneja con precaución. 🟠 CI",
+      "link": "https://nitter.net/CAPUFE/status/2069532998970609870#m",
+      "date": "2026-06-23T21:28:11+00:00"
+    },
+    {
+      "id": "41f0fc4923b4",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 118.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Chiapas continua cierre parcial de circulación, dirección a Pijijiapan, por #AccidenteVial cerca del km 118+400 de la carretera Tapanatepec -Talismán. Atienda indicación vial. #TomePrecauciones en #Chiapas continua cierre parcial de circulación, dirección a ",
+      "link": "https://nitter.net/GN_Carreteras/status/2069532135317225736#m",
+      "date": "2026-06-23T21:24:45+00:00"
+    },
+    {
+      "id": "08e8dc1d0446",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 104.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #Accidentevial cerca del km 104+200 de la carretera Libramiento Perote, atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #Accidentevial cerca del km 104+200",
+      "link": "https://nitter.net/GN_Carreteras/status/2069529005246566617#m",
+      "date": "2026-06-23T21:12:19+00:00"
+    },
+    {
+      "id": "cf46e5b3f652",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 143.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Hidalgo se registra cierre parcial de circulación por presencia de personas cerca del Km 143+200 en la carretera Pachuca-Tempoal, a la altura de la localidad de Paseos de la Pradera, Hgo. Atienda indicación vial. #Tomeprecauciones en #Hidalgo se registra cie",
+      "link": "https://nitter.net/GN_Carreteras/status/2069526254714229012#m",
+      "date": "2026-06-23T21:01:23+00:00"
+    },
+    {
+      "id": "c7cd4713f0a1",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 228.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista La Carbonera - Puerto México, del km 228 al 231, dirección La Carbonera. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopist",
+      "link": "https://nitter.net/CAPUFE/status/2069524504901029900#m",
+      "date": "2026-06-23T20:54:26+00:00"
+    },
     {
       "id": "6fccbc863061",
       "account": "@capufe",
@@ -185,7 +255,7 @@
       "date": "2026-06-23T18:59:19+00:00"
     },
     {
-      "id": "dc15f95ac248",
+      "id": "e40bbf88b56f",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -194,7 +264,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Gómez Palacio - Corralitos, km 102. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Maneja con precaución. Para más informa",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Gómez Palacio - Corralitos, km 102. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Maneja con precaución. Para más i",
       "link": "https://nitter.net/CAPUFE/status/2069494727888814245#m",
       "date": "2026-06-23T18:56:07+00:00"
     },
@@ -241,20 +311,6 @@
       "date": "2026-06-23T18:41:10+00:00"
     },
     {
-      "id": "fd2f8a9d9d07",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 63.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Agua Dulce - Cárdenas, km 63, dirección Cárdenas. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCU",
-      "link": "https://nitter.net/CAPUFE/status/2069488834388054361#m",
-      "date": "2026-06-23T18:32:42+00:00"
-    },
-    {
       "id": "e461122d9ad0",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,20 +323,6 @@
       "text": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación, dirección Cd. Méx., por #AccidenteVial cerca del km 018+300 cerca de la carretera México–Pirámides. Atienda indicación vial. #TomePrecauciones en #EdoMéx continua cierre parcial de circulación, dirección Cd. Méx",
       "link": "https://nitter.net/GN_Carreteras/status/2069487657114050756#m",
       "date": "2026-06-23T18:28:01+00:00"
-    },
-    {
-      "id": "fb1ae39b03e3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 153.0,
-      "lat": 17.950618,
-      "lon": -94.911673,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 153, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 153, dirección Isla. El accidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2069481881465143724#m",
-      "date": "2026-06-23T18:05:04+00:00"
     },
     {
       "id": "98980e2c4843",
@@ -407,48 +449,6 @@
       "text": "#Tomeprecauciones en #Chiapas se registra presencia de personas en movimiento por el acotamiento cerca del Km 018+500 se dirigen de la carretera Tepanatepec, Talismán con Ramales a Unión de Juárez. Maneje con precaución. #Tomeprecauciones en #Chiapas se registra presencia de pers",
       "link": "https://nitter.net/GN_Carreteras/status/2069422542947852493#m",
       "date": "2026-06-23T14:09:16+00:00"
-    },
-    {
-      "id": "e964a567e10b",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 220.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Oaxaca se registra presencia de personas cerca del Km 220+000 de la carretera Cuacnopalan-Oaxaca a la altura de la caseta No. 79 Huitzo. Se orienta a la ciudadanía que la caseta se labora libre de peaje, los manifestantes piden cooperación voluntaria. #Tomep",
-      "link": "https://nitter.net/GN_Carreteras/status/2069389750415319500#m",
-      "date": "2026-06-23T11:58:58+00:00"
-    },
-    {
-      "id": "07ac08cf0831",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 88.0,
-      "lat": 19.0821,
-      "lon": -98.2721,
-      "resolved": true,
-      "text": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 088+200 de la carretera México - Puebla con dirección Puebla. Atienda indicación vial. #Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial ",
-      "link": "https://nitter.net/GN_Carreteras/status/2069355165640003698#m",
-      "date": "2026-06-23T09:41:32+00:00"
-    },
-    {
-      "id": "3b07cc4cf97e",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 6.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 006+400 de la carretera Libramiento Poniente Tampico, con dirección Tampico. Atienda indicación vial. #Tomeprecauciones en #Tamaulipas se registra cierre parcial de circulac",
-      "link": "https://nitter.net/GN_Carreteras/status/2069304733244809288#m",
-      "date": "2026-06-23T06:21:08+00:00"
     }
   ]
 }
