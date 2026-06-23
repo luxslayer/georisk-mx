@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-23T23:27:47.800658+00:00",
+  "updated": "2026-06-23T23:52:31.372253+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "1949acc170e8",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 12.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 12, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 12, dirección Cuautla. El accid",
+      "link": "https://nitter.net/CAPUFE/status/2069568665628881173#m",
+      "date": "2026-06-23T23:49:55+00:00"
+    },
+    {
+      "id": "57ec5e78fc39",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 28.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 28, dirección Cosoleacaque. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 28, dire",
+      "link": "https://nitter.net/CAPUFE/status/2069568138635587780#m",
+      "date": "2026-06-23T23:47:49+00:00"
+    },
+    {
+      "id": "c467deee1be7",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 15.0,
+      "lat": 19.37065,
+      "lon": -99.2958,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, del km 15 al 18. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con",
+      "link": "https://nitter.net/CAPUFE/status/2069567120103346502#m",
+      "date": "2026-06-23T23:43:46+00:00"
+    },
+    {
+      "id": "efa94103cfe8",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 152.0,
+      "lat": 17.951927,
+      "lon": -94.910509,
+      "resolved": true,
+      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Isla - Acayucan, km 152, dirección Acayucan. Reducción de carriles por labores de mantenimiento, sin reporte de incidentes. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista",
+      "link": "https://nitter.net/CAPUFE/status/2069564883331354932#m",
+      "date": "2026-06-23T23:34:53+00:00"
+    },
+    {
+      "id": "0fea036b6434",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 260.0,
+      "lat": 18.884,
+      "lon": -96.923,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 260+900 de la autopista Puebla-Cordoba, con dirección Puebla, maneje con precaución. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cer",
+      "link": "https://nitter.net/GN_Carreteras/status/2069563684397920393#m",
+      "date": "2026-06-23T23:30:07+00:00"
+    },
     {
       "id": "df22f69d2bc8",
       "account": "@GN_carreteras",
@@ -183,62 +253,6 @@
       "text": "#VialidadLibre en #Tlaxcala tras accidente cerca del km 096+500, de la carretera Los Reyes-Zacatepec, a la altura de la Loc. San Miguel, con dirección a Huamantla. Maneje con precaución. #VialidadLibre en #Tlaxcala tras accidente cerca del km 096+500, de la carretera Los Reyes-Za",
       "link": "https://nitter.net/GN_Carreteras/status/2069543939527381088#m",
       "date": "2026-06-23T22:11:40+00:00"
-    },
-    {
-      "id": "f64f273157b6",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 82.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 82, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 82, dirección Isla. Red",
-      "link": "https://nitter.net/CAPUFE/status/2069542403011186968#m",
-      "date": "2026-06-23T22:05:33+00:00"
-    },
-    {
-      "id": "5242875a2fa9",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 134.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Puebla - Acatzingo, del km 134 al 136, dirección Acatzingo. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Pu",
-      "link": "https://nitter.net/CAPUFE/status/2069541009785037291#m",
-      "date": "2026-06-23T22:00:01+00:00"
-    },
-    {
-      "id": "cd44be2d1c7a",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 51.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Córdoba - Veracruz, del km 51 al 55. Continúa circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENT",
-      "link": "https://nitter.net/CAPUFE/status/2069541009306824844#m",
-      "date": "2026-06-23T22:00:01+00:00"
-    },
-    {
-      "id": "72b878d9966f",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 194.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro , del km 194 al 207, dirección Querétaro.",
-      "link": "https://nitter.net/CAPUFE/status/2069541006777700523#m",
-      "date": "2026-06-23T22:00:00+00:00"
     },
     {
       "id": "41f0fc4923b4",
@@ -477,20 +491,6 @@
       "text": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 198+200, de la carretera Cuernavaca-Chilpancingo, a la altura del Rancho los Ciruelos, con Dir. a Chilpancingo. Atienda indicación vial. #Tomeprecauciones en #Guerrero se regi",
       "link": "https://nitter.net/GN_Carreteras/status/2069451675929112744#m",
       "date": "2026-06-23T16:05:02+00:00"
-    },
-    {
-      "id": "5cc136161797",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 96.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del km 096+500, de la carretera Los Reyes-Zacatepec, a la altura de la Loc. San Miguel, con dirección a Huamantla. Atienda indicación vial. #Tomeprecauciones en #Tlaxcala se registra",
-      "link": "https://nitter.net/GN_Carreteras/status/2069436395463078355#m",
-      "date": "2026-06-23T15:04:19+00:00"
     }
   ]
 }
