@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-23T00:56:17.009647+00:00",
+  "updated": "2026-06-23T01:46:57.608312+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "c0d701de3601",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 143.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Hidalgo se registra cierre total de la circulación por presencia de personas cerca del Km 143+200 de la carretera Pachuca-Tempoal. Se Orienta a la ciudadanía #Rutaalterna por localidades aledañas. Atienda indicación vial. #Tomeprecauciones en #Hidalgo se reg",
+      "link": "https://nitter.net/GN_Carreteras/status/2069235437428744536#m",
+      "date": "2026-06-23T01:45:47+00:00"
+    },
+    {
+      "id": "6d22baf10a4a",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 278.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 SE RETIRAN MANIFESTANTES 🟢 Libramiento Chilpancingo, km 278. Parador del Marqués (fuera de la cobertura de CAPUFE). Se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 SE RETIRAN MANIFESTANTES 🟢 Libramiento Chilpancingo, ",
+      "link": "https://nitter.net/CAPUFE/status/2069227873815171106#m",
+      "date": "2026-06-23T01:15:44+00:00"
+    },
     {
       "id": "fb72a74cb9bd",
       "account": "@capufe",
@@ -269,20 +297,6 @@
       "date": "2026-06-22T21:06:56+00:00"
     },
     {
-      "id": "25848c97cf92",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 29.0,
-      "lat": 18.233,
-      "lon": -94.89675,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 29, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 29, dirección Isla. El accidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2069160873952784637#m",
-      "date": "2026-06-22T20:49:30+00:00"
-    },
-    {
       "id": "346f24110447",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -477,20 +491,6 @@
       "text": "#Tomeprecauciones en #SLP se registra cierre parcial de circulación por #AccidenteVial cerca del km 151+500, de la carretera Querétaro-San Luis Potosí, a la altura del Mpio. Santa María del Río, con Dir. a Santa María del Río. Atienda indicación vial. #Tomeprecauciones en #SLP se",
       "link": "https://nitter.net/GN_Carreteras/status/2068918204177489967#m",
       "date": "2026-06-22T04:45:13+00:00"
-    },
-    {
-      "id": "775df1ef2092",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 59.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 059+000, de la carretera Córdoba-Ent. Boticaria, a la altura del Mpio. de Cotaxtla, con Dir. a Tierra Blanca. Maneje con precaución. #VíaLibre en #Veracruz tras #AccidenteVial cerca del km 059+000, de la carretera Córdoba-En",
-      "link": "https://nitter.net/GN_Carreteras/status/2068916426207830372#m",
-      "date": "2026-06-22T04:38:09+00:00"
     }
   ]
 }
