@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-23T07:48:59.560535+00:00",
-  "count": 30,
+  "updated": "2026-06-23T09:14:58.643145+00:00",
+  "count": 28,
   "incidents": [
     {
       "id": "11392c8419e6",
@@ -183,34 +183,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 89, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 89, dirección CDMX. El accidente ha sido ate",
       "link": "https://nitter.net/CAPUFE/status/2069264386175201749#m",
       "date": "2026-06-23T03:40:49+00:00"
-    },
-    {
-      "id": "0b42d69c3439",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 52.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Querétaro - Irapuato, km 52, dirección Irapuato. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Querétaro - Irapuato, km 52, dirección Irapuato. El accidente ha",
-      "link": "https://nitter.net/CAPUFE/status/2069261677791449513#m",
-      "date": "2026-06-23T03:30:03+00:00"
-    },
-    {
-      "id": "892e6f11157e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 6.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Poniente Tampico, km 6. Cierre a la circulación en ambos sentidos por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Poniente Tampico, km 6. Cierr",
-      "link": "https://nitter.net/CAPUFE/status/2069258819192889392#m",
-      "date": "2026-06-23T03:18:42+00:00"
     },
     {
       "id": "0d1624fa17c1",
