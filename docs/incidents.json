@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-23T09:14:58.643145+00:00",
+  "updated": "2026-06-23T10:42:07.157636+00:00",
   "count": 28,
   "incidents": [
+    {
+      "id": "07ac08cf0831",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 88.0,
+      "lat": 19.0821,
+      "lon": -98.2721,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 088+200 de la carretera México - Puebla con dirección Puebla. Atienda indicación vial. #Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial ",
+      "link": "https://nitter.net/GN_Carreteras/status/2069355165640003698#m",
+      "date": "2026-06-23T09:41:32+00:00"
+    },
     {
       "id": "11392c8419e6",
       "account": "@capufe",
@@ -379,20 +393,6 @@
       "text": "#Tomeprecauciones en #Morelos se registra cierre parcial de circulación por #Afectaciónclimitologica (inundación) cerca del km 100+750, de la autopista Cuernavaca-Acapulco, a la altura del Mpio. Emiliano Zapata, Atienda indicación vial. #Tomeprecauciones en #Morelos se registra c",
       "link": "https://nitter.net/GN_Carreteras/status/2069079537090990191#m",
       "date": "2026-06-22T15:26:17+00:00"
-    },
-    {
-      "id": "ff232b36c563",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Lib. Sur Qro.",
-      "route_key": "libramiento-queretaro",
-      "km": 61.0,
-      "lat": 20.588,
-      "lon": -100.39,
-      "resolved": true,
-      "text": "#Tomeprecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 061+000, de la carretera Libramiento Sur Guadalajara, a la altura del Mpio. El Ventarrón, con Dir. a la caseta de cobro Santa Cecilia. Atienda indicación vial. #Tomeprecaucione",
-      "link": "https://nitter.net/GN_Carreteras/status/2069064993488736323#m",
-      "date": "2026-06-22T14:28:30+00:00"
     }
   ]
 }
