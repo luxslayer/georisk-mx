@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-24T20:09:23.308149+00:00",
-  "count": 33,
+  "updated": "2026-06-24T21:04:54.661191+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "f8d0ca5d0488",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 8.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Cuchilla - Matamoros, Plaza de Cobro La Cuchilla. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/exePBXKh3FYK8czH6 🔴 CIERRE DE CIRC",
+      "link": "https://nitter.net/CAPUFE/status/2069883989863678014#m",
+      "date": "2026-06-24T20:42:54+00:00"
+    },
     {
       "id": "5546785008f0",
       "account": "@capufe",
@@ -155,34 +169,6 @@
       "text": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Puebla - Acatzingo, km 156, dirección Acatzingo. Se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Puebla - Acatzingo, km 156, dirección Acatzingo. Se retiran los ",
       "link": "https://nitter.net/CAPUFE/status/2069855697643204883#m",
       "date": "2026-06-24T18:50:29+00:00"
-    },
-    {
-      "id": "3e55540e1397",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 161.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 161, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 161, dirección Isla. Red",
-      "link": "https://nitter.net/CAPUFE/status/2069854999824220662#m",
-      "date": "2026-06-24T18:47:42+00:00"
-    },
-    {
-      "id": "73e73646660b",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 27.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 27, dirección Cosoleacaque. Se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 27, dirección Cosoleaca",
-      "link": "https://nitter.net/CAPUFE/status/2069853310891225580#m",
-      "date": "2026-06-24T18:40:59+00:00"
     },
     {
       "id": "9ea03d883661",
