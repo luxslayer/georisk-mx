@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-24T06:23:38.262990+00:00",
+  "updated": "2026-06-24T07:47:01.863950+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "296e8154c7af",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 20.0,
+      "lat": 18.26,
+      "lon": -94.935,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 020+800 de la autopista Ent. la tinaja - Cosoleacaque, atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cer",
+      "link": "https://nitter.net/GN_Carreteras/status/2069675471831171287#m",
+      "date": "2026-06-24T06:54:19+00:00"
+    },
     {
       "id": "fd0f3d3df17b",
       "account": "@GN_carreteras",
@@ -463,20 +477,6 @@
       "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 037+500 de la carretera Ent. La Tinaja - Santa Cruz, atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del k",
       "link": "https://nitter.net/GN_Carreteras/status/2069571798996308296#m",
       "date": "2026-06-24T00:02:22+00:00"
-    },
-    {
-      "id": "d37ad2935c52",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 012+300 de la carretera Fortín-Conejos, con dirección a Totula, atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial ",
-      "link": "https://nitter.net/GN_Carreteras/status/2069569890369888608#m",
-      "date": "2026-06-23T23:54:47+00:00"
     }
   ]
 }
