@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-24T22:35:07.147682+00:00",
-  "count": 32,
+  "updated": "2026-06-24T23:29:36.921392+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "abc058faf530",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 238.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Veracruz tras presencia de personas, cerca del km 238+000, de la carretera Poza Rica-Veracruz. Maneje con precaución. #VialidadLibre en #Veracruz tras presencia de personas, cerca del km 238+000, de la carretera Poza Rica-Veracruz. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2069918914113405324#m",
+      "date": "2026-06-24T23:01:41+00:00"
+    },
+    {
+      "id": "1ab14dda40dc",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 145.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Puebla se registra cierre total de circulación por presencia de personas, cerca del km. 145+500 en la carretera Pachuca-Tuxpan. Atienda indicación vial. #PrecauciónVial en #Puebla se registra cierre total de circulación por presencia de personas, cerca del km.",
+      "link": "https://nitter.net/GN_Carreteras/status/2069916396931125588#m",
+      "date": "2026-06-24T22:51:40+00:00"
+    },
     {
       "id": "c3bda9da9b06",
       "account": "@capufe",
@@ -155,20 +183,6 @@
       "text": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Se retira",
       "link": "https://nitter.net/CAPUFE/status/2069866334440063143#m",
       "date": "2026-06-24T19:32:45+00:00"
-    },
-    {
-      "id": "c33551b5d4ea",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 95.0,
-      "lat": 18.271359,
-      "lon": -99.519041,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Se retiran los manifestantes, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco",
-      "link": "https://nitter.net/CAPUFE/status/2069865739603857600#m",
-      "date": "2026-06-24T19:30:23+00:00"
     },
     {
       "id": "9ea03d883661",
@@ -421,34 +435,6 @@
       "text": "#PrecauciónVial en #Puebla se registra cierre parcial de circulación por presencia de personas, cerca del km. 147+800 de la carretera México-Querétaro. Atienda indicación vial. #PrecauciónVial en #Puebla se registra cierre parcial de circulación por presencia de personas, cerca d",
       "link": "https://nitter.net/GN_Carreteras/status/2069812658451214694#m",
       "date": "2026-06-24T15:59:27+00:00"
-    },
-    {
-      "id": "c9306f83bdf5",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 39.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por presencia de personas, cerca del km. 039+650 de la carretera Cuacnopalan-Oaxaca. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por presencia de personas, c",
-      "link": "https://nitter.net/GN_Carreteras/status/2069811155028046184#m",
-      "date": "2026-06-24T15:53:29+00:00"
-    },
-    {
-      "id": "2d7d05ba4410",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 176.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "En #Chiapas se registra cierre parcial de circulación en ambos sentidos tras presencia de personas, cerca del km. 176+000 de la carretera Tuxtla Gutiérrez-Ciudad Cuauhtémoc. Atienda indicación vial. En #Chiapas se registra cierre parcial de circulación en ambos sentidos tras pres",
-      "link": "https://nitter.net/GN_Carreteras/status/2069809348038078798#m",
-      "date": "2026-06-24T15:46:18+00:00"
     }
   ]
 }
