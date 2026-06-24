@@ -1,9 +1,23 @@
 {
-  "updated": "2026-06-24T21:04:54.661191+00:00",
-  "count": 32,
+  "updated": "2026-06-24T21:58:11.103181+00:00",
+  "count": 30,
   "incidents": [
     {
-      "id": "f8d0ca5d0488",
+      "id": "11467901589d",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 93.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 93, dirección Acapulco. Reducción de carriles centrales por atención de incidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 93, dirección Acapulc",
+      "link": "https://nitter.net/CAPUFE/status/2069892787319849105#m",
+      "date": "2026-06-24T21:17:51+00:00"
+    },
+    {
+      "id": "f690a350a9cc",
       "account": "@capufe",
       "type": "closure",
       "highway": "?",
@@ -12,7 +26,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Cuchilla - Matamoros, Plaza de Cobro La Cuchilla. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/exePBXKh3FYK8czH6 🔴 CIERRE DE CIRC",
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Cuchilla - Matamoros, Plaza de Cobro La Cuchilla. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/exePBXKh3FYK8czH6 🔴 CIERRE DE CIRCULACIÓN ",
       "link": "https://nitter.net/CAPUFE/status/2069883989863678014#m",
       "date": "2026-06-24T20:42:54+00:00"
     },
@@ -127,48 +141,6 @@
       "text": "🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoCuernavaca, km 80. Se retiran los manifestantes. Se restablece la circulación en las gazas de salida y entrada a la ciudad de Cuernavaca (Glorieta La Paloma de la Paz). Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 SE RETIRAN ",
       "link": "https://nitter.net/CAPUFE/status/2069860078161965387#m",
       "date": "2026-06-24T19:07:53+00:00"
-    },
-    {
-      "id": "fa536f402c0e",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 125.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 #AVISO a las personas usuarias de la autopista #MéxicoQuerétaro 🚧 Se realizarán trabajos de mantenimiento en la carpeta asfáltica del km 125 al 126, con dirección a Querétaro. Tome sus precauciones. 🚗⚠️ #CAPUFEInforma 🚧 #AVISO a las personas usuarias de la autopista #MéxicoQuer",
-      "link": "https://nitter.net/CAPUFE/status/2069856753303581009#m",
-      "date": "2026-06-24T18:54:40+00:00"
-    },
-    {
-      "id": "05a746c710d5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 19.0,
-      "lat": 19.35413,
-      "lon": -99.33916,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán, dirección CDMX. Reducción de carriles por atención de choque contra cabina. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/4stLqs7yyGxEAAuD9 🟠 CIERRE PARCIAL DE CIRCULAC",
-      "link": "https://nitter.net/CAPUFE/status/2069856302994485534#m",
-      "date": "2026-06-24T18:52:53+00:00"
-    },
-    {
-      "id": "f49ae559471a",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 156.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Puebla - Acatzingo, km 156, dirección Acatzingo. Se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Puebla - Acatzingo, km 156, dirección Acatzingo. Se retiran los ",
-      "link": "https://nitter.net/CAPUFE/status/2069855697643204883#m",
-      "date": "2026-06-24T18:50:29+00:00"
     },
     {
       "id": "9ea03d883661",
