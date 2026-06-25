@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-25T08:11:14.347070+00:00",
-  "count": 28,
+  "updated": "2026-06-25T09:41:56.387950+00:00",
+  "count": 30,
   "incidents": [
+    {
+      "id": "d054cc84ee16",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 9.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 9, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 9, dirección Cuautla. El acciden",
+      "link": "https://nitter.net/CAPUFE/status/2070061546332459311#m",
+      "date": "2026-06-25T08:28:27+00:00"
+    },
+    {
+      "id": "0466e1917c26",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 57.0,
+      "lat": 20.1192,
+      "lon": -99.3956,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 57, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 57, dirección Cuernavaca. El accidente ha",
+      "link": "https://nitter.net/CAPUFE/status/2070059111471796235#m",
+      "date": "2026-06-25T08:18:46+00:00"
+    },
     {
       "id": "b255e2745c47",
       "account": "@capufe",
