@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-25T18:16:30.303763+00:00",
-  "count": 35,
+  "updated": "2026-06-25T19:13:59.160597+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "4c22c4b29c7b",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaució",
+      "link": "https://nitter.net/CAPUFE/status/2070222393847517417#m",
+      "date": "2026-06-25T19:07:36+00:00"
+    },
+    {
+      "id": "bff5620e0501",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 125.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 125 al 126, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro , del km 1",
+      "link": "https://nitter.net/CAPUFE/status/2070220179372482838#m",
+      "date": "2026-06-25T18:58:48+00:00"
+    },
+    {
+      "id": "068e161c4d87",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 178.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO🚧 Aut. Cuernavaca- Acapulco, km 178, dirección Cuernavaca. Reducción de carriles por labores de mantenimiento en la Plaza de Cobro Paso Morelos. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO🚧 Aut. Cuernavaca- Acapulco, km 178, direcci",
+      "link": "https://nitter.net/CAPUFE/status/2070216378838118478#m",
+      "date": "2026-06-25T18:43:42+00:00"
+    },
+    {
+      "id": "1d69af8993b6",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 17. Cierre a la circulación en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopist",
+      "link": "https://nitter.net/CAPUFE/status/2070213933978243244#m",
+      "date": "2026-06-25T18:33:59+00:00"
+    },
+    {
+      "id": "560fecffec59",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 40.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 40. Circulación intermitente en ambos sentidos por atención de accidente (salida del camino y choque contra barreras metálicas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de I",
+      "link": "https://nitter.net/CAPUFE/status/2070213086477218186#m",
+      "date": "2026-06-25T18:30:37+00:00"
+    },
+    {
+      "id": "550757e5d7d7",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 49.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Jalisco tras accidente cerca del km 049+300 de la carretera Lagos de Moreno-Guadalajara /Con Ramal a Yahualica. Maneje con precaución. #VialidadLibre en #Jalisco tras accidente cerca del km 049+300 de la carretera Lagos de Moreno-Guadalajara /Con Ramal a Yahual",
+      "link": "https://nitter.net/GN_Carreteras/status/2070210618179686433#m",
+      "date": "2026-06-25T18:20:48+00:00"
+    },
     {
       "id": "8afd5cc22424",
       "account": "@GN_carreteras",
@@ -269,34 +353,6 @@
       "date": "2026-06-25T15:24:07+00:00"
     },
     {
-      "id": "8462e08c5d39",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 72.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 72, dirección Cuernavaca. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 72, dirección Cuernavaca. El accidente ha sido atendido. En la zona s",
-      "link": "https://nitter.net/CAPUFE/status/2070165188809027694#m",
-      "date": "2026-06-25T15:20:17+00:00"
-    },
-    {
-      "id": "c7d0014c566d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 72.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 72, dirección Cuernavaca. Cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxic",
-      "link": "https://nitter.net/CAPUFE/status/2070163755275616433#m",
-      "date": "2026-06-25T15:14:35+00:00"
-    },
-    {
       "id": "9ae14fc275ed",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -323,34 +379,6 @@
       "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 094+500 de la autopista México - Puebla con dirección Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca",
       "link": "https://nitter.net/GN_Carreteras/status/2070160183414665648#m",
       "date": "2026-06-25T15:00:24+00:00"
-    },
-    {
-      "id": "2d40a768b8cf",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 72.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 72, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance múltiple). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavac",
-      "link": "https://nitter.net/CAPUFE/status/2070159889511461133#m",
-      "date": "2026-06-25T14:59:14+00:00"
-    },
-    {
-      "id": "d3e91a89d195",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 98.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 98, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 98, dirección Querétaro. El accidente ha sid",
-      "link": "https://nitter.net/CAPUFE/status/2070157933552316569#m",
-      "date": "2026-06-25T14:51:27+00:00"
     },
     {
       "id": "0c65f020e65e",
@@ -477,20 +505,6 @@
       "text": "En #Veracruz se registra cierre parcial de circulación tras presencia de personas, cerca del km. 099+800 de la carretera Pachuca-Tuxpan, con dirección a San Andrés Tuxtla, Ver. Atienda indicación vial. En #Veracruz se registra cierre parcial de circulación tras presencia de perso",
       "link": "https://nitter.net/GN_Carreteras/status/2069839543344173542#m",
       "date": "2026-06-24T17:46:17+00:00"
-    },
-    {
-      "id": "674933761f06",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 27.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "En #Veracruz se registra cierre parcial de circulación tras presencia de personas, cerca del km. 027+340 de la carretera Nuevo Teapa-Cosoleacaque, con dirección a Coatzacoalcos, Ver. Atienda indicación vial. En #Veracruz se registra cierre parcial de circulación tras presencia de",
-      "link": "https://nitter.net/GN_Carreteras/status/2069838237330243719#m",
-      "date": "2026-06-24T17:41:06+00:00"
     }
   ]
 }
