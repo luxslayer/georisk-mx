@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-25T12:17:59.657826+00:00",
+  "updated": "2026-06-25T13:17:33.451257+00:00",
   "count": 32,
   "incidents": [
+    {
+      "id": "deb7a3399265",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal de CAPUFE se encuentra realizando las labores de atención del incidente. Atiende las indicaciones viales y maneja ",
+      "link": "https://nitter.net/CAPUFE/status/2070128509406654896#m",
+      "date": "2026-06-25T12:54:32+00:00"
+    },
+    {
+      "id": "76f76dea68b6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 49.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Lagos de Moreno - San Luis Potosí, km 49. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Lagos de Moreno - San Luis Potosí, km ",
+      "link": "https://nitter.net/CAPUFE/status/2070124252775301441#m",
+      "date": "2026-06-25T12:37:37+00:00"
+    },
     {
       "id": "64a45d7f04c3",
       "account": "@capufe",
@@ -59,7 +87,7 @@
       "date": "2026-06-25T10:57:34+00:00"
     },
     {
-      "id": "c5e505d50362",
+      "id": "f51383de0460",
       "account": "@capufe",
       "type": "alert",
       "highway": "?",
@@ -68,7 +96,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal de CAPUFE continúa realizando las labores de atención del incidente. Atiende las indicaciones viales y maneja con ",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal de CAPUFE continúa realizando las labores de atención del incidente. Atiende las indicaciones viales y manej",
       "link": "https://nitter.net/CAPUFE/status/2070096348146245885#m",
       "date": "2026-06-25T10:46:44+00:00"
     },
@@ -141,34 +169,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 9, dirección Cuautla. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 9, dirección Cuautla. Red",
       "link": "https://nitter.net/CAPUFE/status/2070037197244211373#m",
       "date": "2026-06-25T06:51:41+00:00"
-    },
-    {
-      "id": "ae6e1cfeb8bb",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 5.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 5. El incidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 5. El incidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2070026811031925145#m",
-      "date": "2026-06-25T06:10:25+00:00"
-    },
-    {
-      "id": "15304e213c23",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal se encuentra realizando las labores de limpieza. Atiende las indicaciones viales y maneja con precaución. Pa",
-      "link": "https://nitter.net/CAPUFE/status/2070021913313730582#m",
-      "date": "2026-06-25T05:50:57+00:00"
     },
     {
       "id": "abc058faf530",
