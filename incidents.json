@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-25T06:48:56.120367+00:00",
-  "count": 29,
+  "updated": "2026-06-25T08:11:14.347070+00:00",
+  "count": 28,
   "incidents": [
+    {
+      "id": "b255e2745c47",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 57.0,
+      "lat": 20.1192,
+      "lon": -99.3956,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 57, dirección Cuernavaca. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 57, dirección Cuernavaca. Reducción de",
+      "link": "https://nitter.net/CAPUFE/status/2070051069313360372#m",
+      "date": "2026-06-25T07:46:49+00:00"
+    },
+    {
+      "id": "ebb36bcac063",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 9.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 9, dirección Cuautla. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 9, dirección Cuautla. Red",
+      "link": "https://nitter.net/CAPUFE/status/2070037197244211373#m",
+      "date": "2026-06-25T06:51:41+00:00"
+    },
     {
       "id": "ae6e1cfeb8bb",
       "account": "@capufe",
@@ -85,48 +113,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 161, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 161, dirección ",
       "link": "https://nitter.net/CAPUFE/status/2069982383256863166#m",
       "date": "2026-06-25T03:13:53+00:00"
-    },
-    {
-      "id": "a55855d000e5",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 286.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mend",
-      "link": "https://nitter.net/CAPUFE/status/2069958946119369093#m",
-      "date": "2026-06-25T01:40:45+00:00"
-    },
-    {
-      "id": "26d855a7d418",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 10.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Chamapa - Lechería, km 10, dirección Lechería. Registra carga vehicular a la altura de la Plaza de Cobro Atizapán, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Chamapa - Lechería, km 10, dirección Lechería. Registra",
-      "link": "https://nitter.net/CAPUFE/status/2069952726264418540#m",
-      "date": "2026-06-25T01:16:02+00:00"
-    },
-    {
-      "id": "ebf0bda6347c",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. El personal se encuentra realizando las labores de limpieza. Atiende las indicaciones viales y maneja ",
-      "link": "https://nitter.net/CAPUFE/status/2069952311212871821#m",
-      "date": "2026-06-25T01:14:23+00:00"
     },
     {
       "id": "abc058faf530",
