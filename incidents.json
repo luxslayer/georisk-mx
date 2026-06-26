@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-26T15:19:15.501406+00:00",
-  "count": 37,
+  "updated": "2026-06-26T16:17:35.003896+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "05f579011af3",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 126.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Isla, km 126, dirección Isla. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Isla, km 126, dirección Isla. Reducci",
+      "link": "https://nitter.net/CAPUFE/status/2070536416556159084#m",
+      "date": "2026-06-26T15:55:25+00:00"
+    },
+    {
+      "id": "3fda36d99df5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 60.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 60, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 60, dirección Cuernavaca. Reducción de car",
+      "link": "https://nitter.net/CAPUFE/status/2070532305697775836#m",
+      "date": "2026-06-26T15:39:04+00:00"
+    },
     {
       "id": "1a7f6459d091",
       "account": "@capufe",
@@ -255,34 +283,6 @@
       "date": "2026-06-26T11:17:16+00:00"
     },
     {
-      "id": "1131883f2d70",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal de CAPUFE se encuentra realizando las labores de atención del incidente. Atiende las indicaciones viales y m",
-      "link": "https://nitter.net/CAPUFE/status/2070462540765618288#m",
-      "date": "2026-06-26T11:01:51+00:00"
-    },
-    {
-      "id": "c880c6ce89e6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 61.0,
-      "lat": 18.1643,
-      "lon": -94.5686,
-      "resolved": true,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 61, dirección La Tinaja. Se informa a las personas usuarias el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 6",
-      "link": "https://nitter.net/CAPUFE/status/2070462456002904533#m",
-      "date": "2026-06-26T11:01:31+00:00"
-    },
-    {
       "id": "3f6290e81ea2",
       "account": "@GN_carreteras",
       "type": "alert",
@@ -491,34 +491,6 @@
       "text": "#TomePrecauciones #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km 060+500 de la carretera Pátzcuaro - Uruapan. Atienda indicación vial. #TomePrecauciones #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km 060+500 de",
       "link": "https://nitter.net/GN_Carreteras/status/2070324923466133646#m",
       "date": "2026-06-26T01:55:01+00:00"
-    },
-    {
-      "id": "8acdd785dd59",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 149.0,
-      "lat": 19.048,
-      "lon": -97.87,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km 149+500 de la carretera Amozoc - Teziutlán. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km 149+500 de ",
-      "link": "https://nitter.net/GN_Carreteras/status/2070324073440186814#m",
-      "date": "2026-06-26T01:51:38+00:00"
-    },
-    {
-      "id": "fa014feea3ad",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 89.0,
-      "lat": 19.079675,
-      "lon": -98.264675,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 089+500 de la autopista México-Puebla, con dirección Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca ",
-      "link": "https://nitter.net/GN_Carreteras/status/2070321815092593143#m",
-      "date": "2026-06-26T01:42:40+00:00"
     }
   ]
 }
