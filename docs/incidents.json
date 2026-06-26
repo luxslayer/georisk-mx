@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-26T20:09:40.831562+00:00",
-  "count": 27,
+  "updated": "2026-06-26T21:03:43.425887+00:00",
+  "count": 25,
   "incidents": [
+    {
+      "id": "e5cce4aa93ac",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 10.0,
+      "lat": 17.998667,
+      "lon": -94.876,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 10, dirección Cosoleacaque. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 10, dir",
+      "link": "https://nitter.net/CAPUFE/status/2070603126130794958#m",
+      "date": "2026-06-26T20:20:29+00:00"
+    },
     {
       "id": "450d616f9d58",
       "account": "@capufe",
@@ -225,48 +239,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 168, dirección Acapulco. Reducción de carriles por atención de accidente (volcadura de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 168, dirección Aca",
       "link": "https://nitter.net/CAPUFE/status/2070553627161219579#m",
       "date": "2026-06-26T17:03:48+00:00"
-    },
-    {
-      "id": "2ab7a6cf6da5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 98.0,
-      "lat": 18.218174,
-      "lon": -99.530466,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. Reducción de carriles por atención de accidente (volcadura de camioneta). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cue",
-      "link": "https://nitter.net/CAPUFE/status/2070549411747254359#m",
-      "date": "2026-06-26T16:47:03+00:00"
-    },
-    {
-      "id": "05f579011af3",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 126.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Isla, km 126, dirección Isla. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Isla, km 126, dirección Isla. Reducci",
-      "link": "https://nitter.net/CAPUFE/status/2070536416556159084#m",
-      "date": "2026-06-26T15:55:25+00:00"
-    },
-    {
-      "id": "3fda36d99df5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 60.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 60, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 60, dirección Cuernavaca. Reducción de car",
-      "link": "https://nitter.net/CAPUFE/status/2070532305697775836#m",
-      "date": "2026-06-26T15:39:04+00:00"
     },
     {
       "id": "eed120788974",
