@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-26T12:20:18.621256+00:00",
-  "count": 39,
+  "updated": "2026-06-26T13:16:02.378028+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "eed120788974",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Coatza–Salina Cruz",
+      "route_key": "coatzacoalcos-salinaCruz",
+      "km": 169.0,
+      "lat": 16.16,
+      "lon": -95.2,
+      "resolved": true,
+      "text": "#EviteLaZona en #Oaxaca continua cierre total en ambos sentidos de circulación, por presencia de personas, cerca del km 169+000 de la carretera Coatzacoalcos - Salina Cruz, atienda indicación vial. #EviteLaZona en #Oaxaca continua cierre total en ambos sentidos de circulación, po",
+      "link": "https://nitter.net/GN_Carreteras/status/2070487635735294319#m",
+      "date": "2026-06-26T12:41:34+00:00"
+    },
+    {
+      "id": "66e26d6fede5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 124.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 124. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Aut",
+      "link": "https://nitter.net/CAPUFE/status/2070485419012014160#m",
+      "date": "2026-06-26T12:32:46+00:00"
+    },
+    {
+      "id": "792ee9dcd803",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 61.0,
+      "lat": 18.1643,
+      "lon": -94.5686,
+      "resolved": true,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 61, dirección La Tinaja. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista",
+      "link": "https://nitter.net/CAPUFE/status/2070482651564188119#m",
+      "date": "2026-06-26T12:21:46+00:00"
+    },
     {
       "id": "72d2cee3dc79",
       "account": "@capufe",
@@ -311,34 +353,6 @@
       "date": "2026-06-26T06:43:58+00:00"
     },
     {
-      "id": "22d586bff9f7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 61.0,
-      "lat": 18.1643,
-      "lon": -94.5686,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 61, dirección La Tinaja. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/RNcoxsNTezBgY1UY6 🔴 CIERRE DE CI",
-      "link": "https://nitter.net/CAPUFE/status/2070393414781169684#m",
-      "date": "2026-06-26T06:27:10+00:00"
-    },
-    {
-      "id": "ffe12560dfa2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 124.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Las Choapas - Ocozocoautla, km 124. Cierre a la circulación en ambos sentidos por atención de accidente (salida del camino de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Las Choapas - O",
-      "link": "https://nitter.net/CAPUFE/status/2070392614793163205#m",
-      "date": "2026-06-26T06:24:00+00:00"
-    },
-    {
       "id": "17057a47263e",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -519,34 +533,6 @@
       "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 089+500 de la autopista México-Puebla, con dirección Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca ",
       "link": "https://nitter.net/GN_Carreteras/status/2070321815092593143#m",
       "date": "2026-06-26T01:42:40+00:00"
-    },
-    {
-      "id": "0b426fc3a0fe",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 123.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km. 123+020 de la carretera Atlacomulco-Maravatío, Atienda indicación vial. #TomePrecauciones en #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km. ",
-      "link": "https://nitter.net/GN_Carreteras/status/2070315216953372882#m",
-      "date": "2026-06-26T01:16:26+00:00"
-    },
-    {
-      "id": "e80a4a99ec09",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 354.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km. 354+500 de la carretera Maravatío - Zapotlanejo, Atienda indicación vial. #TomePrecauciones en #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km",
-      "link": "https://nitter.net/GN_Carreteras/status/2070313630965334411#m",
-      "date": "2026-06-26T01:10:08+00:00"
     }
   ]
 }
