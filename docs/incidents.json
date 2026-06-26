@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-26T22:56:59.386110+00:00",
+  "updated": "2026-06-26T23:33:01.721685+00:00",
   "count": 20,
   "incidents": [
+    {
+      "id": "b29b8b5f9b94",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 37.0,
+      "lat": 19.3245,
+      "lon": -99.52,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del Km 037+700 de la carretera México-Toluca con dirección Toluca. Atienda indicación vial. #Tomeprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial ce",
+      "link": "https://nitter.net/GN_Carreteras/status/2070650171663294556#m",
+      "date": "2026-06-26T23:27:26+00:00"
+    },
+    {
+      "id": "12af80a868fa",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
+      "link": "https://nitter.net/CAPUFE/status/2070649832193036676#m",
+      "date": "2026-06-26T23:26:05+00:00"
+    },
+    {
+      "id": "b773ff7a30da",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del incidente. En la zona se registra carga vehicular. Unidades ",
+      "link": "https://nitter.net/CAPUFE/status/2070644796134138092#m",
+      "date": "2026-06-26T23:06:04+00:00"
+    },
     {
       "id": "604ca14aa4b5",
       "account": "@GN_carreteras",
@@ -143,34 +185,6 @@
       "date": "2026-06-26T19:10:55+00:00"
     },
     {
-      "id": "375b4d36db7d",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del incidente. En la zona se registra carga vehicular. U",
-      "link": "https://nitter.net/CAPUFE/status/2070582973317963899#m",
-      "date": "2026-06-26T19:00:25+00:00"
-    },
-    {
-      "id": "3def75332aff",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 #AVISO a las personas usuarias de la autopista #CuacnopalanOaxaca 🚧 Se habilita el paso alternado en ambos sentidos a la altura del km 19+535. Maneje con precaución y reduzca la velocidad al aproximarse a la zona. 🚗⚠️ #CAPUFEInforma 🚧 #AVISO a las personas usuarias de la autopi",
-      "link": "https://nitter.net/CAPUFE/status/2070580416214434099#m",
-      "date": "2026-06-26T18:50:15+00:00"
-    },
-    {
       "id": "f3a3e18ffcf9",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -267,20 +281,6 @@
       "text": "#TomePrecauciones en #Sonora continua cierre total de circulación por presencia de personas, cerca del km 248+000 en la carretera Cd. Obregón - Hermosillo, con dirección Hermosillo, a la altura de El Fraccionamiento Haciendas del Sur, Son. Atienda indicación vial. #TomePrecaucion",
       "link": "https://nitter.net/GN_Carreteras/status/2070448515222794262#m",
       "date": "2026-06-26T10:06:07+00:00"
-    },
-    {
-      "id": "17057a47263e",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 149.0,
-      "lat": 19.048,
-      "lon": -97.87,
-      "resolved": true,
-      "text": "#VialidadLibre en #Puebla tras accidente cerca del km 149+500 de la carretera Amozoc -Teziutlán. Maneje con precaución. #VialidadLibre en #Puebla tras accidente cerca del km 149+500 de la carretera Amozoc -Teziutlán. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2070392168808607791#m",
-      "date": "2026-06-26T06:22:13+00:00"
     }
   ]
 }
