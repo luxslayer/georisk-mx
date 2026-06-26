@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-26T21:03:43.425887+00:00",
-  "count": 25,
+  "updated": "2026-06-26T21:53:05.074170+00:00",
+  "count": 21,
   "incidents": [
+    {
+      "id": "ba4e1df6a675",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 165.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 165, dirección Cd. Obregón. Reducción de carriles por labores de mantenimiento. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 165, dirección Cd. Obregón. Reducción",
+      "link": "https://nitter.net/CAPUFE/status/2070625261230428282#m",
+      "date": "2026-06-26T21:48:27+00:00"
+    },
+    {
+      "id": "198a8f860d85",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 36.0,
+      "lat": 19.23,
+      "lon": -98.672,
+      "resolved": true,
+      "text": "#ViaLibre en #EdoMex tras cierre total de circulación por presencia de personas, cerca del km. 036+000 de la autopista México-Puebla con dirección Puebla. Maneje con precaución. #ViaLibre en #EdoMex tras cierre total de circulación por presencia de personas, cerca del km. 036+000",
+      "link": "https://nitter.net/GN_Carreteras/status/2070620297405911512#m",
+      "date": "2026-06-26T21:28:43+00:00"
+    },
     {
       "id": "e5cce4aa93ac",
       "account": "@capufe",
@@ -157,20 +185,6 @@
       "date": "2026-06-26T18:04:38+00:00"
     },
     {
-      "id": "994d4cd4bca4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 98.0,
-      "lat": 18.218174,
-      "lon": -99.530466,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. El accidente ha sido a",
-      "link": "https://nitter.net/CAPUFE/status/2070565388731961491#m",
-      "date": "2026-06-26T17:50:32+00:00"
-    },
-    {
       "id": "69f42c08d601",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -183,62 +197,6 @@
       "text": "#Tomeprecauciones en #NuevoLeón se registra cierre parcial de la circulación por #AccidenteVial cerca del Km 137+500 de la carretera Monterrey-Nuevo León con dirección a Monterrey NL. Atienda indicación vial. #Tomeprecauciones en #NuevoLeón se registra cierre parcial de la circul",
       "link": "https://nitter.net/GN_Carreteras/status/2070562566313509310#m",
       "date": "2026-06-26T17:39:19+00:00"
-    },
-    {
-      "id": "0cf86a29a0f3",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 26.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 26, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 26, dirección Có",
-      "link": "https://nitter.net/CAPUFE/status/2070561187591241795#m",
-      "date": "2026-06-26T17:33:50+00:00"
-    },
-    {
-      "id": "a0b3dad22320",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos. El personal de CAPUFE se encuentra realizando las labores de atención del incidente. Se sugiere a la ciudadanía tomar las",
-      "link": "https://nitter.net/CAPUFE/status/2070558646161846279#m",
-      "date": "2026-06-26T17:23:45+00:00"
-    },
-    {
-      "id": "9bb68ef08827",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 56.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
-      "link": "https://nitter.net/CAPUFE/status/2070558195764936841#m",
-      "date": "2026-06-26T17:21:57+00:00"
-    },
-    {
-      "id": "bd6eea6f4c3e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 168.0,
-      "lat": 16.977198,
-      "lon": -99.797042,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 168, dirección Acapulco. Reducción de carriles por atención de accidente (volcadura de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 168, dirección Aca",
-      "link": "https://nitter.net/CAPUFE/status/2070553627161219579#m",
-      "date": "2026-06-26T17:03:48+00:00"
     },
     {
       "id": "eed120788974",
@@ -337,20 +295,6 @@
       "text": "#VialidadLibre en #Veracruz tras accidente cerca del km. 242+930 de la autopista Puebla - Córdova, dirección Veracruz. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente cerca del km. 242+930 de la autopista Puebla - Córdova, dirección Veracruz. Maneje con precauci",
       "link": "https://nitter.net/GN_Carreteras/status/2070384270598647891#m",
       "date": "2026-06-26T05:50:50+00:00"
-    },
-    {
-      "id": "67aed84e2058",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Toluca–Palmillas",
-      "route_key": "toluca-palmillas",
-      "km": 50.0,
-      "lat": 20.0,
-      "lon": -99.95,
-      "resolved": true,
-      "text": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #AccidenteVial cerca del km. 050+200 de la autopista Toluca - Palmillas, con dirección Atlacomulco, Edo. Méx. Atienda indicación vial. #TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #",
-      "link": "https://nitter.net/GN_Carreteras/status/2070383384598106447#m",
-      "date": "2026-06-26T05:47:19+00:00"
     }
   ]
 }
