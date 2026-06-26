@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-26T07:25:38.600317+00:00",
-  "count": 34,
+  "updated": "2026-06-26T08:36:20.054444+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "df4810127d47",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 67.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 67, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 67, dirección CDMX. Reducción de carriles por at",
+      "link": "https://nitter.net/CAPUFE/status/2070420599814373694#m",
+      "date": "2026-06-26T08:15:12+00:00"
+    },
+    {
+      "id": "04f16d820af2",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 248.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Guaymas - Hermosillo, km 248. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣. ☑️ ACTUALIZACIÓN. Auto",
+      "link": "https://nitter.net/CAPUFE/status/2070417137588457887#m",
+      "date": "2026-06-26T08:01:26+00:00"
+    },
+    {
+      "id": "ded67a504cd8",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 61.0,
+      "lat": 18.1643,
+      "lon": -94.5686,
+      "resolved": true,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 61, dirección La Tinaja. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las labores de atención del accidente. Atiende las indicaciones viales ",
+      "link": "https://nitter.net/CAPUFE/status/2070414335524942332#m",
+      "date": "2026-06-26T07:50:18+00:00"
+    },
     {
       "id": "f3e9e9ac8c54",
       "account": "@capufe",
@@ -31,7 +73,7 @@
       "date": "2026-06-26T06:43:58+00:00"
     },
     {
-      "id": "0610099f18ee",
+      "id": "22d586bff9f7",
       "account": "@capufe",
       "type": "accident",
       "highway": "La Tinaja–Cosoleacaque",
@@ -40,7 +82,7 @@
       "lat": 18.1643,
       "lon": -94.5686,
       "resolved": true,
-      "text": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 61, dirección La Tinaja. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/RNcoxsNTezBgY1UY6 🔴 CIER",
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 61, dirección La Tinaja. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/RNcoxsNTezBgY1UY6 🔴 CIERRE DE CI",
       "link": "https://nitter.net/CAPUFE/status/2070393414781169684#m",
       "date": "2026-06-26T06:27:10+00:00"
     },
@@ -379,20 +421,6 @@
       "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 089+500 de la autopista México-Puebla, con dirección Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca ",
       "link": "https://nitter.net/GN_Carreteras/status/2070321815092593143#m",
       "date": "2026-06-26T01:42:40+00:00"
-    },
-    {
-      "id": "663129c60c48",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 52.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 52, dirección Cuernavaca. Reducció",
-      "link": "https://nitter.net/CAPUFE/status/2070319539938590978#m",
-      "date": "2026-06-26T01:33:37+00:00"
     },
     {
       "id": "0b426fc3a0fe",
