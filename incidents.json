@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-26T11:28:16.069650+00:00",
-  "count": 38,
+  "updated": "2026-06-26T12:20:18.621256+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "72d2cee3dc79",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 67.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 67, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 67, dirección CDMX. El accidente ha sido atendido. Tram",
+      "link": "https://nitter.net/CAPUFE/status/2070480051557068873#m",
+      "date": "2026-06-26T12:11:26+00:00"
+    },
+    {
+      "id": "5965d5a13a91",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 124.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Las Choapas - Ocozocoautla, km 124. Continúa circulación intermitente en ambos sentidos. El personal se encuentra realizando las labores de atención del accidente. En la zona se registra carga vehicular. Atiende las indicaciones viales ",
+      "link": "https://nitter.net/CAPUFE/status/2070479234414325978#m",
+      "date": "2026-06-26T12:08:11+00:00"
+    },
+    {
+      "id": "16f2788ff31b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 67.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 67, dirección CDMX. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 67, dirección CDMX. Continúa reducción de carril",
+      "link": "https://nitter.net/CAPUFE/status/2070471290356408702#m",
+      "date": "2026-06-26T11:36:37+00:00"
+    },
     {
       "id": "4a6e60aa75fa",
       "account": "@capufe",
@@ -311,20 +353,6 @@
       "date": "2026-06-26T06:22:13+00:00"
     },
     {
-      "id": "8853ad28cdd1",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 248.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Guaymas - Hermosillo, km 248. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/Y1eW6Frs8e4aKh4K6 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Guaymas - H",
-      "link": "https://nitter.net/CAPUFE/status/2070387543846092990#m",
-      "date": "2026-06-26T06:03:51+00:00"
-    },
-    {
       "id": "aedfb0c28820",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -365,20 +393,6 @@
       "text": "#VialidadLibre en #Veracruz tras accidente cerca del km. 105+509 de la carretera Xalapa-Veracruz. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente cerca del km. 105+509 de la carretera Xalapa-Veracruz. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2070374542363566377#m",
       "date": "2026-06-26T05:12:11+00:00"
-    },
-    {
-      "id": "e4bf9c671955",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal de CAPUFE se encuentra realizando las labores de atención del incidente. Atiende las indicaciones viales y m",
-      "link": "https://nitter.net/CAPUFE/status/2070373053393977770#m",
-      "date": "2026-06-26T05:06:16+00:00"
     },
     {
       "id": "55f04411ee8c",
