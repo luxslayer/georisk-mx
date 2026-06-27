@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-27T03:12:51.676639+00:00",
-  "count": 26,
+  "updated": "2026-06-27T04:48:27.643369+00:00",
+  "count": 25,
   "incidents": [
+    {
+      "id": "07c0665b4edb",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 12.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Noreste de Querétaro (Chichimequillas), km 12, dirección San Luis Potosí. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Noreste de Querétaro",
+      "link": "https://nitter.net/CAPUFE/status/2070716347034562958#m",
+      "date": "2026-06-27T03:50:23+00:00"
+    },
+    {
+      "id": "833b5a21789c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 93.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 93, dirección CDMX. Reducción de carriles por atención de accidente (choque de costado y caída de motociclista). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramien",
+      "link": "https://nitter.net/CAPUFE/status/2070715487139271167#m",
+      "date": "2026-06-27T03:46:58+00:00"
+    },
     {
       "id": "fd29627339ff",
       "account": "@capufe",
@@ -199,34 +227,6 @@
       "date": "2026-06-26T23:27:26+00:00"
     },
     {
-      "id": "12af80a868fa",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 56.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
-      "link": "https://nitter.net/CAPUFE/status/2070649832193036676#m",
-      "date": "2026-06-26T23:26:05+00:00"
-    },
-    {
-      "id": "b773ff7a30da",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del incidente. En la zona se registra carga vehicular. Unidades ",
-      "link": "https://nitter.net/CAPUFE/status/2070644796134138092#m",
-      "date": "2026-06-26T23:06:04+00:00"
-    },
-    {
       "id": "604ca14aa4b5",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -239,20 +239,6 @@
       "text": "#ViaLibre en #Oaxaca tras cierre total de circulación, por presencia de personas, cerca del km 169+000 de la carretera Coatzacoalcos - Salina Cruz. Maneje con precaución. #ViaLibre en #Oaxaca tras cierre total de circulación, por presencia de personas, cerca del km 169+000 de la ",
       "link": "https://nitter.net/GN_Carreteras/status/2070640326813913496#m",
       "date": "2026-06-26T22:48:19+00:00"
-    },
-    {
-      "id": "9af57bffee67",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Noreste de Querétaro (Chichimequillas), km 12, dirección San Luis Potosí. Cierre a la circulación por atención de accidente (choque por alcance entre tracto camiones y salida del camino). 🔘 Dirección CDMX, registra reducción de carriles por r",
-      "link": "https://nitter.net/CAPUFE/status/2070639423990235647#m",
-      "date": "2026-06-26T22:44:43+00:00"
     },
     {
       "id": "198a8f860d85",
