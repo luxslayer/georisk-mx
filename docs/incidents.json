@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-27T22:51:51.161160+00:00",
+  "updated": "2026-06-27T23:26:09.811580+00:00",
   "count": 28,
   "incidents": [
+    {
+      "id": "84320708650e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 230.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 230, dirección La Carbonera. Cierre a la circulación por atención de accidente (incendio de tracto camión). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cer",
+      "link": "https://nitter.net/CAPUFE/status/2071006815798665319#m",
+      "date": "2026-06-27T23:04:36+00:00"
+    },
+    {
+      "id": "094b13c2f3c8",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 14.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Veracruz tras cierre total de circulación, por presencia de personas, cerca del km 014+000 de la carretera Coatzacoalcos-Salina Cruz. Maneje con precaución. #VialidadLibre en #Veracruz tras cierre total de circulación, por presencia de personas, cerca del km 01",
+      "link": "https://nitter.net/GN_Carreteras/status/2071006588547051556#m",
+      "date": "2026-06-27T23:03:42+00:00"
+    },
+    {
+      "id": "22ecaba18f7b",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Puebla continua cierre parcial de circulación tras labores de limpieza por deslave de talud, cerca del km. 019+600 de la autopista Cuacnopalan-Oaxaca, con dirección Oaxaca. Maneje con precaución. #PrecauciónVial en #Puebla continua cierre parcial de circulació",
+      "link": "https://nitter.net/GN_Carreteras/status/2071005169228132864#m",
+      "date": "2026-06-27T22:58:04+00:00"
+    },
+    {
+      "id": "c9b796f7055d",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Puebla continua cierre parcial de circulación por labores de limpieza tras deslave de talud, cerca del km. 019+600 de la autopista Cuacnopalan-Oaxaca, con dirección Oaxaca. Maneje con precaución. #PrecauciónVial en #Puebla continua cierre parcial de circulació",
+      "link": "https://nitter.net/GN_Carreteras/status/2071004411438973376#m",
+      "date": "2026-06-27T22:55:03+00:00"
+    },
     {
       "id": "3cd5595be64e",
       "account": "@capufe",
@@ -171,20 +227,6 @@
       "date": "2026-06-27T19:29:15+00:00"
     },
     {
-      "id": "a66151f81dad",
-      "account": "@capufe",
-      "type": "hail",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 31.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, registra #lluvia y #granizo del km 31 al 38. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca , registra #lluvia y #granizo del km 31 al 38. Disminuye tu velocidad y maneja",
-      "link": "https://nitter.net/CAPUFE/status/2070946643881455619#m",
-      "date": "2026-06-27T19:05:30+00:00"
-    },
-    {
       "id": "74b151111b51",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -351,48 +393,6 @@
       "text": "#VialidadLibre en #Veracruz tras accidente cerca del km. 055+500 de la carretera Coatzacoalcos - Salina Cruz. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente cerca del km. 055+500 de la carretera Coatzacoalcos - Salina Cruz. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2070894256697250142#m",
       "date": "2026-06-27T15:37:20+00:00"
-    },
-    {
-      "id": "c2e2457000b9",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 281.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 281+000 de la carretera Córdoba-Ent. La Boticaria, con dirección Puebla. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #Acci",
-      "link": "https://nitter.net/GN_Carreteras/status/2070893178513768685#m",
-      "date": "2026-06-27T15:33:03+00:00"
-    },
-    {
-      "id": "6164bc32f352",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Zac–Durango",
-      "route_key": "zacatecas-durango",
-      "km": 141.0,
-      "lat": 23.75015,
-      "lon": -103.90698,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Zacatecas continua cierre parcial de circulación por #AccidenteVial cerca del km. 141+900 de la carretera Zacatecas - Durango, a la altura de la localidad Felipe Carrillo Puerto, Zac. Atienda indicación vial. #TomePrecauciones en #Zacatecas continua cierre p",
-      "link": "https://nitter.net/GN_Carreteras/status/2070891207656345736#m",
-      "date": "2026-06-27T15:25:13+00:00"
-    },
-    {
-      "id": "5f21633cbdcd",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 31.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Colima continua cierre parcial de circulación por #AccidenteVial cerca del km. 031+500 de la carretera Manzanillo - Ent. Barra de Navidad. a inmediaciones de la localidad Los Robles, Mpio. de Manzanillo, Col. Atienda indicación vial. #TomePrecauciones en #Co",
-      "link": "https://nitter.net/GN_Carreteras/status/2070888359484899434#m",
-      "date": "2026-06-27T15:13:54+00:00"
     }
   ]
 }
