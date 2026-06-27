@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-27T00:56:43.788997+00:00",
-  "count": 24,
+  "updated": "2026-06-27T01:45:55.264557+00:00",
+  "count": 26,
   "incidents": [
+    {
+      "id": "90782279f83d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 12.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 12, dirección San Luis Potosí. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Libramiento Noreste de Querétaro (Chichimequillas), ",
+      "link": "https://nitter.net/CAPUFE/status/2070681361971638728#m",
+      "date": "2026-06-27T01:31:22+00:00"
+    },
+    {
+      "id": "5d4fc113808e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 12.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Noreste de Querétaro (Chichimequillas), km 12, dirección San Luis Potosí. Registra cierre a la circulación por atención de accidente (maniobras para retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴",
+      "link": "https://nitter.net/CAPUFE/status/2070673853848621549#m",
+      "date": "2026-06-27T01:01:32+00:00"
+    },
     {
       "id": "11e112e46f84",
       "account": "@capufe",
