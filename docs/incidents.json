@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-27T07:33:39.784810+00:00",
+  "updated": "2026-06-27T09:00:25.934569+00:00",
   "count": 25,
   "incidents": [
+    {
+      "id": "74a7ad89c2c9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 0.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 0, dirección La Pera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 0, dirección La Pera. El acciden",
+      "link": "https://nitter.net/CAPUFE/status/2070772783521403363#m",
+      "date": "2026-06-27T07:34:39+00:00"
+    },
     {
       "id": "b6cb45c8efbd",
       "account": "@GN_carreteras",
@@ -197,20 +211,6 @@
       "text": "🟠 CARGA VEHICULAR 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 12, dirección San Luis Potosí. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Libramiento Noreste de Querétaro (Chichimequillas), ",
       "link": "https://nitter.net/CAPUFE/status/2070681361971638728#m",
       "date": "2026-06-27T01:31:22+00:00"
-    },
-    {
-      "id": "5d4fc113808e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Noreste de Querétaro (Chichimequillas), km 12, dirección San Luis Potosí. Registra cierre a la circulación por atención de accidente (maniobras para retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴",
-      "link": "https://nitter.net/CAPUFE/status/2070673853848621549#m",
-      "date": "2026-06-27T01:01:32+00:00"
     },
     {
       "id": "b36b3d598f3d",
