@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-27T11:06:17.507340+00:00",
-  "count": 25,
+  "updated": "2026-06-27T11:58:36.219570+00:00",
+  "count": 28,
   "incidents": [
+    {
+      "id": "c07cee0457ac",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 52.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 52, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 52, dirección CDMX. El incidente ha sido atendi",
+      "link": "https://nitter.net/CAPUFE/status/2070838935438123156#m",
+      "date": "2026-06-27T11:57:31+00:00"
+    },
+    {
+      "id": "e78e64904253",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 52.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 52, dirección CDMX. Reducción de carriles por atención de incidente (caída de árbol). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 52, dirección CDMX. Reducción de carriles por atenci",
+      "link": "https://nitter.net/CAPUFE/status/2070831751543263601#m",
+      "date": "2026-06-27T11:28:58+00:00"
+    },
+    {
+      "id": "8f46c00790d6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 121.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Isla, km 121, dirección Acayucan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Isla, km 121, dirección Acayucan. El accid",
+      "link": "https://nitter.net/CAPUFE/status/2070831199841407039#m",
+      "date": "2026-06-27T11:26:46+00:00"
+    },
+    {
+      "id": "91a02e392691",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 121.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acayucan - Isla, km 121, dirección Acayucan. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Ac",
+      "link": "https://nitter.net/CAPUFE/status/2070829355660357652#m",
+      "date": "2026-06-27T11:19:27+00:00"
+    },
     {
       "id": "74a7ad89c2c9",
       "account": "@capufe",
@@ -197,20 +253,6 @@
       "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que el incidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista T",
       "link": "https://nitter.net/CAPUFE/status/2070690788430729267#m",
       "date": "2026-06-27T02:08:50+00:00"
-    },
-    {
-      "id": "90782279f83d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 12, dirección San Luis Potosí. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Libramiento Noreste de Querétaro (Chichimequillas), ",
-      "link": "https://nitter.net/CAPUFE/status/2070681361971638728#m",
-      "date": "2026-06-27T01:31:22+00:00"
     },
     {
       "id": "b36b3d598f3d",
