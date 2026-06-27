@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-27T20:53:35.322702+00:00",
-  "count": 34,
+  "updated": "2026-06-27T21:27:21.206528+00:00",
+  "count": 32,
   "incidents": [
     {
       "id": "752fd4194b19",
@@ -281,34 +281,6 @@
       "text": "#VialidadLibre en #Oaxaca tras accidente cerca del km. 294+500 de la carretera Coatzacoalcos-Salina Cruz, con dirección a Salina Cruz, Oax. Maneje con precaución. #VialidadLibre en #Oaxaca tras accidente cerca del km. 294+500 de la carretera Coatzacoalcos-Salina Cruz, con direcci",
       "link": "https://nitter.net/GN_Carreteras/status/2070921305176625365#m",
       "date": "2026-06-27T17:24:49+00:00"
-    },
-    {
-      "id": "dcd4e4b2de98",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 81.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 81, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 81, dirección Querétaro. El accidente ha sid",
-      "link": "https://nitter.net/CAPUFE/status/2070914635885146457#m",
-      "date": "2026-06-27T16:58:19+00:00"
-    },
-    {
-      "id": "f773b56f3c7b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 43.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 43, dirección CDMX. Continúa reducción de carriles por atención de choque por alcance entre tracto camión y autobús. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.a",
-      "link": "https://nitter.net/CAPUFE/status/2070914302320554103#m",
-      "date": "2026-06-27T16:57:00+00:00"
     },
     {
       "id": "b5d255cfa781",
