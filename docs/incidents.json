@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-27T23:26:09.811580+00:00",
+  "updated": "2026-06-27T23:51:02.350274+00:00",
   "count": 28,
   "incidents": [
+    {
+      "id": "58dbf17c202b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 230.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Carbonera - Puerto México, km 230, dirección La Carbonera. El accidente ha sido atendido, por lo que se restablece la circulación desde la Plaza de Cobro Los Chorros y Huachichil. Tramo opera de manera normal. Maneja con precaución",
+      "link": "https://nitter.net/CAPUFE/status/2071016203082965161#m",
+      "date": "2026-06-27T23:41:55+00:00"
+    },
     {
       "id": "84320708650e",
       "account": "@capufe",
@@ -211,20 +225,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 28, dirección Cosoleacaque. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 28, dirección Co",
       "link": "https://nitter.net/CAPUFE/status/2070964324995092892#m",
       "date": "2026-06-27T20:15:46+00:00"
-    },
-    {
-      "id": "f48cbcc48a48",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 43.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 43, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro ,",
-      "link": "https://nitter.net/CAPUFE/status/2070952617807671753#m",
-      "date": "2026-06-27T19:29:15+00:00"
     },
     {
       "id": "74b151111b51",
