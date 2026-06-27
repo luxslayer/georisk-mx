@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-27T19:32:56.135378+00:00",
-  "count": 33,
+  "updated": "2026-06-27T20:28:33.752012+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "05ddfe4b7da3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 90.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Libramiento Cuernavaca, km 90, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Libramiento Cuernavaca, km 90, dirección CDMX. El accidente ha sido atendido. En la zona se registr",
+      "link": "https://nitter.net/CAPUFE/status/2070967146398527933#m",
+      "date": "2026-06-27T20:26:59+00:00"
+    },
+    {
+      "id": "178c99dec18e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 90.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 90, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 90, d",
+      "link": "https://nitter.net/CAPUFE/status/2070966482125607402#m",
+      "date": "2026-06-27T20:24:20+00:00"
+    },
+    {
+      "id": "8d9f8556fb98",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 28.0,
+      "lat": 18.089867,
+      "lon": -94.8076,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 28, dirección Cosoleacaque. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 28, dirección Co",
+      "link": "https://nitter.net/CAPUFE/status/2070964324995092892#m",
+      "date": "2026-06-27T20:15:46+00:00"
+    },
     {
       "id": "f48cbcc48a48",
       "account": "@capufe",
@@ -297,20 +339,6 @@
       "date": "2026-06-27T16:20:55+00:00"
     },
     {
-      "id": "043e1a8197b6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 43.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 43, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance entre tracto camión y autobús). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutM",
-      "link": "https://nitter.net/CAPUFE/status/2070902958309384507#m",
-      "date": "2026-06-27T16:11:55+00:00"
-    },
-    {
       "id": "f0f994916f8c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -379,20 +407,6 @@
       "text": "#VialidadLibre en #Veracruz tras accidente cerca del km. 055+500 de la carretera Coatzacoalcos - Salina Cruz. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente cerca del km. 055+500 de la carretera Coatzacoalcos - Salina Cruz. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2070894256697250142#m",
       "date": "2026-06-27T15:37:20+00:00"
-    },
-    {
-      "id": "49ff36cbf85d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 286.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. El accidente ha si",
-      "link": "https://nitter.net/CAPUFE/status/2070894196836192578#m",
-      "date": "2026-06-27T15:37:06+00:00"
     },
     {
       "id": "c2e2457000b9",
