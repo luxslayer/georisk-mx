@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-27T04:48:27.643369+00:00",
+  "updated": "2026-06-27T06:14:06.982988+00:00",
   "count": 25,
   "incidents": [
+    {
+      "id": "dcafff824436",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 74.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Hidalgo se registra cierre parcial de circulación tras presencia de personas cerca del Km 074+200 de la carretera Actopan-Ixmiquilpan con dirección Portezuelos Hgo. Atienda indicación vial. #Tomeprecauciones en #Hidalgo se registra cierre parcial de circulac",
+      "link": "https://nitter.net/GN_Carreteras/status/2070747518481134075#m",
+      "date": "2026-06-27T05:54:15+00:00"
+    },
+    {
+      "id": "96e48d542087",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 36.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 36, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 36, dirección CDMX. El accidente ha sido atendi",
+      "link": "https://nitter.net/CAPUFE/status/2070745649612562656#m",
+      "date": "2026-06-27T05:46:50+00:00"
+    },
+    {
+      "id": "7bd5bf4959b2",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por labores de limpieza tras deslave de talud, cerca del km. 019+600 de la autopista Cuacnopalan-Oaxaca, con dirección Oaxaca. Maneje con precaución. #TomePrecauciones en #Puebla continua cierre parcial de circul",
+      "link": "https://nitter.net/GN_Carreteras/status/2070738666683523428#m",
+      "date": "2026-06-27T05:19:05+00:00"
+    },
+    {
+      "id": "4b3ec09b460b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 93.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 93, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 93, dirección CDMX. El accidente ha sido ate",
+      "link": "https://nitter.net/CAPUFE/status/2070738430485467298#m",
+      "date": "2026-06-27T05:18:08+00:00"
+    },
+    {
+      "id": "2c6d8f62210e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 36.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 36, dirección CDMX. Reducción de carriles por atención de incidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 36, dirección CDMX. Reducción de carrile",
+      "link": "https://nitter.net/CAPUFE/status/2070735868759789677#m",
+      "date": "2026-06-27T05:07:58+00:00"
+    },
+    {
+      "id": "ea3111743fe0",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 26.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 26, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 26, dir",
+      "link": "https://nitter.net/CAPUFE/status/2070732690437919073#m",
+      "date": "2026-06-27T04:55:20+00:00"
+    },
     {
       "id": "07c0665b4edb",
       "account": "@capufe",
@@ -115,20 +199,6 @@
       "date": "2026-06-27T00:46:59+00:00"
     },
     {
-      "id": "3b94baa0747a",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 26.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 26, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 26, dir",
-      "link": "https://nitter.net/CAPUFE/status/2070666511711142309#m",
-      "date": "2026-06-27T00:32:22+00:00"
-    },
-    {
       "id": "b36b3d598f3d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -157,20 +227,6 @@
       "date": "2026-06-27T00:22:35+00:00"
     },
     {
-      "id": "f817ebc2d1e5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 12, dirección San Luis Potosí. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para retiro de las unidades sinie",
-      "link": "https://nitter.net/CAPUFE/status/2070663049820684596#m",
-      "date": "2026-06-27T00:18:36+00:00"
-    },
-    {
       "id": "27c2678b0564",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -183,34 +239,6 @@
       "text": "#Tomeprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del Km 063+500 de la autopista México-Puebla con dirección Puebla. Atienda indicación vial. #Tomeprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial ce",
       "link": "https://nitter.net/GN_Carreteras/status/2070661535874040176#m",
       "date": "2026-06-27T00:12:35+00:00"
-    },
-    {
-      "id": "05f60ad85527",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Noreste de Querétaro (Chichimequillas), km 12, dirección San Luis Potosí. Continúa cierre a la circulación por atención de accidente (maniobras para retiro de las unidades siniestradas). 🔘 Dirección CDMX, se restablece la circulación. Sin emb",
-      "link": "https://nitter.net/CAPUFE/status/2070657115283448203#m",
-      "date": "2026-06-26T23:55:01+00:00"
-    },
-    {
-      "id": "2d875d6761ad",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Noreste de Querétaro (Chichimequillas), km 12. Registra cierre a la circulación en ambos sentidos por atención de accidente (reacomodo de muros). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Libramien",
-      "link": "https://nitter.net/CAPUFE/status/2070652245251670266#m",
-      "date": "2026-06-26T23:35:40+00:00"
     },
     {
       "id": "b29b8b5f9b94",
@@ -323,34 +351,6 @@
       "text": "#EviteLaZona en #Oaxaca continua cierre total en ambos sentidos de circulación, por presencia de personas, cerca del km 169+000 de la carretera Coatzacoalcos - Salina Cruz, atienda indicación vial. #EviteLaZona en #Oaxaca continua cierre total en ambos sentidos de circulación, po",
       "link": "https://nitter.net/GN_Carreteras/status/2070487635735294319#m",
       "date": "2026-06-26T12:41:34+00:00"
-    },
-    {
-      "id": "3f6290e81ea2",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 248.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "#VialidadLibre en #Sonora tras retiro de personas, cerca del km 248+000 en la carretera Cd. Obregón - Hermosillo, con dirección Hermosillo, a la altura de El Fraccionamiento Haciendas Del Sur, Son. Maneje con precaución. #VialidadLibre en #Sonora tras retiro de personas, cerca de",
-      "link": "https://nitter.net/GN_Carreteras/status/2070456962911805824#m",
-      "date": "2026-06-26T10:39:41+00:00"
-    },
-    {
-      "id": "a09a777b1dd4",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 124.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chiapas continua cierre parcial de circulación por #AccidenteVial cerca del km. 124+040 de la carretera Las Choapas - Ocozocoautla, a la altura del Rancho San Luis, Chis., con dirección a Ocozocoautla. Atienda indicación vial. #TomePrecauciones en #Chiapas c",
-      "link": "https://nitter.net/GN_Carreteras/status/2070455587091960141#m",
-      "date": "2026-06-26T10:34:13+00:00"
     }
   ]
 }
