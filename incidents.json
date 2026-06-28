@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-28T15:55:41.332995+00:00",
+  "updated": "2026-06-28T16:32:17.805520+00:00",
   "count": 29,
   "incidents": [
+    {
+      "id": "27c70bf854ab",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 25.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 25, dirección Cuernavaca. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 25, dirección Cuernavaca. Reducción de ",
+      "link": "https://nitter.net/CAPUFE/status/2071264418508247088#m",
+      "date": "2026-06-28T16:08:14+00:00"
+    },
+    {
+      "id": "2949cce15092",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 103.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 103, dirección CDMX. Continúa reducción de carriles por atención de accidente (volcadura de tracto camión y caída de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 103, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2071263299501494706#m",
+      "date": "2026-06-28T16:03:47+00:00"
+    },
     {
       "id": "23d480ebecb3",
       "account": "@capufe",
@@ -227,20 +255,6 @@
       "date": "2026-06-28T13:33:03+00:00"
     },
     {
-      "id": "f4a0b908af86",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 176.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Hermosillo - Magdalena, km 176. Reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Hermosillo - Magdalena, km 176. Reducción de carriles p",
-      "link": "https://nitter.net/CAPUFE/status/2071217258488017158#m",
-      "date": "2026-06-28T13:00:50+00:00"
-    },
-    {
       "id": "efbd64d1ff9e",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -393,20 +407,6 @@
       "text": "#TomePrecauciones en #EdoMex continua cierre total en ambos sentidos de circulación por #AccidenteVial cerca del km. 002+500 de la carretera Texcoco-Calpulalpan, a la altura de la Hacienda la Flor, Edo. Méx. Atienda indicación vial. #TomePrecauciones en #EdoMex continua cierre to",
       "link": "https://nitter.net/GN_Carreteras/status/2070913146181537989#m",
       "date": "2026-06-27T16:52:24+00:00"
-    },
-    {
-      "id": "52e212f2644b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Lib. Sur Qro.",
-      "route_key": "libramiento-queretaro",
-      "km": 88.0,
-      "lat": 20.588,
-      "lon": -100.39,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Aguascalientes se registra cierre parcial de circulación por #AccidenteVial cerca del km. 088+900 de la carretera Libramiento Sur de Aguascalientes, con dirección Peñuelas, Ags. Atienda indicación vial. #TomePrecauciones en #Aguascalientes se registra cierre",
-      "link": "https://nitter.net/GN_Carreteras/status/2070907115355488433#m",
-      "date": "2026-06-27T16:28:26+00:00"
     }
   ]
 }
