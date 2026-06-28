@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-28T18:32:53.834574+00:00",
-  "count": 30,
+  "updated": "2026-06-28T19:33:28.713476+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "860de382b63b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Veracruz tras accidente cerca del km. 017+100 de la carretera Libramiento de Xalapa , con dirección a Veracruz. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente cerca del km. 017+100 de la carretera Libramiento de Xalapa , con dirección a Verac",
+      "link": "https://nitter.net/GN_Carreteras/status/2071315317612069311#m",
+      "date": "2026-06-28T19:30:29+00:00"
+    },
+    {
+      "id": "1f22019d20f6",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 89.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla, km 89. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla , km 89. Se informa ",
+      "link": "https://nitter.net/CAPUFE/status/2071314013795840478#m",
+      "date": "2026-06-28T19:25:18+00:00"
+    },
+    {
+      "id": "3019bf2a7618",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 220.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Oaxaca tras cierre total de circulación, por presencia de personas, cerca del km. 220+000 de la carretera Cuacnopalan-Oaxaca. Maneje con precaución. #VialidadLibre en #Oaxaca tras cierre total de circulación, por presencia de personas, cerca del km. 220+000 de ",
+      "link": "https://nitter.net/GN_Carreteras/status/2071306426950041835#m",
+      "date": "2026-06-28T18:55:09+00:00"
+    },
+    {
+      "id": "9322406a6aad",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 89.0,
+      "lat": 19.079675,
+      "lon": -98.264675,
+      "resolved": true,
+      "text": "#VialidadLibre en #Puebla tras cierre total de circulación, por presencia de personas, cerca del km 089+000 de la carretera México-Puebla. Maneje con precaución. #VialidadLibre en #Puebla tras cierre total de circulación, por presencia de personas, cerca del km 089+000 de la carr",
+      "link": "https://nitter.net/GN_Carreteras/status/2071302886147990012#m",
+      "date": "2026-06-28T18:41:05+00:00"
+    },
+    {
+      "id": "b7d1eb43ffac",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Pera - Cuautla, km 16, dirección La Pera. Cierre a la circulación por atención de accidente (servicios periciales). 🔘 Se desvía la vialidad hacia la carretera libre a la altura de la Plaza de Cobro Oacalco. La carretera libre no es operada p",
+      "link": "https://nitter.net/CAPUFE/status/2071300880909869379#m",
+      "date": "2026-06-28T18:33:07+00:00"
+    },
     {
       "id": "dff73451a8ff",
       "account": "@capufe",
@@ -227,34 +297,6 @@
       "date": "2026-06-28T16:03:47+00:00"
     },
     {
-      "id": "23d480ebecb3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 22.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Cuchilla - Matamoros, km 22, dirección Matamoros. Reducción de carriles por atención de accidente (salida del camino y choque contra barrera metálica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Cuchilla - ",
-      "link": "https://nitter.net/CAPUFE/status/2071259968230097231#m",
-      "date": "2026-06-28T15:50:33+00:00"
-    },
-    {
-      "id": "ea3d359d2613",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 89.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 89. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣. ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla",
-      "link": "https://nitter.net/CAPUFE/status/2071256664737542419#m",
-      "date": "2026-06-28T15:37:25+00:00"
-    },
-    {
       "id": "4e30bda04edc",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -393,34 +435,6 @@
       "text": "#PrecauciónVial en #Aguascalientes continua cierre parcial de circulación tras #AccidenteVial cerca del km. 008+900 de la carretera Libramiento Sur de Aguascalientes, con dirección a Peñuelas, Ags. Atienda indicación vial. #PrecauciónVial en #Aguascalientes continua cierre parcia",
       "link": "https://nitter.net/GN_Carreteras/status/2070930305205080462#m",
       "date": "2026-06-27T18:00:35+00:00"
-    },
-    {
-      "id": "4156a8dc70b6",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 39.0,
-      "lat": 18.203,
-      "lon": -94.85425,
-      "resolved": true,
-      "text": "#Tomesuspreucaciones en #Veracruz continua cierre parcial de circulación por caída de cable de alta tensión, cerca del km. 039+100 de la carretera Ent. La Tinaja-Cosoleacaque con dirección a Coatzacoalcos, Ver. Maneje con precaución. #Tomesuspreucaciones en #Veracruz continua cie",
-      "link": "https://nitter.net/GN_Carreteras/status/2070927507809882480#m",
-      "date": "2026-06-27T17:49:28+00:00"
-    },
-    {
-      "id": "5dcc17abd841",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 294.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Oaxaca tras accidente cerca del km. 294+500 de la carretera Coatzacoalcos-Salina Cruz, con dirección a Salina Cruz, Oax. Maneje con precaución. #VialidadLibre en #Oaxaca tras accidente cerca del km. 294+500 de la carretera Coatzacoalcos-Salina Cruz, con direcci",
-      "link": "https://nitter.net/GN_Carreteras/status/2070921305176625365#m",
-      "date": "2026-06-27T17:24:49+00:00"
     }
   ]
 }
