@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-28T21:27:07.607168+00:00",
+  "updated": "2026-06-28T21:52:22.126841+00:00",
   "count": 30,
   "incidents": [
+    {
+      "id": "08b0a34749ac",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 201.0,
+      "lat": 18.884,
+      "lon": -96.923,
+      "resolved": true,
+      "text": "#PrecauciónVial en #Puebla continua cierre parcial de la circulación tras accidente cerca del km. 201+100 de la carretera Puebla-Cordoba. Atienda indicación vial. #PrecauciónVial en #Puebla continua cierre parcial de la circulación tras accidente cerca del km. 201+100 de la carre",
+      "link": "https://nitter.net/GN_Carreteras/status/2071347846658363565#m",
+      "date": "2026-06-28T21:39:45+00:00"
+    },
+    {
+      "id": "aa79759ce1df",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 202.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Michoacán continua cierre parcial de la circulación tras accidente cerca del km. 202+200 de la carretera Maravatío-Zapotlanejo, a la altura de la plaza de cobro Zinapécuaro, Mich. Atienda indicación vial. #PrecauciónVial en #Michoacán continua cierre parcial d",
+      "link": "https://nitter.net/GN_Carreteras/status/2071345872567193800#m",
+      "date": "2026-06-28T21:31:54+00:00"
+    },
     {
       "id": "1b0c3615174e",
       "account": "@capufe",
@@ -393,34 +421,6 @@
       "text": "#Tomesuspreucaciones en #EdoMex continua cierre parcial de circulación tras #AccidenteVial cerca del km. 002+500 de la carretera Texcoco-Calpulalpan, a la altura de la Hacienda la Flor, Edo. Méx. Atienda indicación vial. #Tomesuspreucaciones en #EdoMex continua cierre parcial de ",
       "link": "https://nitter.net/GN_Carreteras/status/2070968391876190267#m",
       "date": "2026-06-27T20:31:56+00:00"
-    },
-    {
-      "id": "74b151111b51",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 154.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "#VialidadLibre en #EdoMéx tras accidente cerca del km. 154+500 de la carretera Libramiento Arco Norte de la Ciudad, con dirección Pachuca, Hgo. Maneje con precaución. #VialidadLibre en #EdoMéx tras accidente cerca del km. 154+500 de la carretera Libramiento Arco Norte de la Ciuda",
-      "link": "https://nitter.net/GN_Carreteras/status/2070942452068839852#m",
-      "date": "2026-06-27T18:48:51+00:00"
-    },
-    {
-      "id": "3775d90af36a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 2.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #EdoMex continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 002+500 de la carretera Texcoco-Calpulalpan, a la altura de la Hacienda la Flor, Edo. Méx. Atienda indicación vial. #PrecauciónVial en #EdoMex continúa cierre parcial de circulació",
-      "link": "https://nitter.net/GN_Carreteras/status/2070933957097431112#m",
-      "date": "2026-06-27T18:15:06+00:00"
     }
   ]
 }
