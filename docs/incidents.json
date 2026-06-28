@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T12:02:16.016814+00:00",
-  "count": 24,
+  "updated": "2026-06-28T13:00:27.215406+00:00",
+  "count": 23,
   "incidents": [
     {
       "id": "1d4292b07c55",
@@ -141,20 +141,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 251, dirección Acatzingo. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de las unidades siniestradas). En la zon",
       "link": "https://nitter.net/CAPUFE/status/2071055587836633419#m",
       "date": "2026-06-28T02:18:25+00:00"
-    },
-    {
-      "id": "199894062ec2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 209.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Navojoa - Cd. Obregón, km 209, dirección Cd. Obregón. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Navojoa - Cd. Obregón, km 209, dirección Cd.",
-      "link": "https://nitter.net/CAPUFE/status/2071053077432373510#m",
-      "date": "2026-06-28T02:08:26+00:00"
     },
     {
       "id": "8e22cdeb4ada",
