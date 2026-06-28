@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-28T20:30:54.654245+00:00",
-  "count": 31,
+  "updated": "2026-06-28T21:27:07.607168+00:00",
+  "count": 30,
   "incidents": [
+    {
+      "id": "1b0c3615174e",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 120.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro, registra #lluvia intensa a la altura del km 120. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro , registra #lluvia intensa a la altura del km 120. Disminuye tu velocidad y ",
+      "link": "https://nitter.net/CAPUFE/status/2071344347258249698#m",
+      "date": "2026-06-28T21:25:50+00:00"
+    },
+    {
+      "id": "a63d434fcc15",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 45.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 45, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 45, dirección CDMX. El accidente ha sido atendido. Tram",
+      "link": "https://nitter.net/CAPUFE/status/2071339436751696069#m",
+      "date": "2026-06-28T21:06:20+00:00"
+    },
+    {
+      "id": "79fd1b969aae",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 16, dirección La Pera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 16, dirección La Pera. El accid",
+      "link": "https://nitter.net/CAPUFE/status/2071334669023355257#m",
+      "date": "2026-06-28T20:47:23+00:00"
+    },
+    {
+      "id": "0eb16ae4ecd8",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 45.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 45, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 45, dirección CDMX. Reducción de carriles por at",
+      "link": "https://nitter.net/CAPUFE/status/2071330588213026915#m",
+      "date": "2026-06-28T20:31:10+00:00"
+    },
     {
       "id": "46f78a34c233",
       "account": "@GN_carreteras",
@@ -199,6 +255,20 @@
       "date": "2026-06-28T17:53:27+00:00"
     },
     {
+      "id": "bc8b9cf13a3a",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 89.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 89. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Se sugiere a la ciudadanía tomar las siguientes vías alternas: ➡ Dir. CDMX, desvío hacia la Autopista",
+      "link": "https://nitter.net/CAPUFE/status/2071290302652948605#m",
+      "date": "2026-06-28T17:51:05+00:00"
+    },
+    {
       "id": "15b3ff460559",
       "account": "@capufe",
       "type": "accident",
@@ -211,20 +281,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 25, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 25, dirección Cuernavaca. El accidente ha",
       "link": "https://nitter.net/CAPUFE/status/2071286278511813055#m",
       "date": "2026-06-28T17:35:06+00:00"
-    },
-    {
-      "id": "b607a9a95a7f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 22.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Cuchilla - Matamoros, km 22, dirección Matamoros. Continúa reducción de carriles por atención de accidente (salida del camino y choque contra barrera metálica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Cu",
-      "link": "https://nitter.net/CAPUFE/status/2071284946233102687#m",
-      "date": "2026-06-28T17:29:48+00:00"
     },
     {
       "id": "198122c9f8e4",
@@ -241,62 +297,6 @@
       "date": "2026-06-28T17:26:25+00:00"
     },
     {
-      "id": "12fe32186e96",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 103.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 103, dirección CDMX. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 103, dirección CDMX. Continúa reducción d",
-      "link": "https://nitter.net/CAPUFE/status/2071283792841474467#m",
-      "date": "2026-06-28T17:25:13+00:00"
-    },
-    {
-      "id": "3703de7eae25",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 16, dirección La Pera. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 16, dirección La Pera. Reducc",
-      "link": "https://nitter.net/CAPUFE/status/2071280564498231657#m",
-      "date": "2026-06-28T17:12:23+00:00"
-    },
-    {
-      "id": "bd66443fdb50",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 38.0,
-      "lat": 18.206,
-      "lon": -94.8585,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 38, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 38, dirección Isla. El accidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2071276269317001526#m",
-      "date": "2026-06-28T16:55:19+00:00"
-    },
-    {
-      "id": "251532ea9ae2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Acayucan–Cosoleacaque",
-      "route_key": "acayucan-cosoleacaque",
-      "km": 34.0,
-      "lat": 18.10784,
-      "lon": -94.74368,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 34, dirección Acayucan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 34, dirección Acay",
-      "link": "https://nitter.net/CAPUFE/status/2071274422099493019#m",
-      "date": "2026-06-28T16:47:59+00:00"
-    },
-    {
       "id": "4e30bda04edc",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -309,20 +309,6 @@
       "text": "#PrecauciónVial en #Sonora continua cierre total de la circulación tras accidente cerca del km. 083+200 de la carretera Sonoyta - San Luis Rio Colorado, a la altura del Puerto, Son. Atienda indicación vial. #PrecauciónVial en #Sonora continua cierre total de la circulación tras a",
       "link": "https://nitter.net/GN_Carreteras/status/2071254899476623425#m",
       "date": "2026-06-28T15:30:24+00:00"
-    },
-    {
-      "id": "edf3472e0b40",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 89.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 89, dirección Puebla. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/ZACK5RUv8pV2foq46 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla , km 89, dirección ",
-      "link": "https://nitter.net/CAPUFE/status/2071254443945873526#m",
-      "date": "2026-06-28T15:28:36+00:00"
     },
     {
       "id": "6ffc050cd27c",
