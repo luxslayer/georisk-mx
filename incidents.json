@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T08:33:36.504465+00:00",
-  "count": 25,
+  "updated": "2026-06-28T10:02:20.150546+00:00",
+  "count": 24,
   "incidents": [
     {
       "id": "59abac9a1965",
@@ -337,20 +337,6 @@
       "text": "#TomePrecauciones en #Oaxaca continua cierre parcial de circulación por #AccidenteVial cerca del km. 294+500 de la carretera Coatzacoalcos - Salina Cruz, con dirección a Salina Cruz, Oax. Atienda indicación vial. #TomePrecauciones en #Oaxaca continua cierre parcial de circulación",
       "link": "https://nitter.net/GN_Carreteras/status/2070902550077788232#m",
       "date": "2026-06-27T16:10:18+00:00"
-    },
-    {
-      "id": "dfb99b54fc9f",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 154.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "#TomePrecauciones en #EdoMex continua cierre parcial de circulación por #AccidenteVial cerca del km. 154+500 de la carretera Libramiento Arco Norte de la Ciudad, con dirección Pachuca, Hgo. Atienda indicación vial. #TomePrecauciones en #EdoMex continua cierre parcial de circulaci",
-      "link": "https://nitter.net/GN_Carreteras/status/2070900294678974541#m",
-      "date": "2026-06-27T16:01:20+00:00"
     }
   ]
 }
