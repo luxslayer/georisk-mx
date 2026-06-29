@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-29T18:46:39.305331+00:00",
-  "count": 28,
+  "updated": "2026-06-29T19:36:41.940751+00:00",
+  "count": 30,
   "incidents": [
+    {
+      "id": "d082c4703412",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 16, dirección Veracruz. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión tipo pipa). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Vera",
+      "link": "https://nitter.net/CAPUFE/status/2071679216769216858#m",
+      "date": "2026-06-29T19:36:29+00:00"
+    },
+    {
+      "id": "3a8fc5a27fed",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 5.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 5, dirección Lechería. Reducción de carriles en la gaza de salida hacia la Plaza de Cobro Lago de Guadalupe, por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠",
+      "link": "https://nitter.net/CAPUFE/status/2071673978188431531#m",
+      "date": "2026-06-29T19:15:40+00:00"
+    },
+    {
+      "id": "0b7946f14a49",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Circulación intermitente en la gaza de incorporación y salida a la Plaza de Cobro Bis Puente Antonio Dovalí Jaime, por labores de mantenimiento. En la zona se registra carga veh",
+      "link": "https://nitter.net/CAPUFE/status/2071668216561095115#m",
+      "date": "2026-06-29T18:52:47+00:00"
+    },
+    {
+      "id": "d616a7ff1172",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, del km 16 al 18. Se restablece la circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y m",
+      "link": "https://nitter.net/CAPUFE/status/2071666858235687089#m",
+      "date": "2026-06-29T18:47:23+00:00"
+    },
     {
       "id": "3ba73cf91234",
       "account": "@capufe",
@@ -297,20 +353,6 @@
       "date": "2026-06-29T15:46:01+00:00"
     },
     {
-      "id": "4800560c8595",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 76.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 76. Reducción de carriles en ambos sentidos por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla , km 76. Reducción de carriles ",
-      "link": "https://nitter.net/CAPUFE/status/2071620397284393307#m",
-      "date": "2026-06-29T15:42:46+00:00"
-    },
-    {
       "id": "e6f423f952da",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -365,20 +407,6 @@
       "text": "#EviteLaZona en #Veracruz se registra cierre total en ambos sentidos de circulación por presencia de personas, cerca del km. 006+500 de la carretera Coatzacoalcos - Villahermosa, a la altura del crucero de Nanchital. Atienda indicación vial. #EviteLaZona en #Veracruz se registra ",
       "link": "https://nitter.net/GN_Carreteras/status/2071614495512723715#m",
       "date": "2026-06-29T15:19:19+00:00"
-    },
-    {
-      "id": "a870a826dd48",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Querétaro - Irapuato, km 24, dirección Querétaro. Reducción de carriles por labores de mantenimiento. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Querétaro - Irapuato, km 24, dirección Querétaro. Reducción d",
-      "link": "https://nitter.net/CAPUFE/status/2071612236636827986#m",
-      "date": "2026-06-29T15:10:20+00:00"
     },
     {
       "id": "7bcd4e571c56",
