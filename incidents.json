@@ -1,9 +1,37 @@
 {
-  "updated": "2026-06-29T09:42:16.105138+00:00",
-  "count": 34,
+  "updated": "2026-06-29T11:44:16.190369+00:00",
+  "count": 33,
   "incidents": [
     {
-      "id": "cb6d2df8e16e",
+      "id": "93be8174f010",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 201.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 201, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidades siniestradas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 201,",
+      "link": "https://nitter.net/CAPUFE/status/2071552973096804484#m",
+      "date": "2026-06-29T11:14:51+00:00"
+    },
+    {
+      "id": "95927ed82aed",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 116.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Nayarit tras accidente cerca del km. 116+000 de la carretera Tepic-Puerto Vallarta, con dirección a Puerto Vallarta, Jal. Maneje con precaución. #VialidadLibre en #Nayarit tras accidente cerca del km. 116+000 de la carretera Tepic-Puerto Vallarta, con dirección",
+      "link": "https://nitter.net/GN_Carreteras/status/2071552779361943852#m",
+      "date": "2026-06-29T11:14:04+00:00"
+    },
+    {
+      "id": "b4d4c1819a86",
       "account": "@GN_carreteras",
       "type": "accident",
       "highway": "?",
@@ -12,9 +40,23 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "#VialidadLibre en #Veracruztras accidente cerca del km. 022+300 de la carretera Las Choapas-Ocozocoautla. Maneje con precaución. #VialidadLibre en #Veracruztras accidente cerca del km. 022+300 de la carretera Las Choapas-Ocozocoautla. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2071523421612101715#m",
-      "date": "2026-06-29T09:17:25+00:00"
+      "text": "#VialidadLibre en #Veracruz tras accidente cerca del km. 022+300 de la carretera Las Choapas-Ocozocoautla. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente cerca del km. 022+300 de la carretera Las Choapas-Ocozocoautla. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2071551935107260630#m",
+      "date": "2026-06-29T11:10:43+00:00"
+    },
+    {
+      "id": "5738c07aa35f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Gdl–Tepic",
+      "route_key": "guadalajara-tepic",
+      "km": 37.0,
+      "lat": 20.822722,
+      "lon": -103.682896,
+      "resolved": true,
+      "text": "#PrecauciónVial en #Jalisco continua cierre parcial de la circulación tras accidente cerca del km. 037+500 de la carretera Guadalajara-Tepic, con dirección a Tepic, Nay. Atienda indicación vial. #PrecauciónVial en #Jalisco continua cierre parcial de la circulación tras accidente ",
+      "link": "https://nitter.net/GN_Carreteras/status/2071550721913139370#m",
+      "date": "2026-06-29T11:05:54+00:00"
     },
     {
       "id": "728bfc545368",
@@ -211,34 +253,6 @@
       "text": "#VialidadLibre en #Veracruz tras accidente cerca del km. 040+500 de la carretera Xalapa-Veracruz. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente cerca del km. 040+500 de la carretera Xalapa-Veracruz. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2071465803149447421#m",
       "date": "2026-06-29T05:28:28+00:00"
-    },
-    {
-      "id": "bfd3e82487b1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 22.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 22. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Auto",
-      "link": "https://nitter.net/CAPUFE/status/2071465538560155738#m",
-      "date": "2026-06-29T05:27:25+00:00"
-    },
-    {
-      "id": "92df1897fb04",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 0, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querét",
-      "link": "https://nitter.net/CAPUFE/status/2071464610880729106#m",
-      "date": "2026-06-29T05:23:43+00:00"
     },
     {
       "id": "feb70224cf04",
@@ -449,34 +463,6 @@
       "text": "#PrecauciónVial en #Oaxaca continua cierre parcial de la circulación tras accidente cerca del km. 022+100 de la carretera Talismán con Ramales-Unión Juárez/Cd. Hidalgo. Atienda indicación vial. #PrecauciónVial en #Oaxaca continua cierre parcial de la circulación tras accidente ce",
       "link": "https://nitter.net/GN_Carreteras/status/2071400696792883301#m",
       "date": "2026-06-29T01:09:45+00:00"
-    },
-    {
-      "id": "d526390c6381",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 62.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Puebla tras cierre total de la circulación, después de realizar labores de limpieza tras deslave ocasionado por la lluvia, cerca del km. 062+500 de la carretera San Hipólito - Xalapa. Maneje con precaución. #VialidadLibre en #Puebla tras cierre total de la circ",
-      "link": "https://nitter.net/GN_Carreteras/status/2071392314979729564#m",
-      "date": "2026-06-29T00:36:27+00:00"
-    },
-    {
-      "id": "767a9ffa4576",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Córdoba",
-      "route_key": "puebla-cordoba",
-      "km": 235.0,
-      "lat": 18.884,
-      "lon": -96.923,
-      "resolved": true,
-      "text": "#PrecauciónVial en #Veracruz continua cierre parcial de la circulación tras accidente cerca del km. 235 + 800 de la carretera Puebla - Cordoba. Atienda indicación vial. #PrecauciónVial en #Veracruz continua cierre parcial de la circulación tras accidente cerca del km. 235 + 800 d",
-      "link": "https://nitter.net/GN_Carreteras/status/2071385262777581667#m",
-      "date": "2026-06-29T00:08:25+00:00"
     }
   ]
 }
