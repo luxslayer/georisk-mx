@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-29T17:52:12.320873+00:00",
+  "updated": "2026-06-29T18:46:39.305331+00:00",
   "count": 28,
   "incidents": [
+    {
+      "id": "3ba73cf91234",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
+      "link": "https://nitter.net/CAPUFE/status/2071666426495041563#m",
+      "date": "2026-06-29T18:45:40+00:00"
+    },
+    {
+      "id": "5182654bfb1c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 75.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuauhtémoc - Osiris, km 75. Continúa cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de las unidades siniestradas). 🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Zacatecas, permanecerá",
+      "link": "https://nitter.net/CAPUFE/status/2071665711047479405#m",
+      "date": "2026-06-29T18:42:49+00:00"
+    },
+    {
+      "id": "92d0fd096910",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 41.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 41, dirección Veracruz. Continúa reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 41, direcció",
+      "link": "https://nitter.net/CAPUFE/status/2071657700300108006#m",
+      "date": "2026-06-29T18:10:59+00:00"
+    },
+    {
+      "id": "9cd8a9fe82c5",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 23.0,
+      "lat": 19.7776,
+      "lon": -99.2336,
+      "resolved": true,
+      "text": "#ViaLibre en #EdoMéx tras cierre parcial de circulación por presencia de personas, cerca del km. 023+300 de la carretera México - Querétaro, a la altura de la caseta de cobro No. 4 Tepotzotlán. Maneje con precaución. #ViaLibre en #EdoMéx tras cierre parcial de circulación por pre",
+      "link": "https://nitter.net/GN_Carreteras/status/2071653620928389419#m",
+      "date": "2026-06-29T17:54:47+00:00"
+    },
     {
       "id": "e148e82cd4f9",
       "account": "@capufe",
@@ -325,48 +381,6 @@
       "date": "2026-06-29T15:10:20+00:00"
     },
     {
-      "id": "8150ef10884c",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Libramiento Noreste de Querétaro, km 20, dirección San Luis Potosí. Reducción de carriles por labores de desmantelamiento de la Plaza de Cobro Chichimequillas. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Libramiento Noreste de ",
-      "link": "https://nitter.net/CAPUFE/status/2071612018478514553#m",
-      "date": "2026-06-29T15:09:28+00:00"
-    },
-    {
-      "id": "489b5a149eb1",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 153.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 153 al 158, dirección CDMX. Reducción de carriles por labores de mantenimiento. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro , del km 153 al 158, dirección CDMX. Reducción de carri",
-      "link": "https://nitter.net/CAPUFE/status/2071611823225176080#m",
-      "date": "2026-06-29T15:08:42+00:00"
-    },
-    {
-      "id": "83425307eac0",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 194.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro , del km 1",
-      "link": "https://nitter.net/CAPUFE/status/2071611590961496142#m",
-      "date": "2026-06-29T15:07:46+00:00"
-    },
-    {
       "id": "7bcd4e571c56",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -379,20 +393,6 @@
       "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 083+500 de la carretera San Hipólito - Xalapa. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 083+50",
       "link": "https://nitter.net/GN_Carreteras/status/2071609605067624737#m",
       "date": "2026-06-29T14:59:53+00:00"
-    },
-    {
-      "id": "4b1e4dac442b",
-      "account": "@GN_carreteras",
-      "type": "fire",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 75.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#EviteLaZona en #Zacatecas continua cierre total en ambos sentidos de circulación por Incendio de vehículo, cerca del km. 075+000 de la carretera Aguascalientes-Zacatecas, a la altura de la localidad de Piedra Gorda, Zac. Atienda indicación vial. #EviteLaZona en #Zacatecas contin",
-      "link": "https://nitter.net/GN_Carreteras/status/2071607287467159598#m",
-      "date": "2026-06-29T14:50:40+00:00"
     }
   ]
 }
