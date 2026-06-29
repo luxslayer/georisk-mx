@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-29T20:40:32.552993+00:00",
-  "count": 32,
+  "updated": "2026-06-29T21:33:49.713171+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "ff8cbddc74ec",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 75.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#AlMomento en #Zacatecas continua cierre parcial de circulación por #VehículoIncendiado cerca del km 075+000, de la carretera Aguascalientes-Zacatecas, a la altura de la localidad de Piedra Gorda, Zac. Atienda indicación vial. #AlMomento en #Zacatecas continua cierre parcial de c",
+      "link": "https://nitter.net/GN_Carreteras/status/2071704510146211881#m",
+      "date": "2026-06-29T21:17:00+00:00"
+    },
+    {
+      "id": "abb63b3955f5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 7.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 7, dirección La Pera. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 7, dirección La Pera. Red",
+      "link": "https://nitter.net/CAPUFE/status/2071703975963865120#m",
+      "date": "2026-06-29T21:14:52+00:00"
+    },
+    {
+      "id": "b650e02ec36a",
+      "account": "@GN_carreteras",
+      "type": "traffic",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 14.0,
+      "lat": 18.278,
+      "lon": -94.9605,
+      "resolved": true,
+      "text": "#EviteLaZona en #Veracruz se registra carga vehicular por #FallaenCobrodePeaje en la caseta #Cuitláhuac en el km 014+000, de la carretera Córdoba-Ent. La Tinaja. GN_Carreteras se encuentra brindando seguridad vial. #EviteLaZona en #Veracruz se registra carga vehicular por #Fallae",
+      "link": "https://nitter.net/GN_Carreteras/status/2071703389730177187#m",
+      "date": "2026-06-29T21:12:33+00:00"
+    },
+    {
+      "id": "d9c1c994ed97",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 2.0,
+      "lat": 19.352667,
+      "lon": -98.962667,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 002+100, de la carretera Amozoc-Perote, a inmediaciones del Mpio. de Amozoc, con dirección a Puebla. Atienda indicación vial. #Tomeprecauciones en #Puebla se registra cierre par",
+      "link": "https://nitter.net/GN_Carreteras/status/2071695346443399627#m",
+      "date": "2026-06-29T20:40:35+00:00"
+    },
     {
       "id": "d6b9954319f5",
       "account": "@capufe",
@@ -311,20 +367,6 @@
       "date": "2026-06-29T16:49:13+00:00"
     },
     {
-      "id": "a9b556eb8a85",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 41.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 41, dirección Veracruz. Continúa reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 41, direcció",
-      "link": "https://nitter.net/CAPUFE/status/2071634153766875325#m",
-      "date": "2026-06-29T16:37:26+00:00"
-    },
-    {
       "id": "97aaae9baa6b",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -421,34 +463,6 @@
       "text": "#TomePrecauciones en #Yucatán continua cierre parcial de circulación por #AccidenteVial cerca del km. 001+200 de la carretera Mérida - Celestún, con dirección a Celestún, a la altura del Mpio. Caucel, Yuc. Atienda indicación vial. #TomePrecauciones en #Yucatán continua cierre par",
       "link": "https://nitter.net/GN_Carreteras/status/2071615894086615222#m",
       "date": "2026-06-29T15:24:52+00:00"
-    },
-    {
-      "id": "d31b3a2e4e1c",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 6.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#EviteLaZona en #Veracruz se registra cierre total en ambos sentidos de circulación por presencia de personas, cerca del km. 006+500 de la carretera Coatzacoalcos - Villahermosa, a la altura del crucero de Nanchital. Atienda indicación vial. #EviteLaZona en #Veracruz se registra ",
-      "link": "https://nitter.net/GN_Carreteras/status/2071614495512723715#m",
-      "date": "2026-06-29T15:19:19+00:00"
-    },
-    {
-      "id": "7bcd4e571c56",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 83.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 083+500 de la carretera San Hipólito - Xalapa. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 083+50",
-      "link": "https://nitter.net/GN_Carreteras/status/2071609605067624737#m",
-      "date": "2026-06-29T14:59:53+00:00"
     }
   ]
 }
