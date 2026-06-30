@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-30T07:53:14.687302+00:00",
+  "updated": "2026-06-30T09:13:44.906951+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "2d0d410574cc",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 232.0,
+      "lat": 18.884,
+      "lon": -96.923,
+      "resolved": true,
+      "text": "#Tomeprecaución en #Veracruz se registra cierre de circulación por #AccidenteVial cerca del Km 232+800, de la ctra. Puebla-Córdoba, a la altura del Mpio. de Maltrata, con Dir. a Ver., se habilita circulación sobre el derecho de vía. Atienda indicación vial. #Tomeprecaución en #Ve",
+      "link": "https://nitter.net/GN_Carreteras/status/2071877950727675944#m",
+      "date": "2026-06-30T08:46:11+00:00"
+    },
+    {
+      "id": "324e12c3ba02",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 72.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Guanajuato tras cierre de circulación por #AccidenteVial cerca del Km 072+000, de la carretera Querétaro-Irapuato, a la altura del Mpio. De Santa Elena. Maneje con precaución. #ViaLibre en #Guanajuato tras cierre de circulación por #AccidenteVial cerca del Km 072+00",
+      "link": "https://nitter.net/GN_Carreteras/status/2071874259014602853#m",
+      "date": "2026-06-30T08:31:31+00:00"
+    },
+    {
+      "id": "9ea79ccacd23",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 189.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 189, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 189, dirección",
+      "link": "https://nitter.net/CAPUFE/status/2071873386075033771#m",
+      "date": "2026-06-30T08:28:03+00:00"
+    },
+    {
+      "id": "66519468dfd6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 16, dirección Veracruz. Continúa reducción de carriles por atención del accidente (salida del camino y volcadura de tracto camión tipo pipa). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córd",
+      "link": "https://nitter.net/CAPUFE/status/2071865035186470969#m",
+      "date": "2026-06-30T07:54:52+00:00"
+    },
     {
       "id": "e65f5b91f107",
       "account": "@GN_carreteras",
@@ -311,34 +367,6 @@
       "date": "2026-06-30T04:14:46+00:00"
     },
     {
-      "id": "257122cf5756",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 16, dirección Veracruz. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (salida del camino y volcadura de tracto camión tipo pipa). En la zona se",
-      "link": "https://nitter.net/CAPUFE/status/2071805962608885936#m",
-      "date": "2026-06-30T04:00:08+00:00"
-    },
-    {
-      "id": "b6464852d70e",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 178.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 178, dirección Acayucan. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 178, dirección Acayu",
-      "link": "https://nitter.net/CAPUFE/status/2071803163758227690#m",
-      "date": "2026-06-30T03:49:01+00:00"
-    },
-    {
       "id": "bbfb60087c28",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -477,34 +505,6 @@
       "text": "#EviteLaZona en #NuevoLeón se registra cierre total de circulación por #AccidenteVial cerca del Km 041+900, de la carretera Saltillo-Monterrey, a la altura de la Col. Misión San Juan, con Dir. a Saltillo. Atienda indicación vial. #EviteLaZona en #NuevoLeón se registra cierre tota",
       "link": "https://nitter.net/GN_Carreteras/status/2071713896486842705#m",
       "date": "2026-06-29T21:54:18+00:00"
-    },
-    {
-      "id": "ff8cbddc74ec",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 75.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#AlMomento en #Zacatecas continua cierre parcial de circulación por #VehículoIncendiado cerca del km 075+000, de la carretera Aguascalientes-Zacatecas, a la altura de la localidad de Piedra Gorda, Zac. Atienda indicación vial. #AlMomento en #Zacatecas continua cierre parcial de c",
-      "link": "https://nitter.net/GN_Carreteras/status/2071704510146211881#m",
-      "date": "2026-06-29T21:17:00+00:00"
-    },
-    {
-      "id": "b650e02ec36a",
-      "account": "@GN_carreteras",
-      "type": "traffic",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 14.0,
-      "lat": 18.278,
-      "lon": -94.9605,
-      "resolved": true,
-      "text": "#EviteLaZona en #Veracruz se registra carga vehicular por #FallaenCobrodePeaje en la caseta #Cuitláhuac en el km 014+000, de la carretera Córdoba-Ent. La Tinaja. GN_Carreteras se encuentra brindando seguridad vial. #EviteLaZona en #Veracruz se registra carga vehicular por #Fallae",
-      "link": "https://nitter.net/GN_Carreteras/status/2071703389730177187#m",
-      "date": "2026-06-29T21:12:33+00:00"
     }
   ]
 }
