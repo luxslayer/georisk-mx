@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-30T16:49:38.672449+00:00",
-  "count": 39,
+  "updated": "2026-06-30T17:39:18.334693+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "f90d42a54c32",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 231.0,
+      "lat": 18.884,
+      "lon": -96.923,
+      "resolved": true,
+      "text": "#ViaLibre en #Puebla tras cierre de circulación por #AccidenteVial cerca del Km 231+600, de la ctra. Puebla-Córdoba. Maneje con precaución #ViaLibre en #Puebla tras cierre de circulación por #AccidenteVial cerca del Km 231+600, de la ctra. Puebla-Córdoba. Maneje con precaución",
+      "link": "https://nitter.net/GN_Carreteras/status/2072011752519131516#m",
+      "date": "2026-06-30T17:37:52+00:00"
+    },
+    {
+      "id": "4658a039b9ed",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 7.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#EviteLaZona en #Oaxaca se registra cierre total de circulación en ambos sentidos por presencia de personas, cerca del km 007+800, de la carretera Huajuapan de León - Oaxaca. Atienda indicación vial. #EviteLaZona en #Oaxaca se registra cierre total de circulación en ambos sentido",
+      "link": "https://nitter.net/GN_Carreteras/status/2072005593108291740#m",
+      "date": "2026-06-30T17:13:24+00:00"
+    },
+    {
+      "id": "f2b2962012c8",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 231.0,
+      "lat": 18.884,
+      "lon": -96.923,
+      "resolved": true,
+      "text": "#Tomeprecaución en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 231+600, de la carretera Puebla-Cordoba, con dirección a Puebla. Atienda indicación vial. #Tomeprecaución en #Puebla se registra cierre parcial de circulación por #AccidenteVial c",
+      "link": "https://nitter.net/GN_Carreteras/status/2072002409837085133#m",
+      "date": "2026-06-30T17:00:45+00:00"
+    },
+    {
+      "id": "9c5db50e0264",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 167.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecaución en #Tlaxcala continua cierre parcial de circulación por #AccidenteVial cerca del Km 167+100, de la carretera Los Reyes-Zacatepec, a la altura del Mpio. Cuapixtla, Tlax., con dirección a Cuapixtla, Tlax. Atienda indicación vial. #Tomeprecaución en #Tlaxcala continu",
+      "link": "https://nitter.net/GN_Carreteras/status/2072001566970655177#m",
+      "date": "2026-06-30T16:57:24+00:00"
+    },
     {
       "id": "a4f103ddd7cd",
       "account": "@capufe",
@@ -269,20 +325,6 @@
       "date": "2026-06-30T15:29:53+00:00"
     },
     {
-      "id": "c1bd28b02011",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 156.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 156, dirección Querétaro. Reducción de carriles por atención de accidente (choque lateral). En la zona se registra carga vehicular y #lluvia. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , k",
-      "link": "https://nitter.net/CAPUFE/status/2071978923299135760#m",
-      "date": "2026-06-30T15:27:25+00:00"
-    },
-    {
       "id": "d2a546d4aa2f",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,62 +533,6 @@
       "text": "#ViaLibre en #Zacatecas tras cierre de circulación por #VehículoIncendiado cerca del km 075+000, de la carretera Aguascalientes-Zacatecas, a la altura de la localidad de Piedra Gorda, Zac. Maneje con precaución. #ViaLibre en #Zacatecas tras cierre de circulación por #VehículoInce",
       "link": "https://nitter.net/GN_Carreteras/status/2071776395970175088#m",
       "date": "2026-06-30T02:02:39+00:00"
-    },
-    {
-      "id": "9af8183a1803",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 171.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#AlMomento en #Chiapas se registra seguimiento a la caravana \"De la mano de Dios filipenses\", cerca del km 171+000, de la carretera Tapanatepec-Talismán con Ramales a Unión Juárez y Ciudad Hidalgo. Atienda indicación vial. #AlMomento en #Chiapas se registra seguimiento a la carav",
-      "link": "https://nitter.net/GN_Carreteras/status/2071751721684972024#m",
-      "date": "2026-06-30T00:24:36+00:00"
-    },
-    {
-      "id": "df0c8f5fecc3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 268.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecaución en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 268+000, de la carretera Córdoba-Puebla, a la altura del Mpio. Huiloapan, con dirección a Veracruz. Atienda indicación vial. #Tomeprecaución en #Veracruz se registra cierre parc",
-      "link": "https://nitter.net/GN_Carreteras/status/2071740970505326601#m",
-      "date": "2026-06-29T23:41:53+00:00"
-    },
-    {
-      "id": "d149e3224c62",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 206.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del Km 206+800, de la carretera Maravatio-Zapotlanejo, a la altura del Mpio. San Nicolás Simirao, con dirección a San Bartolomé. Atienda indicación vial. #Tomeprecauciones en #Micho",
-      "link": "https://nitter.net/GN_Carreteras/status/2071726280525963295#m",
-      "date": "2026-06-29T22:43:30+00:00"
-    },
-    {
-      "id": "d3fbba5e4300",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Saltillo–Mty",
-      "route_key": "saltillo-monterrey",
-      "km": 47.0,
-      "lat": 25.59575,
-      "lon": -100.527,
-      "resolved": true,
-      "text": "#EviteLaZona en #NuevoLeón se registra cierre total de circulación por #AccidenteVial cerca del Km 047+100, de la carretera Saltillo-Monterrey, a la altura del poblado Rinconada, con dirección a Saltillo. Atienda indicación vial. #EviteLaZona en #NuevoLeón se registra cierre tota",
-      "link": "https://nitter.net/GN_Carreteras/status/2071714912775111153#m",
-      "date": "2026-06-29T21:58:20+00:00"
     }
   ]
 }
