@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-30T17:39:18.334693+00:00",
-  "count": 38,
+  "updated": "2026-06-30T18:42:48.042174+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "3f1224e4639a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 116.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecaución en #Veracruz continúa cierre parcial de circulación por #AccidenteVial cerca del Km 116+450, de la carretera Xalapa-Puebla, con dirección a Xalapa, Ver. Atienda indicación vial. #Tomeprecaución en #Veracruz continúa cierre parcial de circulación por #AccidenteVial",
+      "link": "https://nitter.net/GN_Carreteras/status/2072026945580110028#m",
+      "date": "2026-06-30T18:38:14+00:00"
+    },
+    {
+      "id": "69f3951dfbc6",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 7.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Oaxaca continúa cierre intermitente de la circulación en ambos sentidos por presencia de personas, cerca del km 007+800, de la carretera Huajuapan de León-Oaxaca. Atienda indicación vial. #PrecauciónVial en #Oaxaca continúa cierre intermitente de la circulació",
+      "link": "https://nitter.net/GN_Carreteras/status/2072025396451615195#m",
+      "date": "2026-06-30T18:32:05+00:00"
+    },
+    {
+      "id": "19dd5a6ff8d4",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 178.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 178, dirección Acayucan. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 178, direcc",
+      "link": "https://nitter.net/CAPUFE/status/2072020072671961379#m",
+      "date": "2026-06-30T18:10:56+00:00"
+    },
+    {
+      "id": "794936aa41b6",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 42.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 42, dirección Querétaro. Registra carga vehicular a la altura de la salida al poblado de Teoloyucan (zona industrial), sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 42, dirección Querétar",
+      "link": "https://nitter.net/CAPUFE/status/2072017644694212852#m",
+      "date": "2026-06-30T18:01:17+00:00"
+    },
+    {
+      "id": "7fcee8c49eee",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 9.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecaución en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 009+000, de la carretera Puebla - Tlaxcala, con dirección a Puebla. Atienda indicación vial. #Tomeprecaución en #Puebla se registra cierre parcial de circulación por #AccidenteVia",
+      "link": "https://nitter.net/GN_Carreteras/status/2072012459246821807#m",
+      "date": "2026-06-30T17:40:41+00:00"
+    },
     {
       "id": "f90d42a54c32",
       "account": "@GN_carreteras",
@@ -297,34 +367,6 @@
       "date": "2026-06-30T15:42:37+00:00"
     },
     {
-      "id": "4153ff54caed",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 156.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 156, dirección Querétaro. El accidente ha sido atendido. Sin embargo, en la zona continúa carga vehicular y #lluvia ligera. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 156, dirección Querétaro. El accidente ha si",
-      "link": "https://nitter.net/CAPUFE/status/2071981636355285255#m",
-      "date": "2026-06-30T15:38:12+00:00"
-    },
-    {
-      "id": "6820af9ccd03",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 229.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 229, dirección Acatzingo. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista A",
-      "link": "https://nitter.net/CAPUFE/status/2071979543057862997#m",
-      "date": "2026-06-30T15:29:53+00:00"
-    },
-    {
       "id": "d2a546d4aa2f",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -505,34 +547,6 @@
       "text": "#ViaLibre en #NuevoLeón tras cierre total de circulación por #AccidenteVial cerca del Km 047+100, de la carretera Saltillo-Monterrey, a la altura del poblado Rinconada. Maneje con precaución. #ViaLibre en #NuevoLeón tras cierre total de circulación por #AccidenteVial cerca del Km",
       "link": "https://nitter.net/GN_Carreteras/status/2071777310768759198#m",
       "date": "2026-06-30T02:06:17+00:00"
-    },
-    {
-      "id": "985455122df7",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Saltillo–Mty",
-      "route_key": "saltillo-monterrey",
-      "km": 41.0,
-      "lat": 25.58225,
-      "lon": -100.581,
-      "resolved": true,
-      "text": "#ViaLibre en #NuevoLeón tras cierre total de circulación por #AccidenteVial cerca del Km 041+900, de la carretera Saltillo-Monterrey, a la altura de la Col. Misión San Juan, con Dir. a Saltillo. Maneje con precaución. #ViaLibre en #NuevoLeón tras cierre total de circulación por #",
-      "link": "https://nitter.net/GN_Carreteras/status/2071777096326578661#m",
-      "date": "2026-06-30T02:05:26+00:00"
-    },
-    {
-      "id": "66fbc8b8c7c5",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 75.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Zacatecas tras cierre de circulación por #VehículoIncendiado cerca del km 075+000, de la carretera Aguascalientes-Zacatecas, a la altura de la localidad de Piedra Gorda, Zac. Maneje con precaución. #ViaLibre en #Zacatecas tras cierre de circulación por #VehículoInce",
-      "link": "https://nitter.net/GN_Carreteras/status/2071776395970175088#m",
-      "date": "2026-06-30T02:02:39+00:00"
     }
   ]
 }
