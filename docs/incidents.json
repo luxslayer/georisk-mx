@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-30T12:47:51.035475+00:00",
+  "updated": "2026-06-30T13:40:04.906475+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "b17fedfd2380",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 34.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 34, dirección CDMX. Registra carga vehicular por labores de mantenimiento en los carriles laterales (no a cargo de CAPUFE). Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 34, dirección CDMX. Registra carga vehicular",
+      "link": "https://nitter.net/CAPUFE/status/2071947856139682276#m",
+      "date": "2026-06-30T13:23:58+00:00"
+    },
+    {
+      "id": "feb6143413da",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 83.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 83, dirección CDMX. Reducción de carriles por atención de incidente. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 83, dirección CDMX. Reducción de carriles por atención de incident",
+      "link": "https://nitter.net/CAPUFE/status/2071943809726865661#m",
+      "date": "2026-06-30T13:07:53+00:00"
+    },
+    {
+      "id": "d2a546d4aa2f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 232.0,
+      "lat": 18.884,
+      "lon": -96.923,
+      "resolved": true,
+      "text": "#ViaLibre en #Veracruz tras cierre de circulación por #AccidenteVial cerca del Km 232+800, de la ctra. Puebla-Córdoba, a la altura del Mpio. de Maltrata. Maneje con precaución #ViaLibre en #Veracruz tras cierre de circulación por #AccidenteVial cerca del Km 232+800, de la ctra. P",
+      "link": "https://nitter.net/GN_Carreteras/status/2071941588159258899#m",
+      "date": "2026-06-30T12:59:04+00:00"
+    },
     {
       "id": "083931626f72",
       "account": "@capufe",
@@ -297,20 +339,6 @@
       "date": "2026-06-30T05:22:46+00:00"
     },
     {
-      "id": "966d4d41296a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 161.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 161, dirección Cd. Obregón. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 161, dirección Cd. ",
-      "link": "https://nitter.net/CAPUFE/status/2071823605533471047#m",
-      "date": "2026-06-30T05:10:14+00:00"
-    },
-    {
       "id": "855a72db632e",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -323,20 +351,6 @@
       "text": "#EviteLaZona en #Oaxaca se registra cierre total de circulación en ambos sentidos por presencia de personas, cerca del km 288+000, de la carretera Coatzacoalcos-Salina Cruz, #RutaAlterna Lib. la Ventosa-Salina Cruz. Atienda indicación vial. #EviteLaZona en #Oaxaca se registra cie",
       "link": "https://nitter.net/GN_Carreteras/status/2071822182926221608#m",
       "date": "2026-06-30T05:04:35+00:00"
-    },
-    {
-      "id": "24ee8ca99340",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 60.0,
-      "lat": 18.166,
-      "lon": -94.582,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 60, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 60, dirección Isla. Red",
-      "link": "https://nitter.net/CAPUFE/status/2071821170433761747#m",
-      "date": "2026-06-30T05:00:34+00:00"
     },
     {
       "id": "365c4b69f749",
@@ -491,20 +505,6 @@
       "text": "#EviteLaZona en #NuevoLeón se registra cierre total de circulación por #AccidenteVial cerca del Km 047+100, de la carretera Saltillo-Monterrey, a la altura del poblado Rinconada, con dirección a Saltillo. Atienda indicación vial. #EviteLaZona en #NuevoLeón se registra cierre tota",
       "link": "https://nitter.net/GN_Carreteras/status/2071714912775111153#m",
       "date": "2026-06-29T21:58:20+00:00"
-    },
-    {
-      "id": "db3b6de443dc",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Saltillo–Mty",
-      "route_key": "saltillo-monterrey",
-      "km": 41.0,
-      "lat": 25.58225,
-      "lon": -100.581,
-      "resolved": true,
-      "text": "#EviteLaZona en #NuevoLeón se registra cierre total de circulación por #AccidenteVial cerca del Km 041+900, de la carretera Saltillo-Monterrey, a la altura de la Col. Misión San Juan, con Dir. a Saltillo. Atienda indicación vial. #EviteLaZona en #NuevoLeón se registra cierre tota",
-      "link": "https://nitter.net/GN_Carreteras/status/2071713896486842705#m",
-      "date": "2026-06-29T21:54:18+00:00"
     }
   ]
 }
