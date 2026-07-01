@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-01T02:22:38.994040+00:00",
-  "count": 31,
+  "updated": "2026-07-01T03:47:34.724713+00:00",
+  "count": 30,
   "incidents": [
+    {
+      "id": "a5ca276aad02",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 15.0,
+      "lat": 19.37065,
+      "lon": -99.2958,
+      "resolved": true,
+      "text": "#Tomeprecaución en #Guerrero continúa cierre parcial de circulación por #AccidenteVial cerca del Km 015+800, de la carretera Chilpancingo-Acapulco, a la altura del poblado Petaquillas, Mpio. Chilpancingo de los Bravo, Gro. Atienda indicación vial. #Tomeprecaución en #Guerrero con",
+      "link": "https://nitter.net/GN_Carreteras/status/2072162694103257407#m",
+      "date": "2026-07-01T03:37:39+00:00"
+    },
+    {
+      "id": "f8192b18ee7f",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 90.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Puebla tras cierre total de la circulación por presencia de personas, cerca del km 090+000, de la carretera Puebla-Tehuacán a la altura del Mpio. Santa María la Alta, Pue. Maneje con precaución. #VialidadLibre en #Puebla tras cierre total de la circulación por ",
+      "link": "https://nitter.net/GN_Carreteras/status/2072144583950008809#m",
+      "date": "2026-07-01T02:25:42+00:00"
+    },
     {
       "id": "d765f603cbf5",
       "account": "@capufe",
@@ -269,20 +297,6 @@
       "date": "2026-06-30T23:18:09+00:00"
     },
     {
-      "id": "119a4d091b7f",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 27.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, del km 27 al 29, dirección CDMX. Reducción de carriles por atención de incidente (encharcamiento de carriles y #granizo sobre carpeta). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACI",
-      "link": "https://nitter.net/CAPUFE/status/2072096320077103441#m",
-      "date": "2026-06-30T23:13:55+00:00"
-    },
-    {
       "id": "a2b00685ee60",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -407,34 +421,6 @@
       "text": "#ViaLibre en #Veracruz tras cierre de circulación por #AccidenteVial cerca del Km 116+450, de la carretera Xalapa-Puebla, con dirección a Xalapa, Ver. Maneje con precaución. #ViaLibre en #Veracruz tras cierre de circulación por #AccidenteVial cerca del Km 116+450, de la carretera",
       "link": "https://nitter.net/GN_Carreteras/status/2072054226977440098#m",
       "date": "2026-06-30T20:26:39+00:00"
-    },
-    {
-      "id": "226404eecf3b",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 7.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Oaxaca continúa cierre intermitente de la circulación en ambos sentidos tras presencia de personas, cerca del km 007+800, de la carretera Huajuapan de León-Oaxaca. Atienda indicación vial. #TomePrecauciones en #Oaxaca continúa cierre intermitente de la circu",
-      "link": "https://nitter.net/GN_Carreteras/status/2072052763039506505#m",
-      "date": "2026-06-30T20:20:50+00:00"
-    },
-    {
-      "id": "e53ec5e22b5c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 9.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Puebla tras cierre de circulación por #AccidenteVial cerca del Km 009+000, de la carretera Puebla-Tlaxcala, con dirección a Puebla. Maneje con precaución. #ViaLibre en #Puebla tras cierre de circulación por #AccidenteVial cerca del Km 009+000, de la carretera Puebla",
-      "link": "https://nitter.net/GN_Carreteras/status/2072048911611531558#m",
-      "date": "2026-06-30T20:05:31+00:00"
     }
   ]
 }
