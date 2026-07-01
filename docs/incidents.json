@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-01T05:38:27.461413+00:00",
+  "updated": "2026-07-01T07:38:31.340285+00:00",
   "count": 29,
   "incidents": [
+    {
+      "id": "750ff0b3a811",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 99.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 99, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 99, dirección La",
+      "link": "https://nitter.net/CAPUFE/status/2072213151257416118#m",
+      "date": "2026-07-01T06:58:09+00:00"
+    },
+    {
+      "id": "d6d0a28ceca1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 15.0,
+      "lat": 19.37065,
+      "lon": -99.2958,
+      "resolved": true,
+      "text": "#VialidadLibre en #Guerrero tras cierre de circulación por #AccidenteVial cerca del Km 015+800, de la carretera Chilpancingo-Acapulco, a la altura del poblado Petaquillas, Mpio. Chilpancingo de los Bravo, Gro. Maneje con precaución. #VialidadLibre en #Guerrero tras cierre de circ",
+      "link": "https://nitter.net/GN_Carreteras/status/2072194173348815239#m",
+      "date": "2026-07-01T05:42:45+00:00"
+    },
     {
       "id": "113a6e73f3a3",
       "account": "@GN_carreteras",
@@ -269,20 +297,6 @@
       "date": "2026-07-01T00:07:14+00:00"
     },
     {
-      "id": "c88cc97bed70",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 40.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, del km 40 al 33. Registra carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , del km 40 al 33. Registra carga vehicular en dirección CDMX, sin reporte de incidentes",
-      "link": "https://nitter.net/CAPUFE/status/2072104682109948113#m",
-      "date": "2026-06-30T23:47:08+00:00"
-    },
-    {
       "id": "42355e7006a4",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -393,20 +407,6 @@
       "text": "#ViaLibre en #Tamaulipas tras cierre de circulación por #AccidenteVial cerca del Km 006+600, de la carretera Altamira Puerto Industrial, a la altura de la localidad Puerto Industrial Altamira, Tamps. Maneje con precaución. #ViaLibre en #Tamaulipas tras cierre de circulación por #",
       "link": "https://nitter.net/GN_Carreteras/status/2072077787872067724#m",
       "date": "2026-06-30T22:00:16+00:00"
-    },
-    {
-      "id": "66f2ae79215e",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 118.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Michoacan tras cierre de circulación por #AccidenteVial cerca del Km 118+500, de la carretera Uruapan-Lázaro Cárdenas, con dirección a Lázaro Cardenas, Mich. Maneje con precaución. #ViaLibre en #Michoacan tras cierre de circulación por #AccidenteVial cerca del Km 11",
-      "link": "https://nitter.net/GN_Carreteras/status/2072077310014922848#m",
-      "date": "2026-06-30T21:58:22+00:00"
     }
   ]
 }
