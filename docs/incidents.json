@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-01T22:02:11.019562+00:00",
-  "count": 34,
+  "updated": "2026-07-01T22:53:41.550618+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "1a57254e70ff",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 161.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Tabasco se registra cierre parcial de circulación por #Accidentevial cerca del Km 161+400 de la carretera Coatzacoalcos-Villahermosa. Atienda indicación vial. #Tomeprecauciones en #Tabasco se registra cierre parcial de circulación por #Accidentevial cerca de",
+      "link": "https://nitter.net/GN_Carreteras/status/2072447879998816462#m",
+      "date": "2026-07-01T22:30:53+00:00"
+    },
+    {
+      "id": "03d1bc180531",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 172.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Champotón - Campeche, km 172, dirección Campeche. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL",
+      "link": "https://nitter.net/CAPUFE/status/2072446817115963749#m",
+      "date": "2026-07-01T22:26:40+00:00"
+    },
     {
       "id": "61cca2a97ecc",
       "account": "@capufe",
@@ -241,6 +269,20 @@
       "date": "2026-07-01T19:38:54+00:00"
     },
     {
+      "id": "53ceb237428e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 166.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 166, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre camión de carga y automóviles. Atiende las indicaciones viales y maneja con precaución. Consulta la ubicación aquí: https://",
+      "link": "https://nitter.net/CAPUFE/status/2072394525209673956#m",
+      "date": "2026-07-01T18:58:52+00:00"
+    },
+    {
       "id": "bb8e1c8f80ee",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -463,20 +505,6 @@
       "text": "#Tomeprecaución en #Jalisco continúa cierre parcial de circulación por #AccidenteVial cerca del Km 124+900, de la carretera Lagos de Moreno-Guadalajara/con Ramal a Yahualica, a la altura del poblado Agua de Obispo, Mpio. San Juan de los Lagos, Jal. Atienda indicación vial. #Tomep",
       "link": "https://nitter.net/GN_Carreteras/status/2072166008794616266#m",
       "date": "2026-07-01T03:50:50+00:00"
-    },
-    {
-      "id": "a5ca276aad02",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 15.0,
-      "lat": 19.37065,
-      "lon": -99.2958,
-      "resolved": true,
-      "text": "#Tomeprecaución en #Guerrero continúa cierre parcial de circulación por #AccidenteVial cerca del Km 015+800, de la carretera Chilpancingo-Acapulco, a la altura del poblado Petaquillas, Mpio. Chilpancingo de los Bravo, Gro. Atienda indicación vial. #Tomeprecaución en #Guerrero con",
-      "link": "https://nitter.net/GN_Carreteras/status/2072162694103257407#m",
-      "date": "2026-07-01T03:37:39+00:00"
     }
   ]
 }
