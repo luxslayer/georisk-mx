@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-01T22:53:41.550618+00:00",
-  "count": 36,
+  "updated": "2026-07-01T23:33:10.430992+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "2549b1e078b2",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 156.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 156+200 de la carretera Cuernavaca-Chilpancingo con dirección La Vente. Atienda indicación vial. #Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #",
+      "link": "https://nitter.net/GN_Carreteras/status/2072461603564302827#m",
+      "date": "2026-07-01T23:25:25+00:00"
+    },
     {
       "id": "1a57254e70ff",
       "account": "@GN_carreteras",
@@ -255,34 +269,6 @@
       "date": "2026-07-01T20:19:14+00:00"
     },
     {
-      "id": "6d5b0832907d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 166.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 166, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQueré",
-      "link": "https://nitter.net/CAPUFE/status/2072404598317273281#m",
-      "date": "2026-07-01T19:38:54+00:00"
-    },
-    {
-      "id": "53ceb237428e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 166.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 166, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre camión de carga y automóviles. Atiende las indicaciones viales y maneja con precaución. Consulta la ubicación aquí: https://",
-      "link": "https://nitter.net/CAPUFE/status/2072394525209673956#m",
-      "date": "2026-07-01T18:58:52+00:00"
-    },
-    {
       "id": "bb8e1c8f80ee",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,20 +477,6 @@
       "text": "#Tomeprecaución en #Colima continúa cierre parcial de circulación por #AccidenteVial cerca del Km 311+000, de la carretera Acalpican-Manzanillo, a la altura del poblado Garcero, Mpio. Manzanillo, Col. Atienda indicación vial. #Tomeprecaución en #Colima continúa cierre parcial de ",
       "link": "https://nitter.net/GN_Carreteras/status/2072189298481221648#m",
       "date": "2026-07-01T05:23:22+00:00"
-    },
-    {
-      "id": "c21ee87ccb86",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 124.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecaución en #Jalisco continúa cierre parcial de circulación por #AccidenteVial cerca del Km 124+900, de la carretera Lagos de Moreno-Guadalajara/con Ramal a Yahualica, a la altura del poblado Agua de Obispo, Mpio. San Juan de los Lagos, Jal. Atienda indicación vial. #Tomep",
-      "link": "https://nitter.net/GN_Carreteras/status/2072166008794616266#m",
-      "date": "2026-07-01T03:50:50+00:00"
     }
   ]
 }
