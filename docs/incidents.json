@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-01T19:10:35.955610+00:00",
-  "count": 33,
+  "updated": "2026-07-01T20:11:27.071724+00:00",
+  "count": 34,
   "incidents": [
     {
-      "id": "baa960124928",
+      "id": "6d5b0832907d",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -12,7 +12,21 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 166, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre camión de carga y automóviles. Atiende las indicaciones viales y maneja con precaución. Consulta la ubicación aquí: ",
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 166, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQueré",
+      "link": "https://nitter.net/CAPUFE/status/2072404598317273281#m",
+      "date": "2026-07-01T19:38:54+00:00"
+    },
+    {
+      "id": "53ceb237428e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 166.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 166, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre camión de carga y automóviles. Atiende las indicaciones viales y maneja con precaución. Consulta la ubicación aquí: https://",
       "link": "https://nitter.net/CAPUFE/status/2072394525209673956#m",
       "date": "2026-07-01T18:58:52+00:00"
     },
