@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-01T14:19:05.745386+00:00",
-  "count": 38,
+  "updated": "2026-07-01T15:26:09.087648+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "ceb4c7f85e43",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 23.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 23, dirección Lechería. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 23, dirección Lechería. El a",
+      "link": "https://nitter.net/CAPUFE/status/2072339924204876066#m",
+      "date": "2026-07-01T15:21:54+00:00"
+    },
+    {
+      "id": "5d88e3e0d31c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 23.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 23, dirección Lechería. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 23, dirección Lechería. Reduc",
+      "link": "https://nitter.net/CAPUFE/status/2072336281137283429#m",
+      "date": "2026-07-01T15:07:26+00:00"
+    },
+    {
+      "id": "75bb48bc69bd",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 143.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #Accidentevial cerca del Km 143+800 de la carretera San Hipolito-Xalapa dirección Xalapa. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #Accidentev",
+      "link": "https://nitter.net/GN_Carreteras/status/2072333563626733763#m",
+      "date": "2026-07-01T14:56:38+00:00"
+    },
+    {
+      "id": "a5b131e3b11f",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 9.0,
+      "lat": 28.71984,
+      "lon": -106.10158,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 9, dirección Guaymas. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 9, direcció",
+      "link": "https://nitter.net/CAPUFE/status/2072332338747383953#m",
+      "date": "2026-07-01T14:51:46+00:00"
+    },
     {
       "id": "3a92dd555f30",
       "account": "@capufe",
@@ -325,48 +381,6 @@
       "date": "2026-07-01T08:42:29+00:00"
     },
     {
-      "id": "92c78c505c8c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 13, dirección Lechería. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 13, dirección Lechería. Reduc",
-      "link": "https://nitter.net/CAPUFE/status/2072231647433355690#m",
-      "date": "2026-07-01T08:11:39+00:00"
-    },
-    {
-      "id": "178e81787567",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 77.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 77, dirección La Tinaja. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 77, dirección La T",
-      "link": "https://nitter.net/CAPUFE/status/2072223854282309648#m",
-      "date": "2026-07-01T07:40:41+00:00"
-    },
-    {
-      "id": "750ff0b3a811",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 99.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 99, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 99, dirección La",
-      "link": "https://nitter.net/CAPUFE/status/2072213151257416118#m",
-      "date": "2026-07-01T06:58:09+00:00"
-    },
-    {
       "id": "d6d0a28ceca1",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -407,20 +421,6 @@
       "text": "#Tomeprecaución en #Colima continúa cierre parcial de circulación por #AccidenteVial cerca del Km 311+000, de la carretera Acalpican-Manzanillo, a la altura del poblado Garcero, Mpio. Manzanillo, Col. Atienda indicación vial. #Tomeprecaución en #Colima continúa cierre parcial de ",
       "link": "https://nitter.net/GN_Carreteras/status/2072189298481221648#m",
       "date": "2026-07-01T05:23:22+00:00"
-    },
-    {
-      "id": "ece299a386b3",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 27.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, del km 27 al 29, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , del km 27 al 29, dirección CDMX. El incidente ha",
-      "link": "https://nitter.net/CAPUFE/status/2072173213753184362#m",
-      "date": "2026-07-01T04:19:27+00:00"
     },
     {
       "id": "c21ee87ccb86",
@@ -519,20 +519,6 @@
       "text": "#VialidadLibre en #Veracruz tras cierre de circulación por #AccidenteVial cerca del km. 116+450, de la carretera San Hipólito-Xalapa. Maneje con precaución. #VialidadLibre en #Veracruz tras cierre de circulación por #AccidenteVial cerca del km. 116+450, de la carretera San Hipóli",
       "link": "https://nitter.net/GN_Carreteras/status/2072116080227557574#m",
       "date": "2026-07-01T00:32:26+00:00"
-    },
-    {
-      "id": "3a03a4565d80",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Guerrero tras cierre de circulación por #AccidenteVial cerca del Km 024+800, de la carretera Chilpancingo-Acapulco, con dirección a Chilpancingo de los Bravo, Gro. Maneje con precaución. #ViaLibre en #Guerrero tras cierre de circulación por #AccidenteVial cerca del ",
-      "link": "https://nitter.net/GN_Carreteras/status/2072113483529719849#m",
-      "date": "2026-07-01T00:22:07+00:00"
     }
   ]
 }
