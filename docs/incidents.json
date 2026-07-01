@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-01T10:45:51.034387+00:00",
-  "count": 34,
+  "updated": "2026-07-01T12:03:02.301364+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "93193252da12",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 172.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Champotón - Campeche, km 172, dirección Campeche. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se regist",
+      "link": "https://nitter.net/CAPUFE/status/2072284419210018847#m",
+      "date": "2026-07-01T11:41:21+00:00"
+    },
+    {
+      "id": "a4ccb28015e9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 48.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 48, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 48, dirección Cuernavaca. El accidente ha",
+      "link": "https://nitter.net/CAPUFE/status/2072283823572738449#m",
+      "date": "2026-07-01T11:38:59+00:00"
+    },
     {
       "id": "b8ac91d4819c",
       "account": "@capufe",
@@ -309,20 +337,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 178, dirección Acayucan. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 178, direcc",
       "link": "https://nitter.net/CAPUFE/status/2072134239420563545#m",
       "date": "2026-07-01T01:44:35+00:00"
-    },
-    {
-      "id": "a1763fffe808",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 187.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 187, dirección Magdalena. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 187, direcc",
-      "link": "https://nitter.net/CAPUFE/status/2072129033949643221#m",
-      "date": "2026-07-01T01:23:54+00:00"
     },
     {
       "id": "678005ef9d00",
