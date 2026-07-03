@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T05:27:27.690418+00:00",
-  "count": 33,
+  "updated": "2026-07-03T08:36:00.048567+00:00",
+  "count": 32,
   "incidents": [
     {
       "id": "228ac160c5c8",
@@ -267,20 +267,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 160, dirección Cuernavaca. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 160, d",
       "link": "https://nitter.net/CAPUFE/status/2072830517691494589#m",
       "date": "2026-07-02T23:51:21+00:00"
-    },
-    {
-      "id": "70c808492e45",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 289.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura del km 289. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura del km 289. Disminuye tu vel",
-      "link": "https://nitter.net/CAPUFE/status/2072830143903486074#m",
-      "date": "2026-07-02T23:49:52+00:00"
     },
     {
       "id": "52a17fb54765",
