@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-04T15:06:18.131860+00:00",
-  "count": 36,
+  "updated": "2026-07-04T16:31:32.001232+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "2a94b63e32d1",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 65.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Querétaro - Irapuato, km 65, dirección Irapuato. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las maniobras de grúa para el retiro de la unidad siniestrada.",
+      "link": "https://nitter.net/CAPUFE/status/2073444121553887675#m",
+      "date": "2026-07-04T16:29:35+00:00"
+    },
+    {
+      "id": "6d0933449b27",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 65.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Querétaro - Irapuato, km 65, dirección Irapuato. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras para el retiro de la unidad siniestrada. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣",
+      "link": "https://nitter.net/CAPUFE/status/2073441395436552677#m",
+      "date": "2026-07-04T16:18:46+00:00"
+    },
+    {
+      "id": "d211ef0c4169",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 48.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Agua Dulce - Cárdenas, km 48, dirección Agua Dulce. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Agua Dulce - Cárdenas, km 48, dirección Agua Dulce. El accidente ha sido a",
+      "link": "https://nitter.net/CAPUFE/status/2073440896796782678#m",
+      "date": "2026-07-04T16:16:47+00:00"
+    },
+    {
+      "id": "d403de532085",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 172.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guaymas - Hermosillo, km 172, dirección Guaymas. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guaymas - Hermosillo, km 172, dirección Guaymas. ",
+      "link": "https://nitter.net/CAPUFE/status/2073431403383943325#m",
+      "date": "2026-07-04T15:39:03+00:00"
+    },
     {
       "id": "90a13460550d",
       "account": "@capufe",
@@ -143,20 +199,6 @@
       "date": "2026-07-04T14:05:28+00:00"
     },
     {
-      "id": "ce79843657db",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 65.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Querétaro - Irapuato, km 65, dirección Irapuato. Se informa a las personas usuarias que continúa reducción de carriles. El personal se encuentra realizando los servicios periciales. Atiende las indicaciones viales y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2073406841401295130#m",
-      "date": "2026-07-04T14:01:27+00:00"
-    },
-    {
       "id": "d528dec04cdc",
       "account": "@capufe",
       "type": "accident",
@@ -267,34 +309,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 83, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 83, dirección Isla. El incidente ha ",
       "link": "https://nitter.net/CAPUFE/status/2073390833492017564#m",
       "date": "2026-07-04T12:57:51+00:00"
-    },
-    {
-      "id": "ef4a727fbe39",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 16.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 16. Circulación en contraflujo por atención de accidente (choque lateral). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 16",
-      "link": "https://nitter.net/CAPUFE/status/2073389292592791699#m",
-      "date": "2026-07-04T12:51:43+00:00"
-    },
-    {
-      "id": "55bafbd474ad",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 185.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Champotón - Campeche, km 185, dirección Campeche. Se informa a las personas usuarias que continúa la reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de la unidad sinies",
-      "link": "https://nitter.net/CAPUFE/status/2073381665875882334#m",
-      "date": "2026-07-04T12:21:25+00:00"
     },
     {
       "id": "21ec2dffd7e3",
@@ -505,6 +519,20 @@
       "text": "#Tomeprecauciones en #Oaxaca se registra cierre parcial de circulación tras maniobras por #AccidenteVial cerca del Km 259+700, de la ctra. Pinotepa Nacional-Salina Cruz, a la altura del poblado El Ébano, con Dir. a Puerto Escondido. Atienda indicación vial. #Tomeprecauciones en #",
       "link": "https://nitter.net/GN_Carreteras/status/2073181217466302810#m",
       "date": "2026-07-03T23:04:54+00:00"
+    },
+    {
+      "id": "85bb6fa4583c",
+      "account": "@capufe",
+      "type": "fire",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 185.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Champotón - Campeche, km 185, dirección Campeche. Cierre a la circulación por atención de incendio de tracto camión tipo pipa. Toma tus precauciones. 🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Seybaplaya permanecerá cerrada en ",
+      "link": "https://nitter.net/CAPUFE/status/2073125344844866015#m",
+      "date": "2026-07-03T19:22:53+00:00"
     }
   ]
 }
