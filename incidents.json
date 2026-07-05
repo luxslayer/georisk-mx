@@ -1,7 +1,91 @@
 {
-  "updated": "2026-07-05T11:36:00.175330+00:00",
+  "updated": "2026-07-05T13:43:01.662292+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "19cb06ed976a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 83.0,
+      "lat": 19.094225,
+      "lon": -98.309225,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 083+300, de la carretera México-Puebla, a la altura del Mpio. de San Matías Tlalancaleca, con Dir. a CdMx. Atienda indicación vial. #Tomeprecauciones en #Puebla se registra cier",
+      "link": "https://nitter.net/GN_Carreteras/status/2073761720938467397#m",
+      "date": "2026-07-05T13:31:37+00:00"
+    },
+    {
+      "id": "e76be8242f4d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 142.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 142, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 142, dirección Acatzingo. ",
+      "link": "https://nitter.net/CAPUFE/status/2073761455623537133#m",
+      "date": "2026-07-05T13:30:34+00:00"
+    },
+    {
+      "id": "091d46be89ab",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 28.0,
+      "lat": 18.089867,
+      "lon": -94.8076,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 28, dirección Cosoleacaque. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 28, dirección C",
+      "link": "https://nitter.net/CAPUFE/status/2073757338926788656#m",
+      "date": "2026-07-05T13:14:12+00:00"
+    },
+    {
+      "id": "56f1d37dcb5f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 142.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 142, dirección Acatzingo. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - A",
+      "link": "https://nitter.net/CAPUFE/status/2073753370846802110#m",
+      "date": "2026-07-05T12:58:26+00:00"
+    },
+    {
+      "id": "26057b9fe773",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 230.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Carbonera - Puerto México, km 230, dirección Puerto México. Circulación intermitente por atención de accidente (salida del camino de tracto camión). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE C",
+      "link": "https://nitter.net/CAPUFE/status/2073744110943445069#m",
+      "date": "2026-07-05T12:21:39+00:00"
+    },
+    {
+      "id": "15f4445d5490",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 185.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Champotón - Campeche, km 185, dirección Campeche. Se informa a las personas usuarias que continúa reducción de carriles. El personal se encuentra laborando en la atención del accidente. Atiende las indicaciones viales y maneja con precaución. ",
+      "link": "https://nitter.net/CAPUFE/status/2073739017212899647#m",
+      "date": "2026-07-05T12:01:24+00:00"
+    },
     {
       "id": "8e643441e753",
       "account": "@capufe",
@@ -269,48 +353,6 @@
       "date": "2026-07-05T04:35:17+00:00"
     },
     {
-      "id": "428263c06c32",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 185.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Champotón - Campeche, km 185, dirección Campeche. Se informa a las personas usuarias que continúa reducción de carriles. El personal se encuentra laborando en la atención del accidente. Atiende las indicaciones viales y maneja con precaución. ",
-      "link": "https://nitter.net/CAPUFE/status/2073625154559660249#m",
-      "date": "2026-07-05T04:28:57+00:00"
-    },
-    {
-      "id": "6e903924ae73",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 136.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 136, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 136, dirección Acatzingo. ",
-      "link": "https://nitter.net/CAPUFE/status/2073624540266090962#m",
-      "date": "2026-07-05T04:26:31+00:00"
-    },
-    {
-      "id": "66588c76aec3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 232.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Carbonera - Puerto México, km 232, dirección Puerto México. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones. En la zona se registra carga vehicular. Consulta la ubicación aquí: https://maps.app",
-      "link": "https://nitter.net/CAPUFE/status/2073620053317025980#m",
-      "date": "2026-07-05T04:08:41+00:00"
-    },
-    {
       "id": "a662ccac4732",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -323,34 +365,6 @@
       "text": "#ViaLibre en #Michoacán tras cierre total de circulación por #AccidenteVial cerca del Km 188+000, de la carretera Maravatío-Zapotlanejo, a inmediaciones del Mpio. Cruz de Caminos. Maneje con precaución. #ViaLibre en #Michoacán tras cierre total de circulación por #AccidenteVial c",
       "link": "https://nitter.net/GN_Carreteras/status/2073619609534537755#m",
       "date": "2026-07-05T04:06:55+00:00"
-    },
-    {
-      "id": "d1cde5a15bfb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 74.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 74, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 74, dirección CDMX. El accidente ha sido atendido. Tram",
-      "link": "https://nitter.net/CAPUFE/status/2073618402220912925#m",
-      "date": "2026-07-05T04:02:07+00:00"
-    },
-    {
-      "id": "320b7e60b772",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Salina Cruz - La Ventosa, km 20. Circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Salina Cruz",
-      "link": "https://nitter.net/CAPUFE/status/2073616342859620421#m",
-      "date": "2026-07-05T03:53:56+00:00"
     },
     {
       "id": "8588e7e53aad",
@@ -519,20 +533,6 @@
       "text": "#Tomeprecauciones en #Guerrero se registra cierre de circulación en ambos sentidos por #AccidenteVial cerca del Km 173+600, de la ctra. Cuernavaca-Chilpancingo, a la altura del Mpio. San Miguel de las Palmas, con dirección a Celaya. Atienda indicación vial. #Tomeprecauciones en #",
       "link": "https://nitter.net/GN_Carreteras/status/2073506251451879845#m",
       "date": "2026-07-04T20:36:28+00:00"
-    },
-    {
-      "id": "bb0bee33fbc7",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 63.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del Km 063+900, de la carretera Querétaro-Irapuato, a inmediaciones de la localidad de Juventino Rosas, con dirección a Celaya. Atienda indicación vial. #Tomeprecauciones en #Guana",
-      "link": "https://nitter.net/GN_Carreteras/status/2073482047130079280#m",
-      "date": "2026-07-04T19:00:18+00:00"
     }
   ]
 }
