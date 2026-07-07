@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-07T05:39:37.539521+00:00",
-  "count": 38,
+  "updated": "2026-07-07T09:44:56.667190+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "a6f2e5a1c73b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 75.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 075+500, de la carretera Tuxpan-Tampico, a la altura del Mpio. de Tuxpan. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por",
+      "link": "https://nitter.net/GN_Carreteras/status/2074414365986488825#m",
+      "date": "2026-07-07T08:45:00+00:00"
+    },
+    {
+      "id": "dfe252db9221",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 117.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuacnopalan - Oaxaca, km 117. Cierre a la circulación en ambos sentidos por atención de accidente (choque por alcance entre tracto camión y camioneta). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autop",
+      "link": "https://nitter.net/CAPUFE/status/2074407100541755415#m",
+      "date": "2026-07-07T08:16:08+00:00"
+    },
+    {
+      "id": "8463003b268d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Teziutlán–Nautla",
+      "route_key": "teziutlan-nautla",
+      "km": 48.0,
+      "lat": 20.08,
+      "lon": -97.0,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 048+700, de la carretera Teziutlán-Nautla, a la altura de la Loc. La Piedrilla, con dirección a Tlapacoyan. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra",
+      "link": "https://nitter.net/GN_Carreteras/status/2074396021732295036#m",
+      "date": "2026-07-07T07:32:06+00:00"
+    },
     {
       "id": "e6af81d97d52",
       "account": "@GN_carreteras",
@@ -311,20 +353,6 @@
       "date": "2026-07-06T22:01:35+00:00"
     },
     {
-      "id": "8075bc94f2cf",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 90.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, del km 90 al 92, dirección Puebla. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla , del km 90 ",
-      "link": "https://nitter.net/CAPUFE/status/2074252178483486963#m",
-      "date": "2026-07-06T22:00:31+00:00"
-    },
-    {
       "id": "9fa74d590226",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -365,20 +393,6 @@
       "text": "#Tomeprecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del Km 005+800, de la carretera Matamoros-Reynosa, a la altura de la Loc. La Reforma, con Dir. a Cd. Alemán. Atienda indicación vial. #Tomeprecauciones en #Tamaulipas se registra c",
       "link": "https://nitter.net/GN_Carreteras/status/2074248702835749196#m",
       "date": "2026-07-06T21:46:43+00:00"
-    },
-    {
-      "id": "bda957063f5e",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 216.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 Aut. Cuernavaca - Acapulco, km 216. Se informa a las personas usuarias que se retiran los manifestantes. Por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 SE RETIRAN M",
-      "link": "https://nitter.net/CAPUFE/status/2074248478998310944#m",
-      "date": "2026-07-06T21:45:49+00:00"
     },
     {
       "id": "97da822e319e",
@@ -423,20 +437,6 @@
       "date": "2026-07-06T21:26:09+00:00"
     },
     {
-      "id": "7230ec65be1a",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 216.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Cuernavaca - Acapulco, km 216. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información, llama al 0️⃣7️⃣4️⃣. Consulta la ubicación aquí: ",
-      "link": "https://nitter.net/CAPUFE/status/2074232675402227928#m",
-      "date": "2026-07-06T20:43:01+00:00"
-    },
-    {
       "id": "5e879f0f0b07",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -449,20 +449,6 @@
       "text": "#EviteLaZona en #EdoMx se registra cierre total de circulación en ambos sentidos por presencia de personas, Km 040+200 de la ctra. Naucalpan–Toluca. Se orienta a la población #RutaAlterna Ctra. estatal núm. 36, Av. Amomolulco, EdoMx. Atienda indicación vial. #EviteLaZona en #EdoM",
       "link": "https://nitter.net/GN_Carreteras/status/2074225555927392387#m",
       "date": "2026-07-06T20:14:44+00:00"
-    },
-    {
-      "id": "77179359c4cf",
-      "account": "@capufe",
-      "type": "rollover",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 237.0,
-      "lat": 20.588,
-      "lon": -100.39,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Guaymas - Hermosillo, km 237, dirección Hermosillo. Se informa a las personas usuarias que se registra reducción de carriles por atención de salida del camino y volcadura de autobús. Maneja con precaución. Para más información llama al ",
-      "link": "https://nitter.net/CAPUFE/status/2074223846333329673#m",
-      "date": "2026-07-06T20:07:56+00:00"
     },
     {
       "id": "061d6c46d21b",
@@ -505,34 +491,6 @@
       "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 045+000, de la carretera Perote-Teziutlán, a la altura del Mpio. de Perote, con dirección a Perote. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre ",
       "link": "https://nitter.net/GN_Carreteras/status/2074166011377394002#m",
       "date": "2026-07-06T16:18:07+00:00"
-    },
-    {
-      "id": "edf50e274998",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 169.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del Km 169+500, de la carretera Quiroga-Tepalcatepec, a inmediaciones de la Loc. Nueva Italia de Ruiz. Atienda indicación vial. #Tomeprecauciones en #Michoacán se registra cierre pa",
-      "link": "https://nitter.net/GN_Carreteras/status/2074145193058529552#m",
-      "date": "2026-07-06T14:55:24+00:00"
-    },
-    {
-      "id": "4d54a123c45d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 60.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del Km 060+000, de la carretera Libramiento Norte de la Ciudad de México, con dirección a Tula, Hgo. Atienda indicación vial. #PrecauciónVial en #Hidalgo se registra cierre parcial de c",
-      "link": "https://nitter.net/GN_Carreteras/status/2074137795224801371#m",
-      "date": "2026-07-06T14:26:00+00:00"
     }
   ]
 }
