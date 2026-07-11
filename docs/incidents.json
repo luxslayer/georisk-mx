@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-11T18:26:19.187954+00:00",
+  "updated": "2026-07-11T19:42:24.760976+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "654f0d4d333d",
+      "account": "@GN_carreteras",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 179.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @GN_Carreteras: Se invita a la población a tomar la Ruta Alterna hacia el km 179+000, de la Carretera Libre San Pedro Barajas-Las Cañas. Se invita a la población a tomar la Ruta Alterna hacia el km 179+000, de la Carretera Libre San Pedro Barajas-Las Cañas.",
+      "link": "https://nitter.net/GN_Carreteras/status/2076020435389485489#m",
+      "date": "2026-07-11T19:06:57+00:00"
+    },
+    {
+      "id": "43e4ba516a41",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 198.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán se registra cierre total por #AccidenteVial cerca del Km 198+500, de la carretera Uruapan-Lázaro Cárdenas (Pátzcuaro-Uruapan)-Lázaro Cárdenas, a la altura del Mpio. de El Ingenio, con dirección a Uruapan. Atienda indicación vial. #TomePrecauciones ",
+      "link": "https://nitter.net/GN_Carreteras/status/2076020433736884598#m",
+      "date": "2026-07-11T19:06:56+00:00"
+    },
+    {
+      "id": "dc8c731cb1a5",
+      "account": "@capufe",
+      "type": "rollover",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 168.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 168, dirección Acayucan. Reducción de carriles por atención de volcadura de camioneta. El personal de CAPUFE se encuentra realizando las labores de atención. En la zona se registra carga vehicular. ➡️ Direcci",
+      "link": "https://nitter.net/CAPUFE/status/2076015291159678996#m",
+      "date": "2026-07-11T18:46:30+00:00"
+    },
+    {
+      "id": "a338603c9613",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 129.0,
+      "lat": 18.88865,
+      "lon": -96.982675,
+      "resolved": true,
+      "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del Km 129+800, de la carretera Puebla-Córdoba, a la altura del Mpio. de Chachapa, con dirección Puebla. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del Km 129+800, de la carretera Puebla-Córdoba, a la altur",
+      "link": "https://nitter.net/GN_Carreteras/status/2076011513169469800#m",
+      "date": "2026-07-11T18:31:29+00:00"
+    },
+    {
+      "id": "d5d89af1c654",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 141.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruzse registra #AccidenteVial cerca del Km 141+200, de la carretera Perote-Banderilla, a la altura de la localidad de Tengonapa, con dirección a Banderilla. Maneje con precaución. #TomePrecauciones en #Veracruzse registra #AccidenteVial cerca del Km 141",
+      "link": "https://nitter.net/GN_Carreteras/status/2076010799269654769#m",
+      "date": "2026-07-11T18:28:39+00:00"
+    },
     {
       "id": "4aa6dc19cdc0",
       "account": "@GN_carreteras",
@@ -339,20 +409,6 @@
       "date": "2026-07-11T11:28:26+00:00"
     },
     {
-      "id": "5388b907fb5e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 33.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 33, dirección Querétaro. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se",
-      "link": "https://nitter.net/CAPUFE/status/2075902650663498149#m",
-      "date": "2026-07-11T11:18:54+00:00"
-    },
-    {
       "id": "dfdb9bb4a81e",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -449,62 +505,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial por #AccidenteVial cerca del Km 065+500, de la carretera México-Puebla, a la altura de El Pipirín, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial por #AccidenteVial c",
       "link": "https://nitter.net/GN_Carreteras/status/2075806111223906523#m",
       "date": "2026-07-11T04:55:18+00:00"
-    },
-    {
-      "id": "b0f8b2e30723",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 204.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guerrero se registra cierre parcial por #AccidenteVial cerca del Km 204+300, de la carretera Cuernavaca-Chilpancingo, a la altura del poblado Tulimán, Mpio. Huitzuco de los Figueroa, con dirección a Cuernavaca. Atienda indicación vial. #TomePrecauciones en #",
-      "link": "https://nitter.net/GN_Carreteras/status/2075804626700374276#m",
-      "date": "2026-07-11T04:49:24+00:00"
-    },
-    {
-      "id": "b1aa4da6c0ac",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 112.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chiapas se registran maniobras por #AccidenteVial cerca del Km 112+600, de la carretera Tapanatepec-Talismán con Ramales a Unión Juárez y Cd. Hidalgo, a la altura del poblado La Esperanza. Maneje con precaución. #TomePrecauciones en #Chiapas se registran man",
-      "link": "https://nitter.net/GN_Carreteras/status/2075796506385186827#m",
-      "date": "2026-07-11T04:17:08+00:00"
-    },
-    {
-      "id": "fcf06863e747",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 118.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial Km 118+100, de la carretera Janos-Agua Prieta, a la altura del Rancho El Valle, con dirección a Agua Prieta. Atienda indicación vial. #TomePrecauciones en #Sonora se registra cierre parcial ",
-      "link": "https://nitter.net/GN_Carreteras/status/2075777658240061587#m",
-      "date": "2026-07-11T03:02:14+00:00"
-    },
-    {
-      "id": "670b9baf744a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Gdl–Tepic",
-      "route_key": "guadalajara-tepic",
-      "km": 149.0,
-      "lat": 21.3454,
-      "lon": -104.64,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Nayarit se registra #AccidenteVial Km 149+400, de la carretera Guadalajara-Tepic, a la altura del Mpio. San Leonel, Nay. Maneje con precaución. #TomePrecauciones en #Nayarit se registra #AccidenteVial Km 149+400, de la carretera Guadalajara-Tepic, a la altur",
-      "link": "https://nitter.net/GN_Carreteras/status/2075772932253421594#m",
-      "date": "2026-07-11T02:43:27+00:00"
     }
   ]
 }
