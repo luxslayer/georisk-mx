@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-11T11:53:45.990424+00:00",
+  "updated": "2026-07-11T13:22:33.202147+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "8f6840983ae8",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 144.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra #AccidenteVial cerca del Km 144+600, de la carretera Perote-Banderilla, a la altura de la localidad El Rodeo sin afectación a la circulación. Maneje con precaución. #TomePrecauciones en #Veracruz se registra #AccidenteVial cerca del Km 1",
+      "link": "https://nitter.net/GN_Carreteras/status/2075929616804466796#m",
+      "date": "2026-07-11T13:06:04+00:00"
+    },
+    {
+      "id": "210ed88cf115",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 186.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 186, dirección Gómez Palacio. Continúa reducción de carriles por atención de accidente (labores de limpieza). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, ",
+      "link": "https://nitter.net/CAPUFE/status/2075915142294810713#m",
+      "date": "2026-07-11T12:08:33+00:00"
+    },
     {
       "id": "fff5dc4a9de0",
       "account": "@capufe",
@@ -269,20 +297,6 @@
       "date": "2026-07-11T08:01:08+00:00"
     },
     {
-      "id": "c097ad56cabf",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 66.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 66, dirección CDMX. Reducción de carriles por atención de accidente (salida de neumático de tracto camión tipo pipa). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 66, dirección CDMX. ",
-      "link": "https://nitter.net/CAPUFE/status/2075849824457343416#m",
-      "date": "2026-07-11T07:49:00+00:00"
-    },
-    {
       "id": "97b5adada6a8",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -533,20 +547,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial por #AccidenteVial cerca del Km 081+100, de la carretera México-Puebla, a la altura de Palmillas, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial por #AccidenteVial ce",
       "link": "https://nitter.net/GN_Carreteras/status/2075711500744884473#m",
       "date": "2026-07-10T22:39:21+00:00"
-    },
-    {
-      "id": "d4bbfb76f531",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 88.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guerrero se registra presencia de personas, km 088+800, de la ctra. Chilpo-Acapulco, a la altura de la Caseta de Cobro No. 103, Palo Blanco. Se mantienen las plumas levantadas y piden una cooperación voluntaria. Atienda indicación vial. #TomePrecauciones en ",
-      "link": "https://nitter.net/GN_Carreteras/status/2075708525536305348#m",
-      "date": "2026-07-10T22:27:31+00:00"
     }
   ]
 }
