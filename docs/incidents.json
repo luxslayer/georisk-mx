@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-11T14:34:39.918763+00:00",
-  "count": 37,
+  "updated": "2026-07-11T15:57:41.470951+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "d756c4374ff7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 33.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 33, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 33, dirección Querétaro",
+      "link": "https://nitter.net/CAPUFE/status/2075970305579687975#m",
+      "date": "2026-07-11T15:47:45+00:00"
+    },
+    {
+      "id": "d244f2e4f13a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 186.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Gómez Palacio - Corralitos, km 186, dirección Gómez Palacio. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Gómez Palacio - Corralitos, km 186, d",
+      "link": "https://nitter.net/CAPUFE/status/2075961040848736729#m",
+      "date": "2026-07-11T15:10:56+00:00"
+    },
+    {
+      "id": "d3ff26aa4c6e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 42.0,
+      "lat": 32.1644,
+      "lon": -116.918,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 42, dirección Ensenada. Reducción de carriles por atención de accidente (salida del camino y choque contra defensas metálicas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada",
+      "link": "https://nitter.net/CAPUFE/status/2075956615098863866#m",
+      "date": "2026-07-11T14:53:21+00:00"
+    },
+    {
+      "id": "9e3c48379305",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Gdl–Tepic",
+      "route_key": "guadalajara-tepic",
+      "km": 55.0,
+      "lat": 20.904,
+      "lon": -103.835,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Jalisco se registra #AccidenteVial cerca del Km 055+600, de la carretera Guadalajara-Tepic, a la altura del Mpio. de Ojo Zarco, Jal., con dirección a la Plaza de Cobro Plan de Barrancas. Maneje con precaución. #TomePrecauciones en #Jalisco se registra #Accid",
+      "link": "https://nitter.net/GN_Carreteras/status/2075954453262295141#m",
+      "date": "2026-07-11T14:44:45+00:00"
+    },
+    {
+      "id": "b30119c5b8d3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 186.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 186, dirección Gómez Palacio. Continúa reducción de carriles por atención de accidente (labores de limpieza). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, ",
+      "link": "https://nitter.net/CAPUFE/status/2075953947009802480#m",
+      "date": "2026-07-11T14:42:44+00:00"
+    },
     {
       "id": "2c7a9641c008",
       "account": "@capufe",
@@ -225,48 +295,6 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Pera - Cuautla, km 22, dirección Cuautla. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). ➡ Dirección La Pera, continúa reducción de carriles. Toma tus precauciones. Para más información",
       "link": "https://nitter.net/CAPUFE/status/2075885165264449768#m",
       "date": "2026-07-11T10:09:26+00:00"
-    },
-    {
-      "id": "8d1d818e9ea4",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 148.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 148. Se informa a las personas usuarias que el incidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RE",
-      "link": "https://nitter.net/CAPUFE/status/2075871113486160021#m",
-      "date": "2026-07-11T09:13:35+00:00"
-    },
-    {
-      "id": "95bffcc7e90c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 22.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 22. Reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 22. Reducción de carriles",
-      "link": "https://nitter.net/CAPUFE/status/2075869526856519906#m",
-      "date": "2026-07-11T09:07:17+00:00"
-    },
-    {
-      "id": "40889000b1ff",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 148.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 148. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos. El personal se encuentra realizando las labores de limpieza. Toma tus precauciones. Para más información llama al 0⃣",
-      "link": "https://nitter.net/CAPUFE/status/2075863822275887595#m",
-      "date": "2026-07-11T08:44:37+00:00"
     },
     {
       "id": "dfdb9bb4a81e",
@@ -505,20 +533,6 @@
       "text": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación en un carril en ambos sentidos por #AccidenteVial Km 86+800, de la ctra. Lib. Arco Norte CdMx, a la altura del Mpio. Atitalaquia. Atienda indicación vial. #TomePrecauciones en #Hidalgo se registra cierre parc",
       "link": "https://nitter.net/GN_Carreteras/status/2075724499303989284#m",
       "date": "2026-07-10T23:31:00+00:00"
-    },
-    {
-      "id": "38c2f394389c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Acapulco",
-      "route_key": "mexico-acapulco",
-      "km": 295.0,
-      "lat": 16.945423,
-      "lon": -99.76005,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial por #AccidenteVial cerca del Km 295+500, de la carretera Maravatio-Zapotlanejo, a inmediaciones del Mpio. El Zapote, con dirección a Ecuandureo. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre ",
-      "link": "https://nitter.net/GN_Carreteras/status/2075723279591977329#m",
-      "date": "2026-07-10T23:26:09+00:00"
     }
   ]
 }
