@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-12T14:03:37.090631+00:00",
+  "updated": "2026-07-12T15:33:09.677997+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "6f7c1435e4d1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Toluca–Palmillas",
+      "route_key": "toluca-palmillas",
+      "km": 119.0,
+      "lat": 20.26,
+      "lon": -100.22,
+      "resolved": true,
+      "text": "#TomePrecauciones en #EdoMéx se registra #AccidenteVial cerca del Km 119+600, de la carretera Toluca-Palmillas, en el Mpio. de Polotitlán, con dirección a San Juan del Río. Atienda indicación vial. #TomePrecauciones en #EdoMéx se registra #AccidenteVial cerca del Km 119+600, de l",
+      "link": "https://nitter.net/GN_Carreteras/status/2076311026673287556#m",
+      "date": "2026-07-12T14:21:39+00:00"
+    },
     {
       "id": "61b138324c37",
       "account": "@capufe",
@@ -449,20 +463,6 @@
       "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del Km 129+800, de la carretera Puebla-Córdoba, a la altura del Mpio. de Chachapa, con dirección Puebla. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del Km 129+800, de la carretera Puebla-Córdoba, a la altur",
       "link": "https://nitter.net/GN_Carreteras/status/2076011513169469800#m",
       "date": "2026-07-11T18:31:29+00:00"
-    },
-    {
-      "id": "d5d89af1c654",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 141.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruzse registra #AccidenteVial cerca del Km 141+200, de la carretera Perote-Banderilla, a la altura de la localidad de Tengonapa, con dirección a Banderilla. Maneje con precaución. #TomePrecauciones en #Veracruzse registra #AccidenteVial cerca del Km 141",
-      "link": "https://nitter.net/GN_Carreteras/status/2076010799269654769#m",
-      "date": "2026-07-11T18:28:39+00:00"
     }
   ]
 }
