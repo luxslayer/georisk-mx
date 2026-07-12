@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-12T10:35:12.017383+00:00",
+  "updated": "2026-07-12T12:00:38.947848+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "067f2273fcf6",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 25.0,
+      "lat": 19.268333,
+      "lon": -98.763333,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Tlaxcala se registra #AccidenteVial cerca del Km 025+400, de la carretera Ent. Carr. (México - Puebla) Ocotoxco, a inmediaciones de la comunidad de Totolac, con dirección a Apizaco. Atienda indicación vial. #TomePrecauciones en #Tlaxcala se registra #Acciden",
+      "link": "https://nitter.net/GN_Carreteras/status/2076273670717067296#m",
+      "date": "2026-07-12T11:53:13+00:00"
+    },
+    {
+      "id": "3d24eeb88824",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 120.0,
+      "lat": 17.828153,
+      "lon": -99.614247,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 120, dirección Acapulco. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 120, dirección Acapulco",
+      "link": "https://nitter.net/CAPUFE/status/2076269853497852081#m",
+      "date": "2026-07-12T11:38:02+00:00"
+    },
+    {
+      "id": "5613cdaf2c3b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Nayarit se registra #AccidenteVial cerca del Km 021+500, de la carretera Tepic-Mazatlán, a la altura del Mpio. de Tepic, con dirección a Mazatlán. Atienda indicación vial. #TomePrecauciones en #Nayarit se registra #AccidenteVial cerca del Km 021+500, de la c",
+      "link": "https://nitter.net/GN_Carreteras/status/2076264925068988747#m",
+      "date": "2026-07-12T11:18:27+00:00"
+    },
     {
       "id": "dc6dcf9e7c6a",
       "account": "@capufe",
@@ -325,20 +367,6 @@
       "date": "2026-07-12T02:43:27+00:00"
     },
     {
-      "id": "9afb495e3b61",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 31.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 31, dirección Cosoleacaque. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque",
-      "link": "https://nitter.net/CAPUFE/status/2076135226644848766#m",
-      "date": "2026-07-12T02:43:05+00:00"
-    },
-    {
       "id": "97bdf252907f",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -449,34 +477,6 @@
       "text": "#TomePrecauciones en #Veracruzse registra #AccidenteVial cerca del Km 141+200, de la carretera Perote-Banderilla, a la altura de la localidad de Tengonapa, con dirección a Banderilla. Maneje con precaución. #TomePrecauciones en #Veracruzse registra #AccidenteVial cerca del Km 141",
       "link": "https://nitter.net/GN_Carreteras/status/2076010799269654769#m",
       "date": "2026-07-11T18:28:39+00:00"
-    },
-    {
-      "id": "4aa6dc19cdc0",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 7.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Tabasco se registra #AccidenteVial cerca del Km 007+900, de la carretera Villahermosa-Escopetazo, a la altura de la localidad de Río Viejo, con dirección a Villahermosa. Maneje con precaución. #TomePrecauciones en #Tabasco se registra #AccidenteVial cerca de",
-      "link": "https://nitter.net/GN_Carreteras/status/2076009196231774251#m",
-      "date": "2026-07-11T18:22:17+00:00"
-    },
-    {
-      "id": "0cee7bd3e9af",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #EdoMéx se registra #AccidenteVial cerca del Km 013+500, de la carretera México (Ecatepec)-Ent. Tizayuca, a la altura del Mpio. San Pedro Xalostoc, con dirección a Cd. Méx. Maneje con precaución. #TomePrecauciones en #EdoMéx se registra #AccidenteVial cerca d",
-      "link": "https://nitter.net/GN_Carreteras/status/2076006793478631918#m",
-      "date": "2026-07-11T18:12:44+00:00"
     }
   ]
 }
