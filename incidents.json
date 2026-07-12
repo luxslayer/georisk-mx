@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-12T08:37:58.763880+00:00",
+  "updated": "2026-07-12T10:35:12.017383+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "dc6dcf9e7c6a",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 86.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 86. Concluyen labores de mantenimiento, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja",
+      "link": "https://nitter.net/CAPUFE/status/2076236096975810668#m",
+      "date": "2026-07-12T09:23:54+00:00"
+    },
     {
       "id": "6fb880f2bdfa",
       "account": "@GN_carreteras",
@@ -323,20 +337,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 31, dirección Cosoleacaque. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque",
       "link": "https://nitter.net/CAPUFE/status/2076135226644848766#m",
       "date": "2026-07-12T02:43:05+00:00"
-    },
-    {
-      "id": "bd76cffbf0f2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 204.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Carbonera - Puerto México, km 204, dirección Puerto México. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴",
-      "link": "https://nitter.net/CAPUFE/status/2076132370869051596#m",
-      "date": "2026-07-12T02:31:44+00:00"
     },
     {
       "id": "97bdf252907f",
