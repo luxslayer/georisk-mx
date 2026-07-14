@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-14T22:57:19.483472+00:00",
-  "count": 38,
+  "updated": "2026-07-14T23:58:25.405519+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "43d5f92b4132",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 142.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 142+000, de la carretera Coatzacoalcos - Villahermosa, a la altura del Mpio. de Villahermosa, con dirección a Villahermosa. Atienda indicación vial. #TomePrecauciones en #Tabas",
+      "link": "https://nitter.net/GN_Carreteras/status/2077176599863034122#m",
+      "date": "2026-07-14T23:41:08+00:00"
+    },
+    {
+      "id": "51bd500aa7cd",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 151.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 151+600, de la carretera Tapanatepec - Talismán, a la altura del Mpio. de Echegaray, con dirección a Tapachula. Atienda indicación vial. #TomePrecauciones en #Chiapas se regist",
+      "link": "https://nitter.net/GN_Carreteras/status/2077175641208676561#m",
+      "date": "2026-07-14T23:37:19+00:00"
+    },
+    {
+      "id": "ccfbdd3a6a67",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 88.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 88, dirección Acapulco. Reducción de carriles laterales por atención de accidente (persona atropellada). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuern",
+      "link": "https://nitter.net/CAPUFE/status/2077174047696187762#m",
+      "date": "2026-07-14T23:30:59+00:00"
+    },
+    {
+      "id": "ceac5fe51ba7",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 79.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del km 079+835, de la carretera Libramiento Norte de la Cd. de México, a la altura del Mpio. de Teocalco, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Hidalg",
+      "link": "https://nitter.net/GN_Carreteras/status/2077166054120231304#m",
+      "date": "2026-07-14T22:59:13+00:00"
+    },
     {
       "id": "b16e84c35f45",
       "account": "@capufe",
@@ -325,20 +381,6 @@
       "date": "2026-07-14T19:08:38+00:00"
     },
     {
-      "id": "5c49a1a3a568",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 126.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, del km 126 al 127, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , del km 126 al 127, dirección Quer",
-      "link": "https://nitter.net/CAPUFE/status/2077105459203289572#m",
-      "date": "2026-07-14T18:58:26+00:00"
-    },
-    {
       "id": "f5530bf11e9a",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -351,20 +393,6 @@
       "text": "#VíaLibre en #Chiapas tras #AccidenteVial cerca del km 161+500, de la carretera Las Choapas - Ocozocoautla, a la altura del Mpio. de Ocozocoautla. Maneje con precaución. #VíaLibre en #Chiapas tras #AccidenteVial cerca del km 161+500, de la carretera Las Choapas - Ocozocoautla, a ",
       "link": "https://nitter.net/GN_Carreteras/status/2077104394026238166#m",
       "date": "2026-07-14T18:54:12+00:00"
-    },
-    {
-      "id": "12c4b51e5d69",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 264.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Autopista Cd. Mendoza - Córdoba, del km 264 al 266, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Autopista Cd. Mendoz",
-      "link": "https://nitter.net/CAPUFE/status/2077104375596503313#m",
-      "date": "2026-07-14T18:54:08+00:00"
     },
     {
       "id": "2c6660769bcd",
@@ -491,48 +519,6 @@
       "text": "#ViaLibre en #Veracruz tras presencia de personas, km 083+050, de la ctra. Buenavista-Tuxtepec, en la Caseta de Cobro No. 118 Cosamaloapan. Maneje con precaución. #ViaLibre en #Veracruz tras presencia de personas, km 083+050, de la ctra. Buenavista-Tuxtepec, en la Caseta de Cobro",
       "link": "https://nitter.net/GN_Carreteras/status/2077029935156219962#m",
       "date": "2026-07-14T13:58:20+00:00"
-    },
-    {
-      "id": "35fae4e7610e",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 2.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del km 002+100, de la carretera Apizaco-Tejocotal, a la altura de la Loc. Plan de Ayala, con dirección Huamantla. Atienda indicación vial. #TomePrecauciones en #Tlaxcala se registra ",
-      "link": "https://nitter.net/GN_Carreteras/status/2076997942762688743#m",
-      "date": "2026-07-14T11:51:12+00:00"
-    },
-    {
-      "id": "bd96cd0fab0b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Teziutlán–Nautla",
-      "route_key": "teziutlan-nautla",
-      "km": 43.0,
-      "lat": 20.06125,
-      "lon": -97.03125,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 043+800, de la carretera Teziutlan-Nautla, a la altura del Mpio. La Tapona, con dirección a la Cuenca de las Tortugas. Atienda indicación vial. #TomePrecauciones en #Jalisco se",
-      "link": "https://nitter.net/GN_Carreteras/status/2076935293567955007#m",
-      "date": "2026-07-14T07:42:16+00:00"
-    },
-    {
-      "id": "23feac8be371",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 139.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre de circulación por #AccidenteVial cerca del km 139+400, de la carretera Perote-Xalapa, a la altura del Mpio. Acajete. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre de circulación por #AccidenteVial cer",
-      "link": "https://nitter.net/GN_Carreteras/status/2076910646046708211#m",
-      "date": "2026-07-14T06:04:19+00:00"
     }
   ]
 }
