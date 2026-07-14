@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-14T08:35:49.081197+00:00",
+  "updated": "2026-07-14T10:47:41.065967+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "fdab54674d55",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 83.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista La Tinaja - Isla, km 83, dirección Isla. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista La Tinaja - Isla, k",
+      "link": "https://nitter.net/CAPUFE/status/2076979072333148339#m",
+      "date": "2026-07-14T10:36:13+00:00"
+    },
+    {
+      "id": "58215c6b0f40",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 139.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guaymas - Hermosillo, km 139, dirección Guaymas. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢",
+      "link": "https://nitter.net/CAPUFE/status/2076970796577136806#m",
+      "date": "2026-07-14T10:03:20+00:00"
+    },
     {
       "id": "bd96cd0fab0b",
       "account": "@GN_carreteras",
@@ -17,7 +45,7 @@
       "date": "2026-07-14T07:42:16+00:00"
     },
     {
-      "id": "c15e2f7896ab",
+      "id": "6f547eb3a771",
       "account": "@capufe",
       "type": "traffic",
       "highway": "La Tinaja–Cosoleacaque",
@@ -26,7 +54,7 @@
       "lat": 18.149,
       "lon": -94.448,
       "resolved": true,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 83, dirección Isla. Se informa a las personas usuarias que se retiran los manifestantes. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja co",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 83, dirección Isla. Se informa a las personas usuarias que se retiran los manifestantes. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y man",
       "link": "https://nitter.net/CAPUFE/status/2076932300281893207#m",
       "date": "2026-07-14T07:30:22+00:00"
     },
@@ -365,34 +393,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 60, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 60, dirección Querétaro. El accidente ha sid",
       "link": "https://nitter.net/CAPUFE/status/2076845379534934155#m",
       "date": "2026-07-14T01:44:59+00:00"
-    },
-    {
-      "id": "e9e2e00d95e4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 0. Continúa reducción de carriles en la gaza de incorporación a la Autopista Acatzingo - Cd. Mendoza, dir. Acatzingo, por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se regist",
-      "link": "https://nitter.net/CAPUFE/status/2076844882950344963#m",
-      "date": "2026-07-14T01:43:00+00:00"
-    },
-    {
-      "id": "5799078c099c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 60.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 60, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 60, dirección Querétaro. El accidente ha sido atendido. En la zona se re",
-      "link": "https://nitter.net/CAPUFE/status/2076841634906493028#m",
-      "date": "2026-07-14T01:30:06+00:00"
     },
     {
       "id": "9dd709048008",
