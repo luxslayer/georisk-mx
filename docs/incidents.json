@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-14T17:21:24.558830+00:00",
+  "updated": "2026-07-14T18:38:55.050065+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "98a911d27275",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con ",
+      "link": "https://nitter.net/CAPUFE/status/2077098645996838925#m",
+      "date": "2026-07-14T18:31:22+00:00"
+    },
+    {
+      "id": "271526d78040",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 90.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 90, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 90, dirección Córdoba. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2077089434797834277#m",
+      "date": "2026-07-14T17:54:46+00:00"
+    },
+    {
+      "id": "2c6660769bcd",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 118.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 118+000, de la carretera Villahermosa - Francisco Escárcega, a la altura del poblado de Emiliano Zapata, con dirección Chablé. Atienda indicación vial. #TomePrecauciones en #Ch",
+      "link": "https://nitter.net/GN_Carreteras/status/2077088278168096959#m",
+      "date": "2026-07-14T17:50:10+00:00"
+    },
+    {
+      "id": "3b3acf2c51fc",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 74.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoCuernavaca, km 74, dirección Cuernavaca. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoCuernavaca , km 74, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2077083686189543429#m",
+      "date": "2026-07-14T17:31:55+00:00"
+    },
+    {
+      "id": "d71137c79f78",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 89.0,
+      "lat": 20.2984,
+      "lon": -99.7412,
+      "resolved": true,
+      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 089+907, de la carretera México - Querétaro, a la altura de la localidad de San Pablo Huantepec, con dirección Cd. Méx. Atienda indicación vial. #TomePrecauciones en #EdoMéx se ",
+      "link": "https://nitter.net/GN_Carreteras/status/2077082852882067858#m",
+      "date": "2026-07-14T17:28:37+00:00"
+    },
     {
       "id": "54a37c780ef6",
       "account": "@capufe",
@@ -283,48 +353,6 @@
       "date": "2026-07-14T15:19:03+00:00"
     },
     {
-      "id": "8b5056c1bfc7",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 73.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 73, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla , km 73, dirección Puebla. Redu",
-      "link": "https://nitter.net/CAPUFE/status/2077050042200785281#m",
-      "date": "2026-07-14T15:18:14+00:00"
-    },
-    {
-      "id": "9040916978e2",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 79.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, del km 79 al 80, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla , del km 79 al 80, di",
-      "link": "https://nitter.net/CAPUFE/status/2077049535004606558#m",
-      "date": "2026-07-14T15:16:13+00:00"
-    },
-    {
-      "id": "eea2aff58361",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Córdoba - Veracruz, del km 48 al 55. Circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autop",
-      "link": "https://nitter.net/CAPUFE/status/2077047854074347718#m",
-      "date": "2026-07-14T15:09:32+00:00"
-    },
-    {
       "id": "6191bec09241",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -505,34 +533,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 003+800, de la carretera Teziutlan-Nautla, a la altura del Mpio. Hueytamalco. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por",
       "link": "https://nitter.net/GN_Carreteras/status/2076850036391006287#m",
       "date": "2026-07-14T02:03:29+00:00"
-    },
-    {
-      "id": "9dd709048008",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 158.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 158+800, de la carretera Poza Rica-Veracruz, a la altura del Mpio. Vega de Alatorre. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circ",
-      "link": "https://nitter.net/GN_Carreteras/status/2076813871650632121#m",
-      "date": "2026-07-13T23:39:46+00:00"
-    },
-    {
-      "id": "345d17b70eee",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Veracruz",
-      "route_key": "puebla-veracruz",
-      "km": 52.0,
-      "lat": 18.932,
-      "lon": -97.2768,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 052+150, de la carretera Monclova-Piedras Negras, a la altura de la Loc. Primero de Mayo, con dirección a Piedras Negras. Atienda indicación vial. #TomePrecauciones en #Coahui",
-      "link": "https://nitter.net/GN_Carreteras/status/2076789093187375379#m",
-      "date": "2026-07-13T22:01:19+00:00"
     }
   ]
 }
