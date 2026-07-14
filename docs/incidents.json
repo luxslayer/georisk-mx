@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-14T12:14:12.917538+00:00",
-  "count": 37,
+  "updated": "2026-07-14T14:24:04.728473+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "2c4c08bc0e9c",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 83.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Veracruz tras presencia de personas, km 083+050, de la ctra. Buenavista-Tuxtepec, en la Caseta de Cobro No. 118 Cosamaloapan. Maneje con precaución. #ViaLibre en #Veracruz tras presencia de personas, km 083+050, de la ctra. Buenavista-Tuxtepec, en la Caseta de Cobro",
+      "link": "https://nitter.net/GN_Carreteras/status/2077029935156219962#m",
+      "date": "2026-07-14T13:58:20+00:00"
+    },
+    {
+      "id": "602eacf68605",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 90.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 90, dirección CDMX. Reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéx",
+      "link": "https://nitter.net/CAPUFE/status/2077026968243929524#m",
+      "date": "2026-07-14T13:46:33+00:00"
+    },
+    {
+      "id": "3dc547805e82",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 37.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Barranca Larga - Ventanilla, km 37. Cierre a la circulación en ambos sentidos por atención de accidente (choque de frente). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Barranca Larga - Ventan",
+      "link": "https://nitter.net/CAPUFE/status/2077025197970825392#m",
+      "date": "2026-07-14T13:39:31+00:00"
+    },
     {
       "id": "35fae4e7610e",
       "account": "@GN_carreteras",
@@ -339,34 +381,6 @@
       "date": "2026-07-14T02:53:47+00:00"
     },
     {
-      "id": "fea01e5cd83a",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 17. Cierres intermitentes en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCU",
-      "link": "https://nitter.net/CAPUFE/status/2076855336028213639#m",
-      "date": "2026-07-14T02:24:32+00:00"
-    },
-    {
-      "id": "8ee5c8aad15d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 0. El accidente en la gaza de incorporación a la Autopista Acatzingo - Cd. Mendoza, dir. Acatzingo, ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢",
-      "link": "https://nitter.net/CAPUFE/status/2076854370402972109#m",
-      "date": "2026-07-14T02:20:42+00:00"
-    },
-    {
       "id": "1295c3e14c80",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -379,34 +393,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 003+800, de la carretera Teziutlan-Nautla, a la altura del Mpio. Hueytamalco. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación por",
       "link": "https://nitter.net/GN_Carreteras/status/2076850036391006287#m",
       "date": "2026-07-14T02:03:29+00:00"
-    },
-    {
-      "id": "203578aeabed",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 56.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Continúa carga veh",
-      "link": "https://nitter.net/CAPUFE/status/2076846912443957739#m",
-      "date": "2026-07-14T01:51:04+00:00"
-    },
-    {
-      "id": "633cea7e8bb6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 60.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 60, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 60, dirección Querétaro. El accidente ha sid",
-      "link": "https://nitter.net/CAPUFE/status/2076845379534934155#m",
-      "date": "2026-07-14T01:44:59+00:00"
     },
     {
       "id": "9dd709048008",
@@ -505,20 +491,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial por #AccidenteVial cerca del Km 086+400, de la carretera Amozoc-Perote, a inmediaciones de la Loc. Guadalupe Sarabia, con dirección a Xalapa. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial p",
       "link": "https://nitter.net/GN_Carreteras/status/2076711333576290395#m",
       "date": "2026-07-13T16:52:20+00:00"
-    },
-    {
-      "id": "18c07313dc38",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 21.0,
-      "lat": 18.257,
-      "lon": -94.93075,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial por #AccidenteVial cerca del Km 021+500, de la carretera Ent. La tinaja-Cosoleacaque , a la altura de Paso de la Palma, con dirección a la Tinaja. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre ",
-      "link": "https://nitter.net/GN_Carreteras/status/2076696706620489756#m",
-      "date": "2026-07-13T15:54:12+00:00"
     }
   ]
 }
