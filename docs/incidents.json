@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-14T10:47:41.065967+00:00",
+  "updated": "2026-07-14T12:14:12.917538+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "35fae4e7610e",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 2.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del km 002+100, de la carretera Apizaco-Tejocotal, a la altura de la Loc. Plan de Ayala, con dirección Huamantla. Atienda indicación vial. #TomePrecauciones en #Tlaxcala se registra ",
+      "link": "https://nitter.net/GN_Carreteras/status/2076997942762688743#m",
+      "date": "2026-07-14T11:51:12+00:00"
+    },
     {
       "id": "fdab54674d55",
       "account": "@capufe",
@@ -505,20 +519,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial por #AccidenteVial cerca del Km 021+500, de la carretera Ent. La tinaja-Cosoleacaque , a la altura de Paso de la Palma, con dirección a la Tinaja. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre ",
       "link": "https://nitter.net/GN_Carreteras/status/2076696706620489756#m",
       "date": "2026-07-13T15:54:12+00:00"
-    },
-    {
-      "id": "a8d623140b3b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 139.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Puebla se registra #AccidenteVial cerca del Km 139+600, de la carretera Tulancingo - Tihuatlán, en el Mpio. de Huauchinango, con dirección a Tihuatlán. Atienda indicación vial. #TomePrecauciones en #Puebla se registra #AccidenteVial cerca del Km 139+600, de ",
-      "link": "https://nitter.net/GN_Carreteras/status/2076659310654881962#m",
-      "date": "2026-07-13T13:25:36+00:00"
     }
   ]
 }
