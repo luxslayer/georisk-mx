@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-15T08:13:53.194868+00:00",
+  "updated": "2026-07-15T10:20:24.842984+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "1d415ca38847",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 47.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 47, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 47, dirección CDMX. Reducción de c",
+      "link": "https://nitter.net/CAPUFE/status/2077328979724288046#m",
+      "date": "2026-07-15T09:46:38+00:00"
+    },
+    {
+      "id": "02e844c881c4",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 11.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 11, dirección La Pera. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 11, dirección La Pera. El incid",
+      "link": "https://nitter.net/CAPUFE/status/2077314132332745165#m",
+      "date": "2026-07-15T08:47:38+00:00"
+    },
+    {
+      "id": "c87e8ee566cc",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 11.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 11, dirección La Pera. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 11, dirección La P",
+      "link": "https://nitter.net/CAPUFE/status/2077313064454541665#m",
+      "date": "2026-07-15T08:43:23+00:00"
+    },
+    {
+      "id": "08b995baba32",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 12.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 12, dirección La Pera. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 12, dirección La Pera. El incid",
+      "link": "https://nitter.net/CAPUFE/status/2077312999702818992#m",
+      "date": "2026-07-15T08:43:08+00:00"
+    },
     {
       "id": "d68fa15a58ed",
       "account": "@GN_carreteras",
@@ -463,62 +519,6 @@
       "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 72, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla , km 72, dirección CDMX. Reducció",
       "link": "https://nitter.net/CAPUFE/status/2077158105981280464#m",
       "date": "2026-07-14T22:27:38+00:00"
-    },
-    {
-      "id": "efc7acf739a0",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 56.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
-      "link": "https://nitter.net/CAPUFE/status/2077155726598734002#m",
-      "date": "2026-07-14T22:18:11+00:00"
-    },
-    {
-      "id": "b15eb2d20786",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Córdoba - Veracruz, del km 48 al 55. Conctinúa circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIEN",
-      "link": "https://nitter.net/CAPUFE/status/2077154555947618780#m",
-      "date": "2026-07-14T22:13:32+00:00"
-    },
-    {
-      "id": "7b3803e52d49",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 89.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 89, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla , km 89, dirección CDMX. Reducció",
-      "link": "https://nitter.net/CAPUFE/status/2077154294801830087#m",
-      "date": "2026-07-14T22:12:30+00:00"
-    },
-    {
-      "id": "57b200b9e9ea",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 73.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 73, dirección Puebla. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla , km 73, dirección Pue",
-      "link": "https://nitter.net/CAPUFE/status/2077153598526406984#m",
-      "date": "2026-07-14T22:09:44+00:00"
     }
   ]
 }
