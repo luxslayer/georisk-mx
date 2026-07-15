@@ -1,7 +1,91 @@
 {
-  "updated": "2026-07-15T19:13:35.314444+00:00",
-  "count": 27,
+  "updated": "2026-07-15T20:33:47.658358+00:00",
+  "count": 28,
   "incidents": [
+    {
+      "id": "efd7b62a4614",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 4.0,
+      "lat": 18.308,
+      "lon": -95.003,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 4, dirección Isla. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de las unidades siniestradas). En la zona se registra ",
+      "link": "https://nitter.net/CAPUFE/status/2077490898116489538#m",
+      "date": "2026-07-15T20:30:02+00:00"
+    },
+    {
+      "id": "7571b1ead059",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 68.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#AlMomento en #Jalisco se libera un carril con Dir. a Acatlán y continúa cierre parcial por #AccidenteVial cerca del km 068+000, de la carretera Acatlán de Juárez-Colima, a la altura del Mpio. Usmajac, con dirección a Colima. Atienda indicación vial. #AlMomento en #Jalisco se lib",
+      "link": "https://nitter.net/GN_Carreteras/status/2077487413199335820#m",
+      "date": "2026-07-15T20:16:11+00:00"
+    },
+    {
+      "id": "8661f2cebf6c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 4.0,
+      "lat": 18.308,
+      "lon": -95.003,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 4, dirección Isla. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 A",
+      "link": "https://nitter.net/CAPUFE/status/2077485433324270025#m",
+      "date": "2026-07-15T20:08:19+00:00"
+    },
+    {
+      "id": "281d4c036c33",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 4.0,
+      "lat": 18.308,
+      "lon": -95.003,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 4, dirección Isla. Reducción de carriles por atención de accidente en la zona de obras (choque por alcance entre tracto camiones). Carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista ",
+      "link": "https://nitter.net/CAPUFE/status/2077480736085467327#m",
+      "date": "2026-07-15T19:49:39+00:00"
+    },
+    {
+      "id": "626972941226",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 88.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. Libramiento Cuernavaca, km 88, dirección Acapulco. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. El personal se encuentra realizando el reacomodo de muros. En el punto del accidente se da vialidad ",
+      "link": "https://nitter.net/CAPUFE/status/2077479838105968937#m",
+      "date": "2026-07-15T19:46:05+00:00"
+    },
+    {
+      "id": "f4d26b9ca310",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 4.0,
+      "lat": 18.308,
+      "lon": -95.003,
+      "resolved": true,
+      "text": "#PrecauciónVial en #Veracruz se registra cierre parcial tras #AccidenteVial cerca del km 004+000, de la carretera Ent. La Tinaja-Cosoleacaque, con dirección a Cosamaloapan. Maneje con precaución. #PrecauciónVial en #Veracruz se registra cierre parcial tras #AccidenteVial cerca de",
+      "link": "https://nitter.net/GN_Carreteras/status/2077479029397995870#m",
+      "date": "2026-07-15T19:42:52+00:00"
+    },
     {
       "id": "597d5f4e5783",
       "account": "@GN_carreteras",
@@ -59,7 +143,7 @@
       "date": "2026-07-15T18:46:44+00:00"
     },
     {
-      "id": "4bc0254787fe",
+      "id": "77f40f9dcd2c",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -68,7 +152,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. Libramiento Cuernavaca, km 88, dirección Acapulco. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. En la zona se encuentra el personal de CAPUFE realizando las labores de atención. En el punto del ac",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Libramiento Cuernavaca, km 88, dirección Acapulco. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. En la zona se encuentra el personal de CAPUFE realizando las labores de atención. En el punto ",
       "link": "https://nitter.net/CAPUFE/status/2077446321040965690#m",
       "date": "2026-07-15T17:32:54+00:00"
     },
@@ -199,48 +283,6 @@
       "date": "2026-07-15T16:11:32+00:00"
     },
     {
-      "id": "40476507f078",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 145.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Estación Don - Navojoa, km 145, dirección Navojoa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Estación Don - Navojoa, km 145, dirección Navoj",
-      "link": "https://nitter.net/CAPUFE/status/2077425070499107261#m",
-      "date": "2026-07-15T16:08:28+00:00"
-    },
-    {
-      "id": "a5a8d901ec77",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 88.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Cuernavaca, km 88, dirección Acapulco. Cierre a la circulación en carriles centrales y laterales por atención de accidente (choque contra muro central). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Li",
-      "link": "https://nitter.net/CAPUFE/status/2077423183238451301#m",
-      "date": "2026-07-15T16:00:58+00:00"
-    },
-    {
-      "id": "0ffbe0cbcf13",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 125.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 125 al 126, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro , del km 1",
-      "link": "https://nitter.net/CAPUFE/status/2077414425498116335#m",
-      "date": "2026-07-15T15:26:10+00:00"
-    },
-    {
       "id": "1ca953c537a6",
       "account": "@GN_carreteras",
       "type": "alert",
@@ -351,34 +393,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 141+500, de la carretera Pachuca - Tuxpan, a la altura del Mpio. de Xicotepec, con dirección a Tuxpan. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre p",
       "link": "https://nitter.net/GN_Carreteras/status/2077344395372736938#m",
       "date": "2026-07-15T10:47:53+00:00"
-    },
-    {
-      "id": "eba2887911fc",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 020+100, de la carretera Zapotlanejo - El Desperdicio, a la altura del Mpio. Tepatitlán de Morelos, con dirección El Desperdicio. Atienda indicación vial. #TomePrecauciones en ",
-      "link": "https://nitter.net/GN_Carreteras/status/2077341369568268350#m",
-      "date": "2026-07-15T10:35:52+00:00"
-    },
-    {
-      "id": "bf909009bd9f",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 68.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 068+500, de la carretera Acatlán de Juárez - Colima, en el Mpio. de Cd. Guzmán, con dirección a Colima. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierr",
-      "link": "https://nitter.net/GN_Carreteras/status/2077340673951273196#m",
-      "date": "2026-07-15T10:33:06+00:00"
     }
   ]
 }
