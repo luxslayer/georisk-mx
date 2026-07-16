@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-16T17:18:00.529610+00:00",
+  "updated": "2026-07-16T17:53:38.877483+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "bcc72c50574b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 68.0,
+      "lat": 19.1306,
+      "lon": -98.4206,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 068+200, de la carretera México - Puebla, a la altura del Mpio. de El Pipirín, con direccion a Cd. Méx. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cie",
+      "link": "https://nitter.net/GN_Carreteras/status/2077813522881220976#m",
+      "date": "2026-07-16T17:52:02+00:00"
+    },
+    {
+      "id": "00584eabb5e9",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 187.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 187, dirección Acapulco. Reducción de carriles por atención de incidente (tracto camión con ponchadura de neumático). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km",
+      "link": "https://nitter.net/CAPUFE/status/2077811819427627141#m",
+      "date": "2026-07-16T17:45:16+00:00"
+    },
+    {
+      "id": "867b6eaa6c4c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Lib. Sur Qro.",
+      "route_key": "libramiento-queretaro",
+      "km": 38.0,
+      "lat": 20.53136,
+      "lon": -100.3228,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Querétaro se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 038+100, de la carretera Libramiento Sur Poniente Querétaro, a la altura del Mpio. de Querétaro, con direccion a San Luis Potosí. Atienda indicación vial. #TomePrecaucion",
+      "link": "https://nitter.net/GN_Carreteras/status/2077810434078380183#m",
+      "date": "2026-07-16T17:39:45+00:00"
+    },
+    {
+      "id": "2c73171e897e",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 78.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 78, dirección CDMX. Reducción de carriles por labores de mantenimiento (poda de árboles). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 78, dire",
+      "link": "https://nitter.net/CAPUFE/status/2077806137001345164#m",
+      "date": "2026-07-16T17:22:41+00:00"
+    },
     {
       "id": "1c418e81db9c",
       "account": "@capufe",
@@ -185,6 +241,20 @@
       "date": "2026-07-16T16:28:00+00:00"
     },
     {
+      "id": "bcac51c35c88",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 124.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 124, dirección Querétaro. Se informa a las personas usuarias que continúa reducción de carriles por atención de accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas",
+      "link": "https://nitter.net/CAPUFE/status/2077782899194294685#m",
+      "date": "2026-07-16T15:50:21+00:00"
+    },
+    {
       "id": "6f80818d5a6b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -227,20 +297,6 @@
       "date": "2026-07-16T15:35:13+00:00"
     },
     {
-      "id": "6028d328f11a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 128.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 128, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino de tracto camión y choque contra barreras metálicas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , k",
-      "link": "https://nitter.net/CAPUFE/status/2077777681605619766#m",
-      "date": "2026-07-16T15:29:37+00:00"
-    },
-    {
       "id": "36a0f1e6f6ac",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -269,20 +325,6 @@
       "date": "2026-07-16T15:24:24+00:00"
     },
     {
-      "id": "8bcfed2a5226",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 91.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 91, dirección Córdoba. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 91, dirección Córdoba. Reducci",
-      "link": "https://nitter.net/CAPUFE/status/2077774878585893033#m",
-      "date": "2026-07-16T15:18:28+00:00"
-    },
-    {
       "id": "5168b63b0ab8",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -295,20 +337,6 @@
       "text": "#TomePrecauciones en #Colima se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 280+500, de la carretera Armería - Manzanillo, a la altura del Mpio. San Felipe, con direccion a Zihuatanejo. Maneje con precaución. #TomePrecauciones en #Colima se registra",
       "link": "https://nitter.net/GN_Carreteras/status/2077770339006783621#m",
       "date": "2026-07-16T15:00:26+00:00"
-    },
-    {
-      "id": "a9c7170881b1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 124.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 124, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre tracto camión, autobús, vagonetas y automóvil. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ub",
-      "link": "https://nitter.net/CAPUFE/status/2077769894024654889#m",
-      "date": "2026-07-16T14:58:40+00:00"
     },
     {
       "id": "5172f05a8316",
@@ -463,34 +491,6 @@
       "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #Deslave_y_Socavón cerca del km 066+200, de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. San Dionisio Ocotepec, con direccion a Tehuantepec. Atienda indicación vial. #TomePrecauciones en #Oaxaca ",
       "link": "https://nitter.net/GN_Carreteras/status/2077580432887931127#m",
       "date": "2026-07-16T02:25:49+00:00"
-    },
-    {
-      "id": "4101afff17b0",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 250.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Guerrero se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 250+500, de la carretera Chilpancingo Acapulco, con dirección a Chilpancingo de los Bravo, Gro. Maneje con precaución. #PrecauciónVial en #Guerrero se registra cierre parcia",
-      "link": "https://nitter.net/GN_Carreteras/status/2077574545481863522#m",
-      "date": "2026-07-16T02:02:25+00:00"
-    },
-    {
-      "id": "110608de9248",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 306.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #QRoo tras presencia de personas cerca del km 306+000, de la carretera Kantunil-Puerto Juárez (Ent. Carr. Reforma Agraria-Pto. Juárez), a la altura del Mpio. Benito Juárez, sin afectación a la circulación. Maneje con precaución. #VialidadLibre en #QRoo tras pres",
-      "link": "https://nitter.net/GN_Carreteras/status/2077566055052931285#m",
-      "date": "2026-07-16T01:28:41+00:00"
     }
   ]
 }
