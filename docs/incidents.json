@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-16T20:22:13.072751+00:00",
-  "count": 32,
+  "updated": "2026-07-16T20:48:58.954388+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "ba085fb737c7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 164.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 164. Registra circulación intermitente en ambos sentidos por atención de accidente (choque por alcance múltiple). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 164. Regi",
+      "link": "https://nitter.net/CAPUFE/status/2077855539392815320#m",
+      "date": "2026-07-16T20:38:59+00:00"
+    },
+    {
+      "id": "a1436611950f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 84.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 084+400, de la carretera Carapan - Playa Azul Uruapan - Playa Azul, a la altura del Mpio. El Rastro. Maneje con precaución. #VíaLibre en #Michoacán tras #AccidenteVial cerca del km 084+400, de la carretera Carapan - Playa A",
+      "link": "https://nitter.net/GN_Carreteras/status/2077852146393890969#m",
+      "date": "2026-07-16T20:25:30+00:00"
+    },
     {
       "id": "4ad0d5cdbad6",
       "account": "@capufe",
@@ -435,20 +463,6 @@
       "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 218+200, de la carretera Pinotepa Nacional-Salina Cruz, a la altura del poblado Palotada, Mpio. San Pedro Pochutla, Oax. Maneje con precaución. #TomePrecauciones en #Oaxaca ",
       "link": "https://nitter.net/GN_Carreteras/status/2077747558802243939#m",
       "date": "2026-07-16T13:29:55+00:00"
-    },
-    {
-      "id": "2b86602999ec",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 267.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Oaxaca se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 267+500, de la carretera Coatzacoalcos-Salina Cruz, a la altura del aeropuerto de Ciudad Ixtepec, Mpio. El Espinal, Oax. Atienda indicación vial. #PrecauciónVial en #Oaxaca se",
-      "link": "https://nitter.net/GN_Carreteras/status/2077713414017765846#m",
-      "date": "2026-07-16T11:14:14+00:00"
     }
   ]
 }
