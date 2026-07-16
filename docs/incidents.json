@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-16T22:23:05.867177+00:00",
-  "count": 37,
+  "updated": "2026-07-16T22:48:58.394463+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "281cdccfa800",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 0.0,
+      "lat": 18.32,
+      "lon": -95.02,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 000+300, de la carretera Ent. La Tinaja - Cosoleacaque (directo), a la altura del Mpio. de Cotaxtla, con dirección a Córdoba. Atienda indicación vial. #TomePrecauciones en",
+      "link": "https://nitter.net/GN_Carreteras/status/2077884884987560130#m",
+      "date": "2026-07-16T22:35:36+00:00"
+    },
+    {
+      "id": "659285ca2fa7",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 176.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Hermosillo - Magdalena, km 176, dirección Hermosillo. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Hermosillo - Magdalena, km 176, dirección He",
+      "link": "https://nitter.net/CAPUFE/status/2077882913866060067#m",
+      "date": "2026-07-16T22:27:46+00:00"
+    },
     {
       "id": "7c3a825fc8cf",
       "account": "@GN_carreteras",
@@ -311,20 +339,6 @@
       "date": "2026-07-16T19:37:47+00:00"
     },
     {
-      "id": "34ef96c95fbf",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 46.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 46. Circulación intermitente en ambos sentidos por atención de incidente (camión de carga con falla mecánica). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autop",
-      "link": "https://nitter.net/CAPUFE/status/2077839902234791980#m",
-      "date": "2026-07-16T19:36:51+00:00"
-    },
-    {
       "id": "ee0729770369",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -353,20 +367,6 @@
       "date": "2026-07-16T19:30:44+00:00"
     },
     {
-      "id": "9684f8cb1e13",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 288.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Cd. Mendoza - Córdoba, km 288, dirección Cd. Mendoza. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Cd. Mendoza - Córdoba, km 288, dirección Cd. Mendoza. ",
-      "link": "https://nitter.net/CAPUFE/status/2077837003865968758#m",
-      "date": "2026-07-16T19:25:20+00:00"
-    },
-    {
       "id": "b47fe94d0004",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -379,20 +379,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 002+500, de la carretera Poza Rica - Veracruz, a la altura del Mpio. de Veracruz, con dirección a Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se regi",
       "link": "https://nitter.net/GN_Carreteras/status/2077836951802069267#m",
       "date": "2026-07-16T19:25:08+00:00"
-    },
-    {
-      "id": "c67897b254b4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 207.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 207, dirección Acatzingo. Registra cierre a la circulación por atención de accidente (volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acat",
-      "link": "https://nitter.net/CAPUFE/status/2077836015801078046#m",
-      "date": "2026-07-16T19:21:25+00:00"
     },
     {
       "id": "125c36af15e3",
@@ -505,20 +491,6 @@
       "text": "#TomePrecauciones en #NL se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 066+000, de la carretera Matehuala-Saltillo, a la altura del Mpio. de Doctor Arroyo, con direccion a Matehuala. Atienda indicación vial. #TomePrecauciones en #NL se registra cie",
       "link": "https://nitter.net/GN_Carreteras/status/2077794052359983419#m",
       "date": "2026-07-16T16:34:40+00:00"
-    },
-    {
-      "id": "6f80818d5a6b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 124.0,
-      "lat": 20.4416,
-      "lon": -100.0184,
-      "resolved": true,
-      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 124+000, de la carretera México - Querétaro, a la altura del Mpio. de Encinillas, con direccion a Cd. Méx. Maneje con precaución. #TomePrecauciones en #EdoMéx se registra ci",
-      "link": "https://nitter.net/GN_Carreteras/status/2077782604619637207#m",
-      "date": "2026-07-16T15:49:10+00:00"
     }
   ]
 }
