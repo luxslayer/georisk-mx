@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-16T17:53:38.877483+00:00",
+  "updated": "2026-07-16T18:28:37.079603+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "0ed9ef63dbe4",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Gdl–Tepic",
+      "route_key": "guadalajara-tepic",
+      "km": 81.0,
+      "lat": 21.0288,
+      "lon": -104.017,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 081+900, de la carretera Guadalajara - Tepic, a la altura del Mpio. de Magdalena, con direccion a Tepic. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra ",
+      "link": "https://nitter.net/GN_Carreteras/status/2077821039883514352#m",
+      "date": "2026-07-16T18:21:54+00:00"
+    },
+    {
+      "id": "fcd3d89b2bf1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 25.0,
+      "lat": 19.268333,
+      "lon": -98.763333,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 025+400, de la carretera Ent. (Aut. México-Puebla)- Ocotoxco-(directo), a inmediaciones de la comunidad de Totolac, con direccion a Apizaco. Atienda indicación vial. #Tome",
+      "link": "https://nitter.net/GN_Carreteras/status/2077819039405985936#m",
+      "date": "2026-07-16T18:13:57+00:00"
+    },
+    {
+      "id": "e8cb7d2880c0",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 84.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 084+400, de la carretera Carapan - Playa Azul Uruapan - Playa Azul, a la altura del Mpio. El Rastro, con direccion a Uruapan. Atienda indicación vial. #TomePrecauciones e",
+      "link": "https://nitter.net/GN_Carreteras/status/2077816566352138553#m",
+      "date": "2026-07-16T18:04:08+00:00"
+    },
+    {
+      "id": "f5078e8352e3",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 132.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 132+500, de la carretera Coatzacoalcos Villahermosa, a la altura de la localidad en la 4ta. Secc. Plátano y Cacao, con direccion a Coatzacoalcos. Atienda indicación vial. #",
+      "link": "https://nitter.net/GN_Carreteras/status/2077815018456752203#m",
+      "date": "2026-07-16T17:57:58+00:00"
+    },
     {
       "id": "bcc72c50574b",
       "account": "@GN_carreteras",
@@ -435,62 +491,6 @@
       "text": "#VialidadLibre en #Veracruz tras #AccidenteVial cerca del km 049+900, de la carretera Tihuatlán-Alazan Canoas. Maneje con precaución. #VialidadLibre en #Veracruz tras #AccidenteVial cerca del km 049+900, de la carretera Tihuatlán-Alazan Canoas. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2077614748636442665#m",
       "date": "2026-07-16T04:42:10+00:00"
-    },
-    {
-      "id": "efaa0b8b150b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 284.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Oaxaca se registra cierre parcial tras #AccidenteVial cerca del km 284+500, de la carretera Coatzacoalcos-Salina Cruz, a la altura del poblado Villa de Etla, Mpio. Oaxaca de Juárez, Oax., con dirección a Salina Cruz, Oax. Atienda indicación vial. #PrecauciónVi",
-      "link": "https://nitter.net/GN_Carreteras/status/2077584770087698831#m",
-      "date": "2026-07-16T02:43:03+00:00"
-    },
-    {
-      "id": "a13ea9e0b331",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 92.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #DeslavedeCarpetaAsfaltica cerca del km 092+000, de la carretera Pachuca-Tuxpan, con dirección a Pachuca, Hgo. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por ",
-      "link": "https://nitter.net/GN_Carreteras/status/2077581898386112821#m",
-      "date": "2026-07-16T02:31:38+00:00"
-    },
-    {
-      "id": "2620967942cc",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Puebla continua cierre intermitente de circulación por deslave de talud, cerca del km. 019+600 de la autopista Cuacnopalan-Oaxaca. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre intermitente de circulación por deslave de talud, cerca d",
-      "link": "https://nitter.net/GN_Carreteras/status/2077581110859477354#m",
-      "date": "2026-07-16T02:28:31+00:00"
-    },
-    {
-      "id": "b917ff230368",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 66.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #Deslave_y_Socavón cerca del km 066+200, de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. San Dionisio Ocotepec, con direccion a Tehuantepec. Atienda indicación vial. #TomePrecauciones en #Oaxaca ",
-      "link": "https://nitter.net/GN_Carreteras/status/2077580432887931127#m",
-      "date": "2026-07-16T02:25:49+00:00"
     }
   ]
 }
