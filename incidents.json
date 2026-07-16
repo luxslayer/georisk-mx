@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-16T18:28:37.079603+00:00",
+  "updated": "2026-07-16T18:54:23.445247+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "bc560dd8c9df",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 128.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 128, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 128, dirección CDMX. El accidente ha sido atendi",
+      "link": "https://nitter.net/CAPUFE/status/2077828962789494843#m",
+      "date": "2026-07-16T18:53:23+00:00"
+    },
     {
       "id": "0ed9ef63dbe4",
       "account": "@GN_carreteras",
@@ -295,20 +309,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 91, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 91, dirección Córdoba. El acc",
       "link": "https://nitter.net/CAPUFE/status/2077792373736673737#m",
       "date": "2026-07-16T16:28:00+00:00"
-    },
-    {
-      "id": "bcac51c35c88",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 124.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 124, dirección Querétaro. Se informa a las personas usuarias que continúa reducción de carriles por atención de accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas",
-      "link": "https://nitter.net/CAPUFE/status/2077782899194294685#m",
-      "date": "2026-07-16T15:50:21+00:00"
     },
     {
       "id": "6f80818d5a6b",
