@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-17T06:52:33.687502+00:00",
+  "updated": "2026-07-17T07:42:19.770644+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "ab3d282fbb0e",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Coatza–Salina Cruz",
+      "route_key": "coatzacoalcos-salinaCruz",
+      "km": 4.0,
+      "lat": 18.09155,
+      "lon": -94.4756,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 004+500, de la carretera Coatzacoalcos - Salina Cruz, a la altura del Mpio. de Minatitlán, con dirección a Minatitlán. Atienda indicación vial. #TomePrecauciones en #Verac",
+      "link": "https://nitter.net/GN_Carreteras/status/2078011868099051838#m",
+      "date": "2026-07-17T07:00:11+00:00"
+    },
+    {
+      "id": "24c96b4b5654",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 73.0,
+      "lat": 19.118475,
+      "lon": -98.383475,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 073+500, de la carretera México - Puebla (directo), a la altura del Mpio. de Santa Rita Tlahuapan, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Pue",
+      "link": "https://nitter.net/GN_Carreteras/status/2078009943139975667#m",
+      "date": "2026-07-17T06:52:32+00:00"
+    },
     {
       "id": "c7f73b9199d9",
       "account": "@capufe",
@@ -449,34 +477,6 @@
       "text": "#TomePrecauciones en #Colima se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 232+500, de la carretera Acalpican - Manzanillo, a la altura de la Localidad Cerro de Ortega, con dirección a Manzanillo. Atienda indicación vial. #TomePrecauciones en #Coli",
       "link": "https://nitter.net/GN_Carreteras/status/2077874259632726125#m",
       "date": "2026-07-16T21:53:23+00:00"
-    },
-    {
-      "id": "fb78a9c2241c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 191.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 191+700, de la carretera Libramiento Norte de la Cd. de Méx., a la altura del Mpio. de Calpulalpan, con dirección a San Martín Texmelucan. Atienda indicación vial. #TomePr",
-      "link": "https://nitter.net/GN_Carreteras/status/2077873319446024650#m",
-      "date": "2026-07-16T21:49:39+00:00"
-    },
-    {
-      "id": "6b2557c6bddb",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 216.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 216+100, de la carretera Poza Rica-Veracruz, a la altura del Mpio. de Veracruz, con dirección a Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se regist",
-      "link": "https://nitter.net/GN_Carreteras/status/2077871243030667610#m",
-      "date": "2026-07-16T21:41:23+00:00"
     }
   ]
 }
