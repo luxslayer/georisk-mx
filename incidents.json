@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-17T17:53:19.499090+00:00",
-  "count": 35,
+  "updated": "2026-07-17T18:25:53.413888+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "d88efba1483d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 231.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#EviteLaZona en #Coahuila continua cierre total de circulación por #AccidenteVial cerca del km. 231+500 de la carretera Puerto México - Ojo Caliente, a la altura del Mpio. Arteaga, Coah. Atienda indicación vial. #EviteLaZona en #Coahuila continua cierre total de circulación por #",
+      "link": "https://nitter.net/GN_Carreteras/status/2078182506633855233#m",
+      "date": "2026-07-17T18:18:15+00:00"
+    },
+    {
+      "id": "14523769d26f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 59.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Hgo continua cierre parcial de circulación por #AccidenteVial cerca del km. 059+500 de la carretera México - Pachuca, a la altura de la localidad General Felipe Ángeles, Edo. Méx. Atienda indicación vial. #TomePrecauciones en #Hgo continua cierre parcial de ",
+      "link": "https://nitter.net/GN_Carreteras/status/2078179001323942042#m",
+      "date": "2026-07-17T18:04:19+00:00"
+    },
     {
       "id": "519becc8925f",
       "account": "@GN_carreteras",
@@ -449,48 +477,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 004+500, de la carretera Coatzacoalcos - Salina Cruz, a la altura del Mpio. de Minatitlán, con dirección a Minatitlán. Atienda indicación vial. #TomePrecauciones en #Verac",
       "link": "https://nitter.net/GN_Carreteras/status/2078011868099051838#m",
       "date": "2026-07-17T07:00:11+00:00"
-    },
-    {
-      "id": "24c96b4b5654",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 73.0,
-      "lat": 19.118475,
-      "lon": -98.383475,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 073+500, de la carretera México - Puebla (directo), a la altura del Mpio. de Santa Rita Tlahuapan, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Pue",
-      "link": "https://nitter.net/GN_Carreteras/status/2078009943139975667#m",
-      "date": "2026-07-17T06:52:32+00:00"
-    },
-    {
-      "id": "e798e10b86aa",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 102.0,
-      "lat": 20.3668,
-      "lon": -99.8732,
-      "resolved": true,
-      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 102+200, de la carretera México - Querétaro, a la altura del Mpio. de San Miguel de la Victoria, con dirección a Querétaro. Atienda indicación vial. #TomePrecauciones en #Ed",
-      "link": "https://nitter.net/GN_Carreteras/status/2077971163901276245#m",
-      "date": "2026-07-17T04:18:26+00:00"
-    },
-    {
-      "id": "21f4a8b1f69a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Córdoba",
-      "route_key": "puebla-cordoba",
-      "km": 265.0,
-      "lat": 18.884,
-      "lon": -96.923,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 265+100, de la carretera Puebla-Córdoba (directo), a la altura del Mpio. de Nogales, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Veracruz se reg",
-      "link": "https://nitter.net/GN_Carreteras/status/2077969020041503219#m",
-      "date": "2026-07-17T04:09:55+00:00"
     }
   ]
 }
