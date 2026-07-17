@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-17T10:35:17.273191+00:00",
-  "count": 33,
+  "updated": "2026-07-17T11:31:47.917398+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "58ba907b6e31",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 232.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Carbonera - Puerto México, km 232, dirección Puerto México. Se informa a las personas usuarias que continúa cierre a la circulación por maniobras de grúa para el retiro de las unidades siniestradas. ➡ Dirección La Carbonera, se restabl",
+      "link": "https://nitter.net/CAPUFE/status/2078071079394767334#m",
+      "date": "2026-07-17T10:55:28+00:00"
+    },
     {
       "id": "53ab726a5d12",
       "account": "@capufe",
@@ -295,6 +309,20 @@
       "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 097+600, de la carretera Ent. Tula - Cd. Victoria, a la altura del Mpio. de La Florida, con dirección a Cd. Victoria. Atienda indicación vial. #TomePrecauciones en #Tama",
       "link": "https://nitter.net/GN_Carreteras/status/2077964294780490173#m",
       "date": "2026-07-17T03:51:09+00:00"
+    },
+    {
+      "id": "c3e0ae454945",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 73.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 73. Reducción de carriles en ambos sentidos por atención de choque por alcance múltiple entre tracto camión y automóviles. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://map",
+      "link": "https://nitter.net/CAPUFE/status/2077946452995694872#m",
+      "date": "2026-07-17T02:40:15+00:00"
     },
     {
       "id": "22eec94b3b25",
