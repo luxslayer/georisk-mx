@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-17T20:48:17.820717+00:00",
+  "updated": "2026-07-17T21:18:27.020093+00:00",
   "count": 32,
   "incidents": [
+    {
+      "id": "a37bfb3b2aa0",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 264.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "⚠️ AVISO IMPORTANTE ⚠️ Aut. Cd. Mendoza - Córdoba, km 264, dirección Cd. Mendoza. Cierre a la circulación en las gaza de salida al poblado de Nogales, por presencia de manifestantes fuera de la jurisdicción a cargo de CAPUFE. Para más información llama al 088 de @GN_Carreteras. T",
+      "link": "https://nitter.net/CAPUFE/status/2078227601147953329#m",
+      "date": "2026-07-17T21:17:26+00:00"
+    },
     {
       "id": "c6d0235c08e2",
       "account": "@capufe",
@@ -351,20 +365,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 72, dirección Querétaro. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 72, dirección Querétaro. El incidente ha sid",
       "link": "https://nitter.net/CAPUFE/status/2078152479590543389#m",
       "date": "2026-07-17T16:18:55+00:00"
-    },
-    {
-      "id": "41ad37c61cb6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 102.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 102, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 102, dirección Querétaro. El accidente ha s",
-      "link": "https://nitter.net/CAPUFE/status/2078152311214330206#m",
-      "date": "2026-07-17T16:18:15+00:00"
     },
     {
       "id": "a5475151dd1f",
