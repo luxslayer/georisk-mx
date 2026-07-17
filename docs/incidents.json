@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-17T16:29:08.176109+00:00",
-  "count": 38,
+  "updated": "2026-07-17T16:55:41.439885+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "99c9d2ab0d49",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 80.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 80, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 80, dirección Córdoba. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2078159698478387416#m",
+      "date": "2026-07-17T16:47:37+00:00"
+    },
+    {
+      "id": "15c762a31cad",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 117.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Zacatecas continua cierre parcial de circulación por #AccidenteVial cerca del km 117+600 de la carretera Aguascalientes - Zacatecas, a la altura de la localidad de las jayas. Atienda indicación vial. #TomePrecauciones en #Zacatecas continua cierre parcial de",
+      "link": "https://nitter.net/GN_Carreteras/status/2078159377681240367#m",
+      "date": "2026-07-17T16:46:20+00:00"
+    },
+    {
+      "id": "b065040982fd",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 241.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 241, dirección Cd. Mendoza. Continúa registra reducción de carriles por atención de incidente (caída de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 2",
+      "link": "https://nitter.net/CAPUFE/status/2078158292296048786#m",
+      "date": "2026-07-17T16:42:01+00:00"
+    },
+    {
+      "id": "3bcfcfa21db3",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 79.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 079+900 de la autopista Ent. La Tinaja - Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km",
+      "link": "https://nitter.net/GN_Carreteras/status/2078157105077395956#m",
+      "date": "2026-07-17T16:37:18+00:00"
+    },
     {
       "id": "fc14dff2c344",
       "account": "@GN_carreteras",
@@ -255,48 +311,6 @@
       "date": "2026-07-17T14:05:17+00:00"
     },
     {
-      "id": "d4d3e8cade83",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 102.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 102, dirección Querétaro. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Unidades de CAPUFE continúan realizando operativo de vialidad. Atiende las indicaciones viales y maneja con precaución",
-      "link": "https://nitter.net/CAPUFE/status/2078118187657204167#m",
-      "date": "2026-07-17T14:02:40+00:00"
-    },
-    {
-      "id": "c7945fee2df5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 153.0,
-      "lat": 17.950618,
-      "lon": -94.911673,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 153, dirección Isla. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 ",
-      "link": "https://nitter.net/CAPUFE/status/2078116781508477040#m",
-      "date": "2026-07-17T13:57:04+00:00"
-    },
-    {
-      "id": "bcdb30d68f92",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 144.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 144, dirección Querétaro. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 144, dirección Querétaro. Reducción de c",
-      "link": "https://nitter.net/CAPUFE/status/2078115048052928922#m",
-      "date": "2026-07-17T13:50:11+00:00"
-    },
-    {
       "id": "9bcc3bc6657f",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -505,34 +519,6 @@
       "text": "#VíaLibre en #Jalisco tras #AccidenteVial cerca del km 117+000, de la carretera Acatlán de Juárez - Colima, a la altura de la Localidad Platanar. Maneje con precaución. #VíaLibre en #Jalisco tras #AccidenteVial cerca del km 117+000, de la carretera Acatlán de Juárez - Colima, a l",
       "link": "https://nitter.net/GN_Carreteras/status/2077921590369518011#m",
       "date": "2026-07-17T01:01:27+00:00"
-    },
-    {
-      "id": "934ba000f165",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Córdoba",
-      "route_key": "puebla-cordoba",
-      "km": 208.0,
-      "lat": 18.884,
-      "lon": -96.923,
-      "resolved": true,
-      "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 208+500, de la carretera Puebla-Cordoba (directo), a la altura del Mpio. de Cuesta Blanca. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km 208+500, de la carretera Puebla-Cordoba (directo), a la al",
-      "link": "https://nitter.net/GN_Carreteras/status/2077909444533403780#m",
-      "date": "2026-07-17T00:13:11+00:00"
-    },
-    {
-      "id": "aec7d873744d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 2.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 002+500, de la carretera Poza Rica - Veracruz, a la altura del Mpio. de Veracruz. Maneje con precaución. #VíaLibre en #Veracruz tras #AccidenteVial cerca del km 002+500, de la carretera Poza Rica - Veracruz, a la altura del ",
-      "link": "https://nitter.net/GN_Carreteras/status/2077908867938201767#m",
-      "date": "2026-07-17T00:10:54+00:00"
     }
   ]
 }
