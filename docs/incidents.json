@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-17T08:47:47.299623+00:00",
-  "count": 34,
+  "updated": "2026-07-17T09:37:33.472653+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "4c05a89f7444",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 232.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Carbonera - Puerto México, km 232. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por maniobras de grúa para el retiro de las unidades siniestradas. 🔘 Por seguridad, las Plazas de Cobro Los Ch",
+      "link": "https://nitter.net/CAPUFE/status/2078044095591649331#m",
+      "date": "2026-07-17T09:08:15+00:00"
+    },
+    {
+      "id": "7f4ed41c3240",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 73.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
+      "link": "https://nitter.net/CAPUFE/status/2078041628120396193#m",
+      "date": "2026-07-17T08:58:26+00:00"
+    },
     {
       "id": "1b1b873e8b10",
       "account": "@capufe",
@@ -213,34 +241,6 @@
       "date": "2026-07-17T04:28:37+00:00"
     },
     {
-      "id": "ebcbff556edf",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Méx–Acapulco",
-      "route_key": "mexico-acapulco",
-      "km": 95.0,
-      "lat": 18.584,
-      "lon": -99.234,
-      "resolved": true,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Libramiento Cuernavaca, km 95, dirección CDMX. Cierre a la circulación en el Distribuidor vial Palmira por labores de mantenimiento. En la zona se da vialidad por los carriles laterales. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENT",
-      "link": "https://nitter.net/CAPUFE/status/2077972478492606707#m",
-      "date": "2026-07-17T04:23:40+00:00"
-    },
-    {
-      "id": "3efcb1eb254e",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 84.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Libramiento Cuernavaca, km 84, dirección Acapulco. Cierre de carriles centrales por labores de mantenimiento. Circulación por carriles laterales. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Libramiento Cuernavaca, km 84, direcc",
-      "link": "https://nitter.net/CAPUFE/status/2077972129786507511#m",
-      "date": "2026-07-17T04:22:17+00:00"
-    },
-    {
       "id": "e798e10b86aa",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -253,20 +253,6 @@
       "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 102+200, de la carretera México - Querétaro, a la altura del Mpio. de San Miguel de la Victoria, con dirección a Querétaro. Atienda indicación vial. #TomePrecauciones en #Ed",
       "link": "https://nitter.net/GN_Carreteras/status/2077971163901276245#m",
       "date": "2026-07-17T04:18:26+00:00"
-    },
-    {
-      "id": "f9bef26ced9a",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 22.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 22, dirección CDMX. Reducción de carriles por atención de incidente (servicios periciales). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 22, dirección CDMX. Reducción de carriles por atención",
-      "link": "https://nitter.net/CAPUFE/status/2077970548349415934#m",
-      "date": "2026-07-17T04:16:00+00:00"
     },
     {
       "id": "21f4a8b1f69a",
