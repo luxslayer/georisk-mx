@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-17T23:19:23.424051+00:00",
+  "updated": "2026-07-17T23:48:13.480335+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "3f4b28f18458",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 15.0,
+      "lat": 19.37065,
+      "lon": -99.2958,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Hidalgo continua cierre parcial de circulación por presencia de personas, cerca del km. 015+800 de la carretera Pachuca - Tempoal, a la altura del Mpio. Huejutla, Hgo. Atienda indicación vial. #TomePrecauciones en #Hidalgo continua cierre parcial de circulac",
+      "link": "https://nitter.net/GN_Carreteras/status/2078262879472537863#m",
+      "date": "2026-07-17T23:37:37+00:00"
+    },
+    {
+      "id": "1f4c9c458975",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 53.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #SLP continua cierre parcial de circulación por #AccidenteVial cerca del km. 053+000 de la carretera Corbera - Entorque, a inmediaciones del Mpio Vanegas. Atienda indicación vial. #TomePrecauciones en #SLP continua cierre parcial de circulación por #Accidente",
+      "link": "https://nitter.net/GN_Carreteras/status/2078260936742195277#m",
+      "date": "2026-07-17T23:29:54+00:00"
+    },
+    {
+      "id": "8da2938a4e4b",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 263.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠 Aut. Cd. Mendoza - Córdoba, km 263, dirección Córdoba. Reducción de carriles por presencia de manifestantes. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠 Aut. Cd. Mendoza - Córdoba, km 263, direcc",
+      "link": "https://nitter.net/CAPUFE/status/2078259907401339032#m",
+      "date": "2026-07-17T23:25:48+00:00"
+    },
+    {
+      "id": "e0d60f7c0782",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 53.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #BJ continua cierre parcial de circulación por #AccidenteVial cerca del km. 053+500 de la carretera Mexicali - Tijuana, a la altura de la Localidad La Rumorosa. Atienda indicación vial. #TomePrecauciones en #BJ continua cierre parcial de circulación por #Acci",
+      "link": "https://nitter.net/GN_Carreteras/status/2078259471948607602#m",
+      "date": "2026-07-17T23:24:04+00:00"
+    },
+    {
+      "id": "9ce8b7ea03fc",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 184.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tehuacán - Oaxaca, km 184. Circulación intermitente en ambos sentidos por atención de choque por alcance múltiple entre tracto camión y automóviles. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precauc",
+      "link": "https://nitter.net/CAPUFE/status/2078258461343645703#m",
+      "date": "2026-07-17T23:20:04+00:00"
+    },
     {
       "id": "84e69919a701",
       "account": "@GN_carreteras",
@@ -213,34 +283,6 @@
       "date": "2026-07-17T22:13:11+00:00"
     },
     {
-      "id": "1c6a48acc8a2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 56.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 56, dirección Cuernavaca. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 56, dirección Cuernavaca. El accidente ha sido atendido. En la zona s",
-      "link": "https://nitter.net/CAPUFE/status/2078240336950792309#m",
-      "date": "2026-07-17T22:08:02+00:00"
-    },
-    {
-      "id": "203b419d21aa",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 154.0,
-      "lat": 17.949309,
-      "lon": -94.912836,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 154, dirección Acayucan. Reducción de carriles por atención de accidente (choque contra muro central y volcadura de vagoneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 15",
-      "link": "https://nitter.net/CAPUFE/status/2078239673403548149#m",
-      "date": "2026-07-17T22:05:24+00:00"
-    },
-    {
       "id": "d151044f8f92",
       "account": "@GN_carreteras",
       "type": "alert",
@@ -449,48 +491,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 003+800 de la autopista Nuevo Teapa - Cosoleacaque. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca ",
       "link": "https://nitter.net/GN_Carreteras/status/2078129225106612733#m",
       "date": "2026-07-17T14:46:31+00:00"
-    },
-    {
-      "id": "9bcc3bc6657f",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 104.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 104+400, de la carretera Zapotlanejo - Lagos de Moreno, a la altura del Mpio. San Juan de los Lagos, con dirección a Lagos de Moreno. Atienda indicación vial. #TomePrecauciones",
-      "link": "https://nitter.net/GN_Carreteras/status/2078114779567104195#m",
-      "date": "2026-07-17T13:49:07+00:00"
-    },
-    {
-      "id": "9bf3b32184cd",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 280.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 280+900, de la carretera Uruapan - Lázaro Cárdenas, a la altura de la Plaza de Cobro Feliciano, con dirección a Zihuatanejo. Atienda indicación vial. #TomePrecauciones en #Gue",
-      "link": "https://nitter.net/GN_Carreteras/status/2078106304229315037#m",
-      "date": "2026-07-17T13:15:26+00:00"
-    },
-    {
-      "id": "812d0a939de3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 153.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 153+100, de la carretera Ent. La Tinaja - Cosoleacaque, a la altura del Mpio. San Juan Evangelista, con dirección a Cosamaloapan. Atienda indicación vial. #TomePrecauciones en",
-      "link": "https://nitter.net/GN_Carreteras/status/2078104672393425333#m",
-      "date": "2026-07-17T13:08:57+00:00"
     }
   ]
 }
