@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-17T21:18:27.020093+00:00",
+  "updated": "2026-07-17T21:48:16.258758+00:00",
   "count": 32,
   "incidents": [
+    {
+      "id": "d362879292fa",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 56, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 56",
+      "link": "https://nitter.net/CAPUFE/status/2078230071865729071#m",
+      "date": "2026-07-17T21:27:15+00:00"
+    },
     {
       "id": "a37bfb3b2aa0",
       "account": "@capufe",
@@ -351,20 +365,6 @@
       "text": "#VialidadLibre en #Veracruz tras accidente cerca del km 153+100, de la carretera Ent. La Tinaja - Cosoleacaque, a la altura del Mpio. San Juan Evangelista, con dirección a Cosamaloapan. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente cerca del km 153+100, de la ",
       "link": "https://nitter.net/GN_Carreteras/status/2078153024556425463#m",
       "date": "2026-07-17T16:21:05+00:00"
-    },
-    {
-      "id": "a4bf0c917585",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 72.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 72, dirección Querétaro. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 72, dirección Querétaro. El incidente ha sid",
-      "link": "https://nitter.net/CAPUFE/status/2078152479590543389#m",
-      "date": "2026-07-17T16:18:55+00:00"
     },
     {
       "id": "a5475151dd1f",
