@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-17T19:28:07.357056+00:00",
+  "updated": "2026-07-17T19:54:16.306337+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "a1607dbbb5e6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 232.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Continúa cierre a la circulación por atención de accidente (maniobras para retiro de la unidad siniestrada). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros",
+      "link": "https://nitter.net/CAPUFE/status/2078205862406230162#m",
+      "date": "2026-07-17T19:51:03+00:00"
+    },
+    {
+      "id": "1cee03274f25",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 204.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 204, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, continúa la reducción de carriles por labores de mantenimiento del km 194 al 207. En la zona se r",
+      "link": "https://nitter.net/CAPUFE/status/2078203774825382053#m",
+      "date": "2026-07-17T19:42:45+00:00"
+    },
     {
       "id": "d151044f8f92",
       "account": "@GN_carreteras",
@@ -365,34 +393,6 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Cierre a la circulación por atención de accidente (choque de tracto camión contra talud). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil perma",
       "link": "https://nitter.net/CAPUFE/status/2078132438765584635#m",
       "date": "2026-07-17T14:59:17+00:00"
-    },
-    {
-      "id": "9720bd9f6ca4",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 241.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 241, dirección Cd. Mendoza. Registra reducción de carriles por atención de incidente (caída de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 241, direc",
-      "link": "https://nitter.net/CAPUFE/status/2078131665168195837#m",
-      "date": "2026-07-17T14:56:13+00:00"
-    },
-    {
-      "id": "000a93ec083f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 153.0,
-      "lat": 17.950618,
-      "lon": -94.911673,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 153, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 153, dirección Isla. El accidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2078129755270914184#m",
-      "date": "2026-07-17T14:48:38+00:00"
     },
     {
       "id": "e4c356530af2",
