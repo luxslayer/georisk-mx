@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-17T09:37:33.472653+00:00",
+  "updated": "2026-07-17T10:35:17.273191+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "53ab726a5d12",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 102.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 102, dirección Querétaro. El accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones v",
+      "link": "https://nitter.net/CAPUFE/status/2078058645724492275#m",
+      "date": "2026-07-17T10:06:04+00:00"
+    },
     {
       "id": "4c05a89f7444",
       "account": "@capufe",
@@ -225,20 +239,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 102, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE",
       "link": "https://nitter.net/CAPUFE/status/2077983009488113945#m",
       "date": "2026-07-17T05:05:31+00:00"
-    },
-    {
-      "id": "b7a87b4fa499",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 102.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 102, dirección Querétaro. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #Aut",
-      "link": "https://nitter.net/CAPUFE/status/2077973724620271855#m",
-      "date": "2026-07-17T04:28:37+00:00"
     },
     {
       "id": "e798e10b86aa",
