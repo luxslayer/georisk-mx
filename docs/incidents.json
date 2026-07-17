@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-17T19:54:16.306337+00:00",
+  "updated": "2026-07-17T20:22:30.300176+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "45243f99f2d7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 26.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 26, dirección CDMX. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 26, dirección CDMX. Reducción de carriles por atención de",
+      "link": "https://nitter.net/CAPUFE/status/2078207334770200836#m",
+      "date": "2026-07-17T19:56:54+00:00"
+    },
     {
       "id": "a1607dbbb5e6",
       "account": "@capufe",
@@ -379,20 +393,6 @@
       "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 72, dirección Querétaro. El incidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 72, dirección Querétaro. El incidente ha sido atendido. Sin",
       "link": "https://nitter.net/CAPUFE/status/2078138543507984674#m",
       "date": "2026-07-17T15:23:33+00:00"
-    },
-    {
-      "id": "f227ef945380",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 232.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Cierre a la circulación por atención de accidente (choque de tracto camión contra talud). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil perma",
-      "link": "https://nitter.net/CAPUFE/status/2078132438765584635#m",
-      "date": "2026-07-17T14:59:17+00:00"
     },
     {
       "id": "e4c356530af2",
