@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-18T23:20:03.019064+00:00",
-  "count": 29,
+  "updated": "2026-07-18T23:48:22.932596+00:00",
+  "count": 30,
   "incidents": [
+    {
+      "id": "36bb8491d135",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 198.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 198, dirección CDMX. Se retiran los peregrinos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 198, dirección CDMX. Se retiran los peregrinos. Tram",
+      "link": "https://nitter.net/CAPUFE/status/2078621078839030108#m",
+      "date": "2026-07-18T23:20:58+00:00"
+    },
     {
       "id": "cb78c5ace834",
       "account": "@GN_carreteras",
