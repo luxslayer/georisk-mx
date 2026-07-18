@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-18T15:22:33.788052+00:00",
+  "updated": "2026-07-18T15:48:36.357997+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "9e4b2cc0c088",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 161.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Hermosillo - Magdalena, km 161, dirección Magdalena. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Hermosillo - Magdalena, km 161, dirección Mag",
+      "link": "https://nitter.net/CAPUFE/status/2078502206756503979#m",
+      "date": "2026-07-18T15:28:37+00:00"
+    },
+    {
+      "id": "af7f3c7ddf80",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 2.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Cuchilla - Matamoros, km 2, dirección La Cuchilla. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Cu",
+      "link": "https://nitter.net/CAPUFE/status/2078501943312277685#m",
+      "date": "2026-07-18T15:27:34+00:00"
+    },
     {
       "id": "7738741550d3",
       "account": "@capufe",
@@ -225,34 +253,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 108, dirección Isla. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (incendio de autobús). En la zona se registra carga vehicular. Maneja con prec",
       "link": "https://nitter.net/CAPUFE/status/2078462743925997876#m",
       "date": "2026-07-18T12:51:48+00:00"
-    },
-    {
-      "id": "b9d7200f26d4",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 36.0,
-      "lat": 18.212,
-      "lon": -94.867,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 36, dirección La Tinaja. El incidente ha sido atendido. Sin embargo, en la zona continúa la reducción de carriles por labores de mantenimiento. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Auto",
-      "link": "https://nitter.net/CAPUFE/status/2078462319676342478#m",
-      "date": "2026-07-18T12:50:07+00:00"
-    },
-    {
-      "id": "cde9c0d85849",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 184.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 184. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal se encuentra realizando las labores de trasvase de carga. Atiende las indicaciones viales y maneja con precaució",
-      "link": "https://nitter.net/CAPUFE/status/2078458541086576930#m",
-      "date": "2026-07-18T12:35:06+00:00"
     },
     {
       "id": "cd87944b62cc",
