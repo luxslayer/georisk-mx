@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-18T17:22:42.656158+00:00",
+  "updated": "2026-07-18T17:48:45.510894+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "32d1e94aa461",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 176.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación tras accidente cerca del km.176+000 de la carretera Cuernavaca-Chilpancingo, a la altura del puente de Quetzalapa, Mpio. Huitzuco de los Figueroa, Gro., codirección a Cuernavaca, Mor. Atienda indicación vial",
+      "link": "https://nitter.net/GN_Carreteras/status/2078535764313333942#m",
+      "date": "2026-07-18T17:41:58+00:00"
+    },
+    {
+      "id": "8a54e28cb6fb",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 66.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #Deslave_y_Socavón cerca del km 066+200, de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. San Dionisio Ocotepec, con direccion a Tehuantepec. Atienda indicación vial. #TomePrecauciones en #Oaxaca ",
+      "link": "https://nitter.net/GN_Carreteras/status/2078534338740621454#m",
+      "date": "2026-07-18T17:36:18+00:00"
+    },
+    {
+      "id": "68ed395dd8db",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 0.0,
+      "lat": 18.32,
+      "lon": -95.02,
+      "resolved": true,
+      "text": "#PrecauciónVial en #Veracruz se registra cierre parcial de circulación por #Accidentevial cerca del km. 000+500 de la carretera Ent. La tinaja - Cosoleacaque, con dirección a Ver. Atienda indicación vial. #PrecauciónVial en #Veracruz se registra cierre parcial de circulación por ",
+      "link": "https://nitter.net/GN_Carreteras/status/2078533643266371715#m",
+      "date": "2026-07-18T17:33:32+00:00"
+    },
+    {
+      "id": "e0bc5e4d5fd9",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 43.0,
+      "lat": 19.206667,
+      "lon": -98.616,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación tras #AccidenteVial cerca del km. 043+500 de la carretera Amozoc-Teziutlan, con dirección a San José Chiapa, Pue. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre parcial de circulación",
+      "link": "https://nitter.net/GN_Carreteras/status/2078531410248224871#m",
+      "date": "2026-07-18T17:24:40+00:00"
+    },
     {
       "id": "d08604fb4ba2",
       "account": "@capufe",
@@ -435,62 +491,6 @@
       "text": "#TomePrecauciones en #Yucatán continua cierre parcial de circulación por #AccidenteVial cerca del km. 000+900 de la carretera Mérida - Tizimín, dirección Mérida, a la altura del Mpio. de Cholul. Atienda indicación vial. #TomePrecauciones en #Yucatán continua cierre parcial de cir",
       "link": "https://nitter.net/GN_Carreteras/status/2078294892892074133#m",
       "date": "2026-07-18T01:44:49+00:00"
-    },
-    {
-      "id": "618ce3df27e3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 7.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guerrero continua cierre parcial de circulación por #AccidenteVial cerca del km. 007+000 de la carretera Chilpancingo - Acapulco, a la altura del fraccionamiento Villas Vicente Guerrero, Mpio. Chilpancingo de los Bravo. Atienda indicación vial. #TomePrecauci",
-      "link": "https://nitter.net/GN_Carreteras/status/2078293942643122409#m",
-      "date": "2026-07-18T01:41:03+00:00"
-    },
-    {
-      "id": "d21d485f8d61",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 307.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "En #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km. 307+273 de la carretera Maravatio - Zapotlanejo, con dirección a Morelia, como referencia caseta de cobro Panindícuaro. Atienda indicación vial. En #Michoacan continua cierre parcial de circulac",
-      "link": "https://nitter.net/GN_Carreteras/status/2078289702881296595#m",
-      "date": "2026-07-18T01:24:12+00:00"
-    },
-    {
-      "id": "76ccf8328f5a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 183.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz continua cierre intermitente de circulación por #AccidenteVial cerca del km. 183+000 de la autopista Poza Rica - Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre intermitente de circulación por #AccidenteVial cerca d",
-      "link": "https://nitter.net/GN_Carreteras/status/2078287460254056753#m",
-      "date": "2026-07-18T01:15:17+00:00"
-    },
-    {
-      "id": "f812d057335b",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "Puebla–Córdoba",
-      "route_key": "puebla-cordoba",
-      "km": 263.0,
-      "lat": 18.884,
-      "lon": -96.923,
-      "resolved": true,
-      "text": "#VialidadLibre en #Veracruz tras retiro de personas, cerca del km. 263+800 de la autopista Puebla - Cordoba. Maneje con precaución. #VialidadLibre en #Veracruz tras retiro de personas, cerca del km. 263+800 de la autopista Puebla - Cordoba. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2078282581133369400#m",
-      "date": "2026-07-18T00:55:54+00:00"
     }
   ]
 }
