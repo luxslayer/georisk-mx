@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-18T21:18:46.151896+00:00",
-  "count": 32,
+  "updated": "2026-07-18T21:47:51.709645+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "e4afe8a8988e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 45.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 45, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro ",
+      "link": "https://nitter.net/CAPUFE/status/2078595099680768331#m",
+      "date": "2026-07-18T21:37:44+00:00"
+    },
+    {
+      "id": "64376ca1341f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 6.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Chamapa - Lechería, km 6, dirección Lechería. Reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Circulación lenta en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Chama",
+      "link": "https://nitter.net/CAPUFE/status/2078593719326900282#m",
+      "date": "2026-07-18T21:32:15+00:00"
+    },
     {
       "id": "07cb0e2a6581",
       "account": "@GN_carreteras",
@@ -225,48 +253,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac, dirección Veracruz. Reducción de carriles por atención de choque contra cabina. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/Eyf8xzNc12uQCgSu7 🟠 CIERRE PARCIAL",
       "link": "https://nitter.net/CAPUFE/status/2078558077809205486#m",
       "date": "2026-07-18T19:10:38+00:00"
-    },
-    {
-      "id": "63b693b504cf",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 0.0,
-      "lat": 18.32,
-      "lon": -95.02,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja- Isla, km 0, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja- Isla, km 0, dirección La Tinaja. El acciden",
-      "link": "https://nitter.net/CAPUFE/status/2078550577735237986#m",
-      "date": "2026-07-18T18:40:49+00:00"
-    },
-    {
-      "id": "91c0c9483014",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 55.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 55, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 55, dirección Cuernavaca. El accidente ha",
-      "link": "https://nitter.net/CAPUFE/status/2078549921536356410#m",
-      "date": "2026-07-18T18:38:13+00:00"
-    },
-    {
-      "id": "3616264c0905",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 32.0,
-      "lat": 32.24698,
-      "lon": -116.95164,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 32, dirección Tijuana. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 32, dirección Tijuana. El acc",
-      "link": "https://nitter.net/CAPUFE/status/2078548473641603409#m",
-      "date": "2026-07-18T18:32:28+00:00"
     },
     {
       "id": "c0eaffc9a656",
