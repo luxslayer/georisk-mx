@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-18T15:48:36.357997+00:00",
+  "updated": "2026-07-18T16:21:01.787927+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "d9b1ea2d7c17",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 2.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Cuchilla - Matamoros, km 2, dirección La Cuchilla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Cuchilla - Matamoros, km 2, dirección La ",
+      "link": "https://nitter.net/CAPUFE/status/2078513658141757691#m",
+      "date": "2026-07-18T16:14:07+00:00"
+    },
+    {
+      "id": "9856bacf1e05",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 10.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Puente de Ixtla - Iguala, km 10, dirección Puente de Ixtla. Cierre a la circulación por atención de incidente (camioneta con falla mecánica). ➡️ En la zona, se desvía el tránsito vehicular hacia tramo libre. Toma tus precauciones. Para más info",
+      "link": "https://nitter.net/CAPUFE/status/2078512959827968343#m",
+      "date": "2026-07-18T16:11:21+00:00"
+    },
+    {
+      "id": "ce7074521e1f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 38.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Querétaro continua cierre parcial de circulación por #Accidentevial cerca del km. 038+100 de la carretera Querétaro-San Luis Potosí, a la altura del Parque Industrial Querétaro, Qro. Atienda indicación vial. #TomePrecauciones en #Querétaro continua cierre pa",
+      "link": "https://nitter.net/GN_Carreteras/status/2078511471634403544#m",
+      "date": "2026-07-18T16:05:26+00:00"
+    },
+    {
+      "id": "d2df5e562b8a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 55.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 55, dirección Cuernavaca. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 55, dirección Cuernavaca. El accidente ha sido atendido. En la zona s",
+      "link": "https://nitter.net/CAPUFE/status/2078509702535586169#m",
+      "date": "2026-07-18T15:58:24+00:00"
+    },
+    {
+      "id": "16b02e5cd89a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 100.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guerrero continua cierre parcial de circulación por #Accidentevial cerca del km. 100+200 de la carretera Las Cruces-Pinotepa Nacional, a la altura del poblado Florencio Villareal, Mpio. Cruz Grande, Gro. Atienda indicación vial. #TomePrecauciones en #Guerrer",
+      "link": "https://nitter.net/GN_Carreteras/status/2078508349264396720#m",
+      "date": "2026-07-18T15:53:01+00:00"
+    },
     {
       "id": "9e4b2cc0c088",
       "account": "@capufe",
@@ -185,20 +255,6 @@
       "date": "2026-07-18T13:21:55+00:00"
     },
     {
-      "id": "895c0d7b1628",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 131.0,
-      "lat": 17.633142,
-      "lon": -99.656138,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 131, dirección Cuernavaca. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 131, dirección C",
-      "link": "https://nitter.net/CAPUFE/status/2078468561350131877#m",
-      "date": "2026-07-18T13:14:55+00:00"
-    },
-    {
       "id": "792f06e00da0",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -225,34 +281,6 @@
       "text": "#TomePrecauciones en #Guanajuato continua cierre parcial de circulación por #AccidenteVial cerca del km. 033+000 de la carretera Salamanca - León, a la altura del Mpio. León de los Aldama. Atienda indicación vial. #TomePrecauciones en #Guanajuato continua cierre parcial de circul",
       "link": "https://nitter.net/GN_Carreteras/status/2078466683593801813#m",
       "date": "2026-07-18T13:07:28+00:00"
-    },
-    {
-      "id": "6b1ab23012f4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 37.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 37, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Ch",
-      "link": "https://nitter.net/CAPUFE/status/2078464565491171713#m",
-      "date": "2026-07-18T12:59:03+00:00"
-    },
-    {
-      "id": "4fee78ef2bf7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 108.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 108, dirección Isla. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (incendio de autobús). En la zona se registra carga vehicular. Maneja con prec",
-      "link": "https://nitter.net/CAPUFE/status/2078462743925997876#m",
-      "date": "2026-07-18T12:51:48+00:00"
     },
     {
       "id": "cd87944b62cc",
@@ -477,34 +505,6 @@
       "text": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #AccidenteVial cerca del km. 001+450 de la carretera Libramiento Norte de la Ciudad de México, a la altura de la localidad San Bartolo el Arenal, dirección a Jilotepec, Edo. Méx. Atienda indicación vial. #Tom",
       "link": "https://nitter.net/GN_Carreteras/status/2078280335448522851#m",
       "date": "2026-07-18T00:46:59+00:00"
-    },
-    {
-      "id": "b60136518a31",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 231.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Coahuila tras accidente cerca del km. 231+500 de la carretera Puerto México - Ojo Caliente, a la altura del Mpio. Arteaga, Coah. Maneje con precaución. #VialidadLibre en #Coahuila tras accidente cerca del km. 231+500 de la carretera Puerto México - Ojo Caliente",
-      "link": "https://nitter.net/GN_Carreteras/status/2078278858025873712#m",
-      "date": "2026-07-18T00:41:06+00:00"
-    },
-    {
-      "id": "53722692f7e3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 49.0,
-      "lat": 18.1847,
-      "lon": -94.7294,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 049+100 de la autopista Ent. La Tinaja - Veracruz, dirección Veracruz, atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #Acciden",
-      "link": "https://nitter.net/GN_Carreteras/status/2078274526463267153#m",
-      "date": "2026-07-18T00:23:54+00:00"
     }
   ]
 }
