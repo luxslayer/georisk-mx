@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-18T10:51:30.261844+00:00",
-  "count": 42,
+  "updated": "2026-07-18T11:23:27.010040+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "11b679bac735",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 108.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 108, dirección Isla. Reducción de carriles por atención de accidente (incendio de autobús). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 108, dirección Isla. Reducción de c",
+      "link": "https://nitter.net/CAPUFE/status/2078432913045995607#m",
+      "date": "2026-07-18T10:53:16+00:00"
+    },
     {
       "id": "6070ecf38ca9",
       "account": "@capufe",
@@ -325,20 +339,6 @@
       "date": "2026-07-18T04:00:48+00:00"
     },
     {
-      "id": "fa7e6a587c43",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 90.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 90, dirección Acapulco. Reducción de carriles laterales por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuerna",
-      "link": "https://nitter.net/CAPUFE/status/2078328087570214943#m",
-      "date": "2026-07-18T03:56:44+00:00"
-    },
-    {
       "id": "21b2671d7653",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -479,20 +479,6 @@
       "date": "2026-07-18T00:41:06+00:00"
     },
     {
-      "id": "3e0c5d6bbb86",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 220.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 220, dirección Acatzingo. Se informa a las personas usuarias que el accidente ha sido atendido. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. ☑️ ACTUALIZACIÓN.",
-      "link": "https://nitter.net/CAPUFE/status/2078275638734078050#m",
-      "date": "2026-07-18T00:28:19+00:00"
-    },
-    {
       "id": "53722692f7e3",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -549,20 +535,6 @@
       "date": "2026-07-17T23:24:04+00:00"
     },
     {
-      "id": "9ce8b7ea03fc",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 184.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tehuacán - Oaxaca, km 184. Circulación intermitente en ambos sentidos por atención de choque por alcance múltiple entre tracto camión y automóviles. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precauc",
-      "link": "https://nitter.net/CAPUFE/status/2078258461343645703#m",
-      "date": "2026-07-17T23:20:04+00:00"
-    },
-    {
       "id": "84e69919a701",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -575,20 +547,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km. 154+000 de la autopista Ent. La Tinaja - Cosoleacaque. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial ce",
       "link": "https://nitter.net/GN_Carreteras/status/2078258003220873357#m",
       "date": "2026-07-17T23:18:14+00:00"
-    },
-    {
-      "id": "714312491a6d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 220.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 220, dirección Acatzingo. Cierre a la circulación por atención de accidente (choque por alcance múltiple). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - ",
-      "link": "https://nitter.net/CAPUFE/status/2078247269699117326#m",
-      "date": "2026-07-17T22:35:35+00:00"
     }
   ]
 }
