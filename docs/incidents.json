@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-18T11:48:33.472888+00:00",
+  "updated": "2026-07-18T12:22:02.980587+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "624aa13ceeb1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 20, dirección Chamapa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 20, dirección Chamapa. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2078454918411657338#m",
+      "date": "2026-07-18T12:20:43+00:00"
+    },
+    {
+      "id": "c8779cdf932d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 20, dirección Chamapa. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lec",
+      "link": "https://nitter.net/CAPUFE/status/2078449310404895120#m",
+      "date": "2026-07-18T11:58:25+00:00"
+    },
     {
       "id": "cd87944b62cc",
       "account": "@GN_carreteras",
@@ -309,34 +337,6 @@
       "text": "🟠 CARGA VEHICULAR 🟠 Libramiento Cuernavaca, km 90, dirección Acapulco. Se restablece la circulación en carriles laterales. Sin embargo, se continúa con la atención del accidente (choque por alcance), por el momento sin afectación a los carriles de rodamiento. En la zona se regist",
       "link": "https://nitter.net/CAPUFE/status/2078331508243251546#m",
       "date": "2026-07-18T04:10:19+00:00"
-    },
-    {
-      "id": "a2e3b829e4a7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 97.0,
-      "lat": 31.867433,
-      "lon": -116.636733,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 97, dirección Ensenada. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 97, dirección Ensenada. El a",
-      "link": "https://nitter.net/CAPUFE/status/2078330815092560185#m",
-      "date": "2026-07-18T04:07:34+00:00"
-    },
-    {
-      "id": "c5b8a5290fa7",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 36.0,
-      "lat": 18.212,
-      "lon": -94.867,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 36, dirección La Tinaja. Reducción de carriles por atención de incidente (maquinaria pesada con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 36, dirección ",
-      "link": "https://nitter.net/CAPUFE/status/2078330443233890598#m",
-      "date": "2026-07-18T04:06:05+00:00"
     },
     {
       "id": "0cd06e2e9b5b",
