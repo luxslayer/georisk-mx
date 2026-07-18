@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-18T12:22:02.980587+00:00",
-  "count": 39,
+  "updated": "2026-07-18T12:49:19.975108+00:00",
+  "count": 40,
   "incidents": [
+    {
+      "id": "cde9c0d85849",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 184.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 184. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal se encuentra realizando las labores de trasvase de carga. Atiende las indicaciones viales y maneja con precaució",
+      "link": "https://nitter.net/CAPUFE/status/2078458541086576930#m",
+      "date": "2026-07-18T12:35:06+00:00"
+    },
+    {
+      "id": "29bb1fa25b55",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 36.0,
+      "lat": 18.212,
+      "lon": -94.867,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 36, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (maquinaria pesada con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 36, d",
+      "link": "https://nitter.net/CAPUFE/status/2078457746265981213#m",
+      "date": "2026-07-18T12:31:57+00:00"
+    },
+    {
+      "id": "0d7dc7221801",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 108.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 108, dirección Isla. Cierre a la circulación por atención de accidente (incendio de autobús). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 108, direcc",
+      "link": "https://nitter.net/CAPUFE/status/2078457306874819022#m",
+      "date": "2026-07-18T12:30:12+00:00"
+    },
     {
       "id": "624aa13ceeb1",
       "account": "@capufe",
@@ -297,20 +339,6 @@
       "date": "2026-07-18T04:36:36+00:00"
     },
     {
-      "id": "4f4d131fb121",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 220.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 220, dirección Acatzingo. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIE",
-      "link": "https://nitter.net/CAPUFE/status/2078335781576364476#m",
-      "date": "2026-07-18T04:27:18+00:00"
-    },
-    {
       "id": "988dff4b764b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -323,20 +351,6 @@
       "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 208+500 de la carretera Poza Rica - Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 208+5",
       "link": "https://nitter.net/GN_Carreteras/status/2078334819482664994#m",
       "date": "2026-07-18T04:23:29+00:00"
-    },
-    {
-      "id": "64813e052f0c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 90.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Libramiento Cuernavaca, km 90, dirección Acapulco. Se restablece la circulación en carriles laterales. Sin embargo, se continúa con la atención del accidente (choque por alcance), por el momento sin afectación a los carriles de rodamiento. En la zona se regist",
-      "link": "https://nitter.net/CAPUFE/status/2078331508243251546#m",
-      "date": "2026-07-18T04:10:19+00:00"
     },
     {
       "id": "0cd06e2e9b5b",
