@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-18T17:48:45.510894+00:00",
-  "count": 35,
+  "updated": "2026-07-18T18:21:26.334259+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "471b1b3d9334",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 32.0,
+      "lat": 32.24698,
+      "lon": -116.95164,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 32, dirección Tijuana. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 32, dirección Tijuana. Reducci",
+      "link": "https://nitter.net/CAPUFE/status/2078541647466340861#m",
+      "date": "2026-07-18T18:05:20+00:00"
+    },
+    {
+      "id": "39770b2f40a1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 48.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 48. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 48. El accidente ha sido atendid",
+      "link": "https://nitter.net/CAPUFE/status/2078540737432473922#m",
+      "date": "2026-07-18T18:01:43+00:00"
+    },
+    {
+      "id": "c0eaffc9a656",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 160.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #EdoMéx se registra cierre parcial de circulación tras accidente cerca del km. 160+000 de la carretera Libramiento Norte de la Ciudad de México, a la altura de la Caseta de Cobro Tulancingo 1, con dirección a Tula de Allende, Hgo. Atienda indicación vial. #Prec",
+      "link": "https://nitter.net/GN_Carreteras/status/2078540225257595346#m",
+      "date": "2026-07-18T17:59:41+00:00"
+    },
+    {
+      "id": "8ef9a4633ca1",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 198.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN #AutMéxicoQuerétaro, km 198, dirección CDMX. Se informa a las personas usuarias que se registra reducción de carriles por avance de peregrinos. Circulación lenta en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN #AutMéxicoQuerétaro",
+      "link": "https://nitter.net/CAPUFE/status/2078539395875963132#m",
+      "date": "2026-07-18T17:56:24+00:00"
+    },
+    {
+      "id": "7fa482b66529",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 144.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Zacatecas se registra cierre total de la circulación tras #AccidenteVial cerca del km. 144+000 de la carretera Zacatecas-Saltillo, a la altura de la localidad de Majoma, Zac., con dirección a Zac. Atienda indicación vial. #PrecauciónVial en #Zacatecas se regis",
+      "link": "https://nitter.net/GN_Carreteras/status/2078538416162021675#m",
+      "date": "2026-07-18T17:52:30+00:00"
+    },
     {
       "id": "32d1e94aa461",
       "account": "@GN_carreteras",
@@ -297,20 +367,6 @@
       "date": "2026-07-18T15:10:17+00:00"
     },
     {
-      "id": "caa574bd292c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 161.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Hermosillo - Magdalena, km 161, dirección Magdalena. Reducción de carriles por atención de accidente (choque contra semoviente). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Hermosillo - Magdalena, km 161, direcció",
-      "link": "https://nitter.net/CAPUFE/status/2078492914204774739#m",
-      "date": "2026-07-18T14:51:41+00:00"
-    },
-    {
       "id": "792f06e00da0",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -463,34 +519,6 @@
       "text": "#VialidadLibre en #AeropuertoOaxaca tras retiro de personas, cerca del km 000+300 de la carretera Oaxaca- Puerto Ángel, permitiendo el acceso a citado aeropuerto con normalidad. Maneje con precaución. #VialidadLibre en #AeropuertoOaxaca tras retiro de personas, cerca del km 000+3",
       "link": "https://nitter.net/GN_Carreteras/status/2078316634192728399#m",
       "date": "2026-07-18T03:11:13+00:00"
-    },
-    {
-      "id": "f765e16bf49a",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 15.0,
-      "lat": 19.37065,
-      "lon": -99.2958,
-      "resolved": true,
-      "text": "#VialidadLibre en #Hidalgo tras retiro de personas, cerca del km. 015+800 de la carretera Pachuca - Tempoal, a la altura del Mpio. Huejutla, Hgo. Maneje con precaución. #VialidadLibre en #Hidalgo tras retiro de personas, cerca del km. 015+800 de la carretera Pachuca - Tempoal, a ",
-      "link": "https://nitter.net/GN_Carreteras/status/2078312005564268677#m",
-      "date": "2026-07-18T02:52:49+00:00"
-    },
-    {
-      "id": "1f114814d8d9",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Yucatán continua cierre parcial de circulación por #AccidenteVial cerca del km. 000+900 de la carretera Mérida - Tizimín, dirección Mérida, a la altura del Mpio. de Cholul. Atienda indicación vial. #TomePrecauciones en #Yucatán continua cierre parcial de cir",
-      "link": "https://nitter.net/GN_Carreteras/status/2078294892892074133#m",
-      "date": "2026-07-18T01:44:49+00:00"
     }
   ]
 }
