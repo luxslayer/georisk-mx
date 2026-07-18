@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-18T07:09:20.317179+00:00",
+  "updated": "2026-07-18T08:09:16.415334+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "18b95485a5f9",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 157.0,
+      "lat": 18.88445,
+      "lon": -96.928775,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 157+400 de la carretera Puebla - Cordoba. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 157+400 de ",
+      "link": "https://nitter.net/GN_Carreteras/status/2078383051080405147#m",
+      "date": "2026-07-18T07:35:08+00:00"
+    },
+    {
+      "id": "e1f819d915ca",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 15.0,
+      "lat": 19.37065,
+      "lon": -99.2958,
+      "resolved": true,
+      "text": "#VialidadLibre en #Aguascalientes tras accidente, cerca del km 015+000 de la carretera León - Aguascalientes, a inmediaciones del municipio de Aguascalientes. Maneje con precaución. #VialidadLibre en #Aguascalientes tras accidente, cerca del km 015+000 de la carretera León - Agua",
+      "link": "https://nitter.net/GN_Carreteras/status/2078381330132246987#m",
+      "date": "2026-07-18T07:28:18+00:00"
+    },
     {
       "id": "baf581d26f78",
       "account": "@capufe",
@@ -505,34 +533,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km. 154+000 de la autopista Ent. La Tinaja - Cosoleacaque. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial ce",
       "link": "https://nitter.net/GN_Carreteras/status/2078258003220873357#m",
       "date": "2026-07-17T23:18:14+00:00"
-    },
-    {
-      "id": "d151044f8f92",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 23.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Tabasco tras retiro de personas, cerca del km. 023+000 de la carretera Villahermosa - Escopetazo, a la altura del fraccionamiento Villa El Cielo, Tab. Maneje con precaución. #VialidadLibre en #Tabasco tras retiro de personas, cerca del km. 023+000 de la carrete",
-      "link": "https://nitter.net/GN_Carreteras/status/2078199432957329792#m",
-      "date": "2026-07-17T19:25:30+00:00"
-    },
-    {
-      "id": "3e6e195d5ce7",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 84.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Hgo continua cierre parcial de circulación por #AccidenteVial cerca del km. 084+700 de la carretera Libramiento Arco Norte de la Cd. de México, a la altura de la localidad Tlalminulpa. Atienda indicación vial. #TomePrecauciones en #Hgo continua cierre parcia",
-      "link": "https://nitter.net/GN_Carreteras/status/2078189655262990745#m",
-      "date": "2026-07-17T18:46:39+00:00"
     }
   ]
 }
