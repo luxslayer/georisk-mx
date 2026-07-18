@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-18T19:26:42.352615+00:00",
-  "count": 37,
+  "updated": "2026-07-18T19:54:28.404676+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "737c52550a5a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 161.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 161, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 161, dirección CDMX. Reducc",
+      "link": "https://nitter.net/CAPUFE/status/2078564638585692175#m",
+      "date": "2026-07-18T19:36:42+00:00"
+    },
     {
       "id": "6b32710bf750",
       "account": "@GN_carreteras",
@@ -309,48 +323,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 108, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 108, dirección Isla. El accidente h",
       "link": "https://nitter.net/CAPUFE/status/2078518706565530070#m",
       "date": "2026-07-18T16:34:11+00:00"
-    },
-    {
-      "id": "f1d3ffdab67b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 48. Circulación intermitente en ambos sentidos por atención de accidente (choque lateral). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 48. Circulación intermitente en am",
-      "link": "https://nitter.net/CAPUFE/status/2078517948205982043#m",
-      "date": "2026-07-18T16:31:10+00:00"
-    },
-    {
-      "id": "d9b1ea2d7c17",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 2.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Cuchilla - Matamoros, km 2, dirección La Cuchilla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Cuchilla - Matamoros, km 2, dirección La ",
-      "link": "https://nitter.net/CAPUFE/status/2078513658141757691#m",
-      "date": "2026-07-18T16:14:07+00:00"
-    },
-    {
-      "id": "9856bacf1e05",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 10.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Puente de Ixtla - Iguala, km 10, dirección Puente de Ixtla. Cierre a la circulación por atención de incidente (camioneta con falla mecánica). ➡️ En la zona, se desvía el tránsito vehicular hacia tramo libre. Toma tus precauciones. Para más info",
-      "link": "https://nitter.net/CAPUFE/status/2078512959827968343#m",
-      "date": "2026-07-18T16:11:21+00:00"
     },
     {
       "id": "ce7074521e1f",
