@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-17T23:48:13.480335+00:00",
-  "count": 35,
+  "updated": "2026-07-18T00:37:03.472811+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "3def2b4251de",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 159.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 159. Reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central y volcadura). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 159. Reducción d",
+      "link": "https://nitter.net/CAPUFE/status/2078276662093902116#m",
+      "date": "2026-07-18T00:32:23+00:00"
+    },
+    {
+      "id": "3e0c5d6bbb86",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 220.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 220, dirección Acatzingo. Se informa a las personas usuarias que el accidente ha sido atendido. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. ☑️ ACTUALIZACIÓN.",
+      "link": "https://nitter.net/CAPUFE/status/2078275638734078050#m",
+      "date": "2026-07-18T00:28:19+00:00"
+    },
+    {
+      "id": "53722692f7e3",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 49.0,
+      "lat": 18.1847,
+      "lon": -94.7294,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 049+100 de la autopista Ent. La Tinaja - Veracruz, dirección Veracruz, atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #Acciden",
+      "link": "https://nitter.net/GN_Carreteras/status/2078274526463267153#m",
+      "date": "2026-07-18T00:23:54+00:00"
+    },
+    {
+      "id": "c28ae18de7eb",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 241.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 241, dirección Cd. Mendoza. El incidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 241",
+      "link": "https://nitter.net/CAPUFE/status/2078269857863254115#m",
+      "date": "2026-07-18T00:05:21+00:00"
+    },
     {
       "id": "3f4b28f18458",
       "account": "@GN_carreteras",
@@ -269,20 +325,6 @@
       "date": "2026-07-17T22:19:33+00:00"
     },
     {
-      "id": "5d1f6e6eb3eb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 26.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 26, dirección CDMX. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 26, dirección CDMX. El accidente ha sido ate",
-      "link": "https://nitter.net/CAPUFE/status/2078241632957141215#m",
-      "date": "2026-07-17T22:13:11+00:00"
-    },
-    {
       "id": "d151044f8f92",
       "account": "@GN_carreteras",
       "type": "alert",
@@ -477,20 +519,6 @@
       "text": "#TomePrecauciones en #Guanajuato continua cierre parcial de circulación por #AccidenteVial cerca del km. 107+300 de la carretera San Felipe-Cerró gordo, a la altura del Mpio. Huizache. Atienda indicación vial. #TomePrecauciones en #Guanajuato continua cierre parcial de circulació",
       "link": "https://nitter.net/GN_Carreteras/status/2078148552459419990#m",
       "date": "2026-07-17T16:03:19+00:00"
-    },
-    {
-      "id": "e4c356530af2",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 3.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 003+800 de la autopista Nuevo Teapa - Cosoleacaque. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca ",
-      "link": "https://nitter.net/GN_Carreteras/status/2078129225106612733#m",
-      "date": "2026-07-17T14:46:31+00:00"
     }
   ]
 }
