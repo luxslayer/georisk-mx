@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-18T22:47:30.527955+00:00",
+  "updated": "2026-07-18T23:20:03.019064+00:00",
   "count": 29,
   "incidents": [
+    {
+      "id": "cb78c5ace834",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 5.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km. 005+000 de la carretera Tuxtla Gutiérrez-Cd. Cuauhtémoc, con dirección al Aeropuerto Internacional “Ángel Albino Corzo”. Atienda indicación vial. #PrecauciónVial en #Chiapas se ",
+      "link": "https://nitter.net/GN_Carreteras/status/2078620328213860535#m",
+      "date": "2026-07-18T23:17:59+00:00"
+    },
+    {
+      "id": "813451a113c7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 198.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tehuacán - Oaxaca, km 198. Circulación intermitente en ambos sentidos por atención de accidente (choque de frente). Atiende las indicaciones viales y maneja con precaución. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tehuac",
+      "link": "https://nitter.net/CAPUFE/status/2078613795644092498#m",
+      "date": "2026-07-18T22:52:02+00:00"
+    },
     {
       "id": "a064ffccd02d",
       "account": "@capufe",
@@ -155,20 +183,6 @@
       "text": "#PrecauciónVial en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km. 045+000 de la carretera México-Querétaro, con dirección a Querétaro. Atienda indicación vial. #PrecauciónVial en #EdoMéx se registra cierre parcial de circulación por #AccidenteV",
       "link": "https://nitter.net/GN_Carreteras/status/2078581633024709119#m",
       "date": "2026-07-18T20:44:14+00:00"
-    },
-    {
-      "id": "fea130de0f9d",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 189.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN #AutMéxicoQuerétaro, km 189, dirección CDMX. Se informa a las personas usuarias que se continúa reducción de carriles por avance de peregrinos. Circulación lenta en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN #AutMéxicoQuerétaro",
-      "link": "https://nitter.net/CAPUFE/status/2078578064036946173#m",
-      "date": "2026-07-18T20:30:03+00:00"
     },
     {
       "id": "2067ceaab41f",
@@ -393,20 +407,6 @@
       "text": "#TomePrecauciones en #Morelos continua cierre parcial de circulación por #AccidenteVial cerca del km. 063+000 de la carretera México - Cuernavaca, a la altura de la localidad San Juan Tlacotenco. Atienda indicación vial. #TomePrecauciones en #Morelos continua cierre parcial de ci",
       "link": "https://nitter.net/GN_Carreteras/status/2078446291613372704#m",
       "date": "2026-07-18T11:46:26+00:00"
-    },
-    {
-      "id": "918d1de6d52d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Toluca–Palmillas",
-      "route_key": "toluca-palmillas",
-      "km": 101.0,
-      "lat": 20.26,
-      "lon": -100.22,
-      "resolved": true,
-      "text": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #Accidentevial cerca del km. 101+000 de la carretera Toluca-Palmillas, a la altura de la localidad de San Ana Oxtoc Toxhié, Edo. Atienda indicación vial. #TomePrecauciones en #EdoMéx continua cierre parcial d",
-      "link": "https://nitter.net/GN_Carreteras/status/2078443120870531193#m",
-      "date": "2026-07-18T11:33:50+00:00"
     }
   ]
 }
