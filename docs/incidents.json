@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-18T11:23:27.010040+00:00",
+  "updated": "2026-07-18T11:48:33.472888+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "cd87944b62cc",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Cuernavaca",
+      "route_key": "mexico-cuernavaca",
+      "km": 63.0,
+      "lat": 18.915862,
+      "lon": -99.234,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Morelos continua cierre parcial de circulación por #AccidenteVial cerca del km. 063+000 de la carretera México - Cuernavaca, a la altura de la localidad San Juan Tlacotenco. Atienda indicación vial. #TomePrecauciones en #Morelos continua cierre parcial de ci",
+      "link": "https://nitter.net/GN_Carreteras/status/2078446291613372704#m",
+      "date": "2026-07-18T11:46:26+00:00"
+    },
+    {
+      "id": "918d1de6d52d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Toluca–Palmillas",
+      "route_key": "toluca-palmillas",
+      "km": 101.0,
+      "lat": 20.26,
+      "lon": -100.22,
+      "resolved": true,
+      "text": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #Accidentevial cerca del km. 101+000 de la carretera Toluca-Palmillas, a la altura de la localidad de San Ana Oxtoc Toxhié, Edo. Atienda indicación vial. #TomePrecauciones en #EdoMéx continua cierre parcial d",
+      "link": "https://nitter.net/GN_Carreteras/status/2078443120870531193#m",
+      "date": "2026-07-18T11:33:50+00:00"
+    },
     {
       "id": "11b679bac735",
       "account": "@capufe",
@@ -519,34 +547,6 @@
       "text": "#TomePrecauciones en #SLP continua cierre parcial de circulación por #AccidenteVial cerca del km. 053+000 de la carretera Corbera - Entorque, a inmediaciones del Mpio Vanegas. Atienda indicación vial. #TomePrecauciones en #SLP continua cierre parcial de circulación por #Accidente",
       "link": "https://nitter.net/GN_Carreteras/status/2078260936742195277#m",
       "date": "2026-07-17T23:29:54+00:00"
-    },
-    {
-      "id": "e0d60f7c0782",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 53.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #BJ continua cierre parcial de circulación por #AccidenteVial cerca del km. 053+500 de la carretera Mexicali - Tijuana, a la altura de la Localidad La Rumorosa. Atienda indicación vial. #TomePrecauciones en #BJ continua cierre parcial de circulación por #Acci",
-      "link": "https://nitter.net/GN_Carreteras/status/2078259471948607602#m",
-      "date": "2026-07-17T23:24:04+00:00"
-    },
-    {
-      "id": "84e69919a701",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 154.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km. 154+000 de la autopista Ent. La Tinaja - Cosoleacaque. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial ce",
-      "link": "https://nitter.net/GN_Carreteras/status/2078258003220873357#m",
-      "date": "2026-07-17T23:18:14+00:00"
     }
   ]
 }
