@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-19T19:56:11.197186+00:00",
+  "updated": "2026-07-19T20:21:19.934533+00:00",
   "count": 32,
   "incidents": [
+    {
+      "id": "5ecbcdfc8b89",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 55.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km. 055+200 de la carretera Tapanatepec-Tuxtla Gutiérrez, a la altura poblado Coronel Luis Espinosa, Mpio. Cintalapa, con dirección a Tapanatepec, Chis. Atienda indicación vial. #Pr",
+      "link": "https://nitter.net/GN_Carreteras/status/2078936450687463534#m",
+      "date": "2026-07-19T20:14:09+00:00"
+    },
+    {
+      "id": "baa974acf03a",
+      "account": "@capufe",
+      "type": "fire",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 268.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Ciudad Mendoza–Córdoba, km 268. Cierre a la circulación en el retorno de incorporación a Córdoba, por atención de incidente (incendio). Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Ciudad M",
+      "link": "https://nitter.net/CAPUFE/status/2078936028488896759#m",
+      "date": "2026-07-19T20:12:28+00:00"
+    },
+    {
+      "id": "94d2b8a0f723",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 16.0,
+      "lat": 28.78816,
+      "lon": -106.12692,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Tamaulipas continúa cierre parcial de circulación tras accidente cerca del km. 016+000 de la carretera Cd. Victoria-Soto la Marina, a la altura de la localidad La Quinta, Tamps., con dirección Cd. Victoria, Tamps. Atienda indicación vial. #TomePrecauciones e",
+      "link": "https://nitter.net/GN_Carreteras/status/2078934577259716928#m",
+      "date": "2026-07-19T20:06:42+00:00"
+    },
+    {
+      "id": "220c29dd6ddb",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 18.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tabasco continúa cierre parcial de circulación tras accidente cerca del km. 018+300 de la carretera Villahermosa-Escopetazo, a la altura del poblado Playas del Rosario con dirección a Villahermosa, Tab. Atienda indicación vial. #TomePrecauciones en #Tabasco ",
+      "link": "https://nitter.net/GN_Carreteras/status/2078933087941951738#m",
+      "date": "2026-07-19T20:00:47+00:00"
+    },
     {
       "id": "535221caabf7",
       "account": "@capufe",
@@ -255,20 +311,6 @@
       "date": "2026-07-19T15:42:17+00:00"
     },
     {
-      "id": "5251eb7c9a27",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 175.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🟠CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección Is",
-      "link": "https://nitter.net/CAPUFE/status/2078867735405015504#m",
-      "date": "2026-07-19T15:41:06+00:00"
-    },
-    {
       "id": "6fdf83cb2714",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -407,48 +449,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras accidente cerca del km. 000+050 de la carretera Ent. La tinaja - Cosoleacaque, dirección Ver. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras accid",
       "link": "https://nitter.net/GN_Carreteras/status/2078663322799390872#m",
       "date": "2026-07-19T02:08:50+00:00"
-    },
-    {
-      "id": "b4fd468a253e",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Acapulco",
-      "route_key": "mexico-acapulco",
-      "km": 195.0,
-      "lat": 17.395,
-      "lon": -99.522222,
-      "resolved": true,
-      "text": "#PrecauciónVial en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km. 195+350 de la carretera Iguala-Ent. (Aut. Cuernavaca-Chilpancingo), con dirección a Iguala, Gro. Atienda indicación vial. #PrecauciónVial en #Guerrero se registra cierre parcia",
-      "link": "https://nitter.net/GN_Carreteras/status/2078658732989227507#m",
-      "date": "2026-07-19T01:50:36+00:00"
-    },
-    {
-      "id": "4f910cea4835",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 27.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km. 027+500 de la carretera Querétaro-Irapuato, a inmediaciones de la localidad de San Pedro Tenango el Nuevo, Gto., con dirección a Celaya, Gto. Atienda indicación vial. #Precau",
-      "link": "https://nitter.net/GN_Carreteras/status/2078657103351140515#m",
-      "date": "2026-07-19T01:44:07+00:00"
-    },
-    {
-      "id": "2667f369f3b9",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 117.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación tras accidente cerca del km. 117+500 de la carretera Libramiento Norte de la Ciudad de México, a la altura del Mpio. Tolcoyuca, Hgo., con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Hid",
-      "link": "https://nitter.net/GN_Carreteras/status/2078651348174725522#m",
-      "date": "2026-07-19T01:21:15+00:00"
     }
   ]
 }
