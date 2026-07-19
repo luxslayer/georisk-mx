@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-19T04:38:06.833232+00:00",
-  "count": 33,
+  "updated": "2026-07-19T06:01:39.463934+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "6a4efadfbae2",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 9.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Durango se registra cierre parcial de circulación por #AccidenteVial cerca del km. 009+900 de la carretera Gómez Palacio-Tlahualilo. Atienda indicación vial. #PrecauciónVial en #Durango se registra cierre parcial de circulación por #AccidenteVial cerca del km.",
+      "link": "https://nitter.net/GN_Carreteras/status/2078717758452158701#m",
+      "date": "2026-07-19T05:45:08+00:00"
+    },
     {
       "id": "91d7dc5bb2f3",
       "account": "@GN_carreteras",
@@ -421,48 +435,6 @@
       "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #DeslavedeCarpetaAsfaltica cerca del km 092+000, de la carretera Pachuca-Tuxpan, con dir. a Pachuca, Hgo. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #Desl",
       "link": "https://nitter.net/GN_Carreteras/status/2078577725174862116#m",
       "date": "2026-07-18T20:28:42+00:00"
-    },
-    {
-      "id": "49214abeb419",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 100.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Jalisco se registra cierre total de circulación por #Accidentevial cerca del km. 100+000 de la carretera León-Aguascalientes, con dirección a Aguascalientes. Atienda indicación vial. #PrecauciónVial en #Jalisco se registra cierre total de circulación por #Acci",
-      "link": "https://nitter.net/GN_Carreteras/status/2078577311914336676#m",
-      "date": "2026-07-18T20:27:03+00:00"
-    },
-    {
-      "id": "0ea2a000e6c3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 22.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Jalisco se registra cierre parcial de circulación por #Accidentevial cerca del km. 022+100 de la carretera Acatlán de Juárez-Colima, con dirección a Colima. Atienda indicación vial. #PrecauciónVial en #Jalisco se registra cierre parcial de circulación por #Acc",
-      "link": "https://nitter.net/GN_Carreteras/status/2078574506487005618#m",
-      "date": "2026-07-18T20:15:55+00:00"
-    },
-    {
-      "id": "6b32710bf750",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Puebla continua cierre intermitente de circulación por deslave de talud, cerca del km. 019+600 de la autopista Cuacnopalan - Oaxaca. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre intermitente de circulación por deslave de talud, cerca",
-      "link": "https://nitter.net/GN_Carreteras/status/2078561603339903368#m",
-      "date": "2026-07-18T19:24:38+00:00"
     }
   ]
 }
