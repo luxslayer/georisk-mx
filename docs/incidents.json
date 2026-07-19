@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-19T11:53:55.509915+00:00",
+  "updated": "2026-07-19T12:22:20.556106+00:00",
   "count": 29,
   "incidents": [
+    {
+      "id": "1870920ee1c4",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 175.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2078813800153628878#m",
+      "date": "2026-07-19T12:06:47+00:00"
+    },
+    {
+      "id": "dde1296bf3f1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 65.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 65, dirección Puebla. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 65, dirección Puebla. Reducción de carriles po",
+      "link": "https://nitter.net/CAPUFE/status/2078811808719159664#m",
+      "date": "2026-07-19T11:58:52+00:00"
+    },
     {
       "id": "bc6d20a6a882",
       "account": "@GN_carreteras",
@@ -353,20 +381,6 @@
       "date": "2026-07-19T00:32:20+00:00"
     },
     {
-      "id": "ca640042c62b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 97.0,
-      "lat": 31.867433,
-      "lon": -116.636733,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Aut. Tijuana - Ensenada, km 97, dirección Ensenada. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Aut. Tijuana - Ensenada, km 97, dirección Ensenada. El accidente ha sido atendido. En la zona ",
-      "link": "https://nitter.net/CAPUFE/status/2078637891639443967#m",
-      "date": "2026-07-19T00:27:47+00:00"
-    },
-    {
       "id": "fa933bd9086c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -379,20 +393,6 @@
       "text": "#TomePrecauciones en #SLP se registra cierre parcial de circulación tras accidente cerca del km.007+000 de la carretera Huizache-Ant. Morelos, a la altura del poblado San Gabriel, S.L.P. Atienda indicación vial. #TomePrecauciones en #SLP se registra cierre parcial de circulación ",
       "link": "https://nitter.net/GN_Carreteras/status/2078635388273361035#m",
       "date": "2026-07-19T00:17:50+00:00"
-    },
-    {
-      "id": "bb02e8bd5c66",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 198.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tehuacán - Oaxaca, km 198. Continúa circulación intermitente en ambos sentidos por atención de accidente (choque de frente). Atiende las indicaciones viales y maneja con precaución. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Au",
-      "link": "https://nitter.net/CAPUFE/status/2078635357977924022#m",
-      "date": "2026-07-19T00:17:43+00:00"
     },
     {
       "id": "cb78c5ace834",
