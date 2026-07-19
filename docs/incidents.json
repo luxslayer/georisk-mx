@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-19T16:21:50.492098+00:00",
+  "updated": "2026-07-19T16:48:42.674905+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "60d4cd0c6495",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 207.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Carbonera - Puerto México, km 207, dirección La Carbonera. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN",
+      "link": "https://nitter.net/CAPUFE/status/2078882754515632630#m",
+      "date": "2026-07-19T16:40:47+00:00"
+    },
     {
       "id": "c78dc505b7ff",
       "account": "@capufe",
@@ -253,20 +267,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección ",
       "link": "https://nitter.net/CAPUFE/status/2078813800153628878#m",
       "date": "2026-07-19T12:06:47+00:00"
-    },
-    {
-      "id": "dde1296bf3f1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 65.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 65, dirección Puebla. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 65, dirección Puebla. Reducción de carriles po",
-      "link": "https://nitter.net/CAPUFE/status/2078811808719159664#m",
-      "date": "2026-07-19T11:58:52+00:00"
     },
     {
       "id": "bc6d20a6a882",
