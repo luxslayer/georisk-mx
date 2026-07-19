@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T11:29:09.564929+00:00",
-  "count": 17,
+  "updated": "2026-07-19T11:53:55.509915+00:00",
+  "count": 29,
   "incidents": [
     {
       "id": "bc6d20a6a882",
@@ -15,6 +15,20 @@
       "text": "#VialidadLibre en #Puebla tras retiro de personas, cerca del km 095+000 de la carretera México-Puebla, con dirección Pue. Maneje con precaución. #VialidadLibre en #Puebla tras retiro de personas, cerca del km 095+000 de la carretera México-Puebla, con dirección Pue. Maneje con pr",
       "link": "https://nitter.net/GN_Carreteras/status/2078798019525238921#m",
       "date": "2026-07-19T11:04:04+00:00"
+    },
+    {
+      "id": "cd6f95a0e643",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 175.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección Isla. Red",
+      "link": "https://nitter.net/CAPUFE/status/2078773141531132237#m",
+      "date": "2026-07-19T09:25:13+00:00"
     },
     {
       "id": "ba9efcd3b829",
@@ -43,6 +57,20 @@
       "text": "#PrecauciónVial en #Colima se registra cierre parcial de circulación por #AccidenteVial cerca del km. 085+600 de la carretera Armería-Manzanillo,a la altura del Mpio. Manzanillo, con dirección a Manzanillo, Col. Atienda indicación vial. #PrecauciónVial en #Colima se registra cier",
       "link": "https://nitter.net/GN_Carreteras/status/2078746145937854925#m",
       "date": "2026-07-19T07:37:57+00:00"
+    },
+    {
+      "id": "49aa01c337f9",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 19.0,
+      "lat": 19.7328,
+      "lon": -99.2208,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, Plaza de Cobro San Martín, dirección Puebla. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/UcB4c1RnnxAN6Q2o7 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla",
+      "link": "https://nitter.net/CAPUFE/status/2078732007207530512#m",
+      "date": "2026-07-19T06:41:46+00:00"
     },
     {
       "id": "6a4efadfbae2",
@@ -87,6 +115,34 @@
       "date": "2026-07-19T03:42:05+00:00"
     },
     {
+      "id": "5bee4531dc19",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 0.0,
+      "lat": 18.32,
+      "lon": -95.02,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. El accid",
+      "link": "https://nitter.net/CAPUFE/status/2078677202489479442#m",
+      "date": "2026-07-19T03:03:59+00:00"
+    },
+    {
+      "id": "9480899ba848",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 0.0,
+      "lat": 18.32,
+      "lon": -95.02,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. El accidente ha sido atendido. En la",
+      "link": "https://nitter.net/CAPUFE/status/2078673424377921974#m",
+      "date": "2026-07-19T02:48:58+00:00"
+    },
+    {
       "id": "1e3ff2928efb",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -113,6 +169,20 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras accidente cerca del km. 000+050 de la carretera Ent. La tinaja - Cosoleacaque, dirección Ver. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras accid",
       "link": "https://nitter.net/GN_Carreteras/status/2078663322799390872#m",
       "date": "2026-07-19T02:08:50+00:00"
+    },
+    {
+      "id": "874140bd867b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 0.0,
+      "lat": 18.32,
+      "lon": -95.02,
+      "resolved": true,
+      "text": "🔴CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴CIERRE DE CIRCULACIÓN 🔴 Autopista La T",
+      "link": "https://nitter.net/CAPUFE/status/2078662443736158477#m",
+      "date": "2026-07-19T02:05:20+00:00"
     },
     {
       "id": "b4fd468a253e",
@@ -143,6 +213,34 @@
       "date": "2026-07-19T01:44:07+00:00"
     },
     {
+      "id": "7384637ea4de",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 97.0,
+      "lat": 31.867433,
+      "lon": -116.636733,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Tijuana - Ensenada, km 97, dirección Ensenada. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Tijuana - Ensenada, km 97, dirección Ensenada. El accidente h",
+      "link": "https://nitter.net/CAPUFE/status/2078652538816004481#m",
+      "date": "2026-07-19T01:25:59+00:00"
+    },
+    {
+      "id": "eff4fd4da364",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 0.0,
+      "lat": 18.32,
+      "lon": -95.02,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 0, dirección La T",
+      "link": "https://nitter.net/CAPUFE/status/2078651566186271191#m",
+      "date": "2026-07-19T01:22:07+00:00"
+    },
+    {
       "id": "2667f369f3b9",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -155,6 +253,20 @@
       "text": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación tras accidente cerca del km. 117+500 de la carretera Libramiento Norte de la Ciudad de México, a la altura del Mpio. Tolcoyuca, Hgo., con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Hid",
       "link": "https://nitter.net/GN_Carreteras/status/2078651348174725522#m",
       "date": "2026-07-19T01:21:15+00:00"
+    },
+    {
+      "id": "a7416750f709",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 27.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 27, dirección Irapuato. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 27, dirección Irapuato. ",
+      "link": "https://nitter.net/CAPUFE/status/2078649457600544818#m",
+      "date": "2026-07-19T01:13:44+00:00"
     },
     {
       "id": "899dffe6c4c5",
@@ -185,6 +297,20 @@
       "date": "2026-07-19T01:11:05+00:00"
     },
     {
+      "id": "2b16277a8cb5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 198.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Tehuacán - Oaxaca, km 198. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Tehuacán - Oaxaca, km 198. El accidente ha sido atendido. Tramo",
+      "link": "https://nitter.net/CAPUFE/status/2078648126856970541#m",
+      "date": "2026-07-19T01:08:27+00:00"
+    },
+    {
       "id": "029ac1df9c68",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -197,6 +323,20 @@
       "text": "#PrecauciónVial en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km. 013+800 de la carretera Guadalajara-Chapala entronque Santa Rosa, a la altura del Mpio. Guadalajara, Jal. Atienda indicación vial. #PrecauciónVial en #Jalisco se registra cierre",
       "link": "https://nitter.net/GN_Carreteras/status/2078644313295089972#m",
       "date": "2026-07-19T00:53:18+00:00"
+    },
+    {
+      "id": "67bb3f4a84d1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 27.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 27, dirección Irapuato. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 27, dirección Irapuato. R",
+      "link": "https://nitter.net/CAPUFE/status/2078640367499370628#m",
+      "date": "2026-07-19T00:37:37+00:00"
     },
     {
       "id": "4585415a129b",
@@ -213,6 +353,20 @@
       "date": "2026-07-19T00:32:20+00:00"
     },
     {
+      "id": "ca640042c62b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 97.0,
+      "lat": 31.867433,
+      "lon": -116.636733,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Aut. Tijuana - Ensenada, km 97, dirección Ensenada. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Aut. Tijuana - Ensenada, km 97, dirección Ensenada. El accidente ha sido atendido. En la zona ",
+      "link": "https://nitter.net/CAPUFE/status/2078637891639443967#m",
+      "date": "2026-07-19T00:27:47+00:00"
+    },
+    {
       "id": "fa933bd9086c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -225,6 +379,20 @@
       "text": "#TomePrecauciones en #SLP se registra cierre parcial de circulación tras accidente cerca del km.007+000 de la carretera Huizache-Ant. Morelos, a la altura del poblado San Gabriel, S.L.P. Atienda indicación vial. #TomePrecauciones en #SLP se registra cierre parcial de circulación ",
       "link": "https://nitter.net/GN_Carreteras/status/2078635388273361035#m",
       "date": "2026-07-19T00:17:50+00:00"
+    },
+    {
+      "id": "bb02e8bd5c66",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 198.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tehuacán - Oaxaca, km 198. Continúa circulación intermitente en ambos sentidos por atención de accidente (choque de frente). Atiende las indicaciones viales y maneja con precaución. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Au",
+      "link": "https://nitter.net/CAPUFE/status/2078635357977924022#m",
+      "date": "2026-07-19T00:17:43+00:00"
     },
     {
       "id": "cb78c5ace834",
