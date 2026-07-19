@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-19T07:19:38.326007+00:00",
+  "updated": "2026-07-19T08:17:20.536654+00:00",
   "count": 31,
   "incidents": [
+    {
+      "id": "ba9efcd3b829",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 95.0,
+      "lat": 19.065125,
+      "lon": -98.220125,
+      "resolved": true,
+      "text": "#EviteLaZona en #Puebla se registra cierre parcial de circulación, por presencia de personas, cerca del km 095+000 de la carretera México-Puebla, con dirección Pue. Atienda indicación vial. #EviteLaZona en #Puebla se registra cierre parcial de circulación, por presencia de person",
+      "link": "https://nitter.net/GN_Carreteras/status/2078751570099941528#m",
+      "date": "2026-07-19T07:59:30+00:00"
+    },
+    {
+      "id": "3c52f0f79fe1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 85.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Colima se registra cierre parcial de circulación por #AccidenteVial cerca del km. 085+600 de la carretera Armería-Manzanillo,a la altura del Mpio. Manzanillo, con dirección a Manzanillo, Col. Atienda indicación vial. #PrecauciónVial en #Colima se registra cier",
+      "link": "https://nitter.net/GN_Carreteras/status/2078746145937854925#m",
+      "date": "2026-07-19T07:37:57+00:00"
+    },
     {
       "id": "49aa01c337f9",
       "account": "@capufe",
@@ -407,34 +435,6 @@
       "text": "#VialidadLibre en #Zacatecas tras accidente cerca del km. 144+000 de la carretera Zacatecas-Saltillo, a la altura de la localidad de Majoma, Zac., con dirección a Zac. Vialidad Libre. #VialidadLibre en #Zacatecas tras accidente cerca del km. 144+000 de la carretera Zacatecas-Salt",
       "link": "https://nitter.net/GN_Carreteras/status/2078582451081715943#m",
       "date": "2026-07-18T20:47:29+00:00"
-    },
-    {
-      "id": "e89f1891e257",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 45.0,
-      "lat": 20.024,
-      "lon": -99.304,
-      "resolved": true,
-      "text": "#PrecauciónVial en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km. 045+000 de la carretera México-Querétaro, con dirección a Querétaro. Atienda indicación vial. #PrecauciónVial en #EdoMéx se registra cierre parcial de circulación por #AccidenteV",
-      "link": "https://nitter.net/GN_Carreteras/status/2078581633024709119#m",
-      "date": "2026-07-18T20:44:14+00:00"
-    },
-    {
-      "id": "2067ceaab41f",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 92.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #DeslavedeCarpetaAsfaltica cerca del km 092+000, de la carretera Pachuca-Tuxpan, con dir. a Pachuca, Hgo. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #Desl",
-      "link": "https://nitter.net/GN_Carreteras/status/2078577725174862116#m",
-      "date": "2026-07-18T20:28:42+00:00"
     }
   ]
 }
