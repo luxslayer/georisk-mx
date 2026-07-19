@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-19T17:49:01.857259+00:00",
+  "updated": "2026-07-19T18:21:26.622617+00:00",
   "count": 32,
   "incidents": [
+    {
+      "id": "f25d2a1fe65a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #EdoMéx continúa cierre parcial de circulación tras accidente cerca del km. 044+600 de la carretera México-Palmillas, del Mpio. Acambay, Edo. Méx., con dirección a Acambay, Edo. Méx. Atienda indicación vial. #TomePrecauciones en #EdoMéx continúa cierre parcia",
+      "link": "https://nitter.net/GN_Carreteras/status/2078901295058956406#m",
+      "date": "2026-07-19T17:54:27+00:00"
+    },
+    {
+      "id": "852d77f8ffd3",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 167.0,
+      "lat": 30.75592,
+      "lon": -106.44278,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Sonora continúa cierre parcial de circulación tras accidente cerca del km. 167+800 de la carretera Cd. Obregón-Hermosillo, a la altura de ranchos los arrieron Mpio., direccion Hermosillo-Guaymas. Atienda indicación vial. #TomePrecauciones en #Sonora continúa",
+      "link": "https://nitter.net/GN_Carreteras/status/2078900176333209893#m",
+      "date": "2026-07-19T17:50:00+00:00"
+    },
     {
       "id": "dbe486034524",
       "account": "@capufe",
@@ -421,34 +449,6 @@
       "text": "#VialidadLibre en #Jalisco tras accidente, cerca del km. 100+000 de la carretera León-Aguascalientes, con dirección a Aguascalientes. Maneje con precaución. #VialidadLibre en #Jalisco tras accidente, cerca del km. 100+000 de la carretera León-Aguascalientes, con dirección a Aguas",
       "link": "https://nitter.net/GN_Carreteras/status/2078649217795465361#m",
       "date": "2026-07-19T01:12:47+00:00"
-    },
-    {
-      "id": "0b466772578d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 202.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Michoacan tras accidente, cerca del km. 202+000 de la carretera Maravatío-Zapotlanejo, a la altura del Mpio. Morelia, con dirección a Zapotlanejo. Maneje con precaución. #VialidadLibre en #Michoacan tras accidente, cerca del km. 202+000 de la carretera Maravatí",
-      "link": "https://nitter.net/GN_Carreteras/status/2078648791515771290#m",
-      "date": "2026-07-19T01:11:05+00:00"
-    },
-    {
-      "id": "029ac1df9c68",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km. 013+800 de la carretera Guadalajara-Chapala entronque Santa Rosa, a la altura del Mpio. Guadalajara, Jal. Atienda indicación vial. #PrecauciónVial en #Jalisco se registra cierre",
-      "link": "https://nitter.net/GN_Carreteras/status/2078644313295089972#m",
-      "date": "2026-07-19T00:53:18+00:00"
     }
   ]
 }
