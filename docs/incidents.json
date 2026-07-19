@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-19T22:47:52.405395+00:00",
-  "count": 32,
+  "updated": "2026-07-19T23:21:17.681124+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "af946d9ecb69",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 229.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 229, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 229, dirección",
+      "link": "https://nitter.net/CAPUFE/status/2078982498210443683#m",
+      "date": "2026-07-19T23:17:07+00:00"
+    },
+    {
+      "id": "d765b60e62e0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 344.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 344, dirección Acapulco. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 344, dirección Acap",
+      "link": "https://nitter.net/CAPUFE/status/2078978742345454050#m",
+      "date": "2026-07-19T23:02:12+00:00"
+    },
     {
       "id": "bd6ec09eafcd",
       "account": "@capufe",
