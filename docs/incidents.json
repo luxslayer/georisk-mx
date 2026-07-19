@@ -1,7 +1,133 @@
 {
-  "updated": "2026-07-19T13:32:17.951582+00:00",
-  "count": 29,
+  "updated": "2026-07-19T14:30:26.692081+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "6fdf83cb2714",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 86.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km. 086+700 de la carretera Zapotlanejo-El Desperdicio, con dirección a el Desperdicio, Jal. Atienda indicación vial. #PrecauciónVial en #Jalisco se registra cierre parcial de circu",
+      "link": "https://nitter.net/GN_Carreteras/status/2078847641518010574#m",
+      "date": "2026-07-19T14:21:15+00:00"
+    },
+    {
+      "id": "9ff0f6b915a0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 169.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Navojoa - Cd. Obregón, km 169, dirección Cd. Obregón. Cierre a la circulación por atención de accidente (servicios periciales). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Navojoa - Cd. Obreg",
+      "link": "https://nitter.net/CAPUFE/status/2078847529915957708#m",
+      "date": "2026-07-19T14:20:48+00:00"
+    },
+    {
+      "id": "ec3b53d84df8",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 13.0,
+      "lat": 18.013867,
+      "lon": -94.8646,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 13,",
+      "link": "https://nitter.net/CAPUFE/status/2078847187681788405#m",
+      "date": "2026-07-19T14:19:27+00:00"
+    },
+    {
+      "id": "a3df43fa1d60",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 133.0,
+      "lat": 17.9768,
+      "lon": -94.8884,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 133, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 133, dirección Acayucan. Reducción ",
+      "link": "https://nitter.net/CAPUFE/status/2078846670205292659#m",
+      "date": "2026-07-19T14:17:23+00:00"
+    },
+    {
+      "id": "3e1a3710777f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 23.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 23. Circulación intermitente en ambos sentidos por atención de accidente (choque de frente). Atiende las indicaciones viales y maneja con precaución. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 ",
+      "link": "https://nitter.net/CAPUFE/status/2078846310321475596#m",
+      "date": "2026-07-19T14:15:58+00:00"
+    },
+    {
+      "id": "d0168c3748a9",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 156.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "#PrecauciónVial en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km. 156+200 de la carretera Coatzacoalcos-Villahermosa, con dirección a González, Tab. Atienda indicación vial. #PrecauciónVial en #Tabasco se registra cierre parcial de circulación",
+      "link": "https://nitter.net/GN_Carreteras/status/2078843279395733599#m",
+      "date": "2026-07-19T14:03:55+00:00"
+    },
+    {
+      "id": "c43752f18aa6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 65.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 65, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla , km 65, dirección Puebla. El accidente ha sido atendido. ",
+      "link": "https://nitter.net/CAPUFE/status/2078841461852766640#m",
+      "date": "2026-07-19T13:56:42+00:00"
+    },
+    {
+      "id": "012f46851d79",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 169.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 169, dirección Cd. Obregón. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 169, dirección Cd.",
+      "link": "https://nitter.net/CAPUFE/status/2078840778709741680#m",
+      "date": "2026-07-19T13:53:59+00:00"
+    },
+    {
+      "id": "32300c7b9734",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 207.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. La Carbonera - Puerto México, km 207, dirección La Carbonera. Reducción de carriles por atención de accidente (choque contra barrera metálica y volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. La Car",
+      "link": "https://nitter.net/CAPUFE/status/2078836451106578537#m",
+      "date": "2026-07-19T13:36:47+00:00"
+    },
     {
       "id": "fa93d32aad7a",
       "account": "@capufe",
@@ -213,20 +339,6 @@
       "date": "2026-07-19T02:08:50+00:00"
     },
     {
-      "id": "874140bd867b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 0.0,
-      "lat": 18.32,
-      "lon": -95.02,
-      "resolved": true,
-      "text": "🔴CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴CIERRE DE CIRCULACIÓN 🔴 Autopista La T",
-      "link": "https://nitter.net/CAPUFE/status/2078662443736158477#m",
-      "date": "2026-07-19T02:05:20+00:00"
-    },
-    {
       "id": "b4fd468a253e",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -255,34 +367,6 @@
       "date": "2026-07-19T01:44:07+00:00"
     },
     {
-      "id": "7384637ea4de",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 97.0,
-      "lat": 31.867433,
-      "lon": -116.636733,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Tijuana - Ensenada, km 97, dirección Ensenada. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Tijuana - Ensenada, km 97, dirección Ensenada. El accidente h",
-      "link": "https://nitter.net/CAPUFE/status/2078652538816004481#m",
-      "date": "2026-07-19T01:25:59+00:00"
-    },
-    {
-      "id": "eff4fd4da364",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 0.0,
-      "lat": 18.32,
-      "lon": -95.02,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 0, dirección La T",
-      "link": "https://nitter.net/CAPUFE/status/2078651566186271191#m",
-      "date": "2026-07-19T01:22:07+00:00"
-    },
-    {
       "id": "2667f369f3b9",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -295,20 +379,6 @@
       "text": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación tras accidente cerca del km. 117+500 de la carretera Libramiento Norte de la Ciudad de México, a la altura del Mpio. Tolcoyuca, Hgo., con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Hid",
       "link": "https://nitter.net/GN_Carreteras/status/2078651348174725522#m",
       "date": "2026-07-19T01:21:15+00:00"
-    },
-    {
-      "id": "a7416750f709",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 27.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 27, dirección Irapuato. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 27, dirección Irapuato. ",
-      "link": "https://nitter.net/CAPUFE/status/2078649457600544818#m",
-      "date": "2026-07-19T01:13:44+00:00"
     },
     {
       "id": "899dffe6c4c5",
@@ -339,20 +409,6 @@
       "date": "2026-07-19T01:11:05+00:00"
     },
     {
-      "id": "2b16277a8cb5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 198.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Tehuacán - Oaxaca, km 198. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Tehuacán - Oaxaca, km 198. El accidente ha sido atendido. Tramo",
-      "link": "https://nitter.net/CAPUFE/status/2078648126856970541#m",
-      "date": "2026-07-19T01:08:27+00:00"
-    },
-    {
       "id": "029ac1df9c68",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -379,34 +435,6 @@
       "text": "#VialidadLibre en #Aguascalientes tras accidente, cerca del km 015+000 de la carretera León-Aguascalientes, a inmediaciones del municipio de Aguascalientes. Maneje con precaución. #VialidadLibre en #Aguascalientes tras accidente, cerca del km 015+000 de la carretera León-Aguascal",
       "link": "https://nitter.net/GN_Carreteras/status/2078639037582123447#m",
       "date": "2026-07-19T00:32:20+00:00"
-    },
-    {
-      "id": "fa933bd9086c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 7.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #SLP se registra cierre parcial de circulación tras accidente cerca del km.007+000 de la carretera Huizache-Ant. Morelos, a la altura del poblado San Gabriel, S.L.P. Atienda indicación vial. #TomePrecauciones en #SLP se registra cierre parcial de circulación ",
-      "link": "https://nitter.net/GN_Carreteras/status/2078635388273361035#m",
-      "date": "2026-07-19T00:17:50+00:00"
-    },
-    {
-      "id": "cb78c5ace834",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 5.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km. 005+000 de la carretera Tuxtla Gutiérrez-Cd. Cuauhtémoc, con dirección al Aeropuerto Internacional “Ángel Albino Corzo”. Atienda indicación vial. #PrecauciónVial en #Chiapas se ",
-      "link": "https://nitter.net/GN_Carreteras/status/2078620328213860535#m",
-      "date": "2026-07-18T23:17:59+00:00"
     }
   ]
 }
