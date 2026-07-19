@@ -1,7 +1,91 @@
 {
-  "updated": "2026-07-18T23:48:22.932596+00:00",
-  "count": 30,
+  "updated": "2026-07-19T00:41:32.410435+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "67bb3f4a84d1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 27.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 27, dirección Irapuato. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 27, dirección Irapuato. R",
+      "link": "https://nitter.net/CAPUFE/status/2078640367499370628#m",
+      "date": "2026-07-19T00:37:37+00:00"
+    },
+    {
+      "id": "4585415a129b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 15.0,
+      "lat": 19.37065,
+      "lon": -99.2958,
+      "resolved": true,
+      "text": "#VialidadLibre en #Aguascalientes tras accidente, cerca del km 015+000 de la carretera León-Aguascalientes, a inmediaciones del municipio de Aguascalientes. Maneje con precaución. #VialidadLibre en #Aguascalientes tras accidente, cerca del km 015+000 de la carretera León-Aguascal",
+      "link": "https://nitter.net/GN_Carreteras/status/2078639037582123447#m",
+      "date": "2026-07-19T00:32:20+00:00"
+    },
+    {
+      "id": "ca640042c62b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 97.0,
+      "lat": 31.867433,
+      "lon": -116.636733,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Aut. Tijuana - Ensenada, km 97, dirección Ensenada. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Aut. Tijuana - Ensenada, km 97, dirección Ensenada. El accidente ha sido atendido. En la zona ",
+      "link": "https://nitter.net/CAPUFE/status/2078637891639443967#m",
+      "date": "2026-07-19T00:27:47+00:00"
+    },
+    {
+      "id": "fa933bd9086c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 7.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #SLP se registra cierre parcial de circulación tras accidente cerca del km.007+000 de la carretera Huizache-Ant. Morelos, a la altura del poblado San Gabriel, S.L.P. Atienda indicación vial. #TomePrecauciones en #SLP se registra cierre parcial de circulación ",
+      "link": "https://nitter.net/GN_Carreteras/status/2078635388273361035#m",
+      "date": "2026-07-19T00:17:50+00:00"
+    },
+    {
+      "id": "bb02e8bd5c66",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 198.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tehuacán - Oaxaca, km 198. Continúa circulación intermitente en ambos sentidos por atención de accidente (choque de frente). Atiende las indicaciones viales y maneja con precaución. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Au",
+      "link": "https://nitter.net/CAPUFE/status/2078635357977924022#m",
+      "date": "2026-07-19T00:17:43+00:00"
+    },
+    {
+      "id": "f71f7143025c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 97.0,
+      "lat": 31.867433,
+      "lon": -116.636733,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tijuana - Ensenada, km 97, dirección Ensenada. Continúa reducción de carriles por atención de accidente (salida del camino de vagoneta). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Ti",
+      "link": "https://nitter.net/CAPUFE/status/2078630259818217883#m",
+      "date": "2026-07-18T23:57:27+00:00"
+    },
     {
       "id": "36bb8491d135",
       "account": "@capufe",
@@ -155,20 +239,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras accidente cerca del km.000+300 de la carretera Tihuatlán (T.C. Alazan Canoas), con dirección a Alamo, Ver. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulaci",
       "link": "https://nitter.net/GN_Carreteras/status/2078587129303556462#m",
       "date": "2026-07-18T21:06:04+00:00"
-    },
-    {
-      "id": "fd5395504d8d",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 32.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 32 al 42. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 32 al 42. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2078584019260760251#m",
-      "date": "2026-07-18T20:53:43+00:00"
     },
     {
       "id": "33b3e8d638b4",
@@ -393,34 +463,6 @@
       "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 108+200 de la carretera Ent. La Tinaja - Cosoleacaque, a la altura del Mpio. Mata Limones. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de cir",
       "link": "https://nitter.net/GN_Carreteras/status/2078467332834197978#m",
       "date": "2026-07-18T13:10:02+00:00"
-    },
-    {
-      "id": "84c63713d773",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Salamanca–León",
-      "route_key": "salamanca-leon",
-      "km": 33.0,
-      "lat": 20.7422,
-      "lon": -101.3832,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Guanajuato continua cierre parcial de circulación por #AccidenteVial cerca del km. 033+000 de la carretera Salamanca - León, a la altura del Mpio. León de los Aldama. Atienda indicación vial. #TomePrecauciones en #Guanajuato continua cierre parcial de circul",
-      "link": "https://nitter.net/GN_Carreteras/status/2078466683593801813#m",
-      "date": "2026-07-18T13:07:28+00:00"
-    },
-    {
-      "id": "cd87944b62cc",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Cuernavaca",
-      "route_key": "mexico-cuernavaca",
-      "km": 63.0,
-      "lat": 18.915862,
-      "lon": -99.234,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Morelos continua cierre parcial de circulación por #AccidenteVial cerca del km. 063+000 de la carretera México - Cuernavaca, a la altura de la localidad San Juan Tlacotenco. Atienda indicación vial. #TomePrecauciones en #Morelos continua cierre parcial de ci",
-      "link": "https://nitter.net/GN_Carreteras/status/2078446291613372704#m",
-      "date": "2026-07-18T11:46:26+00:00"
     }
   ]
 }
