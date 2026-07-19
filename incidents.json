@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-19T15:23:18.282856+00:00",
-  "count": 32,
+  "updated": "2026-07-19T15:48:54.593749+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "4123af4371ab",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 23.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 23. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 23. El accidente ha sido atendido. T",
+      "link": "https://nitter.net/CAPUFE/status/2078868033502630034#m",
+      "date": "2026-07-19T15:42:17+00:00"
+    },
+    {
+      "id": "5251eb7c9a27",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 175.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección Is",
+      "link": "https://nitter.net/CAPUFE/status/2078867735405015504#m",
+      "date": "2026-07-19T15:41:06+00:00"
+    },
     {
       "id": "5931286a2b8e",
       "account": "@capufe",
@@ -267,20 +295,6 @@
       "text": "#PrecauciónVial en #Colima se registra cierre parcial de circulación por #AccidenteVial cerca del km. 085+600 de la carretera Armería-Manzanillo,a la altura del Mpio. Manzanillo, con dirección a Manzanillo, Col. Atienda indicación vial. #PrecauciónVial en #Colima se registra cier",
       "link": "https://nitter.net/GN_Carreteras/status/2078746145937854925#m",
       "date": "2026-07-19T07:37:57+00:00"
-    },
-    {
-      "id": "49aa01c337f9",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 19.0,
-      "lat": 19.7328,
-      "lon": -99.2208,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, Plaza de Cobro San Martín, dirección Puebla. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/UcB4c1RnnxAN6Q2o7 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla",
-      "link": "https://nitter.net/CAPUFE/status/2078732007207530512#m",
-      "date": "2026-07-19T06:41:46+00:00"
     },
     {
       "id": "6a4efadfbae2",
