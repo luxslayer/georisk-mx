@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-19T06:01:39.463934+00:00",
+  "updated": "2026-07-19T07:19:38.326007+00:00",
   "count": 31,
   "incidents": [
+    {
+      "id": "49aa01c337f9",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 19.0,
+      "lat": 19.7328,
+      "lon": -99.2208,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, Plaza de Cobro San Martín, dirección Puebla. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/UcB4c1RnnxAN6Q2o7 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla",
+      "link": "https://nitter.net/CAPUFE/status/2078732007207530512#m",
+      "date": "2026-07-19T06:41:46+00:00"
+    },
     {
       "id": "6a4efadfbae2",
       "account": "@GN_carreteras",
@@ -365,20 +379,6 @@
       "text": "#PrecauciónVial en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km. 005+000 de la carretera Tuxtla Gutiérrez-Cd. Cuauhtémoc, con dirección al Aeropuerto Internacional “Ángel Albino Corzo”. Atienda indicación vial. #PrecauciónVial en #Chiapas se ",
       "link": "https://nitter.net/GN_Carreteras/status/2078620328213860535#m",
       "date": "2026-07-18T23:17:59+00:00"
-    },
-    {
-      "id": "813451a113c7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 198.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tehuacán - Oaxaca, km 198. Circulación intermitente en ambos sentidos por atención de accidente (choque de frente). Atiende las indicaciones viales y maneja con precaución. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tehuac",
-      "link": "https://nitter.net/CAPUFE/status/2078613795644092498#m",
-      "date": "2026-07-18T22:52:02+00:00"
     },
     {
       "id": "07cb0e2a6581",
