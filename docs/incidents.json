@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-19T03:07:56.463245+00:00",
+  "updated": "2026-07-19T04:38:06.833232+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "91d7dc5bb2f3",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 0.0,
+      "lat": 18.32,
+      "lon": -95.02,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz continúa cierre parcial de circulación tras accidente cerca del km. 000+050 de la carretera Ent. La tinaja-Cosoleacaque, dirección Ver. Atienda indicación vial. #TomePrecauciones en #Veracruz continúa cierre parcial de circulación tras accidente cer",
+      "link": "https://nitter.net/GN_Carreteras/status/2078687707220299946#m",
+      "date": "2026-07-19T03:45:44+00:00"
+    },
+    {
+      "id": "f40ba707050f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 105.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km. 105+500 de la carretera Acapulco-Zihuatanejo. Atienda indicación vial. #PrecauciónVial en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km. 1",
+      "link": "https://nitter.net/GN_Carreteras/status/2078686787925340247#m",
+      "date": "2026-07-19T03:42:05+00:00"
+    },
     {
       "id": "5bee4531dc19",
       "account": "@capufe",
@@ -435,34 +463,6 @@
       "text": "#TomePrecauciones en #Puebla continua cierre intermitente de circulación por deslave de talud, cerca del km. 019+600 de la autopista Cuacnopalan - Oaxaca. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre intermitente de circulación por deslave de talud, cerca",
       "link": "https://nitter.net/GN_Carreteras/status/2078561603339903368#m",
       "date": "2026-07-18T19:24:38+00:00"
-    },
-    {
-      "id": "c0eaffc9a656",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 160.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #EdoMéx se registra cierre parcial de circulación tras accidente cerca del km. 160+000 de la carretera Libramiento Norte de la Ciudad de México, a la altura de la Caseta de Cobro Tulancingo 1, con dirección a Tula de Allende, Hgo. Atienda indicación vial. #Prec",
-      "link": "https://nitter.net/GN_Carreteras/status/2078540225257595346#m",
-      "date": "2026-07-18T17:59:41+00:00"
-    },
-    {
-      "id": "7fa482b66529",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 144.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Zacatecas se registra cierre total de la circulación tras #AccidenteVial cerca del km. 144+000 de la carretera Zacatecas-Saltillo, a la altura de la localidad de Majoma, Zac., con dirección a Zac. Atienda indicación vial. #PrecauciónVial en #Zacatecas se regis",
-      "link": "https://nitter.net/GN_Carreteras/status/2078538416162021675#m",
-      "date": "2026-07-18T17:52:30+00:00"
     }
   ]
 }
