@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-19T12:22:20.556106+00:00",
+  "updated": "2026-07-19T12:49:36.021188+00:00",
   "count": 29,
   "incidents": [
+    {
+      "id": "fa93d32aad7a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 65.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 65, dirección Puebla. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 65, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2078824314443321408#m",
+      "date": "2026-07-19T12:48:33+00:00"
+    },
     {
       "id": "1870920ee1c4",
       "account": "@capufe",
@@ -351,20 +365,6 @@
       "text": "#PrecauciónVial en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km. 013+800 de la carretera Guadalajara-Chapala entronque Santa Rosa, a la altura del Mpio. Guadalajara, Jal. Atienda indicación vial. #PrecauciónVial en #Jalisco se registra cierre",
       "link": "https://nitter.net/GN_Carreteras/status/2078644313295089972#m",
       "date": "2026-07-19T00:53:18+00:00"
-    },
-    {
-      "id": "67bb3f4a84d1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 27.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 27, dirección Irapuato. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 27, dirección Irapuato. R",
-      "link": "https://nitter.net/CAPUFE/status/2078640367499370628#m",
-      "date": "2026-07-19T00:37:37+00:00"
     },
     {
       "id": "4585415a129b",
