@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-19T09:13:10.155863+00:00",
+  "updated": "2026-07-19T10:04:03.823686+00:00",
   "count": 31,
   "incidents": [
+    {
+      "id": "cd6f95a0e643",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 175.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección Isla. Red",
+      "link": "https://nitter.net/CAPUFE/status/2078773141531132237#m",
+      "date": "2026-07-19T09:25:13+00:00"
+    },
     {
       "id": "ba9efcd3b829",
       "account": "@GN_carreteras",
@@ -379,20 +393,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tijuana - Ensenada, km 97, dirección Ensenada. Continúa reducción de carriles por atención de accidente (salida del camino de vagoneta). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Ti",
       "link": "https://nitter.net/CAPUFE/status/2078630259818217883#m",
       "date": "2026-07-18T23:57:27+00:00"
-    },
-    {
-      "id": "36bb8491d135",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 198.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 198, dirección CDMX. Se retiran los peregrinos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 198, dirección CDMX. Se retiran los peregrinos. Tram",
-      "link": "https://nitter.net/CAPUFE/status/2078621078839030108#m",
-      "date": "2026-07-18T23:20:58+00:00"
     },
     {
       "id": "cb78c5ace834",
