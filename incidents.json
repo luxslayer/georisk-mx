@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-20T02:14:45.407221+00:00",
-  "count": 33,
+  "updated": "2026-07-20T03:08:47.067346+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "d21ad52e3572",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 40.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Oriente de Chihuahua, km 40. Registra circulación intermitente en ambos sentidos por atención de accidente (choque contra barreras metálicas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Oriente de Chihuahua, ",
+      "link": "https://nitter.net/CAPUFE/status/2079038070834204822#m",
+      "date": "2026-07-20T02:57:57+00:00"
+    },
+    {
+      "id": "408ead604ad3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 91.0,
+      "lat": 31.867633,
+      "lon": -116.655533,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 91, dirección Ensenada. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - En",
+      "link": "https://nitter.net/CAPUFE/status/2079034282463424541#m",
+      "date": "2026-07-20T02:42:54+00:00"
+    },
     {
       "id": "45edf753cf71",
       "account": "@capufe",
@@ -253,6 +281,20 @@
       "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Ciudad Mendoza–Córdoba, km 267, dirección Ciudad Mendoza. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal se encuentra laborando en la atención del incendio. En la zona se registr",
       "link": "https://nitter.net/CAPUFE/status/2078954637198278682#m",
       "date": "2026-07-19T21:26:25+00:00"
+    },
+    {
+      "id": "b3f90e3d3dc0",
+      "account": "@capufe",
+      "type": "fire",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 267.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Ciudad Mendoza–Córdoba, km 267, dirección Ciudad Mendoza. Cierre a la circulación por atención de incendio de remolque que traslada gas natural. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/XeGS86HZP2FRwKQs7 🔴 CIER",
+      "link": "https://nitter.net/CAPUFE/status/2078948452570923437#m",
+      "date": "2026-07-19T21:01:50+00:00"
     },
     {
       "id": "26f88a835b85",
