@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-20T20:53:32.352080+00:00",
-  "count": 36,
+  "updated": "2026-07-20T21:27:40.434772+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "f11e0ee3453c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 114.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial en el km 114+200, de la carretera Uruapan - Lázaro Cárdenas, a la altura del Mpio. de Uruapan, con dirección a Lázaro Cárdenas. Atienda indicación vial. #TomePrecauciones en #Michoacán se",
+      "link": "https://nitter.net/GN_Carreteras/status/2079314003944263832#m",
+      "date": "2026-07-20T21:14:24+00:00"
+    },
+    {
+      "id": "145d2ca87534",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 297.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cd. Mendoza - Córdoba, km 297, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2079313634912555455#m",
+      "date": "2026-07-20T21:12:56+00:00"
+    },
+    {
+      "id": "5455fa01fab9",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 223.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Veracruz tras #AccidenteVial en el km 223+800, de la carretera Poza Rica-Veracruz, a la altura del Mpio. de José Ingenieros, con dirección a Veracruz. Maneje con precaución. #VíaLibre en #Veracruz tras #AccidenteVial en el km 223+800, de la carretera Poza Rica-Verac",
+      "link": "https://nitter.net/GN_Carreteras/status/2079311374987968545#m",
+      "date": "2026-07-20T21:03:58+00:00"
+    },
+    {
+      "id": "43131abe0262",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 6.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial en el km 006+800, de la carretera Monclova - Piedras Negras, a la altura de la localidad Mota de Corona, con dirección a Monclova. Atienda indicación vial. #TomePrecauciones en #Coahuila s",
+      "link": "https://nitter.net/GN_Carreteras/status/2079310985693741481#m",
+      "date": "2026-07-20T21:02:25+00:00"
+    },
+    {
+      "id": "7540d663ca58",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 288.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#EviteLaZona en #Guerrero se registra cierre total de circulación, por presencia de personas, cerca del km 288+200, de la carretera Chilpancingo - Acapulco, a la altura del Mpio. de Chilpancingo de los Bravos, con dirección en ambos sentidos. Atienda indicación vial. #EviteLaZona",
+      "link": "https://nitter.net/GN_Carreteras/status/2079309990725128695#m",
+      "date": "2026-07-20T20:58:28+00:00"
+    },
     {
       "id": "79a2d8140aae",
       "account": "@capufe",
@@ -325,20 +395,6 @@
       "date": "2026-07-20T17:33:38+00:00"
     },
     {
-      "id": "a5ada8a09c36",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Chamapa - Lechería, km 13, dirección Chamapa. Reducción de carriles por atención de accidente (salida de neumático de pick up). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Chamapa - Lechería, km 13, dirección Chamapa. Reduc",
-      "link": "https://nitter.net/CAPUFE/status/2079257700613935472#m",
-      "date": "2026-07-20T17:30:41+00:00"
-    },
-    {
       "id": "1d3723ba01cc",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -423,20 +479,6 @@
       "date": "2026-07-20T16:24:04+00:00"
     },
     {
-      "id": "14902acbb79b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 28.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tehuacán - Oaxaca, km 28. Circulación intermitente en ambos sentidos por atención de choque contra defensa metálica y volcadura de camioneta. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Co",
-      "link": "https://nitter.net/CAPUFE/status/2079235607117566421#m",
-      "date": "2026-07-20T16:02:53+00:00"
-    },
-    {
       "id": "51f5d9c6f2b3",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -449,62 +491,6 @@
       "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por accidente en el km 015+000, de la carretera Villahermosa - Escopetazo, a la altura del Poblado Teapa, con dirección a Villahermosa. Atienda indicación vial. #TomePrecauciones en #Tabasco se registra cierr",
       "link": "https://nitter.net/GN_Carreteras/status/2079235116132372801#m",
       "date": "2026-07-20T16:00:56+00:00"
-    },
-    {
-      "id": "d89def0cc99e",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Lib. Sur Qro.",
-      "route_key": "libramiento-queretaro",
-      "km": 46.0,
-      "lat": 20.56912,
-      "lon": -100.3676,
-      "resolved": true,
-      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por accidente en el km 046+000, de la carretera Ent. Morelos-Ent. (carr. Pachuca Tuxpan), a la altura del Mpio. de Nopaltepec, con dirección a Cd. de México. Atienda indicación vial. #TomePrecauciones en #EdoM",
-      "link": "https://nitter.net/GN_Carreteras/status/2079232734937956852#m",
-      "date": "2026-07-20T15:51:28+00:00"
-    },
-    {
-      "id": "fe58a82ee5fc",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 21.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por accidente en el km 021+500, de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. de Tlacochahuaya, con dirección a Oaxaca. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre parc",
-      "link": "https://nitter.net/GN_Carreteras/status/2079226873100263731#m",
-      "date": "2026-07-20T15:28:11+00:00"
-    },
-    {
-      "id": "57538405dade",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Lib. Sur Qro.",
-      "route_key": "libramiento-queretaro",
-      "km": 71.0,
-      "lat": 20.588,
-      "lon": -100.39,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Zacatecas continúa cierre parcial de circulación tras maniobras por accidente en el km. 071+300 de la carretera Ent. la Chicharrona-Cuencamé, con dirección a Gómez Palacio, Dur. Atienda indicación vial. #TomePrecauciones en #Zacatecas continúa cierre parcial",
-      "link": "https://nitter.net/GN_Carreteras/status/2079211216241648044#m",
-      "date": "2026-07-20T14:25:58+00:00"
-    },
-    {
-      "id": "6816b90884d0",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 44.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km. 044+400 de la carretera Zihuatanejo-La Mira, a la altura poblado Los Llanos de Temalhuacan, Mpio. La Unión de Isidoro Montes de Oca, Gro. Atienda indicación vial. #PrecauciónVi",
-      "link": "https://nitter.net/GN_Carreteras/status/2079206317609140477#m",
-      "date": "2026-07-20T14:06:30+00:00"
     }
   ]
 }
