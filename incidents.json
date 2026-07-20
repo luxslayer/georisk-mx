@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-20T06:04:25.183464+00:00",
-  "count": 36,
+  "updated": "2026-07-20T07:36:18.648183+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "ebcdbac55187",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 29.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Michoacan tras accidente cerca del km. 029+500 de la carretera Quiroga-Cuatro Caminos, con dirección a Opopeo, Mich. Maneje con precaución. #VialidadLibre en #Michoacan tras accidente cerca del km. 029+500 de la carretera Quiroga-Cuatro Caminos, con dirección a",
+      "link": "https://nitter.net/GN_Carreteras/status/2079104911044702359#m",
+      "date": "2026-07-20T07:23:33+00:00"
+    },
+    {
+      "id": "c99f09abdca5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 62.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Rumorosa - Tecate, km 62, dirección La Rumorosa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Rumorosa - Tecate, km 62, dirección La Rumo",
+      "link": "https://nitter.net/CAPUFE/status/2079097921333514544#m",
+      "date": "2026-07-20T06:55:46+00:00"
+    },
+    {
+      "id": "1ee971e4ba51",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 62.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Rumorosa - Tecate, km 62, dirección La Rumorosa. Continúa cierre a la circulación por atención de accidente (choque por alcance múltiple). ➡ Por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carretera libre a la altura",
+      "link": "https://nitter.net/CAPUFE/status/2079091945121763344#m",
+      "date": "2026-07-20T06:32:02+00:00"
+    },
     {
       "id": "c560feb86c22",
       "account": "@GN_carreteras",
@@ -367,20 +409,6 @@
       "date": "2026-07-20T01:49:27+00:00"
     },
     {
-      "id": "6fbf0232d775",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 96.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 96, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLEC",
-      "link": "https://nitter.net/CAPUFE/status/2079012189386522627#m",
-      "date": "2026-07-20T01:15:06+00:00"
-    },
-    {
       "id": "57ff7a2ab954",
       "account": "@GN_carreteras",
       "type": "alert",
@@ -491,20 +519,6 @@
       "text": "#PrecauciónVial en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km. 245+200 de la carretera Pachuca- Tuxpan, a la altura del Mpio. Tuxpan, Ver. Atienda indicación vial. #PrecauciónVial en #Veracruz se registra cierre parcial de circulación por ",
       "link": "https://nitter.net/GN_Carreteras/status/2078918480326258972#m",
       "date": "2026-07-19T19:02:44+00:00"
-    },
-    {
-      "id": "f25d2a1fe65a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 44.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #EdoMéx continúa cierre parcial de circulación tras accidente cerca del km. 044+600 de la carretera México-Palmillas, del Mpio. Acambay, Edo. Méx., con dirección a Acambay, Edo. Méx. Atienda indicación vial. #TomePrecauciones en #EdoMéx continúa cierre parcia",
-      "link": "https://nitter.net/GN_Carreteras/status/2078901295058956406#m",
-      "date": "2026-07-19T17:54:27+00:00"
     }
   ]
 }
