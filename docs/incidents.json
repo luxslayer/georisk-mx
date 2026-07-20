@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-20T21:53:35.815493+00:00",
+  "updated": "2026-07-20T22:22:41.029312+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "96d67cbb9ef9",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 29.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial en el km 029+100, de la carretera Texcoco - Ecatepec San Bernardino - Gpe. Victoria, a la altura del Mpio. de Atenco, con dirección a Ecatepec. Atienda indicación vial. #TomePrecauciones en ",
+      "link": "https://nitter.net/GN_Carreteras/status/2079330481028411729#m",
+      "date": "2026-07-20T22:19:53+00:00"
+    },
+    {
+      "id": "ad3801267942",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 139.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoQuerétaro, km 139, dirección CDMX. Se informa a las personas usuarias que se registra reducción de carriles, por caravana de peregrinos avanzando. Se recomienda atender las indicaciones viales y manejar con precaución. ⚠️ AVISO IMPORTANTE⚠️ #AutMéx",
+      "link": "https://nitter.net/CAPUFE/status/2079328125003989077#m",
+      "date": "2026-07-20T22:10:31+00:00"
+    },
     {
       "id": "c48ad8659fac",
       "account": "@capufe",
@@ -353,20 +381,6 @@
       "date": "2026-07-20T18:17:26+00:00"
     },
     {
-      "id": "8a0f427b93ff",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Chamapa - Lechería, km 13, dirección Chamapa. Continúa reducción de carriles por atención de accidente (maniobras para retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Chamapa - Lechería, km 13,",
-      "link": "https://nitter.net/CAPUFE/status/2079268675157143622#m",
-      "date": "2026-07-20T18:14:17+00:00"
-    },
-    {
       "id": "e3d4528da263",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,20 +505,6 @@
       "text": "#EviteLaZona en #EdoMéx se registra cierre intermitente de circulación, por presencia de personas, cerca del km 023+200, de la carretera México-Puebla, a la altura del Mpio. de Valle de Chalco Solidaridad, con dirección Cd. Méx. Atienda indicación vial. #EviteLaZona en #EdoMéx se",
       "link": "https://nitter.net/GN_Carreteras/status/2079240937960554816#m",
       "date": "2026-07-20T16:24:04+00:00"
-    },
-    {
-      "id": "51f5d9c6f2b3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 15.0,
-      "lat": 19.37065,
-      "lon": -99.2958,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por accidente en el km 015+000, de la carretera Villahermosa - Escopetazo, a la altura del Poblado Teapa, con dirección a Villahermosa. Atienda indicación vial. #TomePrecauciones en #Tabasco se registra cierr",
-      "link": "https://nitter.net/GN_Carreteras/status/2079235116132372801#m",
-      "date": "2026-07-20T16:00:56+00:00"
     }
   ]
 }
