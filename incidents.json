@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-20T13:13:44.023159+00:00",
+  "updated": "2026-07-20T14:16:38.931163+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "6816b90884d0",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km. 044+400 de la carretera Zihuatanejo-La Mira, a la altura poblado Los Llanos de Temalhuacan, Mpio. La Unión de Isidoro Montes de Oca, Gro. Atienda indicación vial. #PrecauciónVi",
+      "link": "https://nitter.net/GN_Carreteras/status/2079206317609140477#m",
+      "date": "2026-07-20T14:06:30+00:00"
+    },
     {
       "id": "2f8ce6242ba4",
       "account": "@capufe",
@@ -505,20 +519,6 @@
       "text": "#PrecauciónVial en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km. 055+200 de la carretera Tapanatepec-Tuxtla Gutiérrez, a la altura poblado Coronel Luis Espinosa, Mpio. Cintalapa, con dirección a Tapanatepec, Chis. Atienda indicación vial. #Pr",
       "link": "https://nitter.net/GN_Carreteras/status/2078936450687463534#m",
       "date": "2026-07-19T20:14:09+00:00"
-    },
-    {
-      "id": "94d2b8a0f723",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 16.0,
-      "lat": 28.78816,
-      "lon": -106.12692,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Tamaulipas continúa cierre parcial de circulación tras accidente cerca del km. 016+000 de la carretera Cd. Victoria-Soto la Marina, a la altura de la localidad La Quinta, Tamps., con dirección Cd. Victoria, Tamps. Atienda indicación vial. #TomePrecauciones e",
-      "link": "https://nitter.net/GN_Carreteras/status/2078934577259716928#m",
-      "date": "2026-07-19T20:06:42+00:00"
     }
   ]
 }
