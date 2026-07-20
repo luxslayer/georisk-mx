@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-20T07:36:18.648183+00:00",
+  "updated": "2026-07-20T09:07:50.878219+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "0b8b54805fc1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 6.0,
+      "lat": 19.338,
+      "lon": -98.928,
+      "resolved": true,
+      "text": "#VialidadLibre en #Puebla tras accidente cerca del km. 006+200 de la carretera Amozoc-Teziutlán, a la altura del Municipio Acajete, con dirección Puebla. Maneje con precaución. #VialidadLibre en #Puebla tras accidente cerca del km. 006+200 de la carretera Amozoc-Teziutlán, a la a",
+      "link": "https://nitter.net/GN_Carreteras/status/2079130278673465391#m",
+      "date": "2026-07-20T09:04:21+00:00"
+    },
+    {
+      "id": "7eca49bf28d2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 127.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista Navojoa - Cd. Obregón, km 127. Circulación a contraflujo por atención de accidente (volcadura de tracto camión). Maneja con precaución. 🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista Navojoa - Cd. Obregón, km 127. Circulación a contraflujo por",
+      "link": "https://nitter.net/CAPUFE/status/2079117021564870810#m",
+      "date": "2026-07-20T08:11:40+00:00"
+    },
     {
       "id": "ebcdbac55187",
       "account": "@GN_carreteras",
@@ -395,20 +423,6 @@
       "date": "2026-07-20T02:03:47+00:00"
     },
     {
-      "id": "97af889e3b37",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 2.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 2, dirección Veracruz. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 2, dirección Ver",
-      "link": "https://nitter.net/CAPUFE/status/2079020833918382548#m",
-      "date": "2026-07-20T01:49:27+00:00"
-    },
-    {
       "id": "57ff7a2ab954",
       "account": "@GN_carreteras",
       "type": "alert",
@@ -505,20 +519,6 @@
       "text": "#TomePrecauciones en #Tabasco continúa cierre parcial de circulación tras accidente cerca del km. 018+300 de la carretera Villahermosa-Escopetazo, a la altura del poblado Playas del Rosario con dirección a Villahermosa, Tab. Atienda indicación vial. #TomePrecauciones en #Tabasco ",
       "link": "https://nitter.net/GN_Carreteras/status/2078933087941951738#m",
       "date": "2026-07-19T20:00:47+00:00"
-    },
-    {
-      "id": "4f1e31e28c00",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 245.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km. 245+200 de la carretera Pachuca- Tuxpan, a la altura del Mpio. Tuxpan, Ver. Atienda indicación vial. #PrecauciónVial en #Veracruz se registra cierre parcial de circulación por ",
-      "link": "https://nitter.net/GN_Carreteras/status/2078918480326258972#m",
-      "date": "2026-07-19T19:02:44+00:00"
     }
   ]
 }
