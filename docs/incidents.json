@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-21T17:32:33.511188+00:00",
+  "updated": "2026-07-21T18:32:25.295955+00:00",
   "count": 19,
   "incidents": [
+    {
+      "id": "2cb379f0bf52",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 27.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km. 027+500 de la carretera Ciudad Guzmán-Colima, a la altura del Mpio. Tonila, Jal. Atienda indicación vial. #PrecauciónVial en #Jalisco se registra cierre parcial de circulación p",
+      "link": "https://nitter.net/GN_Carreteras/status/2079631094513639547#m",
+      "date": "2026-07-21T18:14:25+00:00"
+    },
+    {
+      "id": "7c3bb93e8421",
+      "account": "@GN_carreteras",
+      "type": "alert",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 23.0,
+      "lat": 19.275667,
+      "lon": -98.780667,
+      "resolved": true,
+      "text": "#VíaLibre en #EdoMéx tras retiro de personas, cerca del km 023+200, de la carretera México-Puebla, a la altura del Mpio. Emiliano Zapata, Edo. Méx., con dirección a CDMX. Maneje con precaución. #VíaLibre en #EdoMéx tras retiro de personas, cerca del km 023+200, de la carretera Mé",
+      "link": "https://nitter.net/GN_Carreteras/status/2079624550107512991#m",
+      "date": "2026-07-21T17:48:24+00:00"
+    },
+    {
+      "id": "ecf186e9f494",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 146.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #SLP continúa cierre total de circulación por #AccidenteVial en el km 146+000, de la carretera Querétaro-San Luis Potosí, a la altura del Mpio. de San María del Río, con dirección a Querétaro y San Luis Potosí. Atienda indicación vial. #PrecauciónVial en #SLP c",
+      "link": "https://nitter.net/GN_Carreteras/status/2079623392408330678#m",
+      "date": "2026-07-21T17:43:48+00:00"
+    },
     {
       "id": "4c623e19c97c",
       "account": "@GN_carreteras",
@@ -225,48 +267,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial en el km 093+500, de la carretera México-Puebla, a la altura del Mpio. de San Martin Texmelucan, con dirección a Cd. Méx. Atienda indicación vial. #TomePrecauciones en #Puebla se registra ci",
       "link": "https://nitter.net/GN_Carreteras/status/2079472864139284740#m",
       "date": "2026-07-21T07:45:40+00:00"
-    },
-    {
-      "id": "28aa237de9d9",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial en el km 000+200, de la carretera Tamarindo - Cardel, a la altura del Mpio. de La Antigua, con dirección a Cardel. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierr",
-      "link": "https://nitter.net/GN_Carreteras/status/2079470298781384910#m",
-      "date": "2026-07-21T07:35:28+00:00"
-    },
-    {
-      "id": "c137d2b0992f",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 146.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #SLP se registra cierre total de circulación por #AccidenteVial en el km 146+000, de la carretera Querétaro-San Luis Potosí, a la altura del Mpio. de San María del Río, con dirección a Querétaro y San Luis Potosí. Atienda indicación vial. #TomePrecauciones en",
-      "link": "https://nitter.net/GN_Carreteras/status/2079446159936856208#m",
-      "date": "2026-07-21T05:59:33+00:00"
-    },
-    {
-      "id": "4e8a80f66492",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 124.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Nayarit tras #AccidenteVial en el km 124+500, de la carretera Tepic - Puerto Vallarta, a la altura del Mpio. de Bucerias, con dirección a Tepic. Maneje con precaución. #VíaLibre en #Nayarit tras #AccidenteVial en el km 124+500, de la carretera Tepic - Puerto Vallart",
-      "link": "https://nitter.net/GN_Carreteras/status/2079437950547304745#m",
-      "date": "2026-07-21T05:26:56+00:00"
     }
   ]
 }
