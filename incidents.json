@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-21T06:01:11.896162+00:00",
-  "count": 37,
+  "updated": "2026-07-21T07:22:33.938939+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "b0e28746c749",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 102.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 102, dirección Isla. Continúa reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 102, direcc",
+      "link": "https://nitter.net/CAPUFE/status/2079460741065695667#m",
+      "date": "2026-07-21T06:57:29+00:00"
+    },
+    {
+      "id": "b0c5664c5f62",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 37.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 37, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 37, dirección CDMX. El accidente ha sido atendi",
+      "link": "https://nitter.net/CAPUFE/status/2079455238491197662#m",
+      "date": "2026-07-21T06:35:37+00:00"
+    },
+    {
+      "id": "7e2758bac54a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 94.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 94, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO ",
+      "link": "https://nitter.net/CAPUFE/status/2079454958521364579#m",
+      "date": "2026-07-21T06:34:31+00:00"
+    },
     {
       "id": "c137d2b0992f",
       "account": "@GN_carreteras",
@@ -407,34 +449,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial en el km 054+100, de la carretera Cuacnopalan - Oaxaca, a la altura del Mpio. de Tehuacán, con dirección a Cuacnopalan. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cier",
       "link": "https://nitter.net/GN_Carreteras/status/2079395090179490177#m",
       "date": "2026-07-21T02:36:37+00:00"
-    },
-    {
-      "id": "e4b42e718a11",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 54.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Tehuacán - Oaxaca, km 54. El accidente ha sido atendido. Se restablece la circulación en ambos sentidos en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Tehuacán - Oaxaca, km 54. El accidente ha sido atendi",
-      "link": "https://nitter.net/CAPUFE/status/2079389323665797541#m",
-      "date": "2026-07-21T02:13:42+00:00"
-    },
-    {
-      "id": "3b5f5884dbd7",
-      "account": "@capufe",
-      "type": "rollover",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 31.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 31. Cierre a la circulación en ambos sentidos por atención de volcadura de tracto camión tipo pipa que transporta combustible. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/ByJJwSSMibH1GKb1A 🔴 ",
-      "link": "https://nitter.net/CAPUFE/status/2079387166090637470#m",
-      "date": "2026-07-21T02:05:08+00:00"
     },
     {
       "id": "40ab711aa33d",
