@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-21T10:18:48.265534+00:00",
-  "count": 37,
+  "updated": "2026-07-21T11:14:41.205910+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "906ee83fd489",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 31.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 31. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Sin embargo, en la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo ",
+      "link": "https://nitter.net/CAPUFE/status/2079518793773031638#m",
+      "date": "2026-07-21T10:48:10+00:00"
+    },
+    {
+      "id": "1cbde75d0bbb",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 187.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 187. Continúa circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PAR",
+      "link": "https://nitter.net/CAPUFE/status/2079517217855512580#m",
+      "date": "2026-07-21T10:41:54+00:00"
+    },
     {
       "id": "feb273710595",
       "account": "@GN_carreteras",
@@ -227,6 +255,20 @@
       "date": "2026-07-21T05:18:16+00:00"
     },
     {
+      "id": "b9685b35064e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 31.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 31. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente En la zona se registra derrame de combustible. El personal de CAPUFE, continúa realizando las lab",
+      "link": "https://nitter.net/CAPUFE/status/2079431519475490981#m",
+      "date": "2026-07-21T05:01:22+00:00"
+    },
+    {
       "id": "afde33a9d9fd",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -409,20 +451,6 @@
       "date": "2026-07-21T03:13:37+00:00"
     },
     {
-      "id": "f9ceead4b452",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 297.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cd. Mendoza - Córdoba, km 297, d",
-      "link": "https://nitter.net/CAPUFE/status/2079403137455001924#m",
-      "date": "2026-07-21T03:08:36+00:00"
-    },
-    {
       "id": "90f330cb280d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -463,20 +491,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial en el km 054+100, de la carretera Cuacnopalan - Oaxaca, a la altura del Mpio. de Tehuacán, con dirección a Cuacnopalan. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cier",
       "link": "https://nitter.net/GN_Carreteras/status/2079395090179490177#m",
       "date": "2026-07-21T02:36:37+00:00"
-    },
-    {
-      "id": "3b5f5884dbd7",
-      "account": "@capufe",
-      "type": "rollover",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 31.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 31. Cierre a la circulación en ambos sentidos por atención de volcadura de tracto camión tipo pipa que transporta combustible. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/ByJJwSSMibH1GKb1A 🔴 ",
-      "link": "https://nitter.net/CAPUFE/status/2079387166090637470#m",
-      "date": "2026-07-21T02:05:08+00:00"
     },
     {
       "id": "40ab711aa33d",
