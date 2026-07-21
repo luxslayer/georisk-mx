@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21T09:19:52.409668+00:00",
-  "count": 38,
+  "updated": "2026-07-21T10:18:48.265534+00:00",
+  "count": 37,
   "incidents": [
     {
       "id": "feb273710595",
@@ -227,20 +227,6 @@
       "date": "2026-07-21T05:18:16+00:00"
     },
     {
-      "id": "b9685b35064e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 31.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 31. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente En la zona se registra derrame de combustible. El personal de CAPUFE, continúa realizando las lab",
-      "link": "https://nitter.net/CAPUFE/status/2079431519475490981#m",
-      "date": "2026-07-21T05:01:22+00:00"
-    },
-    {
       "id": "afde33a9d9fd",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -409,20 +395,6 @@
       "date": "2026-07-21T03:41:19+00:00"
     },
     {
-      "id": "5d8c35fa5cb6",
-      "account": "@capufe",
-      "type": "rollover",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 31.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 31. Continúa cierre a la circulación en ambos sentidos por atención de volcadura de tracto camión tipo pipa que transporta combustible. Por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia ca",
-      "link": "https://nitter.net/CAPUFE/status/2079406938891100342#m",
-      "date": "2026-07-21T03:23:42+00:00"
-    },
-    {
       "id": "b3f98790275c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,6 +463,20 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial en el km 054+100, de la carretera Cuacnopalan - Oaxaca, a la altura del Mpio. de Tehuacán, con dirección a Cuacnopalan. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cier",
       "link": "https://nitter.net/GN_Carreteras/status/2079395090179490177#m",
       "date": "2026-07-21T02:36:37+00:00"
+    },
+    {
+      "id": "3b5f5884dbd7",
+      "account": "@capufe",
+      "type": "rollover",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 31.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 31. Cierre a la circulación en ambos sentidos por atención de volcadura de tracto camión tipo pipa que transporta combustible. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/ByJJwSSMibH1GKb1A 🔴 ",
+      "link": "https://nitter.net/CAPUFE/status/2079387166090637470#m",
+      "date": "2026-07-21T02:05:08+00:00"
     },
     {
       "id": "40ab711aa33d",
