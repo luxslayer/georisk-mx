@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-21T21:30:28.200389+00:00",
+  "updated": "2026-07-21T22:20:45.133898+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "6cf0f7fc5b06",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 123.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 123, dirección Querétaro. Se informa a las personas usuarias que continúa reducción de carriles por maniobras de trasvase de carga. Personal de CAPUFE y Protección Civil, se encuentran laborando en el lugar. En la zona se re",
+      "link": "https://nitter.net/CAPUFE/status/2079691973766905977#m",
+      "date": "2026-07-21T22:16:20+00:00"
+    },
+    {
+      "id": "9a7f1bb29005",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 6.0,
+      "lat": 17.9784,
+      "lon": -94.8912,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 6, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 6, d",
+      "link": "https://nitter.net/CAPUFE/status/2079687795967184964#m",
+      "date": "2026-07-21T21:59:43+00:00"
+    },
+    {
+      "id": "03aeab46a904",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 41.0,
+      "lat": 19.31864,
+      "lon": -99.55456,
+      "resolved": true,
+      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial en el km 041+300, de la carretera México-Toluca, a la altura del Mpio. Ocoyoacac, Edo. Méx., con dirección a Toluca, Edo. Méx. Atienda indicación vial. #TomePrecauciones en #EdoMéx se regist",
+      "link": "https://nitter.net/GN_Carreteras/status/2079684280360247798#m",
+      "date": "2026-07-21T21:45:45+00:00"
+    },
     {
       "id": "528a372bdb4a",
       "account": "@capufe",
@@ -297,34 +339,6 @@
       "date": "2026-07-21T17:48:24+00:00"
     },
     {
-      "id": "89d9d57b8084",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 17, dirección Querétaro. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 17, dirección",
-      "link": "https://nitter.net/CAPUFE/status/2079624455903416614#m",
-      "date": "2026-07-21T17:48:02+00:00"
-    },
-    {
-      "id": "f762202c416d",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 242.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Autopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Autopista Acatzingo - Cd. Men",
-      "link": "https://nitter.net/CAPUFE/status/2079623786853171439#m",
-      "date": "2026-07-21T17:45:22+00:00"
-    },
-    {
       "id": "ecf186e9f494",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -505,20 +519,6 @@
       "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial en el km 124+000, de la carretera Las Choapas - Ocozocoautla, a la altura del poblado El Progreso, con dirección a Tuxtla Gutiérrez. Atienda indicación vial. #TomePrecauciones en #Chiapas s",
       "link": "https://nitter.net/GN_Carreteras/status/2079562317834973370#m",
       "date": "2026-07-21T13:41:07+00:00"
-    },
-    {
-      "id": "b57a0a7bf595",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 284.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial en el km 284+900, de la carretera Pinotepa Nacional - Salina Cruz, a la altura del Mpio. San Pedro Huamelula, con dirección a Salina Cruz. Atienda indicación vial. #TomePrecauciones en #Oaxa",
-      "link": "https://nitter.net/GN_Carreteras/status/2079545374490984490#m",
-      "date": "2026-07-21T12:33:48+00:00"
     }
   ]
 }
