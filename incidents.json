@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-21T07:22:33.938939+00:00",
+  "updated": "2026-07-21T08:18:20.003858+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "db8c1353a554",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 31.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 31. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. En la zona se registra derrame de combustible. El personal se encuentra realizando las maniobras",
+      "link": "https://nitter.net/CAPUFE/status/2079477502502723936#m",
+      "date": "2026-07-21T08:04:06+00:00"
+    },
+    {
+      "id": "b2c7cadaf59c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 86.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 86, dirección CDMX. El accidente en carriles centrales ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 86, dirección CDMX. El",
+      "link": "https://nitter.net/CAPUFE/status/2079473132545437715#m",
+      "date": "2026-07-21T07:46:44+00:00"
+    },
+    {
+      "id": "16fbc82ac718",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 93.0,
+      "lat": 19.069975,
+      "lon": -98.234975,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial en el km 093+500, de la carretera México-Puebla, a la altura del Mpio. de San Martin Texmelucan, con dirección a Cd. Méx. Atienda indicación vial. #TomePrecauciones en #Puebla se registra ci",
+      "link": "https://nitter.net/GN_Carreteras/status/2079472864139284740#m",
+      "date": "2026-07-21T07:45:40+00:00"
+    },
+    {
+      "id": "28aa237de9d9",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 0.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial en el km 000+200, de la carretera Tamarindo - Cardel, a la altura del Mpio. de La Antigua, con dirección a Cardel. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierr",
+      "link": "https://nitter.net/GN_Carreteras/status/2079470298781384910#m",
+      "date": "2026-07-21T07:35:28+00:00"
+    },
+    {
+      "id": "56bf8777aec9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 31.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 31. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente En la zona se registra derrame de combustible. El personal de CAPUFE, continúa realizando las lab",
+      "link": "https://nitter.net/CAPUFE/status/2079468467896389679#m",
+      "date": "2026-07-21T07:28:12+00:00"
+    },
     {
       "id": "b0e28746c749",
       "account": "@capufe",
@@ -367,48 +437,6 @@
       "date": "2026-07-21T03:08:36+00:00"
     },
     {
-      "id": "9e36fe717eab",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 37.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 37, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULAC",
-      "link": "https://nitter.net/CAPUFE/status/2079402378395033973#m",
-      "date": "2026-07-21T03:05:35+00:00"
-    },
-    {
-      "id": "59beecef51da",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Acayucan–Cosoleacaque",
-      "route_key": "acayucan-cosoleacaque",
-      "km": 5.0,
-      "lat": 17.973333,
-      "lon": -94.895,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 5, dirección Cosoleacaque. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaq",
-      "link": "https://nitter.net/CAPUFE/status/2079401117859844588#m",
-      "date": "2026-07-21T03:00:34+00:00"
-    },
-    {
-      "id": "68ff9e3aaa37",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 187.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 187. Circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Tránsito lento en la zona. Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 ",
-      "link": "https://nitter.net/CAPUFE/status/2079400371173138846#m",
-      "date": "2026-07-21T02:57:36+00:00"
-    },
-    {
       "id": "90f330cb280d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -505,34 +533,6 @@
       "text": "#TomePrecauciones en #Durango se registra cierre parcial de circulación por #AccidenteVial en el km 140+000, de la carretera La Chicharrona-Cuencamé, a la altura de la localidad de San Antonio de la Laguna, con dirección a Santa Clara. Atienda indicación vial. #TomePrecauciones e",
       "link": "https://nitter.net/GN_Carreteras/status/2079375159270494542#m",
       "date": "2026-07-21T01:17:25+00:00"
-    },
-    {
-      "id": "a9d4a059258c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 124.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial en el km 124+500, de la carretera Tepic - Puerto Vallarta, a la altura del Mpio. de Bucerias, con dirección a Tepic. Atienda indicación vial. #TomePrecauciones en #Nayarit se registra cierr",
-      "link": "https://nitter.net/GN_Carreteras/status/2079374194849034682#m",
-      "date": "2026-07-21T01:13:35+00:00"
-    },
-    {
-      "id": "2b3768188852",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 55.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Puebla tras retiro de personas, cerca del km 055+000, de la carretera Tehuacán - Puebla, a la altura del Mpio. de Santa Maria la Alta. Maneje con precaución. #VíaLibre en #Puebla tras retiro de personas, cerca del km 055+000, de la carretera Tehuacán - Puebla, a la ",
-      "link": "https://nitter.net/GN_Carreteras/status/2079355123554197924#m",
-      "date": "2026-07-20T23:57:48+00:00"
     }
   ]
 }
