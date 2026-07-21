@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-21T19:32:10.659919+00:00",
+  "updated": "2026-07-21T20:30:06.113198+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "cd03ea5f09f7",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 141.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoQuerétaro, KM 141, dirección CDMX. Se informa a las personas usuarias que continúa la reducción de carriles, por caravana de peregrinos avanzando. Se recomienda atender las indicaciones viales y manejar con precaución. ⚠️ AVISO IMPORTANTE⚠️ #AutMéx",
+      "link": "https://nitter.net/CAPUFE/status/2079658589371646111#m",
+      "date": "2026-07-21T20:03:40+00:00"
+    },
+    {
+      "id": "68ce395904bc",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Gdl–Tepic",
+      "route_key": "guadalajara-tepic",
+      "km": 63.0,
+      "lat": 20.9424,
+      "lon": -103.891,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial en el km 063+950, de la carretera Apizaco-Tejocotal, a la altura del Mpio. Zacatlán, Pue., con dirección a Chignahuapan, Pue. Atienda indicación vial. #TomePrecauciones en #Puebla se registr",
+      "link": "https://nitter.net/GN_Carreteras/status/2079657316442411115#m",
+      "date": "2026-07-21T19:58:37+00:00"
+    },
     {
       "id": "44dcabe85952",
       "account": "@GN_carreteras",
@@ -339,20 +367,6 @@
       "date": "2026-07-21T16:57:57+00:00"
     },
     {
-      "id": "acab368999cc",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 102.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 102, dirección Isla. Continúa reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 102, direcc",
-      "link": "https://nitter.net/CAPUFE/status/2079609641277776109#m",
-      "date": "2026-07-21T16:49:10+00:00"
-    },
-    {
       "id": "f37248faff20",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -505,20 +519,6 @@
       "text": "#VíaLibre en #Puebla tras #AccidenteVial en el km 031+300, de la carretera Cuacnopalan - Oaxaca, a la altura del Mpio. de Tehuacán. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial en el km 031+300, de la carretera Cuacnopalan - Oaxaca, a la altura del Mpio. de Teh",
       "link": "https://nitter.net/GN_Carreteras/status/2079543413020516421#m",
       "date": "2026-07-21T12:26:00+00:00"
-    },
-    {
-      "id": "feb273710595",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 286.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guerrero se registra cierre intermitente de circulación por #AccidenteVial en el km 286+500, de la carretera Uruapan - Lázaro Cárdenas, a la altura de Playa Boca de Leña, con dirección a Lázaro Cárdenas. Atienda indicación vial. #TomePrecauciones en #Guerrer",
-      "link": "https://nitter.net/GN_Carreteras/status/2079486782127657408#m",
-      "date": "2026-07-21T08:40:58+00:00"
     }
   ]
 }
