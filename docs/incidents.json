@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-22T10:18:43.533439+00:00",
+  "updated": "2026-07-22T11:15:03.522804+00:00",
   "count": 17,
   "incidents": [
+    {
+      "id": "4a2d2a2b08d5",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 243.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial en el km 243+400, de la carretera Córdoba-Puebla, a la altura del Mpio. Maltrata, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial",
+      "link": "https://nitter.net/GN_Carreteras/status/2079887771687170408#m",
+      "date": "2026-07-22T11:14:21+00:00"
+    },
     {
       "id": "541c58e3c595",
       "account": "@GN_carreteras",
@@ -225,20 +239,6 @@
       "text": "#PrecauciónVial en #SLP continúa cierre total de circulación por #AccidenteVial en el km 146+000, de la carretera Querétaro-San Luis Potosí, a la altura del Mpio. de San María del Río, con dirección a Querétaro y San Luis Potosí. Atienda indicación vial. #PrecauciónVial en #SLP c",
       "link": "https://nitter.net/GN_Carreteras/status/2079623392408330678#m",
       "date": "2026-07-21T17:43:48+00:00"
-    },
-    {
-      "id": "4c623e19c97c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 15.0,
-      "lat": 18.275,
-      "lon": -94.95625,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial en el km 015+000, de la carretera Cordoba-Entroque la Tinaja, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por ",
-      "link": "https://nitter.net/GN_Carreteras/status/2079616268613591322#m",
-      "date": "2026-07-21T17:15:30+00:00"
     }
   ]
 }
