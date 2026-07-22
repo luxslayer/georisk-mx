@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-22T16:58:27.169108+00:00",
-  "count": 34,
+  "updated": "2026-07-22T17:34:50.265474+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "17a3f0b00f71",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 93.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 93, dirección Puebla. Registra cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/67HpREtmToaBH88o8 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla , km 93, d",
+      "link": "https://nitter.net/CAPUFE/status/2079979765725790590#m",
+      "date": "2026-07-22T17:19:54+00:00"
+    },
+    {
+      "id": "0363895a4943",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 275.0,
+      "lat": 18.884,
+      "lon": -96.923,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca km. 275+200 de la autopista Puebla - Córdoba, con dirección Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial c",
+      "link": "https://nitter.net/GN_Carreteras/status/2079976902744289736#m",
+      "date": "2026-07-22T17:08:32+00:00"
+    },
     {
       "id": "8bac619c2a9b",
       "account": "@capufe",
