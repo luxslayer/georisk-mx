@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-22T20:27:10.891097+00:00",
-  "count": 38,
+  "updated": "2026-07-22T20:52:36.401291+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "3717e6d9a351",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 100.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 100, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 100, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2080031368335990975#m",
+      "date": "2026-07-22T20:44:57+00:00"
+    },
+    {
+      "id": "53d00b7ab342",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 154.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "#VialidadLibre en #Veracruz tras accidente, cerca del km. 154+000 de la autopista Perote - Banderilla, con dirección a Xalapa, a la altura del Mpio. Jilotepec. Ver. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente, cerca del km. 154+000 de la autopista Perote - B",
+      "link": "https://nitter.net/GN_Carreteras/status/2080030736355086380#m",
+      "date": "2026-07-22T20:42:27+00:00"
+    },
+    {
+      "id": "8a3fa43aa485",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 17.0,
+      "lat": 18.269,
+      "lon": -94.94775,
+      "resolved": true,
+      "text": "#VialidadLibre en #Veracruz tras accidente cerca del km. 017+850 de la autopista Ent. La Tinaja - Cosoleacaque. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente cerca del km. 017+850 de la autopista Ent. La Tinaja - Cosoleacaque. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2080027067945570674#m",
+      "date": "2026-07-22T20:27:52+00:00"
+    },
     {
       "id": "e7cedfc232da",
       "account": "@capufe",
@@ -505,34 +547,6 @@
       "text": "#VíalidadLibre en #Hidalgo tras #AccidenteVial en el km 044+700, de la carretera Tulancingo-Pachuca, a la altura del Mpio. Tulancingo, Hgo. Maneje con precaución. #VíalidadLibre en #Hidalgo tras #AccidenteVial en el km 044+700, de la carretera Tulancingo-Pachuca, a la altura del ",
       "link": "https://nitter.net/GN_Carreteras/status/2079926074406842833#m",
       "date": "2026-07-22T13:46:33+00:00"
-    },
-    {
-      "id": "5f00190886df",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Córdoba",
-      "route_key": "puebla-cordoba",
-      "km": 216.0,
-      "lat": 18.884,
-      "lon": -96.923,
-      "resolved": true,
-      "text": "#VíalidadLibre en #Puebla tras #AccidenteVial en el km 216+000, de la carretera Puebla-Córdoba, con dirección a Orizaba , Ver. Maneje con precaución. #VíalidadLibre en #Puebla tras #AccidenteVial en el km 216+000, de la carretera Puebla-Córdoba, con dirección a Orizaba , Ver. Man",
-      "link": "https://nitter.net/GN_Carreteras/status/2079890774771011628#m",
-      "date": "2026-07-22T11:26:17+00:00"
-    },
-    {
-      "id": "895acdb15528",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 238.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km. 238+500 de la carretera Córdoba-Puebla, a la altura de la localidad Carlos Salinas de Gortari, Ver., con dirección a Orizaba, Ver. Atienda indicación vial. #PrecauciónVial en #",
-      "link": "https://nitter.net/GN_Carreteras/status/2079889907707777124#m",
-      "date": "2026-07-22T11:22:51+00:00"
     }
   ]
 }
