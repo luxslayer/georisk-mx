@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-22T20:52:36.401291+00:00",
-  "count": 39,
+  "updated": "2026-07-22T21:26:45.859324+00:00",
+  "count": 41,
   "incidents": [
+    {
+      "id": "06d580b1daea",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 90.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 90, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 90, dirección La Tinaja. El inc",
+      "link": "https://nitter.net/CAPUFE/status/2080039725868495033#m",
+      "date": "2026-07-22T21:18:10+00:00"
+    },
+    {
+      "id": "abe7ad1c6309",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 31.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Barranca Larga - Ventanilla, km 31. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Aut",
+      "link": "https://nitter.net/CAPUFE/status/2080039258073579842#m",
+      "date": "2026-07-22T21:16:19+00:00"
+    },
+    {
+      "id": "ccdd385c5f63",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 229.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Aut. La Carbonera - Puerto México, km 229, dirección La Carbonera. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular intensa. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Aut. La Carbonera - ",
+      "link": "https://nitter.net/CAPUFE/status/2080035128756027868#m",
+      "date": "2026-07-22T20:59:54+00:00"
+    },
     {
       "id": "3717e6d9a351",
       "account": "@capufe",
@@ -393,20 +435,6 @@
       "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 93, dirección Puebla. Se informa a las personas usuarias que continúa el cierre a la circulación por presencia de manifestantes. 🔘 Dirección CDMX, registra reducción de carriles. Por seguridad de las personas usuarias, se coord",
       "link": "https://nitter.net/CAPUFE/status/2079995176240472452#m",
       "date": "2026-07-22T18:21:09+00:00"
-    },
-    {
-      "id": "c8bca0305fa9",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 27.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 27, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 27, dirección Córdoba. El inc",
-      "link": "https://nitter.net/CAPUFE/status/2079993198399668731#m",
-      "date": "2026-07-22T18:13:17+00:00"
     },
     {
       "id": "880de8a127ed",
