@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-22T18:29:37.284217+00:00",
-  "count": 35,
+  "updated": "2026-07-22T18:55:56.532967+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "180de39e14f0",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 93.0,
+      "lat": 19.069975,
+      "lon": -98.234975,
+      "resolved": true,
+      "text": "#EviteLaZona en #Puebla se registra cierre total de circulación por presencia de personas, cerca del km. 093+000 de la carretera México - Puebla, a la altura de la localidad Santa María Moyotzingo, Pue. Atienda indicación vial. #EviteLaZona en #Puebla se registra cierre total de ",
+      "link": "https://nitter.net/GN_Carreteras/status/2080001882269814932#m",
+      "date": "2026-07-22T18:47:47+00:00"
+    },
+    {
+      "id": "cbe78b48062a",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 24.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 24, dirección San Luis Potosí. Reducción de carriles por atención de incidente (tracto camión siniestrado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Que",
+      "link": "https://nitter.net/CAPUFE/status/2080001585757737044#m",
+      "date": "2026-07-22T18:46:37+00:00"
+    },
+    {
+      "id": "1f92b996685a",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 93.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 93. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣. ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla",
+      "link": "https://nitter.net/CAPUFE/status/2080000828006347047#m",
+      "date": "2026-07-22T18:43:36+00:00"
+    },
+    {
+      "id": "8ba647e74d29",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 154.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "En #Veracruz se habilita un carril de circulación por conclusión de maniobras tras #AccidenteVial cerca del km. 154+000 de la autopista Perote - Banderilla, con dirección a Xalapa, a la altura del Mpio. Jilotepec. Ver. Maneje con precaución. En #Veracruz se habilita un carril de ",
+      "link": "https://nitter.net/GN_Carreteras/status/2080000012008718818#m",
+      "date": "2026-07-22T18:40:22+00:00"
+    },
+    {
+      "id": "b633199280ce",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 228.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Carbonera - Puerto México, km 228, dirección La Carbonera. El accidente ha sido atendido. Sin embargo, en la zona continúa la reducción de carriles por labores de mantenimiento a la altura del km 229. Maneja con precaución. 🚌🚙🚗🏍️ 🟢",
+      "link": "https://nitter.net/CAPUFE/status/2079998415870537766#m",
+      "date": "2026-07-22T18:34:01+00:00"
+    },
     {
       "id": "196dbf3d75c9",
       "account": "@capufe",
@@ -227,20 +297,6 @@
       "date": "2026-07-22T16:42:54+00:00"
     },
     {
-      "id": "441eb15e74da",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 228.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Carbonera - Puerto México, km 228, dirección La Carbonera. Reducción de carriles por atención de accidente (maniobras para retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL",
-      "link": "https://nitter.net/CAPUFE/status/2079967907979612474#m",
-      "date": "2026-07-22T16:32:47+00:00"
-    },
-    {
       "id": "5947cb1c897d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -253,34 +309,6 @@
       "text": "#TomePrecauciones en #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km. 060+200 de la carretera Carapan - Playa azul, como referencia antes de la desviación Los Reyes. Atienda indicación vial. #TomePrecauciones en #Michoacan continua cierre parcial",
       "link": "https://nitter.net/GN_Carreteras/status/2079966859240132946#m",
       "date": "2026-07-22T16:28:37+00:00"
-    },
-    {
-      "id": "cbc28f7a9ef3",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 85.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Libramiento Cuernavaca, km 85, dirección Acapulco. Cierre de carriles centrales por labores de mantenimiento. Circulación por carriles laterales. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Libramiento Cuernavaca, km 85, direcc",
-      "link": "https://nitter.net/CAPUFE/status/2079965445205950569#m",
-      "date": "2026-07-22T16:23:00+00:00"
-    },
-    {
-      "id": "75988ea36503",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 5.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 5, dirección Nuevo Teapa. Reducción de carriles por atención de incidente (maniobras para el retiro de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosol",
-      "link": "https://nitter.net/CAPUFE/status/2079965076526674094#m",
-      "date": "2026-07-22T16:21:32+00:00"
     },
     {
       "id": "8b4558df3fb7",
@@ -449,48 +477,6 @@
       "text": "#PrecauciónVial en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km. 145+000 de la carretera México-Querétaro, a la altura de la loc. El Cazadero, Edo. Méx., con dirección a Querétaro, Qro. Atienda indicación vial. #PrecauciónVial en #EdoMéx se re",
       "link": "https://nitter.net/GN_Carreteras/status/2079732430580121626#m",
       "date": "2026-07-22T00:57:05+00:00"
-    },
-    {
-      "id": "03b547e15bf6",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 7.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíalidadLibre en #EdoMéx tras retiro de personas, cerca del km 007+200, de la carretera Huajuapan de León-Oaxaca, a la altura del poblado El Molino, Mpio. Huajuapan de León, Oax. Maneje con precaución. #VíalidadLibre en #EdoMéx tras retiro de personas, cerca del km 007+200, de l",
-      "link": "https://nitter.net/GN_Carreteras/status/2079731506612748570#m",
-      "date": "2026-07-22T00:53:25+00:00"
-    },
-    {
-      "id": "1f518be95fc4",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 34.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíalidadLibre en #NL tras #AccidenteVial en el km 034+200, de la carretera Matehuala-Saltillo, a la altura de la localidad La Escondida de Arzola, N.L., con dirección a Saltillo, Coah. Maneje con precaución. #VíalidadLibre en #NL tras #AccidenteVial en el km 034+200, de la carre",
-      "link": "https://nitter.net/GN_Carreteras/status/2079728286800695689#m",
-      "date": "2026-07-22T00:40:37+00:00"
-    },
-    {
-      "id": "9df7cabe5756",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 132.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #Socavón cerca del km 132+800, de la carretera Plan de Guadalupe-Tuxtepec, con dirección a Plan de Guadalupe. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre parcial de circulación",
-      "link": "https://nitter.net/GN_Carreteras/status/2079721987052548304#m",
-      "date": "2026-07-22T00:15:35+00:00"
     }
   ]
 }
