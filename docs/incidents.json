@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-23T15:16:17.552812+00:00",
-  "count": 32,
+  "updated": "2026-07-23T16:05:01.097940+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "d1dc8fbed190",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 218.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km. 218+500 de la carretera Los Mochis-Cd. Obregón, a la altura del Mpio. de Cd. Obregón, Son. Atienda indicación vial. #PrecauciónVial en #Sonora se registra cierre parcial de circu",
+      "link": "https://nitter.net/GN_Carreteras/status/2080322898091241670#m",
+      "date": "2026-07-23T16:03:24+00:00"
+    },
+    {
+      "id": "09226c7f5961",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Méx–Acapulco",
+      "route_key": "mexico-acapulco",
+      "km": 95.0,
+      "lat": 18.584,
+      "lon": -99.234,
+      "resolved": true,
+      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Libramiento Cuernavaca, km 95, dirección Acapulco. Cierre a la circulación en el Distribuidor vial Palmira por labores de mantenimiento. En la zona se da vialidad por los carriles laterales. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIM",
+      "link": "https://nitter.net/CAPUFE/status/2080321040668836112#m",
+      "date": "2026-07-23T15:56:01+00:00"
+    },
+    {
+      "id": "8f1a851049ef",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 153.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "#VialidadLibre en #Tabasco tras accidente cerca del km.153+500 de la carretera Coatzacoalcos-Villahermosa, a la altura de la localidad Anacleto Canabal 3ra. Secc.,Tab. Maneje con precaución. #VialidadLibre en #Tabasco tras accidente cerca del km.153+500 de la carretera Coatzacoal",
+      "link": "https://nitter.net/GN_Carreteras/status/2080320615248986429#m",
+      "date": "2026-07-23T15:54:19+00:00"
+    },
+    {
+      "id": "75ddc75ecceb",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 114.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 114, dirección La Tinaja. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 114, dirección La Tinaj",
+      "link": "https://nitter.net/CAPUFE/status/2080318676402638918#m",
+      "date": "2026-07-23T15:46:37+00:00"
+    },
+    {
+      "id": "3a49d6e87391",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 86.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 86, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 86, direc",
+      "link": "https://nitter.net/CAPUFE/status/2080317326843342880#m",
+      "date": "2026-07-23T15:41:15+00:00"
+    },
     {
       "id": "726d665fae01",
       "account": "@GN_carreteras",
@@ -353,20 +423,6 @@
       "date": "2026-07-23T03:48:04+00:00"
     },
     {
-      "id": "0a015e84aee2",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 37.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 37, dirección Cuernavaca. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del incidente (maniobras de limpieza). En la zona se registra carga vehicular. Maneja con pre",
-      "link": "https://nitter.net/CAPUFE/status/2080136017873367186#m",
-      "date": "2026-07-23T03:40:48+00:00"
-    },
-    {
       "id": "b099171baa93",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -421,34 +477,6 @@
       "text": "#TomePrecauciones en #Zacatecas continua cierre parcial de circulación por #AccidenteVial cerca del km. 126+300 de la carretera Aguascalientes - Zacatecas, con dirección Zacatecas. Atienda indicación vial. #TomePrecauciones en #Zacatecas continua cierre parcial de circulación por",
       "link": "https://nitter.net/GN_Carreteras/status/2080113016440283226#m",
       "date": "2026-07-23T02:09:24+00:00"
-    },
-    {
-      "id": "64bc8a650f88",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 22.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Veracruz tras accidente cerca del km. 022+500 de la carretera Libramiento de Xalapa. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente cerca del km. 022+500 de la carretera Libramiento de Xalapa. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2080112138576654469#m",
-      "date": "2026-07-23T02:05:55+00:00"
-    },
-    {
-      "id": "7cb1da925bac",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 9.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 009+500 de la carretera Puebla - Huajuapan de León, con dirección Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #Acciden",
-      "link": "https://nitter.net/GN_Carreteras/status/2080090418302111761#m",
-      "date": "2026-07-23T00:39:36+00:00"
     }
   ]
 }
