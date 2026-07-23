@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-23T20:26:32.856586+00:00",
-  "count": 35,
+  "updated": "2026-07-23T20:51:06.325047+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "863438546b2e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 90.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 90, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 90, dirección Veracruz. El a",
+      "link": "https://nitter.net/CAPUFE/status/2080389340966867154#m",
+      "date": "2026-07-23T20:27:25+00:00"
+    },
     {
       "id": "a8edf9d41527",
       "account": "@GN_carreteras",
