@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-23T08:18:39.246035+00:00",
+  "updated": "2026-07-23T09:19:11.198402+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "be19cdd6556a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 0.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km. 000+100 Atienda indicación casarte sin flores. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del ",
+      "link": "https://nitter.net/GN_Carreteras/status/2080209104979558678#m",
+      "date": "2026-07-23T08:31:13+00:00"
+    },
     {
       "id": "08a75af8a581",
       "account": "@GN_carreteras",
@@ -491,20 +505,6 @@
       "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 022+500 de la carretera Libramiento de Xalapa. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 02",
       "link": "https://nitter.net/GN_Carreteras/status/2080082710094086214#m",
       "date": "2026-07-23T00:08:58+00:00"
-    },
-    {
-      "id": "26169e603ede",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 93.0,
-      "lat": 19.069975,
-      "lon": -98.234975,
-      "resolved": true,
-      "text": "#VialidadLibre en #Puebla tras retiro de personas, cerca del km. 093+000 de la carretera México - Puebla, a la altura de la localidad Santa María Moyotzingo, Pue. Maneje con precaución. #VialidadLibre en #Puebla tras retiro de personas, cerca del km. 093+000 de la carretera Méxic",
-      "link": "https://nitter.net/GN_Carreteras/status/2080077783535894976#m",
-      "date": "2026-07-22T23:49:24+00:00"
     }
   ]
 }
