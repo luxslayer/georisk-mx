@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-23T22:48:38.318133+00:00",
-  "count": 40,
+  "updated": "2026-07-23T23:22:10.893015+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "128944801b1e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 55.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 55, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro , km 55, direcc",
+      "link": "https://nitter.net/CAPUFE/status/2080432235908354287#m",
+      "date": "2026-07-23T23:17:52+00:00"
+    },
+    {
+      "id": "423fbb5b0c9e",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 6.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Veracruz continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 006+900 de la carretera Tuxpan-Tampico, con dirección a Tuxpan, Ver. Atienda indicación vial. #PrecauciónVial en #Veracruz continúa cierre parcial de circulación tras #AccidenteV",
+      "link": "https://nitter.net/GN_Carreteras/status/2080430528956690491#m",
+      "date": "2026-07-23T23:11:05+00:00"
+    },
+    {
+      "id": "2f35d9c3e7b3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 89.0,
+      "lat": 31.8677,
+      "lon": -116.6618,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 89, dirección Ensenada. Reducción de carriles por atención de accidente (incendio de camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 89, dirección Ensenada. Reduc",
+      "link": "https://nitter.net/CAPUFE/status/2080428183908765813#m",
+      "date": "2026-07-23T23:01:46+00:00"
+    },
+    {
+      "id": "494f3c3fb5de",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 114.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 Aut. La Rumorosa - Tecate, km 114, dirección Tecate. Reducción de carriles por atención a incidente (tracto camión con falla mecánica). Toma tus precauciones. 🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 Aut. La Rumorosa - Tecate, km 114, dirección Tecate. Redu",
+      "link": "https://nitter.net/CAPUFE/status/2080425778500575474#m",
+      "date": "2026-07-23T22:52:12+00:00"
+    },
     {
       "id": "3bc1438cd32b",
       "account": "@GN_carreteras",
@@ -311,20 +367,6 @@
       "date": "2026-07-23T20:59:02+00:00"
     },
     {
-      "id": "863438546b2e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 90.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 90, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 90, dirección Veracruz. El a",
-      "link": "https://nitter.net/CAPUFE/status/2080389340966867154#m",
-      "date": "2026-07-23T20:27:25+00:00"
-    },
-    {
       "id": "a8edf9d41527",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -353,20 +395,6 @@
       "date": "2026-07-23T19:57:53+00:00"
     },
     {
-      "id": "c1bab03d9246",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 131.0,
-      "lat": 17.633142,
-      "lon": -99.656138,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 131, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 131, dirección Acapul",
-      "link": "https://nitter.net/CAPUFE/status/2080377392296558664#m",
-      "date": "2026-07-23T19:39:56+00:00"
-    },
-    {
       "id": "c266c2306f5c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -381,20 +409,6 @@
       "date": "2026-07-23T19:38:15+00:00"
     },
     {
-      "id": "a6973ceb930f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 90.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 90, dirección Veracruz. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 90, dirección Veracruz. Reduc",
-      "link": "https://nitter.net/CAPUFE/status/2080375984801427749#m",
-      "date": "2026-07-23T19:34:20+00:00"
-    },
-    {
       "id": "3333385f6bf5",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -407,20 +421,6 @@
       "text": "#TomePrecauciones en #Veracruz continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 229+100 de la carretera Tulancingo-Tihuatlan, a la altura de la plaza de cobro puente Tuxpan, Ver., con dirección a Huauchinango, Ver. Atienda indicación vial. #TomePrecaucione",
       "link": "https://nitter.net/GN_Carreteras/status/2080374459773456558#m",
       "date": "2026-07-23T19:28:17+00:00"
-    },
-    {
-      "id": "d2cef23c19d3",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 114.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 114, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 114, dirección",
-      "link": "https://nitter.net/CAPUFE/status/2080373446333145238#m",
-      "date": "2026-07-23T19:24:15+00:00"
     },
     {
       "id": "7dc4ea07a8f9",
@@ -547,20 +547,6 @@
       "text": "#PrecauciónVial en #Zacatecas continúa cierre parcial de circulación tras conclusión de maniobtras tras accidente cerca del km. 207+000 de la carretera Zacatecas-Saltillo, a la altura del municipio de Mazapil, con dirección a Saltillo, Coah. Atienda indicación vial. #PrecauciónVi",
       "link": "https://nitter.net/GN_Carreteras/status/2080342421511008335#m",
       "date": "2026-07-23T17:20:58+00:00"
-    },
-    {
-      "id": "926627977231",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 218.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Sonora continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 218+500 de la carretera Los Mochis-Cd. Obregón, a la altura del Mpio. de Cd. Obregón, Son. Atienda indicación vial. #TomePrecauciones en #Sonora continúa cierre parcial de circul",
-      "link": "https://nitter.net/GN_Carreteras/status/2080341805804011608#m",
-      "date": "2026-07-23T17:18:32+00:00"
     }
   ]
 }
