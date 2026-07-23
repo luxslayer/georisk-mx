@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-23T07:22:44.004460+00:00",
+  "updated": "2026-07-23T08:18:39.246035+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "08a75af8a581",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 100.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "#VialidadLibre en #Veracruz tras accidente cerca del km. 100+600 de la carretera Ent. La Tinaja - Cosoleacaque. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente cerca del km. 100+600 de la carretera Ent. La Tinaja - Cosoleacaque. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2080195665963982895#m",
+      "date": "2026-07-23T07:37:49+00:00"
+    },
+    {
+      "id": "6d770ea9b6a1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 29.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Chiapas tras accidente cerca del km. 029+500 de la carretera Villahermosa - Escopetazo. Maneje con precaución. #VialidadLibre en #Chiapas tras accidente cerca del km. 029+500 de la carretera Villahermosa - Escopetazo. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2080194206115430910#m",
+      "date": "2026-07-23T07:32:01+00:00"
+    },
     {
       "id": "9aa1158dcfad",
       "account": "@capufe",
@@ -477,34 +505,6 @@
       "text": "#VialidadLibre en #Puebla tras retiro de personas, cerca del km. 093+000 de la carretera México - Puebla, a la altura de la localidad Santa María Moyotzingo, Pue. Maneje con precaución. #VialidadLibre en #Puebla tras retiro de personas, cerca del km. 093+000 de la carretera Méxic",
       "link": "https://nitter.net/GN_Carreteras/status/2080077783535894976#m",
       "date": "2026-07-22T23:49:24+00:00"
-    },
-    {
-      "id": "dcc46714cbed",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 7.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Queretaro continua cierre parcial de circulación por #AccidenteVial cerca del km. 007+900 de la carretera San Juan del Río - Xilitla, con dirección a San Juan del Río, a la altura de la localidad San Cayetano, Qro. Atienda indicación vial. #TomePrecauciones ",
-      "link": "https://nitter.net/GN_Carreteras/status/2080062488045814041#m",
-      "date": "2026-07-22T22:48:37+00:00"
-    },
-    {
-      "id": "6dbdd233e253",
-      "account": "@GN_carreteras",
-      "type": "fire",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 114.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Michoacan tras incendio de vehículo, cerca del km. 114+200 de la autopista Uruapan Lzc. Directo Ent. Autopista Pátzcuaro Uruapan Lzc. Maneje con precaución. #VialidadLibre en #Michoacan tras incendio de vehículo, cerca del km. 114+200 de la autopista Uruapan Lz",
-      "link": "https://nitter.net/GN_Carreteras/status/2080061548416962819#m",
-      "date": "2026-07-22T22:44:53+00:00"
     }
   ]
 }
