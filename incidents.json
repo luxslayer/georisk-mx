@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-23T20:51:06.325047+00:00",
-  "count": 36,
+  "updated": "2026-07-23T21:26:11.201585+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "7bff055792fa",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con ",
+      "link": "https://nitter.net/CAPUFE/status/2080401029242273979#m",
+      "date": "2026-07-23T21:13:52+00:00"
+    },
+    {
+      "id": "9521ca8cbfda",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 66.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #Deslave_de_y_Socavón cerca del km 066+200, de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. San Dionisio Ocotepec, con dirección a Tehuantepec. Atienda indicación vial. #TomePrecauciones en #Oaxa",
+      "link": "https://nitter.net/GN_Carreteras/status/2080398906806931539#m",
+      "date": "2026-07-23T21:05:25+00:00"
+    },
+    {
+      "id": "fd2d466b215c",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 17. Cierre a la circulación en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopist",
+      "link": "https://nitter.net/CAPUFE/status/2080397299071488020#m",
+      "date": "2026-07-23T20:59:02+00:00"
+    },
     {
       "id": "863438546b2e",
       "account": "@capufe",
@@ -381,20 +423,6 @@
       "date": "2026-07-23T17:20:58+00:00"
     },
     {
-      "id": "5110a041e051",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Méx–Acapulco",
-      "route_key": "mexico-acapulco",
-      "km": 95.0,
-      "lat": 18.584,
-      "lon": -99.234,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 95, dirección Acapulco. Concluyen labores de mantenimiento sobre el Distribuidor vial Palmira. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km",
-      "link": "https://nitter.net/CAPUFE/status/2080341874812854520#m",
-      "date": "2026-07-23T17:18:48+00:00"
-    },
-    {
       "id": "926627977231",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,20 +519,6 @@
       "text": "#PrecauciónVial en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km. 218+500 de la carretera Los Mochis-Cd. Obregón, a la altura del Mpio. de Cd. Obregón, Son. Atienda indicación vial. #PrecauciónVial en #Sonora se registra cierre parcial de circu",
       "link": "https://nitter.net/GN_Carreteras/status/2080322898091241670#m",
       "date": "2026-07-23T16:03:24+00:00"
-    },
-    {
-      "id": "8f1a851049ef",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 153.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "#VialidadLibre en #Tabasco tras accidente cerca del km.153+500 de la carretera Coatzacoalcos-Villahermosa, a la altura de la localidad Anacleto Canabal 3ra. Secc.,Tab. Maneje con precaución. #VialidadLibre en #Tabasco tras accidente cerca del km.153+500 de la carretera Coatzacoal",
-      "link": "https://nitter.net/GN_Carreteras/status/2080320615248986429#m",
-      "date": "2026-07-23T15:54:19+00:00"
     }
   ]
 }
