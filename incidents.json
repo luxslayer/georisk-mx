@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-23T14:18:15.978098+00:00",
-  "count": 33,
+  "updated": "2026-07-23T15:16:17.552812+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "726d665fae01",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 186.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Durango continua cierre parcial de circulación por #AccidenteVial cerca del km. 186+700 de la carretera Yerbaniz-Gómez Palacio, con dirección a Durango. Atienda indicación vial. #TomePrecauciones en #Durango continua cierre parcial de circulación por #Accide",
+      "link": "https://nitter.net/GN_Carreteras/status/2080296724891881790#m",
+      "date": "2026-07-23T14:19:23+00:00"
+    },
     {
       "id": "f711aea6a8c0",
       "account": "@capufe",
@@ -353,20 +367,6 @@
       "date": "2026-07-23T03:40:48+00:00"
     },
     {
-      "id": "e018f692eb66",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 37.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 37, dirección Cuernavaca. Continúa atención de incidente, se registra cierre a la circulación por (labores de limpieza). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca ",
-      "link": "https://nitter.net/CAPUFE/status/2080132779195457973#m",
-      "date": "2026-07-23T03:27:56+00:00"
-    },
-    {
       "id": "b099171baa93",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -449,20 +449,6 @@
       "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 009+500 de la carretera Puebla - Huajuapan de León, con dirección Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #Acciden",
       "link": "https://nitter.net/GN_Carreteras/status/2080090418302111761#m",
       "date": "2026-07-23T00:39:36+00:00"
-    },
-    {
-      "id": "afe37b327d08",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 20.0,
-      "lat": 18.26,
-      "lon": -94.935,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 020+500 de la autopista Ent. La tinaja - Cosoleacaque. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca de",
-      "link": "https://nitter.net/GN_Carreteras/status/2080086473710207316#m",
-      "date": "2026-07-23T00:23:56+00:00"
     }
   ]
 }
