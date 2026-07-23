@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-23T21:26:11.201585+00:00",
-  "count": 37,
+  "updated": "2026-07-23T21:51:25.896073+00:00",
+  "count": 18,
   "incidents": [
+    {
+      "id": "4be8833a5049",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 86.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. La Tinaja - Isla, km 86, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. La Tinaja - Isla, km 86, dirección La Ti",
+      "link": "https://nitter.net/CAPUFE/status/2080405833158918241#m",
+      "date": "2026-07-23T21:32:57+00:00"
+    },
+    {
+      "id": "b24bc5ec0050",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 114.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 114, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 114, dirección",
+      "link": "https://nitter.net/CAPUFE/status/2080405619891196400#m",
+      "date": "2026-07-23T21:32:06+00:00"
+    },
     {
       "id": "7bff055792fa",
       "account": "@capufe",
@@ -15,20 +43,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con ",
       "link": "https://nitter.net/CAPUFE/status/2080401029242273979#m",
       "date": "2026-07-23T21:13:52+00:00"
-    },
-    {
-      "id": "9521ca8cbfda",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 66.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #Deslave_de_y_Socavón cerca del km 066+200, de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. San Dionisio Ocotepec, con dirección a Tehuantepec. Atienda indicación vial. #TomePrecauciones en #Oaxa",
-      "link": "https://nitter.net/GN_Carreteras/status/2080398906806931539#m",
-      "date": "2026-07-23T21:05:25+00:00"
     },
     {
       "id": "fd2d466b215c",
@@ -59,34 +73,6 @@
       "date": "2026-07-23T20:27:25+00:00"
     },
     {
-      "id": "a8edf9d41527",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Córdoba",
-      "route_key": "puebla-cordoba",
-      "km": 140.0,
-      "lat": 18.887,
-      "lon": -96.9615,
-      "resolved": true,
-      "text": "#PrecauciónVial en #Puebla continúa cierre parcial de circulación tras #AccidenteVial cerca del cerca del km. 140+000 de la carretera Puebla-Cordoba, a la altura del municipio de Amozoc, con dirección a Córdoba Ver. Atienda indicación vial. #PrecauciónVial en #Puebla continúa cie",
-      "link": "https://nitter.net/GN_Carreteras/status/2080383386619662829#m",
-      "date": "2026-07-23T20:03:45+00:00"
-    },
-    {
-      "id": "41b183c1e5ee",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 155.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Zacatecas continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 155+200 de la carretera San Luis Potosí-Ent. Arsínas, a la altura de la localidad Las lajas, Zac. Atienda indicación vial. #TomePrecauciones en #Zacatecas continúa cierre parc",
-      "link": "https://nitter.net/GN_Carreteras/status/2080381910685974681#m",
-      "date": "2026-07-23T19:57:53+00:00"
-    },
-    {
       "id": "c1bab03d9246",
       "account": "@capufe",
       "type": "accident",
@@ -101,20 +87,6 @@
       "date": "2026-07-23T19:39:56+00:00"
     },
     {
-      "id": "c266c2306f5c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 279.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Zacatecas continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 279+400 de la carretera Guadalajara-Zacatecas, a la altura de la localidad del Vergel, Zac., con dirección a Zacatecas. Atienda indicación vial. #TomePrecauciones en #Zacateca",
-      "link": "https://nitter.net/GN_Carreteras/status/2080376966771847263#m",
-      "date": "2026-07-23T19:38:15+00:00"
-    },
-    {
       "id": "a6973ceb930f",
       "account": "@capufe",
       "type": "accident",
@@ -127,20 +99,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 90, dirección Veracruz. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 90, dirección Veracruz. Reduc",
       "link": "https://nitter.net/CAPUFE/status/2080375984801427749#m",
       "date": "2026-07-23T19:34:20+00:00"
-    },
-    {
-      "id": "3333385f6bf5",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 229.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 229+100 de la carretera Tulancingo-Tihuatlan, a la altura de la plaza de cobro puente Tuxpan, Ver., con dirección a Huauchinango, Ver. Atienda indicación vial. #TomePrecaucione",
-      "link": "https://nitter.net/GN_Carreteras/status/2080374459773456558#m",
-      "date": "2026-07-23T19:28:17+00:00"
     },
     {
       "id": "d2cef23c19d3",
@@ -171,34 +129,6 @@
       "date": "2026-07-23T19:23:44+00:00"
     },
     {
-      "id": "7dc4ea07a8f9",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 207.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Zacatecas tras accidente cerca del km. 207+000 de la carretera Zacatecas-Saltillo, a la altura del municipio de Mazapil, con dirección a Saltillo, Coah. Maneje con precaución. #VialidadLibre en #Zacatecas tras accidente cerca del km. 207+000 de la carretera Zac",
-      "link": "https://nitter.net/GN_Carreteras/status/2080369866301665545#m",
-      "date": "2026-07-23T19:10:02+00:00"
-    },
-    {
-      "id": "7778cfc8a67c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 10.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #EdoMéx continúa cierre parcial de circulación tras #AccidenteVial cerca del cerca del km. 010+500 de la carretera Los Reyes-Zacatepec, a la altura del municipio de Tepetlaoxtoc de Hidalgo, Edo. Méx., con dirección a CDMX. Atienda indicación vial. #PrecauciónVi",
-      "link": "https://nitter.net/GN_Carreteras/status/2080367509266432332#m",
-      "date": "2026-07-23T19:00:40+00:00"
-    },
-    {
       "id": "011a1e5e56e4",
       "account": "@capufe",
       "type": "accident",
@@ -213,20 +143,6 @@
       "date": "2026-07-23T18:57:58+00:00"
     },
     {
-      "id": "08798590ecfa",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Acapulco",
-      "route_key": "mexico-acapulco",
-      "km": 95.0,
-      "lat": 18.584,
-      "lon": -99.234,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Tamaulipas continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 095+500 de la carretera Nuevo Laredo-Reynosa, a la altura del poblado Argüelles., Tamps., con dirección a Reynosa Tamps. Atienda indicación vial. #TomePrecauciones en #Tamaul",
-      "link": "https://nitter.net/GN_Carreteras/status/2080366425894486472#m",
-      "date": "2026-07-23T18:56:21+00:00"
-    },
-    {
       "id": "fe077f24e0aa",
       "account": "@capufe",
       "type": "accident",
@@ -239,20 +155,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 131, dirección Acapulco. Reducción de carriles por atención de accidente (incendio de pick up). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 131, dirección Acapul",
       "link": "https://nitter.net/CAPUFE/status/2080363954631528708#m",
       "date": "2026-07-23T18:46:32+00:00"
-    },
-    {
-      "id": "f6ad8f994783",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 317.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacán continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 317+100 de la carretera Maravatío-Zapotlanejo, a la altura del Municipio de Panindícuaro, Mich., con dirección a Morelia, Mich. Atienda indicación vial. #TomePrecauciones en #",
-      "link": "https://nitter.net/GN_Carreteras/status/2080362954382348355#m",
-      "date": "2026-07-23T18:42:34+00:00"
     },
     {
       "id": "d9122171a696",
@@ -281,20 +183,6 @@
       "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acayucan - Cosoleacaque, km 2, dirección Acayucan. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. ☑️ ACTUALIZACIÓN. Autopista Acayucan - Co",
       "link": "https://nitter.net/CAPUFE/status/2080361553107304538#m",
       "date": "2026-07-23T18:37:00+00:00"
-    },
-    {
-      "id": "0e2f6dba5cff",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Córdoba",
-      "route_key": "puebla-cordoba",
-      "km": 218.0,
-      "lat": 18.884,
-      "lon": -96.923,
-      "resolved": true,
-      "text": "#VialidadLibre en #Puebla tras accidente cerca del km. 218+000 de la carretera Puebla-Córdoba, a la altura del Municipio La Esperanza, Pue., con dirección a Puebla. Maneje con precaución. #VialidadLibre en #Puebla tras accidente cerca del km. 218+000 de la carretera Puebla-Córdob",
-      "link": "https://nitter.net/GN_Carreteras/status/2080360028188364898#m",
-      "date": "2026-07-23T18:30:56+00:00"
     },
     {
       "id": "eca4936d3843",
@@ -339,34 +227,6 @@
       "date": "2026-07-23T18:05:15+00:00"
     },
     {
-      "id": "312bbdb6ad6f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 270.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 270, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. M",
-      "link": "https://nitter.net/CAPUFE/status/2080350268282077238#m",
-      "date": "2026-07-23T17:52:09+00:00"
-    },
-    {
-      "id": "4d55d66b768d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 127.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Jalisco tras accidente cerca del km. 127+000 de la carretera Acatlán de Juárez-Colima, a la altura del Municipio de Ciudad Guzmán, Jal. Maneje con precaución. #VialidadLibre en #Jalisco tras accidente cerca del km. 127+000 de la carretera Acatlán de Juárez-Coli",
-      "link": "https://nitter.net/GN_Carreteras/status/2080349939431838068#m",
-      "date": "2026-07-23T17:50:51+00:00"
-    },
-    {
       "id": "7609c23ee094",
       "account": "@capufe",
       "type": "accident",
@@ -381,20 +241,6 @@
       "date": "2026-07-23T17:48:12+00:00"
     },
     {
-      "id": "cd43c06c90f6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 17, dirección Chamapa. Reducción de carriles en la gasa de salida hacia la Plaza de Cobro Lomas Verdes por atención de accidente (salida de neumático). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Auto",
-      "link": "https://nitter.net/CAPUFE/status/2080346393990791523#m",
-      "date": "2026-07-23T17:36:45+00:00"
-    },
-    {
       "id": "f767e02d7358",
       "account": "@capufe",
       "type": "accident",
@@ -407,118 +253,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 39, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre camión de carga y automóviles. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicació",
       "link": "https://nitter.net/CAPUFE/status/2080342810054602999#m",
       "date": "2026-07-23T17:22:31+00:00"
-    },
-    {
-      "id": "09ee35af09ce",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 207.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Zacatecas continúa cierre parcial de circulación tras conclusión de maniobtras tras accidente cerca del km. 207+000 de la carretera Zacatecas-Saltillo, a la altura del municipio de Mazapil, con dirección a Saltillo, Coah. Atienda indicación vial. #PrecauciónVi",
-      "link": "https://nitter.net/GN_Carreteras/status/2080342421511008335#m",
-      "date": "2026-07-23T17:20:58+00:00"
-    },
-    {
-      "id": "926627977231",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 218.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Sonora continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 218+500 de la carretera Los Mochis-Cd. Obregón, a la altura del Mpio. de Cd. Obregón, Son. Atienda indicación vial. #TomePrecauciones en #Sonora continúa cierre parcial de circul",
-      "link": "https://nitter.net/GN_Carreteras/status/2080341805804011608#m",
-      "date": "2026-07-23T17:18:32+00:00"
-    },
-    {
-      "id": "e8572a212feb",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 247.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Oaxaca tras presencia de personas cerca del km. 247+200 de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. Santo Domingo Tehuantepec, Oax. Maneje con precaución. #VialidadLibre en #Oaxaca tras presencia de personas cerca del km. 247+200 de la carretera O",
-      "link": "https://nitter.net/GN_Carreteras/status/2080341532977107428#m",
-      "date": "2026-07-23T17:17:26+00:00"
-    },
-    {
-      "id": "a71b612c8a34",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 5.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Veracruz tras accidente cerca del km. 005+200 de la carretera Libramiento Veracruz. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente cerca del km. 005+200 de la carretera Libramiento Veracruz. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2080338818943668236#m",
-      "date": "2026-07-23T17:06:39+00:00"
-    },
-    {
-      "id": "86a15f2a1a3a",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 247.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#EviteLaZona en #Oaxaca se registra cierre total en ambos sentidos de circulación por presencia de personas, cerca del km.247+200 de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. Santo Domingo Tehuantepec, Oax. Atienda indicación vial. #EviteLaZona en #Oaxaca se registra",
-      "link": "https://nitter.net/GN_Carreteras/status/2080335037547807125#m",
-      "date": "2026-07-23T16:51:38+00:00"
-    },
-    {
-      "id": "b7c719415c53",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 279.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Zacatecas se registra cierre parcial de circulación tras #AccidenteVial cerca del km. 279+400 de la carretera Guadalajara-Zacatecas, a la altura de la localidad del Vergel, Zac., con dirección a Zacatecas. Atienda indicación vial. #PrecauciónVial en #Zacatecas",
-      "link": "https://nitter.net/GN_Carreteras/status/2080331201512878363#m",
-      "date": "2026-07-23T16:36:23+00:00"
-    },
-    {
-      "id": "6eef352a5d49",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 207.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Zacatecas continúa cierre parcial de circulación por #AccidenteVial cerca del km. 207+000 de la carretera Zacatecas-Saltillo, a la altura del municipio de Mazapil, con dirección a Saltillo, Coah. Atienda indicación vial. #TomePrecauciones en #Zacatecas conti",
-      "link": "https://nitter.net/GN_Carreteras/status/2080327451398349053#m",
-      "date": "2026-07-23T16:21:29+00:00"
-    },
-    {
-      "id": "d1dc8fbed190",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 218.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km. 218+500 de la carretera Los Mochis-Cd. Obregón, a la altura del Mpio. de Cd. Obregón, Son. Atienda indicación vial. #PrecauciónVial en #Sonora se registra cierre parcial de circu",
-      "link": "https://nitter.net/GN_Carreteras/status/2080322898091241670#m",
-      "date": "2026-07-23T16:03:24+00:00"
     }
   ]
 }
