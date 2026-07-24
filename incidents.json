@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-24T17:03:02.482008+00:00",
+  "updated": "2026-07-24T18:01:03.997911+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "75afee8cb7ce",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 18.0,
+      "lat": 19.294,
+      "lon": -98.824,
+      "resolved": true,
+      "text": "#VíaLibre en #EdoMéx tras #AccidenteVial cerca del km. 018+200 de la carretera México-Puebla, a la altura de la parada La Virgen, Edo. Méx. Maneje con precaución. #VíaLibre en #EdoMéx tras #AccidenteVial cerca del km. 018+200 de la carretera México-Puebla, a la altura de la parad",
+      "link": "https://nitter.net/GN_Carreteras/status/2080714656725782584#m",
+      "date": "2026-07-24T18:00:06+00:00"
+    },
+    {
+      "id": "c27fe0b41c4a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 2.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 2, dirección Nuevo Teapa. Reducción de carriles por atención de accidente (salida del camino de pick up). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 2",
+      "link": "https://nitter.net/CAPUFE/status/2080711007773540636#m",
+      "date": "2026-07-24T17:45:36+00:00"
+    },
+    {
+      "id": "f763d4635b38",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 90.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 90, dirección CDMX. Cierre de carriles centrales por labores de mantenimiento. Circulación por carriles laterales. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 90, dirección CDMX. ",
+      "link": "https://nitter.net/CAPUFE/status/2080708100483428837#m",
+      "date": "2026-07-24T17:34:03+00:00"
+    },
+    {
+      "id": "ffa44136be03",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 18.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 18, dirección Puebla. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENT",
+      "link": "https://nitter.net/CAPUFE/status/2080705844962865602#m",
+      "date": "2026-07-24T17:25:05+00:00"
+    },
     {
       "id": "2ce9c090fcc1",
       "account": "@GN_carreteras",
@@ -311,48 +367,6 @@
       "date": "2026-07-24T14:15:32+00:00"
     },
     {
-      "id": "49537f468042",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 18.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 18, dirección Puebla. Se informa a las personas usuarias que continúa el cierre a la circulación en carriles centrales. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. En l",
-      "link": "https://nitter.net/CAPUFE/status/2080658001594081633#m",
-      "date": "2026-07-24T14:14:58+00:00"
-    },
-    {
-      "id": "3dcb21f85f5e",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 17. Cierre a la circulación en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopist",
-      "link": "https://nitter.net/CAPUFE/status/2080656477207900192#m",
-      "date": "2026-07-24T14:08:55+00:00"
-    },
-    {
-      "id": "fa41362c4fe0",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 50.0,
-      "lat": 18.183,
-      "lon": -94.716,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 50, dirección Isla. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 50, dirección Isla. El accidente ha sido atendido. ",
-      "link": "https://nitter.net/CAPUFE/status/2080654827642613832#m",
-      "date": "2026-07-24T14:02:22+00:00"
-    },
-    {
       "id": "44e639712c96",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -519,20 +533,6 @@
       "text": "#VialidadLibre en #Guanajuato tras accidente cerca del km. 031+050 de la carretera Manuel Doblado-Ent La Piedad. Maneje con precaución. #VialidadLibre en #Guanajuato tras accidente cerca del km. 031+050 de la carretera Manuel Doblado-Ent La Piedad. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2080529540028236091#m",
       "date": "2026-07-24T05:44:31+00:00"
-    },
-    {
-      "id": "2431389f98e4",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 8.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #EdoMéx tras accidente cerca del km. 008+100 de la carretera Libramiento de Acambay, con dirección a Atlacomulco, Edo. Méx. Maneje con precaución. #VialidadLibre en #EdoMéx tras accidente cerca del km. 008+100 de la carretera Libramiento de Acambay, con direcció",
-      "link": "https://nitter.net/GN_Carreteras/status/2080526027676107039#m",
-      "date": "2026-07-24T05:30:33+00:00"
     }
   ]
 }
