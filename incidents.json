@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-24T05:59:42.730509+00:00",
-  "count": 17,
+  "updated": "2026-07-24T07:02:22.454357+00:00",
+  "count": 19,
   "incidents": [
+    {
+      "id": "b2a8e9f70854",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 223.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 223, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 223, dirección A",
+      "link": "https://nitter.net/CAPUFE/status/2080542574142435443#m",
+      "date": "2026-07-24T06:36:18+00:00"
+    },
+    {
+      "id": "616c0714597a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 124.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Hermosillo - Magdalena, km 124, dirección Magdalena. Cierre a la circulación por atención de accidente (volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣ 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Hermosillo - Ma",
+      "link": "https://nitter.net/CAPUFE/status/2080537674385879246#m",
+      "date": "2026-07-24T06:16:50+00:00"
+    },
     {
       "id": "2bcf4aaff0de",
       "account": "@capufe",
