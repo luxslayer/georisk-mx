@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-24T23:24:08.942594+00:00",
-  "count": 33,
+  "updated": "2026-07-24T23:50:11.711780+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "622145a35b4a",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 42.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, KM 42, dirección CDMX. Se retiran los peregrinos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , KM 42, dirección CDMX. Se retiran los peregrinos. Tramo ",
+      "link": "https://nitter.net/CAPUFE/status/2080798159752622169#m",
+      "date": "2026-07-24T23:31:55+00:00"
+    },
+    {
+      "id": "b611dfb75fb4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 49.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Barranca Larga - Ventanilla, km 49. Cierre a la circulación en ambos sentidos por atención de accidente (volcadura sobre carpeta). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Barranca Larga -",
+      "link": "https://nitter.net/CAPUFE/status/2080796955064631508#m",
+      "date": "2026-07-24T23:27:08+00:00"
+    },
     {
       "id": "35cd53c8809c",
       "account": "@capufe",
@@ -351,20 +379,6 @@
       "text": "#TomePrecauciones en #Hidalgo se registra cierre total de circulación tras #AccidenteVial cerca del km 057+100, de la carretera Pachuca - Tuxpan, a inmediaciones de la comunidad de Tepalcingo, con dirección en ambos sentidos. Atienda indicación vial. #TomePrecauciones en #Hidalgo",
       "link": "https://nitter.net/GN_Carreteras/status/2080725951885799753#m",
       "date": "2026-07-24T18:44:59+00:00"
-    },
-    {
-      "id": "b82ad7f03652",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 57.0,
-      "lat": 20.1192,
-      "lon": -99.3956,
-      "resolved": true,
-      "text": "⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoQuerétaro, km 57, dirección CDMX. Se informa a las personas usuarias que continúa la reducción de carriles por caravana de peregrinos avanzando. Se recomienda atender las indicaciones viales y manejar con precaución. ⚠️ AVISO IMPORTANTE⚠️ #AutMéxic",
-      "link": "https://nitter.net/CAPUFE/status/2080725509076316629#m",
-      "date": "2026-07-24T18:43:14+00:00"
     },
     {
       "id": "0d00bd55a0eb",
