@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-25T20:48:08.364605+00:00",
-  "count": 32,
+  "updated": "2026-07-25T21:19:56.825315+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "27bc40342ee2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 54, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 54, dirección CDMX. El accidente ha sido atendido",
+      "link": "https://nitter.net/CAPUFE/status/2081126169806528520#m",
+      "date": "2026-07-25T21:15:18+00:00"
+    },
+    {
+      "id": "871b3ed14c89",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 54, dirección CDMX. Cierre a la circulación por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro , km 54, ",
+      "link": "https://nitter.net/CAPUFE/status/2081123484470530350#m",
+      "date": "2026-07-25T21:04:38+00:00"
+    },
+    {
+      "id": "2fa10699df88",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 13.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 13, dirección Cosoleacaque. Reducción de carriles por atención de accidente (salida del camino de tracto camión y desenganche de remolque). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopist",
+      "link": "https://nitter.net/CAPUFE/status/2081122647274864923#m",
+      "date": "2026-07-25T21:01:19+00:00"
+    },
     {
       "id": "cc61b757900c",
       "account": "@capufe",
@@ -211,20 +253,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 21, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 21, dirección Cuautla. El accid",
       "link": "https://nitter.net/CAPUFE/status/2081092796555964795#m",
       "date": "2026-07-25T19:02:42+00:00"
-    },
-    {
-      "id": "a679f9191780",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 21.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 21, dirección Cuautla. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 21, dirección Cuautla. Reducción ",
-      "link": "https://nitter.net/CAPUFE/status/2081087887425061113#m",
-      "date": "2026-07-25T18:43:11+00:00"
     },
     {
       "id": "101da5bd1862",
