@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-25T18:21:51.982773+00:00",
-  "count": 35,
+  "updated": "2026-07-25T18:49:25.089314+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "a679f9191780",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 21, dirección Cuautla. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 21, dirección Cuautla. Reducción ",
+      "link": "https://nitter.net/CAPUFE/status/2081087887425061113#m",
+      "date": "2026-07-25T18:43:11+00:00"
+    },
     {
       "id": "101da5bd1862",
       "account": "@capufe",
