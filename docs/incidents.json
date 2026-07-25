@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-25T20:24:39.682930+00:00",
-  "count": 33,
+  "updated": "2026-07-25T20:48:08.364605+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "cc61b757900c",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56. Registra carga vehicular en ambos sentidos a la altura de la salida al Poblado de Jorobas, sin reporte de incidente. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56. Registra carga vehicular en ambos sentidos ",
+      "link": "https://nitter.net/CAPUFE/status/2081117076664599039#m",
+      "date": "2026-07-25T20:39:11+00:00"
+    },
+    {
+      "id": "dad6b9f3eb21",
+      "account": "@GN_carreteras",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 234.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Oaxaca se habilita la vía, por culminación de trabajos de mantenimiento en la carpeta asfáltica, cerca del km. 234+600 de la carretera Pinotepa Nacional-Salina Cruz. Maneje con precaución. #VialidadLibre en #Oaxaca se habilita la vía, por culminación de trabajo",
+      "link": "https://nitter.net/GN_Carreteras/status/2081115351677313247#m",
+      "date": "2026-07-25T20:32:19+00:00"
+    },
     {
       "id": "fadcccfb1bfc",
       "account": "@GN_carreteras",
@@ -269,34 +297,6 @@
       "date": "2026-07-25T17:34:00+00:00"
     },
     {
-      "id": "fae0985532d5",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 56.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidente. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Continúa carga vehi",
-      "link": "https://nitter.net/CAPUFE/status/2081068629144035424#m",
-      "date": "2026-07-25T17:26:40+00:00"
-    },
-    {
-      "id": "9fb20c55d8f7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 172.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 172, dirección Acayucan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 172, dirección Acayucan. El accid",
-      "link": "https://nitter.net/CAPUFE/status/2081065421709406294#m",
-      "date": "2026-07-25T17:13:55+00:00"
-    },
-    {
       "id": "b351543f214e",
       "account": "@capufe",
       "type": "accident",
@@ -435,20 +435,6 @@
       "text": "En #Oaxaca se registra cierre de circulación por trabajos de mantenimiento en la carpeta asfáltica, cerca del km. 233+000 de la carretera Pinotepa Nacional-Salina Cruz. Atienda indicación vial. En #Oaxaca se registra cierre de circulación por trabajos de mantenimiento en la carpe",
       "link": "https://nitter.net/GN_Carreteras/status/2081040510953648160#m",
       "date": "2026-07-25T15:34:56+00:00"
-    },
-    {
-      "id": "528d06463476",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 25.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Colima continua cierre parcial de circulación por #AccidenteVial cerca del km. 025+200 de la carretera Cihuatlán-Manzanillo, con dirección Cihuatlán, a la altura de la localidad de La Viga, Col., atienda indicación vial. #TomePrecauciones en #Colima continua",
-      "link": "https://nitter.net/GN_Carreteras/status/2081036939981992285#m",
-      "date": "2026-07-25T15:20:44+00:00"
     },
     {
       "id": "19f7bdf1b9e0",
