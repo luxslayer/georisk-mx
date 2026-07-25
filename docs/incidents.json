@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-25T21:19:56.825315+00:00",
+  "updated": "2026-07-25T21:48:19.014399+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "108e6dda444a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 1.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tamaulipas continua cierre parcial de circulación por #AccidenteVial cerca del km. 001+100 de la carretera Altamira-Puerto industrial, a la altura de la zona industrial Altamira, Tamps. Atienda indicación vial. #TomePrecauciones en #Tamaulipas continua cierr",
+      "link": "https://nitter.net/GN_Carreteras/status/2081127360519078281#m",
+      "date": "2026-07-25T21:20:02+00:00"
+    },
     {
       "id": "27bc40342ee2",
       "account": "@capufe",
@@ -449,20 +463,6 @@
       "text": "#TomePrecauciones en #Tamaulipas continua cierre parcial de circulación por #AccidenteVial cerca del km. 065+200, de la carretera Matamoros-Reynosa, a la altura del Mpio. Reynosa, Tamps. Atienda indicación vial. #TomePrecauciones en #Tamaulipas continua cierre parcial de circulac",
       "link": "https://nitter.net/GN_Carreteras/status/2081041121745023153#m",
       "date": "2026-07-25T15:37:21+00:00"
-    },
-    {
-      "id": "d289d7b97516",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 233.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "En #Oaxaca se registra cierre de circulación por trabajos de mantenimiento en la carpeta asfáltica, cerca del km. 233+000 de la carretera Pinotepa Nacional-Salina Cruz. Atienda indicación vial. En #Oaxaca se registra cierre de circulación por trabajos de mantenimiento en la carpe",
-      "link": "https://nitter.net/GN_Carreteras/status/2081040510953648160#m",
-      "date": "2026-07-25T15:34:56+00:00"
     },
     {
       "id": "19f7bdf1b9e0",
