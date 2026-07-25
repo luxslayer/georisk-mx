@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-25T16:21:17.570012+00:00",
-  "count": 34,
+  "updated": "2026-07-25T16:48:32.493436+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "79c7bd0674bc",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 172.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 172, dirección Acayucan. Se restablece la circulación de manera intermitente por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. 🟠 ",
+      "link": "https://nitter.net/CAPUFE/status/2081058206038548851#m",
+      "date": "2026-07-25T16:45:15+00:00"
+    },
+    {
+      "id": "bb18b8d42947",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Jalisco continua cierre parcial de circulación por #AccidenteVial cerca del km. 044+000 de la carretera Lagos de Moreno-San Luis Potosí, con dirección a Lagos de Moreno, a la altura de la localidad de José María Morelos, Jal. Atienda indicación vial. #TomePr",
+      "link": "https://nitter.net/GN_Carreteras/status/2081057098377363792#m",
+      "date": "2026-07-25T16:40:51+00:00"
+    },
+    {
+      "id": "5d5cbbcc4b87",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 172.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 172, dirección Acayucan. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista",
+      "link": "https://nitter.net/CAPUFE/status/2081056495102234686#m",
+      "date": "2026-07-25T16:38:27+00:00"
+    },
     {
       "id": "d2c30d17d634",
       "account": "@GN_carreteras",
@@ -311,20 +353,6 @@
       "date": "2026-07-25T10:06:24+00:00"
     },
     {
-      "id": "81bad0fc95cc",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 30.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 30, dirección Córdoba. Continúa la reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 30, ",
-      "link": "https://nitter.net/CAPUFE/status/2080935946917220353#m",
-      "date": "2026-07-25T08:39:26+00:00"
-    },
-    {
       "id": "46bed288b15b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -463,20 +491,6 @@
       "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación tras #AccidenteVial cerca del km 081+950, de la carretera Tapanatepec-Talismán, a la altura del poblado de Guadalupe Victoria, en el Mpio. de Tonalá, con dirección a Tapachula. Atienda indicación vial. #TomeP",
       "link": "https://nitter.net/GN_Carreteras/status/2080829900534006209#m",
       "date": "2026-07-25T01:38:02+00:00"
-    },
-    {
-      "id": "9b83b0c3532f",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Gdl–Tepic",
-      "route_key": "guadalajara-tepic",
-      "km": 2.0,
-      "lat": 20.668512,
-      "lon": -103.367616,
-      "resolved": true,
-      "text": "#VíaLibre en #Jalisco tras #AccidenteVial cerca del km 002+600, de la carretera Guadalajara - Tepic, a la altura del Mpio. de Tequila, con dirección al centro de Tequila. Maneje con precaución. #VíaLibre en #Jalisco tras #AccidenteVial cerca del km 002+600, de la carretera Guadal",
-      "link": "https://nitter.net/GN_Carreteras/status/2080821063341019391#m",
-      "date": "2026-07-25T01:02:55+00:00"
     }
   ]
 }
