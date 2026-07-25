@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-25T22:48:14.819358+00:00",
-  "count": 36,
+  "updated": "2026-07-25T23:21:45.273291+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "c2900c20da8f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 225.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 225, dirección Cd. Mendoza. Circulación intermitente por atención de accidente (maniobras para el retiro de unidad siniestrada). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CI",
+      "link": "https://nitter.net/CAPUFE/status/2081155827482660903#m",
+      "date": "2026-07-25T23:13:09+00:00"
+    },
+    {
+      "id": "8285904afea3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 68.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 68, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 68, dirección CDMX. Reducción de carriles po",
+      "link": "https://nitter.net/CAPUFE/status/2081152224671981984#m",
+      "date": "2026-07-25T22:58:50+00:00"
+    },
+    {
+      "id": "686f4b81966a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 280.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 280, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 280, direcci",
+      "link": "https://nitter.net/CAPUFE/status/2081151347986923956#m",
+      "date": "2026-07-25T22:55:21+00:00"
+    },
+    {
+      "id": "6feda68b716f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 225.0,
+      "lat": 18.884,
+      "lon": -96.923,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 225+000 de la autopista Puebla-Córdoba, con dirección Orizaba. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerc",
+      "link": "https://nitter.net/GN_Carreteras/status/2081150779931435321#m",
+      "date": "2026-07-25T22:53:06+00:00"
+    },
     {
       "id": "70f8514e7242",
       "account": "@capufe",
@@ -339,34 +395,6 @@
       "date": "2026-07-25T20:10:44+00:00"
     },
     {
-      "id": "833ca5e0e69d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 24. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RES",
-      "link": "https://nitter.net/CAPUFE/status/2081106173445431484#m",
-      "date": "2026-07-25T19:55:51+00:00"
-    },
-    {
-      "id": "227b1df3fc7b",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 56.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidente. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Continúa carga vehi",
-      "link": "https://nitter.net/CAPUFE/status/2081103879463211296#m",
-      "date": "2026-07-25T19:46:44+00:00"
-    },
-    {
       "id": "0c97a5ac9f44",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -379,20 +407,6 @@
       "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 090+100 de la carretera Apizaco-Tejocotal, a la altura del Mpio. Zacatlán, Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por",
       "link": "https://nitter.net/GN_Carreteras/status/2081103704883691875#m",
       "date": "2026-07-25T19:46:02+00:00"
-    },
-    {
-      "id": "8dea76b9cd1d",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 24. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos por labores de limpieza. Maneja con precaución. ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 24. Se informa a las ",
-      "link": "https://nitter.net/CAPUFE/status/2081102878811283697#m",
-      "date": "2026-07-25T19:42:45+00:00"
     },
     {
       "id": "ee8a9b155ba0",
@@ -477,34 +491,6 @@
       "text": "#TomePrecauciones en #Durango continua cierre parcial de circulación por #AccidenteVial cerca del km. 203+000 de la carretera Durango-Torreón, a la altura de la localidad El Chocolate, Dgo. Atienda indicación vial. #TomePrecauciones en #Durango continua cierre parcial de circulac",
       "link": "https://nitter.net/GN_Carreteras/status/2081072920416198815#m",
       "date": "2026-07-25T17:43:43+00:00"
-    },
-    {
-      "id": "02923176df44",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 8.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Zacatecas continua cierre parcial de circulación por #AccidenteVial cerca del km. 008+900 de la carretera Libramiento Guadalupe, a la altura del Municipio Rio Grande, Zac. Atienda indicación vial. #TomePrecauciones en #Zacatecas continua cierre parcial de ci",
-      "link": "https://nitter.net/GN_Carreteras/status/2081072250107683208#m",
-      "date": "2026-07-25T17:41:03+00:00"
-    },
-    {
-      "id": "b351543f214e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 24. Circulación intermitente en ambos sentidos por atención de accidente (choque de frente). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 24. Circulación intermitente e",
-      "link": "https://nitter.net/CAPUFE/status/2081064505044312139#m",
-      "date": "2026-07-25T17:10:16+00:00"
     }
   ]
 }
