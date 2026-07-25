@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-25T15:51:32.613329+00:00",
-  "count": 20,
+  "updated": "2026-07-25T16:21:17.570012+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "d2c30d17d634",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 158.0,
+      "lat": 20.53928,
+      "lon": -100.222,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Queretaro continua cierre intermitente de circulación, por vehículo con falla mecánica, cerca del km. 158+100 de la carretera México-Querétaro, con dirección Cd. Méx. Atienda indicación vial. #TomePrecauciones en #Queretaro continua cierre intermitente de ci",
+      "link": "https://nitter.net/GN_Carreteras/status/2081047318590087644#m",
+      "date": "2026-07-25T16:01:59+00:00"
+    },
     {
       "id": "e9ced286beab",
       "account": "@GN_carreteras",
@@ -45,6 +59,34 @@
       "date": "2026-07-25T15:34:56+00:00"
     },
     {
+      "id": "ca9f872436db",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 50.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Lagos de Moreno - San Luis Potosí, km 50. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por maniobras para el retiro de las unidades siniestradas. Toma tus precauciones. Para más información ",
+      "link": "https://nitter.net/CAPUFE/status/2081040472277954597#m",
+      "date": "2026-07-25T15:34:47+00:00"
+    },
+    {
+      "id": "30991ec46087",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 38.0,
+      "lat": 18.11568,
+      "lon": -94.68736,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 38, dirección Cosoleacaque. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 38, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2081039122613805252#m",
+      "date": "2026-07-25T15:29:25+00:00"
+    },
+    {
       "id": "528d06463476",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -57,6 +99,20 @@
       "text": "#TomePrecauciones en #Colima continua cierre parcial de circulación por #AccidenteVial cerca del km. 025+200 de la carretera Cihuatlán-Manzanillo, con dirección Cihuatlán, a la altura de la localidad de La Viga, Col., atienda indicación vial. #TomePrecauciones en #Colima continua",
       "link": "https://nitter.net/GN_Carreteras/status/2081036939981992285#m",
       "date": "2026-07-25T15:20:44+00:00"
+    },
+    {
+      "id": "fb90af551df4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 50.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Lagos de Moreno - San Luis Potosí, km 50. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos por atención de choque frontal entre tracto camión y camioneta tipo pickup. En la zona se registra derram",
+      "link": "https://nitter.net/CAPUFE/status/2081035920086626362#m",
+      "date": "2026-07-25T15:16:41+00:00"
     },
     {
       "id": "973b4574b848",
@@ -73,6 +129,20 @@
       "date": "2026-07-25T15:14:59+00:00"
     },
     {
+      "id": "345bd7eca293",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 22.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 22, dirección Oaxaca. Reducción de carriles por atención de choque por alcance múltiple entre autobús y automóviles. Consulta la ubicación aquí: https://maps.app.goo.gl/7uFDAbRj9RE9AXgU9 🟠 CIERRE PARCIAL DE CIRCULA",
+      "link": "https://nitter.net/CAPUFE/status/2081034930998407619#m",
+      "date": "2026-07-25T15:12:45+00:00"
+    },
+    {
       "id": "e8ddc6a5953e",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -85,6 +155,34 @@
       "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 076+100 de la autopista Amozoc-Perote, atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 076+100 de la ",
       "link": "https://nitter.net/GN_Carreteras/status/2081033273476571351#m",
       "date": "2026-07-25T15:06:10+00:00"
+    },
+    {
+      "id": "3c24dbe22145",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 172.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 172, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino y volcadura de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 172, direc",
+      "link": "https://nitter.net/CAPUFE/status/2081032664169984033#m",
+      "date": "2026-07-25T15:03:45+00:00"
+    },
+    {
+      "id": "1bba3708cafa",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 38.0,
+      "lat": 18.11568,
+      "lon": -94.68736,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 38, dirección Cosoleacaque. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 38, dirección Co",
+      "link": "https://nitter.net/CAPUFE/status/2081023377498620415#m",
+      "date": "2026-07-25T14:26:51+00:00"
     },
     {
       "id": "5e6dc757f079",
@@ -101,6 +199,34 @@
       "date": "2026-07-25T14:15:48+00:00"
     },
     {
+      "id": "e0561f781268",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidente. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Carga vehicular a la altura ",
+      "link": "https://nitter.net/CAPUFE/status/2081016102058942696#m",
+      "date": "2026-07-25T13:57:56+00:00"
+    },
+    {
+      "id": "ed0eeaafdeaa",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 30.0,
+      "lat": 18.23,
+      "lon": -94.8925,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 30, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 30, dirección La Tinaja. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2081007439189594495#m",
+      "date": "2026-07-25T13:23:31+00:00"
+    },
+    {
       "id": "bba21ebbb945",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -113,6 +239,90 @@
       "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación tras #AccidenteVial cerca del km 036+500, de la carretera México-Puebla (directo), a la altura del Mpio. de Ixtapaluca, con dirección a Cd. de Méx. Atienda indicación vial. #TomePrecauciones en #EdoMéx se regi",
       "link": "https://nitter.net/GN_Carreteras/status/2080997376534233144#m",
       "date": "2026-07-25T12:43:32+00:00"
+    },
+    {
+      "id": "4c5cc741b70a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 30.0,
+      "lat": 18.23,
+      "lon": -94.8925,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 30, dirección La Tinaja. Reducción de carriles por atención de accidente (choque contra barrera metálica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 30, dirección La Tin",
+      "link": "https://nitter.net/CAPUFE/status/2080989813453279245#m",
+      "date": "2026-07-25T12:13:29+00:00"
+    },
+    {
+      "id": "3df358e29cd2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 18.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 18, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 18, dirección Córdoba. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2080968378097791450#m",
+      "date": "2026-07-25T10:48:18+00:00"
+    },
+    {
+      "id": "53580e9554be",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 18.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 18, dirección Córdoba. Continúa la reducción de carriles por atención de accidente (maniobras para retiro de unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracr",
+      "link": "https://nitter.net/CAPUFE/status/2080966838725312550#m",
+      "date": "2026-07-25T10:42:11+00:00"
+    },
+    {
+      "id": "1533c6f095b0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 30.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 30, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 30, dirección Córdoba. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2080960000512426062#m",
+      "date": "2026-07-25T10:15:01+00:00"
+    },
+    {
+      "id": "19f7bdf1b9e0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 50.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Lagos de Moreno - San Luis Potosí, km 50. Se informa a las personas usuarias que se registra circulación intermitente en ambos sentidos por atención de choque frontal entre tracto camión y camioneta tipo pickup. En la zona se registra d",
+      "link": "https://nitter.net/CAPUFE/status/2080957835161067745#m",
+      "date": "2026-07-25T10:06:24+00:00"
+    },
+    {
+      "id": "81bad0fc95cc",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 30.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 30, dirección Córdoba. Continúa la reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 30, ",
+      "link": "https://nitter.net/CAPUFE/status/2080935946917220353#m",
+      "date": "2026-07-25T08:39:26+00:00"
     },
     {
       "id": "46bed288b15b",
@@ -267,20 +477,6 @@
       "text": "#VíaLibre en #Jalisco tras #AccidenteVial cerca del km 002+600, de la carretera Guadalajara - Tepic, a la altura del Mpio. de Tequila, con dirección al centro de Tequila. Maneje con precaución. #VíaLibre en #Jalisco tras #AccidenteVial cerca del km 002+600, de la carretera Guadal",
       "link": "https://nitter.net/GN_Carreteras/status/2080821063341019391#m",
       "date": "2026-07-25T01:02:55+00:00"
-    },
-    {
-      "id": "3a49bef89675",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 188.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre total de circulación tras #AccidenteVial cerca del km 188+000, de la carretera Lázaro Cárdenas-Uruapan, a la altura del poblado de Bellas Fuentes, del Mpio. La Huacana, con dirección en ambos sentidos. Atienda indicación vial. #T",
-      "link": "https://nitter.net/GN_Carreteras/status/2080820438687469887#m",
-      "date": "2026-07-25T01:00:27+00:00"
     }
   ]
 }
