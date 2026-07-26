@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-26T10:11:03.699310+00:00",
+  "updated": "2026-07-26T11:01:45.306508+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "6b0f351a3d0e",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 84.0,
+      "lat": 29.4804,
+      "lon": -106.3384,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 84, dirección Guaymas. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 8",
+      "link": "https://nitter.net/CAPUFE/status/2081326805340807320#m",
+      "date": "2026-07-26T10:32:34+00:00"
+    },
     {
       "id": "845927218919",
       "account": "@capufe",
@@ -323,20 +337,6 @@
       "text": "#TomePrecauciones en #Coahuila continua cierre de circulación por conclusión de maniobras tras #AccidenteVial cerca del km. 230+500 de la carretera Puerto México-Ojo Caliente, con dirección Matehuala, a la altura del Parque Ecoturístico El Chorro, Coah. Atienda indicación vial. #",
       "link": "https://nitter.net/GN_Carreteras/status/2081223390422077512#m",
       "date": "2026-07-26T03:41:38+00:00"
-    },
-    {
-      "id": "52083d604514",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 111.0,
-      "lat": 17.987707,
-      "lon": -99.579973,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 111, dirección Cuernavaca. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 111, dirección Cuer",
-      "link": "https://nitter.net/CAPUFE/status/2081222889328591017#m",
-      "date": "2026-07-26T03:39:38+00:00"
     },
     {
       "id": "d48c93c62527",
