@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T19:29:03.266242+00:00",
-  "count": 31,
+  "updated": "2026-07-26T19:57:52.890978+00:00",
+  "count": 30,
   "incidents": [
     {
       "id": "637227175c43",
@@ -365,20 +365,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba,",
       "link": "https://nitter.net/CAPUFE/status/2081355696252092502#m",
       "date": "2026-07-26T12:27:22+00:00"
-    },
-    {
-      "id": "4ecbc5623749",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 104.0,
-      "lat": 18.111805,
-      "lon": -99.553315,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 104, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 104, dirección Acapulc",
-      "link": "https://nitter.net/CAPUFE/status/2081348473018794031#m",
-      "date": "2026-07-26T11:58:40+00:00"
     },
     {
       "id": "71ff93a0515b",
