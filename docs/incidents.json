@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-26T20:26:04.244119+00:00",
-  "count": 30,
+  "updated": "2026-07-26T20:49:38.136538+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "8da0218eeefa",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 20, dirección CDMX. Se restablece la circulación. El personal continúa en la atención del accidente, sin afectar los carriles de rodamiento. En la zona se registra carga vehicular. ➡️ Se recomienda a la ciudadanía tomar como vía altern",
+      "link": "https://nitter.net/CAPUFE/status/2081480064915406938#m",
+      "date": "2026-07-26T20:41:34+00:00"
+    },
     {
       "id": "da14c59be928",
       "account": "@capufe",
