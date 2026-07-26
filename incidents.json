@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-26T12:28:18.186985+00:00",
+  "updated": "2026-07-26T12:54:07.100293+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "5f5e72cd4e52",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 297.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba,",
+      "link": "https://nitter.net/CAPUFE/status/2081355696252092502#m",
+      "date": "2026-07-26T12:27:22+00:00"
+    },
     {
       "id": "4ecbc5623749",
       "account": "@capufe",
@@ -295,20 +309,6 @@
       "text": "#VialidadLibre en #Puebla tras accidente cerca del km. 225+000 de la autopista Puebla-Córdoba, con dirección Orizaba. Maneje con precaución. #VialidadLibre en #Puebla tras accidente cerca del km. 225+000 de la autopista Puebla-Córdoba, con dirección Orizaba. Maneje con precaución",
       "link": "https://nitter.net/GN_Carreteras/status/2081245596984160592#m",
       "date": "2026-07-26T05:09:52+00:00"
-    },
-    {
-      "id": "46c3cae01086",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 117.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 117, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 117, dirección La Tina",
-      "link": "https://nitter.net/CAPUFE/status/2081243305426268415#m",
-      "date": "2026-07-26T05:00:46+00:00"
     },
     {
       "id": "c7018dc2add5",
