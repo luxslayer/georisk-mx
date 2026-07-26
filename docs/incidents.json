@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-25T23:49:25.267500+00:00",
-  "count": 36,
+  "updated": "2026-07-26T00:44:26.457057+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "92a47c75b311",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 163.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 163+100 de la carretera Poza rica-Veracruz, atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 163+1",
+      "link": "https://nitter.net/GN_Carreteras/status/2081177111604154798#m",
+      "date": "2026-07-26T00:37:44+00:00"
+    },
+    {
+      "id": "829c2afd476d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 225.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 225, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (caída de carga). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza",
+      "link": "https://nitter.net/CAPUFE/status/2081174400863199701#m",
+      "date": "2026-07-26T00:26:58+00:00"
+    },
+    {
+      "id": "7a330c479ed8",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 2.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 2, dirección Irapuato. Cierre a la circulación por atención de accidente (incendio de camioneta). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km",
+      "link": "https://nitter.net/CAPUFE/status/2081173619409854870#m",
+      "date": "2026-07-26T00:23:51+00:00"
+    },
     {
       "id": "5d0acf4b610d",
       "account": "@capufe",
@@ -353,48 +395,6 @@
       "date": "2026-07-25T21:20:02+00:00"
     },
     {
-      "id": "27bc40342ee2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 54.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 54, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 54, dirección CDMX. El accidente ha sido atendido",
-      "link": "https://nitter.net/CAPUFE/status/2081126169806528520#m",
-      "date": "2026-07-25T21:15:18+00:00"
-    },
-    {
-      "id": "871b3ed14c89",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 54.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 54, dirección CDMX. Cierre a la circulación por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro , km 54, ",
-      "link": "https://nitter.net/CAPUFE/status/2081123484470530350#m",
-      "date": "2026-07-25T21:04:38+00:00"
-    },
-    {
-      "id": "2fa10699df88",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 13, dirección Cosoleacaque. Reducción de carriles por atención de accidente (salida del camino de tracto camión y desenganche de remolque). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopist",
-      "link": "https://nitter.net/CAPUFE/status/2081122647274864923#m",
-      "date": "2026-07-25T21:01:19+00:00"
-    },
-    {
       "id": "dad6b9f3eb21",
       "account": "@GN_carreteras",
       "type": "roadwork",
@@ -491,20 +491,6 @@
       "text": "#TomePrecauciones en #Guanajuato continua cierre parcial de circulación por #AccidenteVial cerca del km. 100+500 de la carretera Querétaro-San Luis Potosí, a inmediaciones de la localidad de El Arenal, Gto. Atienda indicación vial. #TomePrecauciones en #Guanajuato continua cierre",
       "link": "https://nitter.net/GN_Carreteras/status/2081073719363928459#m",
       "date": "2026-07-25T17:46:53+00:00"
-    },
-    {
-      "id": "f56de48960a8",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 203.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Durango continua cierre parcial de circulación por #AccidenteVial cerca del km. 203+000 de la carretera Durango-Torreón, a la altura de la localidad El Chocolate, Dgo. Atienda indicación vial. #TomePrecauciones en #Durango continua cierre parcial de circulac",
-      "link": "https://nitter.net/GN_Carreteras/status/2081072920416198815#m",
-      "date": "2026-07-25T17:43:43+00:00"
     }
   ]
 }
