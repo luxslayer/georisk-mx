@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-26T21:49:10.568174+00:00",
-  "count": 32,
+  "updated": "2026-07-26T22:22:17.668437+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "2d6c8cc08c40",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 17, dirección Chamapa. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra c",
+      "link": "https://nitter.net/CAPUFE/status/2081501628855722450#m",
+      "date": "2026-07-26T22:07:15+00:00"
+    },
+    {
+      "id": "480f210679d0",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 101.0,
+      "lat": 18.164989,
+      "lon": -99.541891,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Continúa carga vehicular del km 101 al 98, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Continúa carga vehicular del km 101 a",
+      "link": "https://nitter.net/CAPUFE/status/2081500837705056567#m",
+      "date": "2026-07-26T22:04:06+00:00"
+    },
+    {
+      "id": "2df9f2a1cfbb",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 167.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 167, dirección Cd. Obregón. Reducción de carriles por atención de choque de tracto camión contra barrera metálica. En la zona se registra derrame de combustible. Maneja con precaución. Consulta la ubicación aqu",
+      "link": "https://nitter.net/CAPUFE/status/2081499641510527106#m",
+      "date": "2026-07-26T21:59:21+00:00"
+    },
     {
       "id": "eee46a238c68",
       "account": "@capufe",
@@ -199,34 +241,6 @@
       "date": "2026-07-26T18:51:17+00:00"
     },
     {
-      "id": "7fca4cf75fd1",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 84.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 84, dirección CDMX. Registra reducción de carriles centrales por atención de incidente (autobús con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 84, dirección CDMX",
-      "link": "https://nitter.net/CAPUFE/status/2081452221514784835#m",
-      "date": "2026-07-26T18:50:55+00:00"
-    },
-    {
-      "id": "4a76039b13be",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 84.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 84, dirección Córdoba. Reducción de carriles por atención de incidente (ponchadura de neumático). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 84, dirección Córdoba. Re",
-      "link": "https://nitter.net/CAPUFE/status/2081451631036490092#m",
-      "date": "2026-07-26T18:48:34+00:00"
-    },
-    {
       "id": "0a5206e79164",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -239,20 +253,6 @@
       "text": "#TomePrecauciones en #Nayarit continua cierre parcial de circulación por #AccidenteVial cerca del km. 071+800 de la carretera Guadalajara-Puerto Vallarta. Atienda indicación vial. #TomePrecauciones en #Nayarit continua cierre parcial de circulación por #AccidenteVial cerca del km",
       "link": "https://nitter.net/GN_Carreteras/status/2081450296480317571#m",
       "date": "2026-07-26T18:43:16+00:00"
-    },
-    {
-      "id": "d312d477fe42",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 99.0,
-      "lat": 18.200446,
-      "lon": -99.534274,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 99 al 98, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 99 al ",
-      "link": "https://nitter.net/CAPUFE/status/2081450168021315780#m",
-      "date": "2026-07-26T18:42:46+00:00"
     },
     {
       "id": "ddf86c183611",
@@ -309,20 +309,6 @@
       "text": "#TomeloEnCuenta en #Morelos se registra presencia de personas a la altura del km. 048+000, de la autopista siglo XXl, por tal motivo deciden cerrar la caseta con el fin de evitar congestionamiento vial a la altura donde se encuentran las personas. #TomeloEnCuenta en #Morelos se r",
       "link": "https://nitter.net/GN_Carreteras/status/2081444505371193823#m",
       "date": "2026-07-26T18:20:16+00:00"
-    },
-    {
-      "id": "5f17d1a43c73",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 17, dirección Chamapa. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 17, dirección Chamapa. Reducció",
-      "link": "https://nitter.net/CAPUFE/status/2081438053835346218#m",
-      "date": "2026-07-26T17:54:37+00:00"
     },
     {
       "id": "d0b1218ee7cd",
