@@ -1,9 +1,51 @@
 {
-  "updated": "2026-07-26T20:49:38.136538+00:00",
-  "count": 31,
+  "updated": "2026-07-26T21:20:35.459660+00:00",
+  "count": 32,
   "incidents": [
     {
-      "id": "8da0218eeefa",
+      "id": "d1adaa6d44a3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 221.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 221, dirección Tehuacán. Circulación intermitente por atención de accidente (choque por alcance múltiple). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 221, dirección Teh",
+      "link": "https://nitter.net/CAPUFE/status/2081489596563575033#m",
+      "date": "2026-07-26T21:19:26+00:00"
+    },
+    {
+      "id": "d43e4d8a68a8",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 99.0,
+      "lat": 18.200446,
+      "lon": -99.534274,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Continúa carga vehicular del km 99 al 96, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Continúa carga vehicular del km 99 al ",
+      "link": "https://nitter.net/CAPUFE/status/2081482967369593082#m",
+      "date": "2026-07-26T20:53:06+00:00"
+    },
+    {
+      "id": "052c694ab1be",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 17, dirección Chamapa. Continúa reducción de carriles por atención de accidente (salida del camino de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 17, direc",
+      "link": "https://nitter.net/CAPUFE/status/2081482297841168584#m",
+      "date": "2026-07-26T20:50:26+00:00"
+    },
+    {
+      "id": "dec33583db3b",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -12,7 +54,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 20, dirección CDMX. Se restablece la circulación. El personal continúa en la atención del accidente, sin afectar los carriles de rodamiento. En la zona se registra carga vehicular. ➡️ Se recomienda a la ciudadanía tomar como vía altern",
+      "text": "Pinned: 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 20, dirección CDMX. Se restablece la circulación. El personal continúa en la atención del accidente, sin afectar los carriles de rodamiento. En la zona se registra carga vehicular. ➡️ Se recomienda a la ciudadanía tomar como ví",
       "link": "https://nitter.net/CAPUFE/status/2081480064915406938#m",
       "date": "2026-07-26T20:41:34+00:00"
     },
@@ -323,34 +365,6 @@
       "text": "#TomePrecauciones en #Jalisco continua cierre parcial de circulación por #AccidenteVial cerca del km. 101+200 de la carretera Lagos de Moreno-Zapotlanejo, con dirección a Zapotlanejo, a la altura de la localidad de Marielena, Jal. Atienda indicación vial. #TomePrecauciones en #Ja",
       "link": "https://nitter.net/GN_Carreteras/status/2081391969134129654#m",
       "date": "2026-07-26T14:51:30+00:00"
-    },
-    {
-      "id": "2f07fa68ea51",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 297.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. Circulación intermitente por atención de incidente (autobús con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 297, dir",
-      "link": "https://nitter.net/CAPUFE/status/2081389487838433600#m",
-      "date": "2026-07-26T14:41:38+00:00"
-    },
-    {
-      "id": "f1ec75d72982",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 20, dirección CDMX. Reducción de carriles por atención de incidente. Para más información llama al 088 de @GN_Carreteras. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento ",
-      "link": "https://nitter.net/CAPUFE/status/2081389028750839843#m",
-      "date": "2026-07-26T14:39:49+00:00"
     },
     {
       "id": "11675a11c1ac",
