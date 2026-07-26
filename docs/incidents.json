@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-26T13:32:31.654987+00:00",
-  "count": 39,
+  "updated": "2026-07-26T14:33:29.040739+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "9cfc6fd18d5a",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 297.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. Circulación intermitente por atención de incidente (autobús con falla mecánica). 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. Cir",
+      "link": "https://nitter.net/CAPUFE/status/2081385337587212476#m",
+      "date": "2026-07-26T14:25:09+00:00"
+    },
+    {
+      "id": "11675a11c1ac",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 31.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #AccidenteVial cerca del km. 031+560 de la carretera México (Ecatepec)-Ent. Tizayuca, en dirección a la Ciudad de México, a la altura de la localidad Ojo de Agua, Edo. Méx. Atienda indicación vial. #TomePreca",
+      "link": "https://nitter.net/GN_Carreteras/status/2081374861612458296#m",
+      "date": "2026-07-26T13:43:31+00:00"
+    },
     {
       "id": "a14774517afd",
       "account": "@capufe",
@@ -255,20 +283,6 @@
       "date": "2026-07-26T06:22:41+00:00"
     },
     {
-      "id": "1dfc28dee048",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 297.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 297, ",
-      "link": "https://nitter.net/CAPUFE/status/2081262030653194688#m",
-      "date": "2026-07-26T06:15:10+00:00"
-    },
-    {
       "id": "71ff93a0515b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -281,20 +295,6 @@
       "text": "#TomePrecauciones en #Morelos continua cierre parcial de circulación por #AccidenteVial cerca del km. 110+950 de la autopista Cuernavaca-Chilpancingo en dirección a Cuernavaca, a la altura de la localidad Campo Ameyalco, Mor. Atienda indicación vial. #TomePrecauciones en #Morelos",
       "link": "https://nitter.net/GN_Carreteras/status/2081257903160197497#m",
       "date": "2026-07-26T05:58:46+00:00"
-    },
-    {
-      "id": "5d0bd01ce90a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 111.0,
-      "lat": 17.987707,
-      "lon": -99.579973,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 111, dirección Cuernavaca. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 111, dire",
-      "link": "https://nitter.net/CAPUFE/status/2081256795645919465#m",
-      "date": "2026-07-26T05:54:22+00:00"
     },
     {
       "id": "e9d2fc1d9fcf",
@@ -519,20 +519,6 @@
       "text": "#TomePrecauciones en #Querétaro continua cierre parcial de circulación por #AccidenteVial cerca del km. 010+000 de la carretera Macrolibramiento de Querétaro, en dirección a Palmillas, a la altura de localidad Tuna Mansa, Qro. Atienda indicación vial. #TomePrecauciones en #Querét",
       "link": "https://nitter.net/GN_Carreteras/status/2081190815942971585#m",
       "date": "2026-07-26T01:32:11+00:00"
-    },
-    {
-      "id": "e4e0dcd42948",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 198.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 198+800 de la carretera Pachuca-Tuxpan, a la altura del merendero las hamacas. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por",
-      "link": "https://nitter.net/GN_Carreteras/status/2081183798880846055#m",
-      "date": "2026-07-26T01:04:18+00:00"
     },
     {
       "id": "425d08704549",
