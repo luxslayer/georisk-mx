@@ -1,7 +1,91 @@
 {
-  "updated": "2026-07-26T18:24:25.118529+00:00",
-  "count": 30,
+  "updated": "2026-07-26T18:50:01.959823+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "4a76039b13be",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 84.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 84, dirección Córdoba. Reducción de carriles por atención de incidente (ponchadura de neumático). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 84, dirección Córdoba. Re",
+      "link": "https://nitter.net/CAPUFE/status/2081451631036490092#m",
+      "date": "2026-07-26T18:48:34+00:00"
+    },
+    {
+      "id": "0a5206e79164",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 71.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Nayarit continua cierre parcial de circulación por #AccidenteVial cerca del km. 071+800 de la carretera Guadalajara-Puerto Vallarta. Atienda indicación vial. #TomePrecauciones en #Nayarit continua cierre parcial de circulación por #AccidenteVial cerca del km",
+      "link": "https://nitter.net/GN_Carreteras/status/2081450296480317571#m",
+      "date": "2026-07-26T18:43:16+00:00"
+    },
+    {
+      "id": "d312d477fe42",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 99.0,
+      "lat": 18.200446,
+      "lon": -99.534274,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 99 al 98, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 99 al ",
+      "link": "https://nitter.net/CAPUFE/status/2081450168021315780#m",
+      "date": "2026-07-26T18:42:46+00:00"
+    },
+    {
+      "id": "ddf86c183611",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 132.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Sinaloa continua cierre parcial de circulación por presencia de personas, cerca del km. 132+500 de la carretera Culiacán-Los Mochis. Atienda indicación vial. #TomePrecauciones en #Sinaloa continua cierre parcial de circulación por presencia de personas, cerc",
+      "link": "https://nitter.net/GN_Carreteras/status/2081449196066840716#m",
+      "date": "2026-07-26T18:38:54+00:00"
+    },
+    {
+      "id": "18b1ff30eb40",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 101.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Jalisco continua cierre parcial de circulación por #AccidenteVial cerca del km. 101+200 de la carretera Lagos de Moreno-Zapotlanejo, con dirección a Zapotlanejo, a la altura de la localidad de Marielena, Jal. Atienda indicación vial. #TomePrecauciones en #Ja",
+      "link": "https://nitter.net/GN_Carreteras/status/2081447562150662184#m",
+      "date": "2026-07-26T18:32:24+00:00"
+    },
+    {
+      "id": "8a29e16b07f9",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 71.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Nayarit continua cierre parcial de circulación por vehículo averiado, cerca del km. 071+800 de la carretera Compostela-Las Varas, con dirección a Las Varas, a la altura de la localidad de El Guayabal Nay. Atienda indicación vial. #TomePrecauciones en #Nayari",
+      "link": "https://nitter.net/GN_Carreteras/status/2081445899541037214#m",
+      "date": "2026-07-26T18:25:48+00:00"
+    },
     {
       "id": "76e0baf2780e",
       "account": "@GN_carreteras",
@@ -15,20 +99,6 @@
       "text": "#TomeloEnCuenta en #Morelos se registra presencia de personas a la altura del km. 048+000, de la autopista siglo XXl, por tal motivo deciden cerrar la caseta con el fin de evitar congestionamiento vial a la altura donde se encuentran las personas. #TomeloEnCuenta en #Morelos se r",
       "link": "https://nitter.net/GN_Carreteras/status/2081444505371193823#m",
       "date": "2026-07-26T18:20:16+00:00"
-    },
-    {
-      "id": "bfa4ce9df308",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 297.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. Reducción de carriles por atención de incidente (ponchadura de neumático). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 297, dirección",
-      "link": "https://nitter.net/CAPUFE/status/2081439087009931370#m",
-      "date": "2026-07-26T17:58:44+00:00"
     },
     {
       "id": "5f17d1a43c73",
@@ -269,20 +339,6 @@
       "date": "2026-07-26T11:39:58+00:00"
     },
     {
-      "id": "6b0f351a3d0e",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 84.0,
-      "lat": 29.4804,
-      "lon": -106.3384,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 84, dirección Guaymas. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 8",
-      "link": "https://nitter.net/CAPUFE/status/2081326805340807320#m",
-      "date": "2026-07-26T10:32:34+00:00"
-    },
-    {
       "id": "71ff93a0515b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -379,48 +435,6 @@
       "text": "#TomePrecauciones en #Coahuila continua cierre de circulación por conclusión de maniobras tras #AccidenteVial cerca del km. 230+500 de la carretera Puerto México-Ojo Caliente, con dirección Matehuala, a la altura del Parque Ecoturístico El Chorro, Coah. Atienda indicación vial. #",
       "link": "https://nitter.net/GN_Carreteras/status/2081223390422077512#m",
       "date": "2026-07-26T03:41:38+00:00"
-    },
-    {
-      "id": "d48c93c62527",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 159.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "#VialidadLibre en #Guanajuato tras accidente cerca del km. 159+100 de la carretera Querétaro-León, maneje con precaución. #VialidadLibre en #Guanajuato tras accidente cerca del km. 159+100 de la carretera Querétaro-León, maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2081219523797979288#m",
-      "date": "2026-07-26T03:26:16+00:00"
-    },
-    {
-      "id": "0fca6374ea08",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Córdoba",
-      "route_key": "puebla-cordoba",
-      "km": 272.0,
-      "lat": 18.884,
-      "lon": -96.923,
-      "resolved": true,
-      "text": "#VialidadLibre en #Veracruz tras accidente cerca del km. 272+600 de la autopista Puebla-Córdoba, con dirección Puebla. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente cerca del km. 272+600 de la autopista Puebla-Córdoba, con dirección Puebla. Maneje con precauci",
-      "link": "https://nitter.net/GN_Carreteras/status/2081215956253036819#m",
-      "date": "2026-07-26T03:12:05+00:00"
-    },
-    {
-      "id": "0e16875f5263",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 259.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#EviteLaZona en #Oaxaca continua cierre total en ambos sentidos de circulación por presencia de personas, cerca del km. 259+900 de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. Juchitán de Zaragoza, Oax. Atienda indicación vial. #EviteLaZona en #Oaxaca continua cierre to",
-      "link": "https://nitter.net/GN_Carreteras/status/2081215521236656218#m",
-      "date": "2026-07-26T03:10:22+00:00"
     }
   ]
 }
