@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-26T16:23:22.440305+00:00",
-  "count": 36,
+  "updated": "2026-07-26T16:49:00.413004+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "d0b1218ee7cd",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Gdl–Morelia",
+      "route_key": "guadalajara-morelia",
+      "km": 47.0,
+      "lat": 20.377982,
+      "lon": -102.785976,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Morelos continua cierre parcial de circulación por presencia de personas, cerca del km. 047+500 de la autopista Siglo XXI, con dirección a Puebla, a la altura de la Unidad Habitacional Emiliano Zapata, Mor. Atienda indicación vial. #TomePrecauciones en #More",
+      "link": "https://nitter.net/GN_Carreteras/status/2081415201706946800#m",
+      "date": "2026-07-26T16:23:49+00:00"
+    },
     {
       "id": "c73986ab275d",
       "account": "@capufe",
@@ -463,34 +477,6 @@
       "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 259+900 de la carretera Pachuca-Tuxpan, con dirección Tuxpan. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial c",
       "link": "https://nitter.net/GN_Carreteras/status/2081213638807863370#m",
       "date": "2026-07-26T03:02:53+00:00"
-    },
-    {
-      "id": "619e066f6635",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Puebla–Córdoba",
-      "route_key": "puebla-cordoba",
-      "km": 272.0,
-      "lat": 18.884,
-      "lon": -96.923,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 272+600 de la autopista Puebla-Córdoba, con dirección Puebla. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial c",
-      "link": "https://nitter.net/GN_Carreteras/status/2081211257298829325#m",
-      "date": "2026-07-26T02:53:25+00:00"
-    },
-    {
-      "id": "ad45bdb9d927",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 260.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Oaxaca continua cierre parcial de circulación por #AccidenteVial cerca del km. 260+000 de la carretera Pinotepa Nacional-Salina Cruz, atienda indicación vial. #TomePrecauciones en #Oaxaca continua cierre parcial de circulación por #AccidenteVial cerca del km",
-      "link": "https://nitter.net/GN_Carreteras/status/2081207972831588665#m",
-      "date": "2026-07-26T02:40:22+00:00"
     },
     {
       "id": "425d08704549",
