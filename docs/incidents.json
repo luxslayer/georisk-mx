@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-26T22:49:13.260077+00:00",
+  "updated": "2026-07-26T23:22:09.497272+00:00",
   "count": 30,
   "incidents": [
+    {
+      "id": "0032d7bee82c",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 167.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Navojoa - Cd. Obregón, km 167, dirección Cd. Obregón. Continúa reducción de carriles, el personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. En la zona se registra carga vehicular. Atiende las i",
+      "link": "https://nitter.net/CAPUFE/status/2081516273653932327#m",
+      "date": "2026-07-26T23:05:26+00:00"
+    },
     {
       "id": "55f80f582b72",
       "account": "@capufe",
@@ -169,20 +183,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 17, dirección Chamapa. Continúa reducción de carriles por atención de accidente (salida del camino de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 17, direc",
       "link": "https://nitter.net/CAPUFE/status/2081482297841168584#m",
       "date": "2026-07-26T20:50:26+00:00"
-    },
-    {
-      "id": "8da0218eeefa",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 20, dirección CDMX. Se restablece la circulación. El personal continúa en la atención del accidente, sin afectar los carriles de rodamiento. En la zona se registra carga vehicular. ➡️ Se recomienda a la ciudadanía tomar como vía altern",
-      "link": "https://nitter.net/CAPUFE/status/2081480064915406938#m",
-      "date": "2026-07-26T20:41:34+00:00"
     },
     {
       "id": "637227175c43",
