@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-27T20:33:44.693263+00:00",
+  "updated": "2026-07-27T21:26:51.826106+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "3bb499c3db29",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 93.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Guanajuato tras accidente cerca del km. 093+000 de la carretera 061+800 de la carretera Querétaro-Irapuato, a la altura de la localidad de Santiago de Cuenda. Atienda indicación vial #VialidadLibre en #Guanajuato tras accidente cerca del km. 093+000 de la carre",
+      "link": "https://nitter.net/GN_Carreteras/status/2081850193163456905#m",
+      "date": "2026-07-27T21:12:19+00:00"
+    },
+    {
+      "id": "e6ecb985b297",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 52.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 52, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 52, dirección CDMX. El accidente ha sido atendi",
+      "link": "https://nitter.net/CAPUFE/status/2081849724529729855#m",
+      "date": "2026-07-27T21:10:27+00:00"
+    },
+    {
+      "id": "edf1633068f9",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 42.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 42 al 74. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 42 al 74. Disminuye tu velocidad y maneja con precaución.",
+      "link": "https://nitter.net/CAPUFE/status/2081845123755704710#m",
+      "date": "2026-07-27T20:52:10+00:00"
+    },
     {
       "id": "67d7cae981ed",
       "account": "@capufe",
@@ -269,20 +311,6 @@
       "date": "2026-07-27T18:32:55+00:00"
     },
     {
-      "id": "59e34849cf6c",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 111.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 111, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con pre 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 111, dirección La Tinaja. El incidente ha si",
-      "link": "https://nitter.net/CAPUFE/status/2081807524420870452#m",
-      "date": "2026-07-27T18:22:46+00:00"
-    },
-    {
       "id": "ce5c8cd2d593",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -381,20 +409,6 @@
       "date": "2026-07-27T17:01:57+00:00"
     },
     {
-      "id": "abbd823147e8",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 156.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Oaxaca continua cierre parcial de circulación por #AccidenteVial cerca del km. 156+500 de la carretera Pinotepa Nacional-Salina Cruz, a la altura del Mpio. Santa Maria Colotepec, con dirección a Pochutla, Oax. Atienda indicación vial. #TomePrecauciones en #O",
-      "link": "https://nitter.net/GN_Carreteras/status/2081782382328254583#m",
-      "date": "2026-07-27T16:42:52+00:00"
-    },
-    {
       "id": "e75dbc8fa02f",
       "account": "@capufe",
       "type": "accident",
@@ -463,20 +477,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 97, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 97, dirección CDMX. El accidente ha sido atendido",
       "link": "https://nitter.net/CAPUFE/status/2081762059549557235#m",
       "date": "2026-07-27T15:22:06+00:00"
-    },
-    {
-      "id": "f618cb9714ca",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 9.0,
-      "lat": 18.293,
-      "lon": -94.98175,
-      "resolved": true,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista La Tinaja - Isla, del km 9 al 10, dirección Isla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista La Tinaja - Isla, del",
-      "link": "https://nitter.net/CAPUFE/status/2081756506089820341#m",
-      "date": "2026-07-27T15:00:02+00:00"
     }
   ]
 }
