@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-27T21:26:51.826106+00:00",
+  "updated": "2026-07-27T21:53:01.207087+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "03cf78e9f652",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 63.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Nayarit continua cierre parcial de circulación por #AccidenteVial cerca del km. 063+300 de la carretera Tepic - Puerto Vallarta, a la altura del Municipio Tepic, Nay., con dirección a Puerto Vallarta, Jal. Atienda indicación vial. #TomePrecauciones en #Nayar",
+      "link": "https://nitter.net/GN_Carreteras/status/2081854151701508151#m",
+      "date": "2026-07-27T21:28:03+00:00"
+    },
     {
       "id": "3bb499c3db29",
       "account": "@GN_carreteras",
@@ -393,20 +407,6 @@
       "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoCuernavaca, km 62, dirección Cuernavaca. Registra reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoCuernavaca , km 62, d",
       "link": "https://nitter.net/CAPUFE/status/2081791459540279404#m",
       "date": "2026-07-27T17:18:56+00:00"
-    },
-    {
-      "id": "bc3d92f0a519",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 121.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Nayarit continua cierre parcial de circulación por #AccidenteVial cerca del km. 121+000 de la carretera Tepic-Mazatlán, a la altura del Mpio. Acaponeta, Nay., con dirección a Mazatlán, Sin. Atienda indicación vial. #TomePrecauciones en #Nayarit continua cier",
-      "link": "https://nitter.net/GN_Carreteras/status/2081787187020878210#m",
-      "date": "2026-07-27T17:01:57+00:00"
     },
     {
       "id": "e75dbc8fa02f",
