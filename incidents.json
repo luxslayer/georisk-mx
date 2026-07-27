@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-27T03:09:24.508414+00:00",
-  "count": 29,
+  "updated": "2026-07-27T04:45:12.337000+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "3a8044d10715",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 96.0,
+      "lat": 18.253631,
+      "lon": -99.522849,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernava",
+      "link": "https://nitter.net/CAPUFE/status/2081594897258143856#m",
+      "date": "2026-07-27T04:17:52+00:00"
+    },
+    {
+      "id": "60117c5a5ad0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 70.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución. 🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 #AutMéxicoCuernavaca , km 70, dirección Cuernavaca. Reducción de carriles",
+      "link": "https://nitter.net/CAPUFE/status/2081592245329776695#m",
+      "date": "2026-07-27T04:07:20+00:00"
+    },
+    {
+      "id": "87d4711a7934",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Tijuana–Ensenada",
+      "route_key": "tijuana-ensenada",
+      "km": 30.0,
+      "lat": 32.263725,
+      "lon": -116.95705,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 30, dirección Tijuana. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 30, dirección Tijuana. Reducci",
+      "link": "https://nitter.net/CAPUFE/status/2081589437180367346#m",
+      "date": "2026-07-27T03:56:10+00:00"
+    },
+    {
+      "id": "6f844e9e6125",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 12.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 12. Circulación intermitente en ambos sentidos por atención de accidente (choque de frente). Atiende las indicaciones viales y maneja con precaución. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 ",
+      "link": "https://nitter.net/CAPUFE/status/2081581923571204160#m",
+      "date": "2026-07-27T03:26:19+00:00"
+    },
+    {
+      "id": "74975913eb3d",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠CARGA VEHICULAR🟠 #AutMéxicoQuerétaro, km 56, dirección CDMX. Registra carga vehicular a la altura de la salida al Circuito Exterior Mexiquense, sin reporte de incidentes. Maneja con precaución. 🟠CARGA VEHICULAR🟠 #AutMéxicoQuerétaro , km 56, dirección CDMX. Registra carga vehicul",
+      "link": "https://nitter.net/CAPUFE/status/2081580038059667837#m",
+      "date": "2026-07-27T03:18:49+00:00"
+    },
     {
       "id": "48bd887f5586",
       "account": "@GN_carreteras",
@@ -171,20 +241,6 @@
       "date": "2026-07-27T00:34:13+00:00"
     },
     {
-      "id": "f2d3ee4241fb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 22.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 22, dirección La Pera. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 22, dirección La Pera. Reducción",
-      "link": "https://nitter.net/CAPUFE/status/2081537263318499793#m",
-      "date": "2026-07-27T00:28:51+00:00"
-    },
-    {
       "id": "5b8a770a5067",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -197,20 +253,6 @@
       "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 022+900 de la autopista La Tinaja-Cosoleacaque. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 0",
       "link": "https://nitter.net/GN_Carreteras/status/2081530793881432356#m",
       "date": "2026-07-27T00:03:08+00:00"
-    },
-    {
-      "id": "067d0a82b5eb",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 19 al 24. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 19 al 24. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2081530408957562909#m",
-      "date": "2026-07-27T00:01:37+00:00"
     },
     {
       "id": "816e21724333",
