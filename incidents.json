@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-28T20:55:43.916382+00:00",
+  "updated": "2026-07-28T21:27:58.791514+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "6d5c4e11437d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 27.0,
+      "lat": 19.261,
+      "lon": -98.746,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Tlaxcala continua cierre parcial de circulación por #AccidenteVial cerca del km. 027+420 de la autopista Ent. (Aut. México-Puebla) - Ocotoxco, con dirección a Apizaco, a la altura del Mpio. Tizatlán. Atienda indicación vial. #TomePrecauciones en #Tlaxcala co",
+      "link": "https://nitter.net/GN_Carreteras/status/2082214435871961588#m",
+      "date": "2026-07-28T21:19:41+00:00"
+    },
+    {
+      "id": "8021890ac3e3",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 265.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 265, dirección Córdoba. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 265, di",
+      "link": "https://nitter.net/CAPUFE/status/2082213096152535099#m",
+      "date": "2026-07-28T21:14:22+00:00"
+    },
+    {
+      "id": "3caca1824652",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 43.0,
+      "lat": 20.0016,
+      "lon": -99.2976,
+      "resolved": true,
+      "text": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #AccidenteVial cerca del km. 043+500 de la carretera México-Querétaro, en dirección a la Ciudad de México, a la altura de la plaza de cobro No. 4 Tepotzotlán, atienda indicación vial. #TomePrecauciones en #Ed",
+      "link": "https://nitter.net/GN_Carreteras/status/2082213071515230474#m",
+      "date": "2026-07-28T21:14:16+00:00"
+    },
     {
       "id": "1d3347aaacb5",
       "account": "@GN_carreteras",
@@ -353,20 +395,6 @@
       "date": "2026-07-28T17:45:20+00:00"
     },
     {
-      "id": "fd81f2b42ce8",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 51.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 51, dirección CDMX. Registra cierre a la circulación por atención de incidente (caída de árbol). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca , km 51, dirección CDMX.",
-      "link": "https://nitter.net/CAPUFE/status/2082158302083866868#m",
-      "date": "2026-07-28T17:36:38+00:00"
-    },
-    {
       "id": "f67c02b9c1a3",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -463,34 +491,6 @@
       "text": "En #Chiapas continua cierre parcial de circulación por #AccidenteVial cerca del km. 275+500 de la carretera Tapanatepec-Talismán con Ramales a Unión y Cd. Hidalgo, con dirección Arriaga, a la altura del poblado Coapantes, Mpio. Tapachula, Chis. Atienda indicación vial. En #Chiapa",
       "link": "https://nitter.net/GN_Carreteras/status/2082119819906666604#m",
       "date": "2026-07-28T15:03:43+00:00"
-    },
-    {
-      "id": "7a52eb2eb3c5",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 78.0,
-      "lat": 19.10635,
-      "lon": -98.34635,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 078+200 de la autopista Amozoc-Perote, atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 078+200 de la ",
-      "link": "https://nitter.net/GN_Carreteras/status/2082118781636059423#m",
-      "date": "2026-07-28T14:59:36+00:00"
-    },
-    {
-      "id": "cd7bd3ff2ebb",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 11.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Michoacán continúa cierre parcial de la circulación tras accidente en el km. 011+100 de la carretera La Rinconada-La Piedad, a la altura del Municipio Ecuandureo, Mich., con dirección a La Piedad, Mich. Atienda indicación vial. #PrecauciónVial en #Michoacán co",
-      "link": "https://nitter.net/GN_Carreteras/status/2082106952994222155#m",
-      "date": "2026-07-28T14:12:35+00:00"
     }
   ]
 }
