@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-28T21:53:44.371520+00:00",
-  "count": 34,
+  "updated": "2026-07-28T22:24:19.843440+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "1eeb2cb0a50b",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 267.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 267, dirección Córdoba. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 267, direcció",
+      "link": "https://nitter.net/CAPUFE/status/2082230529055715337#m",
+      "date": "2026-07-28T22:23:38+00:00"
+    },
+    {
+      "id": "8e9f4530051d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 25.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Durango continua cierre parcial de circulación por #AccidenteVial cerca del km. 025+500. de la carretera Gómez Palacio-Jiménez, con dirección al Municipio de Jiménez, a la altura de la localidad Venustiano Carranza. Atienda indicación vial. #TomePrecauciones",
+      "link": "https://nitter.net/GN_Carreteras/status/2082226641472737443#m",
+      "date": "2026-07-28T22:08:11+00:00"
+    },
+    {
+      "id": "a7f2d62e9e3f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 210.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Magdalena - Nogales, km 210, dirección Magdalena. Continúa la reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Magdalena - Nogales, km 210, dirección Magdalena",
+      "link": "https://nitter.net/CAPUFE/status/2082224655868244327#m",
+      "date": "2026-07-28T22:00:18+00:00"
+    },
+    {
+      "id": "11dd2923ee23",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 58.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Coahuila continua cierre parcial de circulación por #AccidenteVial cerca del km. 058+900 de la carretera Monclova-Piedras Negras, a la altura de la Tienda de quesos Los Aldape, Coah. Atienda indicación vial. #TomePrecauciones en #Coahuila continua cierre par",
+      "link": "https://nitter.net/GN_Carreteras/status/2082223472772546878#m",
+      "date": "2026-07-28T21:55:36+00:00"
+    },
     {
       "id": "990436ab68e9",
       "account": "@GN_carreteras",
@@ -353,20 +409,6 @@
       "date": "2026-07-28T18:16:01+00:00"
     },
     {
-      "id": "16c4763d5ac9",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 230.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 230, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 230, dirección Cd. Me",
-      "link": "https://nitter.net/CAPUFE/status/2082165525451321780#m",
-      "date": "2026-07-28T18:05:20+00:00"
-    },
-    {
       "id": "26b67f8a7549",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -449,34 +491,6 @@
       "text": "#VialidadLibre en #Puebla tras accidente cerca del km. 112+700 de la carretera México-Puebla, a la altura del Mpio. de San Francisco Ocotlán, Pue. Maneje con precaución. #VialidadLibre en #Puebla tras accidente cerca del km. 112+700 de la carretera México-Puebla, a la altura del ",
       "link": "https://nitter.net/GN_Carreteras/status/2082138871165255843#m",
       "date": "2026-07-28T16:19:25+00:00"
-    },
-    {
-      "id": "a26c6d729217",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 429.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Jalisco continua cierre parcial de circulación por #AccidenteVial cerca del km. 429+200 de la carretera Guadalajara-Atlacomulco, con dirección a Guadalajara, a la altura de la localidad de Gral. Joaquín Amaro, Jal. Atienda indicación vial. #TomePrecauciones ",
-      "link": "https://nitter.net/GN_Carreteras/status/2082137136241766456#m",
-      "date": "2026-07-28T16:12:32+00:00"
-    },
-    {
-      "id": "665b262576a4",
-      "account": "@GN_carreteras",
-      "type": "roadwork",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 33.0,
-      "lat": 19.24,
-      "lon": -98.696,
-      "resolved": true,
-      "text": "#TómeloEnCuenta en #EdoMéx se registra reducción de carriles, por mantenimiento a la carpeta asfáltica, cerca del km. 033+300 de la autopista México-Puebla, a la altura de la caseta de San Marcos. Atienda indicación vial. #TómeloEnCuenta en #EdoMéx se registra reducción de carril",
-      "link": "https://nitter.net/GN_Carreteras/status/2082134107425796440#m",
-      "date": "2026-07-28T16:00:30+00:00"
     }
   ]
 }
