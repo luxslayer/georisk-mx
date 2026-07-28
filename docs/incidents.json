@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-28T08:19:03.741016+00:00",
+  "updated": "2026-07-28T09:25:08.647914+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "064fc45b0fbb",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 41.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 41, dirección CDMX. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camión y automóviles. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/reNqnrmqSM38wbSs6 🔴 CIERRE DE CIRCU",
+      "link": "https://nitter.net/CAPUFE/status/2082027241484034262#m",
+      "date": "2026-07-28T08:55:51+00:00"
+    },
     {
       "id": "97e658ed3c26",
       "account": "@capufe",
@@ -323,20 +337,6 @@
       "text": "#VialidadLibre en #Michoacán tras accidente cerca del km. 066+400 de la carretera Pátzcuaro-Uruapan, con dirección a Uruapan, Mich. Atienda indicación vial. #VialidadLibre en #Michoacán tras accidente cerca del km. 066+400 de la carretera Pátzcuaro-Uruapan, con dirección a Uruapa",
       "link": "https://nitter.net/GN_Carreteras/status/2081941224903029044#m",
       "date": "2026-07-28T03:14:03+00:00"
-    },
-    {
-      "id": "736ff7f7fbcf",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 53.0,
-      "lat": 32.0786,
-      "lon": -116.852,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 53, dirección Tijuana. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 53, dirección Tijuana. Red",
-      "link": "https://nitter.net/CAPUFE/status/2081937934153052592#m",
-      "date": "2026-07-28T03:00:58+00:00"
     },
     {
       "id": "99d1d38e669d",
