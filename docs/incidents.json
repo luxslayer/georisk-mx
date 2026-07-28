@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-28T20:29:10.133416+00:00",
-  "count": 36,
+  "updated": "2026-07-28T20:55:43.916382+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "1d3347aaacb5",
+      "account": "@GN_carreteras",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 171.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomeloEnCuenta en #Hidalgo se habilita un carril de circulación por deslave de talud, cerca del km. 171+100 de la carretera México-Tampico, dirección a Pachuca, a la altura de la localidad de Santa María Catzotipan, Hgo. Atienda indicación vial. #TomeloEnCuenta en #Hidalgo se ha",
+      "link": "https://nitter.net/GN_Carreteras/status/2082204513692172403#m",
+      "date": "2026-07-28T20:40:16+00:00"
+    },
+    {
+      "id": "b429bf452abf",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 189.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 189+300 de la carretera Tuxpan–Tampico, a la altura de ciudad Cuauhtémoc, Ver. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por",
+      "link": "https://nitter.net/GN_Carreteras/status/2082203344957850084#m",
+      "date": "2026-07-28T20:35:37+00:00"
+    },
     {
       "id": "31022d739e4a",
       "account": "@capufe",
@@ -463,48 +491,6 @@
       "text": "#PrecauciónVial en #Michoacán continúa cierre parcial de la circulación tras accidente en el km. 011+100 de la carretera La Rinconada-La Piedad, a la altura del Municipio Ecuandureo, Mich., con dirección a La Piedad, Mich. Atienda indicación vial. #PrecauciónVial en #Michoacán co",
       "link": "https://nitter.net/GN_Carreteras/status/2082106952994222155#m",
       "date": "2026-07-28T14:12:35+00:00"
-    },
-    {
-      "id": "58defe612361",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 265.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Zacatecas tras accidente cerca del km. 265+900 de la carretera Zacatecas-Saltillo, a la altura de la localidad Ciénega de Rocamontes, Zac. Atienda indicación vial. #VialidadLibre en #Zacatecas tras accidente cerca del km. 265+900 de la carretera Zacatecas-Salti",
-      "link": "https://nitter.net/GN_Carreteras/status/2082106016443822272#m",
-      "date": "2026-07-28T14:08:52+00:00"
-    },
-    {
-      "id": "f8a0a5467d1f",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 132.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#EviteLaZona en #Sinaloa continúa cierre parcial de circulación tras presencia de personas, aproximadamente en el km. 132+500 de la carretera Culiacán-Los Mochis. Atienda indicación vial. #EviteLaZona en #Sinaloa continúa cierre parcial de circulación tras presencia de personas, ",
-      "link": "https://nitter.net/GN_Carreteras/status/2082104558503801331#m",
-      "date": "2026-07-28T14:03:05+00:00"
-    },
-    {
-      "id": "5439a21cd83c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 76.0,
-      "lat": 19.1112,
-      "lon": -98.3612,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Puebla continúa cierre parcial de circulación por #AccidenteVial cerca del km. 076+800 de la carretera México-Puebla, con dirección a CDMX. Atienda indicación vial. #TomePrecauciones en #Puebla continúa cierre parcial de circulación por #AccidenteVial cerca ",
-      "link": "https://nitter.net/GN_Carreteras/status/2082099416748441928#m",
-      "date": "2026-07-28T13:42:39+00:00"
     }
   ]
 }
