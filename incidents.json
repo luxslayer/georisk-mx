@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-28T21:27:58.791514+00:00",
-  "count": 35,
+  "updated": "2026-07-28T21:53:44.371520+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "990436ab68e9",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 236.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Chiapas continua cierre parcial de circulación por #AccidenteVial cerca del km. 236+500 de la carretera Tapanatepec-Talismán con Ramales a Unión Juárez-Cd. Hidalgo. Atienda indicación vial. #TomePrecauciones en #Chiapas continua cierre parcial de circulación",
+      "link": "https://nitter.net/GN_Carreteras/status/2082220607144378452#m",
+      "date": "2026-07-28T21:44:13+00:00"
+    },
     {
       "id": "6d5c4e11437d",
       "account": "@GN_carreteras",
@@ -381,20 +395,6 @@
       "date": "2026-07-28T18:00:52+00:00"
     },
     {
-      "id": "ed6c95797ef4",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 51.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 51, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del incidente (caída de árbol). En la zona se registra carga vehicular. Maneja con precaución. Para",
-      "link": "https://nitter.net/CAPUFE/status/2082160491837734924#m",
-      "date": "2026-07-28T17:45:20+00:00"
-    },
-    {
       "id": "f67c02b9c1a3",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -477,20 +477,6 @@
       "text": "#TómeloEnCuenta en #EdoMéx se registra reducción de carriles, por mantenimiento a la carpeta asfáltica, cerca del km. 033+300 de la autopista México-Puebla, a la altura de la caseta de San Marcos. Atienda indicación vial. #TómeloEnCuenta en #EdoMéx se registra reducción de carril",
       "link": "https://nitter.net/GN_Carreteras/status/2082134107425796440#m",
       "date": "2026-07-28T16:00:30+00:00"
-    },
-    {
-      "id": "b87b7b2c6a03",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 275.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "En #Chiapas continua cierre parcial de circulación por #AccidenteVial cerca del km. 275+500 de la carretera Tapanatepec-Talismán con Ramales a Unión y Cd. Hidalgo, con dirección Arriaga, a la altura del poblado Coapantes, Mpio. Tapachula, Chis. Atienda indicación vial. En #Chiapa",
-      "link": "https://nitter.net/GN_Carreteras/status/2082119819906666604#m",
-      "date": "2026-07-28T15:03:43+00:00"
     }
   ]
 }
