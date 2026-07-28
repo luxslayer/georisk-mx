@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-28T09:25:08.647914+00:00",
-  "count": 38,
+  "updated": "2026-07-28T10:19:36.293485+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "4d577baaefe9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 209.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista La Carbonera - Puerto México, km 209, dirección Puerto México. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. ",
+      "link": "https://nitter.net/CAPUFE/status/2082041413898846704#m",
+      "date": "2026-07-28T09:52:10+00:00"
+    },
     {
       "id": "064fc45b0fbb",
       "account": "@capufe",
@@ -311,20 +325,6 @@
       "date": "2026-07-28T03:32:18+00:00"
     },
     {
-      "id": "0738d2335837",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 159.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 159, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLE",
-      "link": "https://nitter.net/CAPUFE/status/2081942170529833291#m",
-      "date": "2026-07-28T03:17:48+00:00"
-    },
-    {
       "id": "1b8513f6f2cd",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -337,34 +337,6 @@
       "text": "#VialidadLibre en #Michoacán tras accidente cerca del km. 066+400 de la carretera Pátzcuaro-Uruapan, con dirección a Uruapan, Mich. Atienda indicación vial. #VialidadLibre en #Michoacán tras accidente cerca del km. 066+400 de la carretera Pátzcuaro-Uruapan, con dirección a Uruapa",
       "link": "https://nitter.net/GN_Carreteras/status/2081941224903029044#m",
       "date": "2026-07-28T03:14:03+00:00"
-    },
-    {
-      "id": "99d1d38e669d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 159.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 159, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular y #lluvia. Disminuye tu velocidad y maneja con precaución. Para más informac",
-      "link": "https://nitter.net/CAPUFE/status/2081924441626361994#m",
-      "date": "2026-07-28T02:07:21+00:00"
-    },
-    {
-      "id": "b3f173f2e8d7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 159.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 159, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre vagoneta, autobús y camión de carga. En la zona se registra carga vehicular y #lluvia. Disminuye tu velocidad y maneja con p",
-      "link": "https://nitter.net/CAPUFE/status/2081914990865289430#m",
-      "date": "2026-07-28T01:29:48+00:00"
     },
     {
       "id": "dce69b7e631d",
@@ -533,6 +505,20 @@
       "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 000+500 de la carretera Poza Rica-Veracruz, a la altura del Mpio. Veracruz, Ver., con dirección a Veracruz, Ver. Atienda indicación vial. #TomePrecauciones en #Veracruz continua",
       "link": "https://nitter.net/GN_Carreteras/status/2081865739393265962#m",
       "date": "2026-07-27T22:14:06+00:00"
+    },
+    {
+      "id": "ecbff4acb4a0",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 25.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Guamúchil - Guasave, Puente Sinaloa. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/ctCbjbjGqLB1XLiM8 🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Guam",
+      "link": "https://nitter.net/CAPUFE/status/2081770913956024400#m",
+      "date": "2026-07-27T15:57:17+00:00"
     }
   ]
 }
