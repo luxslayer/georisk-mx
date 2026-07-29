@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-29T03:06:22.958175+00:00",
+  "updated": "2026-07-29T04:36:19.077550+00:00",
   "count": 26,
   "incidents": [
+    {
+      "id": "48dbbaa27572",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 8.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Zacatecas continua cierre parcial de circulación por #AccidenteVial cerca del km. 008+500 de la carretera Fresnillo-Valparaíso, a la altura de la localidad Juan Manuel Sanchéz, Zac. Atienda indicación vial. #TomePrecauciones en #Zacatecas continua cierre par",
+      "link": "https://nitter.net/GN_Carreteras/status/2082310062110912877#m",
+      "date": "2026-07-29T03:39:40+00:00"
+    },
+    {
+      "id": "f53ef40e0df6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 13.0,
+      "lat": 19.6656,
+      "lon": -99.2016,
+      "resolved": true,
+      "text": "R to @CAPUFE: 🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Córdoba - Veracruz, km 13, dirección Veracruz. Continúa cierre a la circulación por atención de choque por alcance múltiple entre tracto camión, automóviles y camión de carga con posterior volcadura. Toma tus precauciones. Consulta la ",
+      "link": "https://nitter.net/CAPUFE/status/2082305830586552657#m",
+      "date": "2026-07-29T03:22:52+00:00"
+    },
+    {
+      "id": "afe1b284ed8e",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 144.0,
+      "lat": 19.048,
+      "lon": -97.87,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 144+300 de la carretera Amozoc-Teziutlan, cerca del Mpio. Atempan, Pue. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #Accidente",
+      "link": "https://nitter.net/GN_Carreteras/status/2082305411340734860#m",
+      "date": "2026-07-29T03:21:12+00:00"
+    },
+    {
+      "id": "9f3e9c6a2f67",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 28.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 28, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 28, dirección Cuautla. El accid",
+      "link": "https://nitter.net/CAPUFE/status/2082302692978819470#m",
+      "date": "2026-07-29T03:10:23+00:00"
+    },
     {
       "id": "872ad14813e7",
       "account": "@GN_carreteras",
@@ -115,20 +171,6 @@
       "date": "2026-07-29T01:27:35+00:00"
     },
     {
-      "id": "3326c6ee939a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 44.0,
-      "lat": 18.1932,
-      "lon": -94.7964,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 44, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 44, dirección Isla. El accidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2082275163786170745#m",
-      "date": "2026-07-29T01:21:00+00:00"
-    },
-    {
       "id": "c8c44fab659d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -155,20 +197,6 @@
       "text": "#TomePrecauciones en #Coahuila continua cierre total de circulación por #AccidenteVial cerca del km. 026+500 de la carretera Torreón-Saltillo, con dirección a Torreón, a la altura del Pueblo Guajardo, Coah. Atienda indicación vial. #TomePrecauciones en #Coahuila continua cierre t",
       "link": "https://nitter.net/GN_Carreteras/status/2082265768285073541#m",
       "date": "2026-07-29T00:43:40+00:00"
-    },
-    {
-      "id": "22c57b191b49",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 52.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 52, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 52, dirección CDMX. El accidente ha sido atendi",
-      "link": "https://nitter.net/CAPUFE/status/2082264829411135597#m",
-      "date": "2026-07-29T00:39:56+00:00"
     },
     {
       "id": "d870382fafb1",
@@ -337,34 +365,6 @@
       "text": "#Tlaxcala continua cierre parcial de circulación por #AccidenteVial cerca del km. 026+400 de la autopista Ent. Aut. México-Puebla (Ocotoxco), con dirección a Tlaxcala, a la altura del Mpio. de Totolac, Tlax. Atienda indicación vial. #Tlaxcala continua cierre parcial de circulació",
       "link": "https://nitter.net/GN_Carreteras/status/2082171056765173994#m",
       "date": "2026-07-28T18:27:19+00:00"
-    },
-    {
-      "id": "4ddfbd63ff4c",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 181.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Oaxaca tras retiro de personas, cerca del km. 181+500 de la carretera Coatzacoalcos-Salina Cruz, a la altura del poblado Mogoñé Viejo, Mpio. San Juan Guichicovi, Oax. Maneje con precaución. #VialidadLibre en #Oaxaca tras retiro de personas, cerca del km. 181+50",
-      "link": "https://nitter.net/GN_Carreteras/status/2082170164162781196#m",
-      "date": "2026-07-28T18:23:46+00:00"
-    },
-    {
-      "id": "db68d61aec4a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 76.0,
-      "lat": 19.1112,
-      "lon": -98.3612,
-      "resolved": true,
-      "text": "#VialidadLibre en #Puebla tras accidente cerca del km. 076+800 de la carretera México-Puebla, con dirección a CDMX. Maneje con precaución. #VialidadLibre en #Puebla tras accidente cerca del km. 076+800 de la carretera México-Puebla, con dirección a CDMX. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2082169465756668363#m",
-      "date": "2026-07-28T18:21:00+00:00"
     }
   ]
 }
