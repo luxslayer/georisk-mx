@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-29T04:36:19.077550+00:00",
+  "updated": "2026-07-29T06:01:51.400119+00:00",
   "count": 26,
   "incidents": [
+    {
+      "id": "0eeebd024ccf",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 132.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomeloEnCuenta en #Sinaloa continúa cierre parcial de circulación por presencia de personas, cerca del km. 132+500 de la carretera Culiacán-Los Mochis. Atienda indicación vial. #TomeloEnCuenta en #Sinaloa continúa cierre parcial de circulación por presencia de personas, cerca de",
+      "link": "https://nitter.net/GN_Carreteras/status/2082345298966261895#m",
+      "date": "2026-07-29T05:59:42+00:00"
+    },
+    {
+      "id": "ff1281bc708a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 210.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 210, dirección Magdalena. Continúa la reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 210, dirección",
+      "link": "https://nitter.net/CAPUFE/status/2082344273039540237#m",
+      "date": "2026-07-29T05:55:37+00:00"
+    },
+    {
+      "id": "2530776f2a85",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 47.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Jalisco continua cierre parcial de circulación por #AccidenteVial cerca del km. 047+500 de la carretera León-Aguascalientes, a la altura de la localidad de Las Aguilillas, Jal. Atienda indicación vial. #TomePrecauciones en #Jalisco continua cierre parcial de",
+      "link": "https://nitter.net/GN_Carreteras/status/2082340383506243682#m",
+      "date": "2026-07-29T05:40:10+00:00"
+    },
+    {
+      "id": "3fea78a6d9ee",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 251.0,
+      "lat": 18.884,
+      "lon": -96.923,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 251+000 de la autopista Puebla-Cordoba, con dirección Puebla. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial c",
+      "link": "https://nitter.net/GN_Carreteras/status/2082338456399646743#m",
+      "date": "2026-07-29T05:32:30+00:00"
+    },
+    {
+      "id": "6bbb252fcc4c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 13.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que se restablece la circulación de manera intermitente. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Ati",
+      "link": "https://nitter.net/CAPUFE/status/2082330718433083740#m",
+      "date": "2026-07-29T05:01:45+00:00"
+    },
     {
       "id": "48dbbaa27572",
       "account": "@GN_carreteras",
@@ -141,34 +211,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 28, dirección Cuautla. Reducción de carriles por atención de accidente (salida del camino de vagoneta). En la zona se registra #lluvia intensa. Disminuye tu velocidad y maneja con precaución. 🟠 CIERRE PARCIAL DE CI",
       "link": "https://nitter.net/CAPUFE/status/2082281263306616897#m",
       "date": "2026-07-29T01:45:14+00:00"
-    },
-    {
-      "id": "9e22016f6f4c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 252.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 252, dirección Acatzingo. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatz",
-      "link": "https://nitter.net/CAPUFE/status/2082279953651966073#m",
-      "date": "2026-07-29T01:40:02+00:00"
-    },
-    {
-      "id": "3751f9146663",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 41.0,
-      "lat": 29.03216,
-      "lon": -106.21742,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Obregón - Guaymas, km 41, dirección Guaymas. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Obregón - Guaymas, km 41, dirección Guaymas. ",
-      "link": "https://nitter.net/CAPUFE/status/2082276819600818526#m",
-      "date": "2026-07-29T01:27:35+00:00"
     },
     {
       "id": "c8c44fab659d",
@@ -323,48 +365,6 @@
       "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 189+300 de la carretera Tuxpan–Tampico, a la altura de ciudad Cuauhtémoc, Ver. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por",
       "link": "https://nitter.net/GN_Carreteras/status/2082203344957850084#m",
       "date": "2026-07-28T20:35:37+00:00"
-    },
-    {
-      "id": "e12ddefe5d78",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 35.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 035+200 de la carretera Apizaco-Tejocotal, cerca del Mpio. Chignahuapan. Atienda indicación vial. #TomePrecauciones en #Puebla continua cierre parcial de circulación por #Accident",
-      "link": "https://nitter.net/GN_Carreteras/status/2082192615181619429#m",
-      "date": "2026-07-28T19:52:59+00:00"
-    },
-    {
-      "id": "fb4ec3c61711",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 136.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Jalisco tras accidente cerca del km. 136+800 de la carretera Autlán de Navarro-Unión de Tula, maneje con precaución. #VialidadLibre en #Jalisco tras accidente cerca del km. 136+800 de la carretera Autlán de Navarro-Unión de Tula, maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2082173390622806380#m",
-      "date": "2026-07-28T18:36:35+00:00"
-    },
-    {
-      "id": "59d982e31ff6",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 26.0,
-      "lat": 19.264667,
-      "lon": -98.754667,
-      "resolved": true,
-      "text": "#Tlaxcala continua cierre parcial de circulación por #AccidenteVial cerca del km. 026+400 de la autopista Ent. Aut. México-Puebla (Ocotoxco), con dirección a Tlaxcala, a la altura del Mpio. de Totolac, Tlax. Atienda indicación vial. #Tlaxcala continua cierre parcial de circulació",
-      "link": "https://nitter.net/GN_Carreteras/status/2082171056765173994#m",
-      "date": "2026-07-28T18:27:19+00:00"
     }
   ]
 }
