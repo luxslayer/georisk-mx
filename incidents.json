@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-29T16:56:22.049766+00:00",
+  "updated": "2026-07-29T17:31:16.438867+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "7dcf4a401f18",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 52.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Se informa a las personas usuarias que se registra cierre a la circulación debido a que el personal se encuentra realizando los servicios periciales. Toma tus precauciones. Para más información lla",
+      "link": "https://nitter.net/CAPUFE/status/2082517096718557641#m",
+      "date": "2026-07-29T17:22:21+00:00"
+    },
+    {
+      "id": "f4ade1b7c2f8",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 201.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Michoacan tras accidente cerca del km. 201+700 de la carretera Maravatío-Zapotlanejo, con dirección a Zinapécuaro. Maneje con precaución. #VialidadLibre en #Michoacan tras accidente cerca del km. 201+700 de la carretera Maravatío-Zapotlanejo, con dirección a Zi",
+      "link": "https://nitter.net/GN_Carreteras/status/2082516966862917833#m",
+      "date": "2026-07-29T17:21:50+00:00"
+    },
+    {
+      "id": "a283d56c3637",
+      "account": "@GN_carreteras",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 283.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Oaxaca tras retiro de personas, cerca del km. 283+800 de la carretera Coatzacoalcos-Tehuantepec, maneje con precaución. #VialidadLibre en #Oaxaca tras retiro de personas, cerca del km. 283+800 de la carretera Coatzacoalcos-Tehuantepec, maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2082516389538009249#m",
+      "date": "2026-07-29T17:19:33+00:00"
+    },
+    {
+      "id": "8ce194052ea6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 46.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Agua Dulce - Cárdenas, km 46, dirección Agua Dulce. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de tracto camión siniestrado). En la zona ",
+      "link": "https://nitter.net/CAPUFE/status/2082511699723079982#m",
+      "date": "2026-07-29T17:00:55+00:00"
+    },
+    {
+      "id": "410552b95f67",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 70.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentran laborando en el lugar. Por seguri",
+      "link": "https://nitter.net/CAPUFE/status/2082510605206896977#m",
+      "date": "2026-07-29T16:56:34+00:00"
+    },
     {
       "id": "0bf463a91494",
       "account": "@GN_carreteras",
@@ -169,20 +239,6 @@
       "text": "#EviteLaZona en #Oaxaca continua cierre total en ambos sentidos de circulación por presencia de personas, cerca del km. 283+800 de la carretera Coatzacoalcos-Tehuantepec, atienda indicación vial. #EviteLaZona en #Oaxaca continua cierre total en ambos sentidos de circulación por p",
       "link": "https://nitter.net/GN_Carreteras/status/2082486271478317418#m",
       "date": "2026-07-29T15:19:52+00:00"
-    },
-    {
-      "id": "d899b434e6b8",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 70.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentran laborando en el lugar. Por ",
-      "link": "https://nitter.net/CAPUFE/status/2082485076525191368#m",
-      "date": "2026-07-29T15:15:07+00:00"
     },
     {
       "id": "e9ac7ada0b9b",
@@ -423,20 +479,6 @@
       "date": "2026-07-29T11:52:34+00:00"
     },
     {
-      "id": "a5fe6fa78bc7",
-      "account": "@capufe",
-      "type": "fog",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 26.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, registra #neblina del km 26 al 27. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca , registra #neblina del km 26 al 27. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2082432332565197126#m",
-      "date": "2026-07-29T11:45:32+00:00"
-    },
-    {
       "id": "2068b8a91844",
       "account": "@capufe",
       "type": "accident",
@@ -449,34 +491,6 @@
       "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Puente de Ixtla - Iguala, km 39. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por atención del accidente. El personal se encuentra realizando los servicios periciales. Toma tus precauciones. Pa",
       "link": "https://nitter.net/CAPUFE/status/2082388793013703163#m",
       "date": "2026-07-29T08:52:31+00:00"
-    },
-    {
-      "id": "3c1b94c87475",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Cuernavaca",
-      "route_key": "mexico-cuernavaca",
-      "km": 69.0,
-      "lat": 18.916609,
-      "lon": -99.234,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Morelos se registra cierre total de circulación por #AccidenteVial cerca del km. 069+700 de la autopista México-Cuernavaca. Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en la carretera Libre Morelos Tres Marías-Cuernavaca. #TomePr",
-      "link": "https://nitter.net/GN_Carreteras/status/2082386779550720314#m",
-      "date": "2026-07-29T08:44:31+00:00"
-    },
-    {
-      "id": "c5aa29902017",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 13.0,
-      "lat": 18.281,
-      "lon": -94.96475,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km. 013+500 de la autopista Córdoba-Ent. La Tinaja, con dirección a Veracruz, a la altura de la localidad de Corral de Piedra. Atienda indicación vial. #TomePrecauciones en #Vera",
-      "link": "https://nitter.net/GN_Carreteras/status/2082374735267025109#m",
-      "date": "2026-07-29T07:56:40+00:00"
     },
     {
       "id": "314b27a60b51",
@@ -519,20 +533,6 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 3, dirección Veracruz. Cierre a la circulación por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 3, dir",
       "link": "https://nitter.net/CAPUFE/status/2082360656385183928#m",
       "date": "2026-07-29T07:00:43+00:00"
-    },
-    {
-      "id": "ecbff4acb4a0",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 25.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Guamúchil - Guasave, Puente Sinaloa. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/ctCbjbjGqLB1XLiM8 🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Guam",
-      "link": "https://nitter.net/CAPUFE/status/2081770913956024400#m",
-      "date": "2026-07-27T15:57:17+00:00"
     }
   ]
 }
