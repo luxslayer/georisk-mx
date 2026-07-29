@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-29T10:21:43.139873+00:00",
-  "count": 34,
+  "updated": "2026-07-29T11:18:35.800397+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "af253861ba07",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 3.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 3, dirección Veracruz. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles por atención del accidente. El personal continúa realizando las maniobras de grúa para el retiro d",
+      "link": "https://nitter.net/CAPUFE/status/2082424067701747957#m",
+      "date": "2026-07-29T11:12:41+00:00"
+    },
+    {
+      "id": "2eb468953da6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 70.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentran laborando en el lugar. Por ",
+      "link": "https://nitter.net/CAPUFE/status/2082415297911205973#m",
+      "date": "2026-07-29T10:37:51+00:00"
+    },
+    {
+      "id": "e0d5fba3aee1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 35.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 35. Circulación intermitente en ambos sentidos por atención de accidente (choque por alcance entre tracto camión y autobús). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN ",
+      "link": "https://nitter.net/CAPUFE/status/2082413268467917058#m",
+      "date": "2026-07-29T10:29:47+00:00"
+    },
     {
       "id": "4e17b3ad1c99",
       "account": "@capufe",
@@ -85,20 +127,6 @@
       "text": "#TomePrecauciones en #Morelos se registra cierre total de circulación por #AccidenteVial cerca del km. 069+700 de la autopista México-Cuernavaca. Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en la carretera Libre Morelos Tres Marías-Cuernavaca. #TomePr",
       "link": "https://nitter.net/GN_Carreteras/status/2082386779550720314#m",
       "date": "2026-07-29T08:44:31+00:00"
-    },
-    {
-      "id": "2a28d24d1f96",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 3.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 3, dirección Veracruz. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención de choque por alcance múltiple entre tracto camión y camionetas. En la zon",
-      "link": "https://nitter.net/CAPUFE/status/2082378269022634243#m",
-      "date": "2026-07-29T08:10:42+00:00"
     },
     {
       "id": "a4c9b38dfa4d",
@@ -239,20 +267,6 @@
       "text": "#TomeloEnCuenta en #Sinaloa continúa cierre parcial de circulación por presencia de personas, cerca del km. 132+500 de la carretera Culiacán-Los Mochis. Atienda indicación vial. #TomeloEnCuenta en #Sinaloa continúa cierre parcial de circulación por presencia de personas, cerca de",
       "link": "https://nitter.net/GN_Carreteras/status/2082345298966261895#m",
       "date": "2026-07-29T05:59:42+00:00"
-    },
-    {
-      "id": "ff1281bc708a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 210.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 210, dirección Magdalena. Continúa la reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 210, dirección",
-      "link": "https://nitter.net/CAPUFE/status/2082344273039540237#m",
-      "date": "2026-07-29T05:55:37+00:00"
     },
     {
       "id": "2530776f2a85",
