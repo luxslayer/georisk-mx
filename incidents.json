@@ -1,7 +1,91 @@
 {
-  "updated": "2026-07-29T13:08:51.807580+00:00",
-  "count": 38,
+  "updated": "2026-07-29T14:17:09.961214+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "e0798306ca4a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 70.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentran laborando en el lugar. Por seguri",
+      "link": "https://nitter.net/CAPUFE/status/2082470022962700765#m",
+      "date": "2026-07-29T14:15:18+00:00"
+    },
+    {
+      "id": "305c39eab636",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 46.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tabasco continua cierre parcial de circulación por #AccidenteVial cerca del km. 046+100 de la carretera Coatzacoalcos-Villahermosa. Atienda indicación vial. #TomePrecauciones en #Tabasco continua cierre parcial de circulación por #AccidenteVial cerca del km.",
+      "link": "https://nitter.net/GN_Carreteras/status/2082469316541243599#m",
+      "date": "2026-07-29T14:12:30+00:00"
+    },
+    {
+      "id": "316aac7301cc",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 14.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Sonora continua cierre parcial de circulación por #AccidenteVial cerca del km. 014+500 de la carretera Altar-Sonoyta, a la altura de la Localidad Costa Rica, Son. Atienda indicación vial. #TomePrecauciones en #Sonora continua cierre parcial de circulación po",
+      "link": "https://nitter.net/GN_Carreteras/status/2082465646948839790#m",
+      "date": "2026-07-29T13:57:55+00:00"
+    },
+    {
+      "id": "940c5260f491",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 201.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km. 201+700 de la carretera Maravatío-Zapotlanejo, con dirección a Zinapécuaro. Atienda indicación vial. #TomePrecauciones en #Michoacan continua cierre parcial de circulación por ",
+      "link": "https://nitter.net/GN_Carreteras/status/2082464523865223527#m",
+      "date": "2026-07-29T13:53:27+00:00"
+    },
+    {
+      "id": "4008f449aa6c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 52.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Reducción de carriles por atención de choque por alcance múltiple entre camión de carga, vagoneta y automóviles. En la zona se registra carga vehicular. Disminuye tu velocidad y maneja con precau",
+      "link": "https://nitter.net/CAPUFE/status/2082460704615879054#m",
+      "date": "2026-07-29T13:38:16+00:00"
+    },
+    {
+      "id": "b8fa0a54809d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 35.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 35. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 35. El accidente ha sido atendid",
+      "link": "https://nitter.net/CAPUFE/status/2082458174909505693#m",
+      "date": "2026-07-29T13:28:13+00:00"
+    },
     {
       "id": "7a50f2256238",
       "account": "@GN_carreteras",
@@ -17,7 +101,7 @@
       "date": "2026-07-29T13:01:39+00:00"
     },
     {
-      "id": "2867a3322e11",
+      "id": "aa9004973f97",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -26,7 +110,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentran laborando en el lugar. Por seguri",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentran laborando en el lugar. Por ",
       "link": "https://nitter.net/CAPUFE/status/2082450044431528156#m",
       "date": "2026-07-29T12:55:55+00:00"
     },
@@ -143,20 +227,6 @@
       "date": "2026-07-29T11:45:32+00:00"
     },
     {
-      "id": "2eb468953da6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 70.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentran laborando en el lugar. Por ",
-      "link": "https://nitter.net/CAPUFE/status/2082415297911205973#m",
-      "date": "2026-07-29T10:37:51+00:00"
-    },
-    {
       "id": "e0d5fba3aee1",
       "account": "@capufe",
       "type": "accident",
@@ -199,34 +269,6 @@
       "date": "2026-07-29T08:52:31+00:00"
     },
     {
-      "id": "e40d6443f8ca",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 50.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Puente de Ixtla - Iguala, km 50. Cierre a la circulación en ambos sentidos por atención de accidente (salida del camino y volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopi",
-      "link": "https://nitter.net/CAPUFE/status/2082387441076375783#m",
-      "date": "2026-07-29T08:47:09+00:00"
-    },
-    {
-      "id": "b14286eaa5b5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTAB",
-      "link": "https://nitter.net/CAPUFE/status/2082387022023447016#m",
-      "date": "2026-07-29T08:45:29+00:00"
-    },
-    {
       "id": "3c1b94c87475",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -253,20 +295,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km. 013+500 de la autopista Córdoba-Ent. La Tinaja, con dirección a Veracruz, a la altura de la localidad de Corral de Piedra. Atienda indicación vial. #TomePrecauciones en #Vera",
       "link": "https://nitter.net/GN_Carreteras/status/2082374735267025109#m",
       "date": "2026-07-29T07:56:40+00:00"
-    },
-    {
-      "id": "0fb372f350bf",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que continúa circulación intermitente. El personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. En la zona se registra ",
-      "link": "https://nitter.net/CAPUFE/status/2082373732635390185#m",
-      "date": "2026-07-29T07:52:41+00:00"
     },
     {
       "id": "314b27a60b51",
@@ -437,20 +465,6 @@
       "date": "2026-07-29T03:02:39+00:00"
     },
     {
-      "id": "818d0e11a7e9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 13, dirección Veracruz. Cierre a la circulación por atención de accidente (choque por alcance múltiple y volcadura). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba",
-      "link": "https://nitter.net/CAPUFE/status/2082297888256721204#m",
-      "date": "2026-07-29T02:51:18+00:00"
-    },
-    {
       "id": "805c723c6910",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,48 +491,6 @@
       "text": "En #Chiapas continua cierre parcial de circulación por #AccidenteVial cerca del km. 007+000 de la carretera Tapanatepec-Talismán con Ramales a Unión Juárez y Cd. Hidalgo, con dirección a Tuxtla Chico, a la altura de la localidad Llano de la Lima, Mpio. Tapachula. En #Chiapas cont",
       "link": "https://nitter.net/GN_Carreteras/status/2082266597838704950#m",
       "date": "2026-07-29T00:46:58+00:00"
-    },
-    {
-      "id": "a653f99e5ddb",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 26.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Coahuila continua cierre total de circulación por #AccidenteVial cerca del km. 026+500 de la carretera Torreón-Saltillo, con dirección a Torreón, a la altura del Pueblo Guajardo, Coah. Atienda indicación vial. #TomePrecauciones en #Coahuila continua cierre t",
-      "link": "https://nitter.net/GN_Carreteras/status/2082265768285073541#m",
-      "date": "2026-07-29T00:43:40+00:00"
-    },
-    {
-      "id": "d870382fafb1",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Saltillo–Mty",
-      "route_key": "saltillo-monterrey",
-      "km": 29.0,
-      "lat": 25.536852,
-      "lon": -100.7011,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Coahuila continua cierre parcial de circulación por #AccidenteVial cerca del km. 029+900 de la carretera Saltillo-Monterrey, atienda indicación vial. #TomePrecauciones en #Coahuila continua cierre parcial de circulación por #AccidenteVial cerca del km. 029+9",
-      "link": "https://nitter.net/GN_Carreteras/status/2082255513442460082#m",
-      "date": "2026-07-29T00:02:55+00:00"
-    },
-    {
-      "id": "c2a619a1ddc9",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 182.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chiapas continua cierre parcial de circulación por #AccidenteVial cerca del km. 182+147 de la carretera Las Choapas-Ocozocoautla, a la altura del poblado Ocuilapa de Juárez. Atienda indicación vial. #TomePrecauciones en #Chiapas continua cierre parcial de ci",
-      "link": "https://nitter.net/GN_Carreteras/status/2082250343031730454#m",
-      "date": "2026-07-28T23:42:22+00:00"
     },
     {
       "id": "ecbff4acb4a0",
