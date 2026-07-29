@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-29T08:22:11.799458+00:00",
-  "count": 30,
+  "updated": "2026-07-29T09:26:24.580126+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "2068b8a91844",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 39.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Puente de Ixtla - Iguala, km 39. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por atención del accidente. El personal se encuentra realizando los servicios periciales. Toma tus precauciones. Pa",
+      "link": "https://nitter.net/CAPUFE/status/2082388793013703163#m",
+      "date": "2026-07-29T08:52:31+00:00"
+    },
+    {
+      "id": "dbf6285923bf",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 3.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 3, dirección Veracruz. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de las unidades siniestradas. Toma tus precauciones. Para más información llama ",
+      "link": "https://nitter.net/CAPUFE/status/2082388056745607393#m",
+      "date": "2026-07-29T08:49:36+00:00"
+    },
+    {
+      "id": "e40d6443f8ca",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 50.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Puente de Ixtla - Iguala, km 50. Cierre a la circulación en ambos sentidos por atención de accidente (salida del camino y volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopi",
+      "link": "https://nitter.net/CAPUFE/status/2082387441076375783#m",
+      "date": "2026-07-29T08:47:09+00:00"
+    },
+    {
+      "id": "b14286eaa5b5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 13.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTAB",
+      "link": "https://nitter.net/CAPUFE/status/2082387022023447016#m",
+      "date": "2026-07-29T08:45:29+00:00"
+    },
+    {
+      "id": "3c1b94c87475",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Cuernavaca",
+      "route_key": "mexico-cuernavaca",
+      "km": 69.0,
+      "lat": 18.916609,
+      "lon": -99.234,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Morelos se registra cierre total de circulación por #AccidenteVial cerca del km. 069+700 de la autopista México-Cuernavaca. Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en la carretera Libre Morelos Tres Marías-Cuernavaca. #TomePr",
+      "link": "https://nitter.net/GN_Carreteras/status/2082386779550720314#m",
+      "date": "2026-07-29T08:44:31+00:00"
+    },
     {
       "id": "2a28d24d1f96",
       "account": "@capufe",
@@ -199,20 +269,6 @@
       "date": "2026-07-29T05:32:30+00:00"
     },
     {
-      "id": "6bbb252fcc4c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 13.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que se restablece la circulación de manera intermitente. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Ati",
-      "link": "https://nitter.net/CAPUFE/status/2082330718433083740#m",
-      "date": "2026-07-29T05:01:45+00:00"
-    },
-    {
       "id": "48dbbaa27572",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -407,20 +463,6 @@
       "text": "#TomePrecauciones en #Tlaxcala continua cierre parcial de circulación por #AccidenteVial cerca del km. 027+420 de la autopista Ent. (Aut. México-Puebla) - Ocotoxco, con dirección a Apizaco, a la altura del Mpio. Tizatlán. Atienda indicación vial. #TomePrecauciones en #Tlaxcala co",
       "link": "https://nitter.net/GN_Carreteras/status/2082214435871961588#m",
       "date": "2026-07-28T21:19:41+00:00"
-    },
-    {
-      "id": "3caca1824652",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 43.0,
-      "lat": 20.0016,
-      "lon": -99.2976,
-      "resolved": true,
-      "text": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #AccidenteVial cerca del km. 043+500 de la carretera México-Querétaro, en dirección a la Ciudad de México, a la altura de la plaza de cobro No. 4 Tepotzotlán, atienda indicación vial. #TomePrecauciones en #Ed",
-      "link": "https://nitter.net/GN_Carreteras/status/2082213071515230474#m",
-      "date": "2026-07-28T21:14:16+00:00"
     }
   ]
 }
