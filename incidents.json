@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-30T11:15:50.760152+00:00",
-  "count": 40,
+  "updated": "2026-07-30T12:07:17.897893+00:00",
+  "count": 41,
   "incidents": [
+    {
+      "id": "02ccf33bb0b5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 264.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 264, dirección Córdoba. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se",
+      "link": "https://nitter.net/CAPUFE/status/2082796595381203414#m",
+      "date": "2026-07-30T11:52:59+00:00"
+    },
+    {
+      "id": "73c85af35a8b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 131.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 131+600, de la carretera Paso del Toro-Acayucan, a la altura del Mpio. de San Andrés Tuxtla, con dirección a Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz ",
+      "link": "https://nitter.net/GN_Carreteras/status/2082795075185090629#m",
+      "date": "2026-07-30T11:46:57+00:00"
+    },
+    {
+      "id": "2133a784f9ea",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 75.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 75, dirección Querétaro. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas",
+      "link": "https://nitter.net/CAPUFE/status/2082794810646098098#m",
+      "date": "2026-07-30T11:45:53+00:00"
+    },
+    {
+      "id": "e3e3e176b982",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 0.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Veracruz trasa #AccidenteVial cerca del km 000+500, de la carretera Tuxpan-Tampico, a la altura de la localidad de Tierra Blanca en el Mpio. de Tuxpan. Maneje con precaución. #VíaLibre en #Veracruz trasa #AccidenteVial cerca del km 000+500, de la carretera Tuxpan-Ta",
+      "link": "https://nitter.net/GN_Carreteras/status/2082793248523751809#m",
+      "date": "2026-07-30T11:39:41+00:00"
+    },
     {
       "id": "abe9da02cc59",
       "account": "@capufe",
@@ -297,20 +353,6 @@
       "date": "2026-07-30T06:59:52+00:00"
     },
     {
-      "id": "0d4adb4b0030",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 18.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 18. Reducción de carriles en ambos sentidos por atención de accidente (choque de tracto camión contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 18. Reducción de carriles en ",
-      "link": "https://nitter.net/CAPUFE/status/2082709797669880110#m",
-      "date": "2026-07-30T06:08:05+00:00"
-    },
-    {
       "id": "f6a1e5a5b1f1",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -323,20 +365,6 @@
       "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 082+600, de la carretera México-Querétaro, a la altura del Mpio. de Ojo de Agua, con dirección a Querétaro. Atienda indicación vial. #TomePrecauciones en #EdoMéx se registra cie",
       "link": "https://nitter.net/GN_Carreteras/status/2082700233364910451#m",
       "date": "2026-07-30T05:30:04+00:00"
-    },
-    {
-      "id": "5d98e9ecb7ce",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 83.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 83, dirección Querétaro. Continúa reducción de carriles por atención de accidente (servicios periciales). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro",
-      "link": "https://nitter.net/CAPUFE/status/2082695152649289938#m",
-      "date": "2026-07-30T05:09:53+00:00"
     },
     {
       "id": "3fd1019f8e9c",
@@ -535,32 +563,18 @@
       "date": "2026-07-30T00:24:51+00:00"
     },
     {
-      "id": "619a5fa7e458",
-      "account": "@GN_carreteras",
-      "type": "accident",
+      "id": "ecbff4acb4a0",
+      "account": "@capufe",
+      "type": "closure",
       "highway": "?",
       "route_key": "unknown",
-      "km": 4.0,
+      "km": 25.0,
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 004+350 de la carr. La Piedad-Sahuayo, con direccion al Mpio. El Venado. Maneje con precaución. #VíaLibre en #Michoacán tras #AccidenteVial cerca del km 004+350 de la carr. La Piedad-Sahuayo, con direccion al Mpio. El Venad",
-      "link": "https://nitter.net/GN_Carreteras/status/2082613282242699518#m",
-      "date": "2026-07-29T23:44:34+00:00"
-    },
-    {
-      "id": "b82e42fe636a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Cuernavaca",
-      "route_key": "mexico-cuernavaca",
-      "km": 69.0,
-      "lat": 18.916609,
-      "lon": -99.234,
-      "resolved": true,
-      "text": "#VíaLibre en #Morelos tras #AccidenteVial cerca del km 069+700, de la autopista México-Cuernavaca, con dirección a Cuernavaca. Maneje con precaución. #VíaLibre en #Morelos tras #AccidenteVial cerca del km 069+700, de la autopista México-Cuernavaca, con dirección a Cuernavaca. Man",
-      "link": "https://nitter.net/GN_Carreteras/status/2082609136643056088#m",
-      "date": "2026-07-29T23:28:05+00:00"
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Guamúchil - Guasave, Puente Sinaloa. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/ctCbjbjGqLB1XLiM8 🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Guam",
+      "link": "https://nitter.net/CAPUFE/status/2081770913956024400#m",
+      "date": "2026-07-27T15:57:17+00:00"
     }
   ]
 }
