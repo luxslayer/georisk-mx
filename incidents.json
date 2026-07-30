@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-30T19:32:45.602166+00:00",
-  "count": 37,
+  "updated": "2026-07-30T20:29:07.970831+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "a15a8939dbda",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 53.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla, km 53, dirección Puebla. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla , km 53, dirección Puebla. El accidente ha sido atendido. En la zona se registra carga",
+      "link": "https://nitter.net/CAPUFE/status/2082925670867284124#m",
+      "date": "2026-07-30T20:25:53+00:00"
+    },
+    {
+      "id": "54af3b6ef708",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 113.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por presencia de persona, cerca del km. 113+200 de la carretera Buena Vista-Tuxtepec, en la caseta de cobro No.29 \"Caracol\". Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre parcial de ",
+      "link": "https://nitter.net/GN_Carreteras/status/2082918809267065276#m",
+      "date": "2026-07-30T19:58:37+00:00"
+    },
+    {
+      "id": "96864eecedfb",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 53.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 53, dirección Puebla. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebl",
+      "link": "https://nitter.net/CAPUFE/status/2082917025723064665#m",
+      "date": "2026-07-30T19:51:32+00:00"
+    },
+    {
+      "id": "e39582de1ac5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 86.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 86, dirección Querétaro. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #A",
+      "link": "https://nitter.net/CAPUFE/status/2082916608624750616#m",
+      "date": "2026-07-30T19:49:52+00:00"
+    },
+    {
+      "id": "f0037648a82a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guanajuato continua cierre parcial de circulación por #AccidenteVial cerca del km. 019+800 de la carretera Querétaro-León, con dirección a Querétaro, a inmediaciones del Poblado de Marroquín. Atienda indicación vial. #TomePrecauciones en #Guanajuato continua",
+      "link": "https://nitter.net/GN_Carreteras/status/2082913613686141161#m",
+      "date": "2026-07-30T19:37:58+00:00"
+    },
     {
       "id": "9c43d5d37edd",
       "account": "@capufe",
@@ -241,34 +311,6 @@
       "date": "2026-07-30T17:31:08+00:00"
     },
     {
-      "id": "89296dacf9d1",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 70.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Agua Dulce - Cárdenas, km 70, dirección Cárdenas. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Agua Dulce - Cárdenas, ",
-      "link": "https://nitter.net/CAPUFE/status/2082880173045653904#m",
-      "date": "2026-07-30T17:25:05+00:00"
-    },
-    {
-      "id": "f8743190376a",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 43.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, km 43, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro , km 43, dirección CDMX. Re",
-      "link": "https://nitter.net/CAPUFE/status/2082878657639371182#m",
-      "date": "2026-07-30T17:19:04+00:00"
-    },
-    {
       "id": "23b7b5c32fda",
       "account": "@capufe",
       "type": "accident",
@@ -491,34 +533,6 @@
       "text": "#VialidadLibre en #Oaxaca tras incendio, cerca del km 130+800, de la carretera Cuacnopalan-Oaxaca, a la altura del Mpio. de San Mateo Tlapiltepec, con dirección a Oaxaca. Maneje con precaución. #VialidadLibre en #Oaxaca tras incendio, cerca del km 130+800, de la carretera Cuacnop",
       "link": "https://nitter.net/GN_Carreteras/status/2082825147455574468#m",
       "date": "2026-07-30T13:46:26+00:00"
-    },
-    {
-      "id": "aa224b81afcc",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Toluca–Palmillas",
-      "route_key": "toluca-palmillas",
-      "km": 2.0,
-      "lat": 19.31456,
-      "lon": -99.67544,
-      "resolved": true,
-      "text": "#VialidadLibre en #EdoMéx tras accidente cerca del km 002+600, de la carretera Toluca-Palmillas, a la altura de la localidad de El Medrano, Edo. Méx, con dirección a Toluca y Querétaro. Maneje con precauciones. #VialidadLibre en #EdoMéx tras accidente cerca del km 002+600, de la ",
-      "link": "https://nitter.net/GN_Carreteras/status/2082824014192382321#m",
-      "date": "2026-07-30T13:41:56+00:00"
-    },
-    {
-      "id": "a6f359e6fdee",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Toluca–Palmillas",
-      "route_key": "toluca-palmillas",
-      "km": 2.0,
-      "lat": 19.31456,
-      "lon": -99.67544,
-      "resolved": true,
-      "text": "#TomePrecauciones en #EdoMéx se registra cierre total de circulación por #AccidenteVial cerca del km 002+600, de la carretera Toluca-Palmillas, a la altura de la localidad de El Medrano, Edo. Méx, con dirección a Toluca y Querétaro. Atienda indicación vial. #TomePrecauciones en #",
-      "link": "https://nitter.net/GN_Carreteras/status/2082804046872592812#m",
-      "date": "2026-07-30T12:22:36+00:00"
     }
   ]
 }
