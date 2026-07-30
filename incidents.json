@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-30T23:24:40.074999+00:00",
+  "updated": "2026-07-30T23:49:48.727034+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "ff40267ff856",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 182.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Isla - Acayucan, km 182, dirección Acayucan. Reducción de carriles por atención de choque por alcance entre camiones de carga. En la zona se registra derrame de diésel. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.",
+      "link": "https://nitter.net/CAPUFE/status/2082974427331846239#m",
+      "date": "2026-07-30T23:39:37+00:00"
+    },
     {
       "id": "75d1d3f95666",
       "account": "@capufe",
@@ -197,34 +211,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 263, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida del camino y volcadura de vagoneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, ",
       "link": "https://nitter.net/CAPUFE/status/2082948346478539101#m",
       "date": "2026-07-30T21:55:59+00:00"
-    },
-    {
-      "id": "867a95edeead",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 20, dirección Cuernavaca. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 20, dirección Cuernavaca. El incidente ha",
-      "link": "https://nitter.net/CAPUFE/status/2082947025390170269#m",
-      "date": "2026-07-30T21:50:44+00:00"
-    },
-    {
-      "id": "976bb0708c36",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 45.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 45, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 45, dirección Cuernavaca. Reducció",
-      "link": "https://nitter.net/CAPUFE/status/2082943078445281375#m",
-      "date": "2026-07-30T21:35:03+00:00"
     },
     {
       "id": "d0b0a3405937",
@@ -519,6 +505,20 @@
       "text": "#VialidadLibre en #Veracruz tras accidente cerca del km 131+600, de la carretera Paso del Toro-Acayucan, a la altura del Mpio. de San Andrés Tuxtla, con dirección a Veracruz. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente cerca del km 131+600, de la carretera P",
       "link": "https://nitter.net/GN_Carreteras/status/2082835801696588190#m",
       "date": "2026-07-30T14:28:46+00:00"
+    },
+    {
+      "id": "ecbff4acb4a0",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 25.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Guamúchil - Guasave, Puente Sinaloa. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/ctCbjbjGqLB1XLiM8 🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Guam",
+      "link": "https://nitter.net/CAPUFE/status/2081770913956024400#m",
+      "date": "2026-07-27T15:57:17+00:00"
     }
   ]
 }
