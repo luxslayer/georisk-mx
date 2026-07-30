@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-30T20:55:09.428895+00:00",
+  "updated": "2026-07-30T21:27:11.968467+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "d0b0a3405937",
+      "account": "@GN_carreteras",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 113.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Oaxaca tras retiro de personas, cerca del km. 113+200 de la carretera Buena Vista-Tuxtepec, en la caseta de cobro No.29 \"Caracol\". Maneje con precaución. #VialidadLibre en #Oaxaca tras retiro de personas, cerca del km. 113+200 de la carretera Buena Vista-Tuxtep",
+      "link": "https://nitter.net/GN_Carreteras/status/2082941015950787037#m",
+      "date": "2026-07-30T21:26:52+00:00"
+    },
     {
       "id": "241c88e44e1b",
       "account": "@capufe",
@@ -505,20 +519,6 @@
       "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 007+600 de la autopista Córdoba-Ent. La Tinaja, con dirección a puebla. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #Accid",
       "link": "https://nitter.net/GN_Carreteras/status/2082835109212725425#m",
       "date": "2026-07-30T14:26:01+00:00"
-    },
-    {
-      "id": "f6599d6be874",
-      "account": "@GN_carreteras",
-      "type": "fire",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 130.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Oaxaca tras incendio, cerca del km 130+800, de la carretera Cuacnopalan-Oaxaca, a la altura del Mpio. de San Mateo Tlapiltepec, con dirección a Oaxaca. Maneje con precaución. #VialidadLibre en #Oaxaca tras incendio, cerca del km 130+800, de la carretera Cuacnop",
-      "link": "https://nitter.net/GN_Carreteras/status/2082825147455574468#m",
-      "date": "2026-07-30T13:46:26+00:00"
     }
   ]
 }
