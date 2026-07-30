@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-30T05:56:14.231025+00:00",
+  "updated": "2026-07-30T07:03:01.688382+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "47f0ba7587da",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 123.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 123, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQueré",
+      "link": "https://nitter.net/CAPUFE/status/2082723080657387792#m",
+      "date": "2026-07-30T07:00:52+00:00"
+    },
+    {
+      "id": "7e64b4c7d59b",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 169.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 169, dirección Acayucan. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 169, direcc",
+      "link": "https://nitter.net/CAPUFE/status/2082722828852367600#m",
+      "date": "2026-07-30T06:59:52+00:00"
+    },
+    {
+      "id": "0d4adb4b0030",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 18.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 18. Reducción de carriles en ambos sentidos por atención de accidente (choque de tracto camión contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 18. Reducción de carriles en ",
+      "link": "https://nitter.net/CAPUFE/status/2082709797669880110#m",
+      "date": "2026-07-30T06:08:05+00:00"
+    },
     {
       "id": "f6a1e5a5b1f1",
       "account": "@GN_carreteras",
@@ -227,20 +269,6 @@
       "date": "2026-07-30T03:21:48+00:00"
     },
     {
-      "id": "ef6b3093bdeb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 123.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 123, dirección Querétaro. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles por atención del accidente. El personal continúa realizando las maniobras de grúa para el retiro de las ",
-      "link": "https://nitter.net/CAPUFE/status/2082667520851345744#m",
-      "date": "2026-07-30T03:20:05+00:00"
-    },
-    {
       "id": "125707b02c4c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -269,20 +297,6 @@
       "date": "2026-07-30T03:01:25+00:00"
     },
     {
-      "id": "d4371f85d392",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 50.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 50, dirección Puente de Ixtla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 50, direc",
-      "link": "https://nitter.net/CAPUFE/status/2082654233388531995#m",
-      "date": "2026-07-30T02:27:17+00:00"
-    },
-    {
       "id": "7b00c884905a",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -309,20 +323,6 @@
       "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 123+000, de la carretera México-Querétaro, a la altura del Mpio. de Encinillas, con dirección a Querétaro. Atienda indicación vial. #TomePrecauciones en #EdoMéx se registra cier",
       "link": "https://nitter.net/GN_Carreteras/status/2082653467588358561#m",
       "date": "2026-07-30T02:24:15+00:00"
-    },
-    {
-      "id": "6a0aadfbf649",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 145.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 145, dirección CDMX. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión). En la zona se registra carga vehicular intensa. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #",
-      "link": "https://nitter.net/CAPUFE/status/2082649106439082231#m",
-      "date": "2026-07-30T02:06:55+00:00"
     },
     {
       "id": "8874fc34479f",
