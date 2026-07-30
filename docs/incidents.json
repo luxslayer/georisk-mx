@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-29T23:49:47.435272+00:00",
-  "count": 37,
+  "updated": "2026-07-30T00:37:09.824420+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "08f2b4cc3f7e",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 182.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Oaxaca tras presencia de personas, cerca del km 182+500, de la carr. Coatzacoalcos-Salina Cruz, a la altura del poblado Mogoñé Viejo, Mpio. de San Juan Guichicovi. Maneje con precaución. #VíaLibre en #Oaxaca tras presencia de personas, cerca del km 182+500, de la ca",
+      "link": "https://nitter.net/GN_Carreteras/status/2082624999983136865#m",
+      "date": "2026-07-30T00:31:07+00:00"
+    },
+    {
+      "id": "d9d277702701",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 123.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 123, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/YBofSjcom4zkNL",
+      "link": "https://nitter.net/CAPUFE/status/2082624538387394854#m",
+      "date": "2026-07-30T00:29:17+00:00"
+    },
+    {
+      "id": "13291202ed04",
+      "account": "@GN_carreteras",
+      "type": "fire",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 130.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Oaxaca continua cierre parcial de circulación por #Incendio cerca del km 130+800, de la carretera Cuacnopalan-Oaxaca, a la altura del Mpio. de San Mateo Tlapiltepec, con dirección a Oaxaca. Atienda indicación vial. #TomePrecauciones en #Oaxaca continua cierr",
+      "link": "https://nitter.net/GN_Carreteras/status/2082623420504613059#m",
+      "date": "2026-07-30T00:24:51+00:00"
+    },
+    {
+      "id": "6dfc4a2b8743",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 77.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 77, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 77, dirección Querétaro. El accidente ha sido atendido. En la zona se re",
+      "link": "https://nitter.net/CAPUFE/status/2082618031708983426#m",
+      "date": "2026-07-30T00:03:26+00:00"
+    },
+    {
+      "id": "97a6e18ff935",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 70.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIE",
+      "link": "https://nitter.net/CAPUFE/status/2082615954979070004#m",
+      "date": "2026-07-29T23:55:11+00:00"
+    },
     {
       "id": "a408815e1b3e",
       "account": "@capufe",
@@ -73,7 +143,7 @@
       "date": "2026-07-29T23:19:30+00:00"
     },
     {
-      "id": "313ad16e3b00",
+      "id": "c12cb8ccfbee",
       "account": "@capufe",
       "type": "accident",
       "highway": "?",
@@ -82,7 +152,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más informa",
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más i",
       "link": "https://nitter.net/CAPUFE/status/2082602548188586257#m",
       "date": "2026-07-29T23:01:55+00:00"
     },
@@ -325,20 +395,6 @@
       "date": "2026-07-29T21:38:48+00:00"
     },
     {
-      "id": "0cbfa19fab41",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 125.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 125. Cierre a la circulación en ambos sentidos por atención de accidente (choque de frente). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 125. Cierr",
-      "link": "https://nitter.net/CAPUFE/status/2082578630798930159#m",
-      "date": "2026-07-29T21:26:52+00:00"
-    },
-    {
       "id": "c1d1f662f941",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -353,20 +409,6 @@
       "date": "2026-07-29T21:23:57+00:00"
     },
     {
-      "id": "138edc4b3320",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 70.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentra laborando en el lugar. P",
-      "link": "https://nitter.net/CAPUFE/status/2082576451212116055#m",
-      "date": "2026-07-29T21:18:13+00:00"
-    },
-    {
       "id": "b3fbc033600a",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -379,20 +421,6 @@
       "text": "#EviteLaZona en #Morelos se libera la circulación en su totalidad con dirección a Cd. Méx., continua cierre total de circulación por conclusión de maniobras tras #AccidenteVial cerca del km. 069+700 de la autopista México-Cuernavaca, con dirección a Cuernavaca. #EviteLaZona en #M",
       "link": "https://nitter.net/GN_Carreteras/status/2082570740574933033#m",
       "date": "2026-07-29T20:55:31+00:00"
-    },
-    {
-      "id": "9528c16ee0a9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 50.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 50, dirección Puente de Ixtla. Reducción de carriles por atención de accidente (tracto camión siniestrado). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 50,",
-      "link": "https://nitter.net/CAPUFE/status/2082569051054780637#m",
-      "date": "2026-07-29T20:48:48+00:00"
     },
     {
       "id": "c12af117d42f",
@@ -451,20 +479,6 @@
       "date": "2026-07-29T19:55:23+00:00"
     },
     {
-      "id": "3418ecad53b3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 70.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentra laborando en el lugar. P",
-      "link": "https://nitter.net/CAPUFE/status/2082553316957991353#m",
-      "date": "2026-07-29T19:46:17+00:00"
-    },
-    {
       "id": "13b7f85972ad",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,48 +491,6 @@
       "text": "#TomePrecauciones en #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km. 127+200 de la autopista Uruapan-Lázaro cárdenas. Atienda indicación vial. #TomePrecauciones en #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km",
       "link": "https://nitter.net/GN_Carreteras/status/2082552172059754838#m",
       "date": "2026-07-29T19:41:44+00:00"
-    },
-    {
-      "id": "38785114d07e",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 246.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Oaxaca tras retiro de personas, cerca del km. 246+100 de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. Santo Domingo Tehuantepec, Oax. Maneje con precaución. #VialidadLibre en #Oaxaca tras retiro de personas, cerca del km. 246+100 de la carretera Oaxac",
-      "link": "https://nitter.net/GN_Carreteras/status/2082547003620254102#m",
-      "date": "2026-07-29T19:21:12+00:00"
-    },
-    {
-      "id": "56a4bed71d9b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 86.0,
-      "lat": 19.08695,
-      "lon": -98.28695,
-      "resolved": true,
-      "text": "#VialidadLibre en #Puebla tras accidente cerca del km. 086+100 de la carretera Amozoc-Teziutlán, maneje con precaución. #VialidadLibre en #Puebla tras accidente cerca del km. 086+100 de la carretera Amozoc-Teziutlán, maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2082545812194705584#m",
-      "date": "2026-07-29T19:16:28+00:00"
-    },
-    {
-      "id": "23a2e7588694",
-      "account": "@capufe",
-      "type": "rollover",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 70.0,
-      "lat": 20.192,
-      "lon": -99.536,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Reducción de carriles por atención de volcadura de tracto camión. En la zona se registra derrame de líquido. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/ffUHNWVAq29",
-      "link": "https://nitter.net/CAPUFE/status/2082366661886120243#m",
-      "date": "2026-07-29T07:24:35+00:00"
     }
   ]
 }
