@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-31T18:02:43.674593+00:00",
-  "count": 36,
+  "updated": "2026-07-31T18:57:29.181580+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "983591fb6d20",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 228.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN🔴 Autopista Acatzingo - Cd. Mendoza, km 228, dirección Acatzingo. Registra cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/ieULszew3aBptcGX8 🔴 CIERRE DE CIRCULACIÓN🔴 Autopist",
+      "link": "https://nitter.net/CAPUFE/status/2083260916208906318#m",
+      "date": "2026-07-31T18:38:02+00:00"
+    },
+    {
+      "id": "9f10c66d1193",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 127.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, KM 127, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , KM 127, dirección Querétaro. Reducción de carriles po",
+      "link": "https://nitter.net/CAPUFE/status/2083259866907303971#m",
+      "date": "2026-07-31T18:33:52+00:00"
+    },
+    {
+      "id": "d6795ddc0050",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 13.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Tabasco tras accidente cerca del km. 013+500 de la carretera Villahermosa-Escopetazo. Maneje con precaución. #VialidadLibre en #Tabasco tras accidente cerca del km. 013+500 de la carretera Villahermosa-Escopetazo. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2083259755015831683#m",
+      "date": "2026-07-31T18:33:25+00:00"
+    },
+    {
+      "id": "923b4abfddcd",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 67.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#PrecauciónVial en #Sonora se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 067+600, de la carretera Ciudad Obregón- Hermosillo, a la altura de El Ejido Pitahaya, Son. Atienda indicación vial. #PrecauciónVial en #Sonora se registra cierre parcial de l",
+      "link": "https://nitter.net/GN_Carreteras/status/2083259265909764171#m",
+      "date": "2026-07-31T18:31:28+00:00"
+    },
     {
       "id": "91d5799150a4",
       "account": "@capufe",
@@ -311,20 +367,6 @@
       "date": "2026-07-31T16:12:20+00:00"
     },
     {
-      "id": "4f0afd8144b1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 63.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 63, dirección Cuernavaca. Reducción de carriles por atención de accidente (volcadura de automóvil). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , k",
-      "link": "https://nitter.net/CAPUFE/status/2083220157552283861#m",
-      "date": "2026-07-31T15:56:04+00:00"
-    },
-    {
       "id": "fd19af00badf",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,20 +533,6 @@
       "text": "#TomePrecauciones en #Chihuahua continua cierre parcial de circulación por #AccidenteVial cerca del km. 127+500 de la carretera Cd. Juárez-Janos, con dirección a Janos, a inmediaciones del Rancho La Lilas. Atienda indicación vial. #TomePrecauciones en #Chihuahua continua cierre p",
       "link": "https://nitter.net/GN_Carreteras/status/2083055382386053621#m",
       "date": "2026-07-31T05:01:19+00:00"
-    },
-    {
-      "id": "3f15687916c6",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 148.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Michoacan tras accidente cerca del km. 148+500 de la carretera Uruapan-Lázaro Cárdenas, con dirección a Morelia, a inmediaciones de la localidad Nueva Italia de Ruiz. Maneje con precaución. #VialidadLibre en #Michoacan tras accidente cerca del km. 148+500 de la",
-      "link": "https://nitter.net/GN_Carreteras/status/2083031144941994381#m",
-      "date": "2026-07-31T03:25:00+00:00"
     }
   ]
 }
