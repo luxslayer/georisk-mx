@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-31T22:49:30.908164+00:00",
-  "count": 32,
+  "updated": "2026-07-31T23:23:17.526198+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "157d5a860304",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Acapulco",
+      "route_key": "mexico-acapulco",
+      "km": 95.0,
+      "lat": 18.584,
+      "lon": -99.234,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 95, dirección Querétaro. Reducción de carriles por atención de accidente (salida del camino y volcadura de camión de carga). En la zona se registra carga vehicular y #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "link": "https://nitter.net/CAPUFE/status/2083332586659881412#m",
+      "date": "2026-07-31T23:22:49+00:00"
+    },
+    {
+      "id": "39dcede0c549",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 242.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Aut. Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. El accidente ha sido atendido, por lo que se restablece la circulación desde la Plaza de Cobro Esperanza. En la zona se registra carga vehicular intensa. Atiende las indicaciones viales y maneja con ",
+      "link": "https://nitter.net/CAPUFE/status/2083331837452054813#m",
+      "date": "2026-07-31T23:19:51+00:00"
+    },
+    {
+      "id": "88b050eca0b8",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 41.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 41. El accidente ha sido atendido. Se restablece la circulación en ambos sentidos en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 41. El accidente ha s",
+      "link": "https://nitter.net/CAPUFE/status/2083331424644411543#m",
+      "date": "2026-07-31T23:18:12+00:00"
+    },
+    {
+      "id": "bfcb07a31331",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 242.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Continúa circulación intermitente por atención del accidente (labores de limpieza). 🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Esperanza, permanece con reducción de car",
+      "link": "https://nitter.net/CAPUFE/status/2083328141456445496#m",
+      "date": "2026-07-31T23:05:09+00:00"
+    },
     {
       "id": "6260c60d1062",
       "account": "@capufe",
@@ -213,20 +269,6 @@
       "date": "2026-07-31T20:58:15+00:00"
     },
     {
-      "id": "8d28444fd84a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 242.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Buenas tardes, Autopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Continúa circulación con cierres intermitentes por atención de accidente (labores de limpieza). 🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Esperanza",
-      "link": "https://nitter.net/CAPUFE/status/2083294048283152867#m",
-      "date": "2026-07-31T20:49:41+00:00"
-    },
-    {
       "id": "f6405ec9fc9a",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -239,20 +281,6 @@
       "text": "#VialidadLibre en #Puebla tras accidente cerca del km. 007+300, de la carretera Puebla-Huajuapan de León. Maneje con precaución. #VialidadLibre en #Puebla tras accidente cerca del km. 007+300, de la carretera Puebla-Huajuapan de León. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2083293718904189404#m",
       "date": "2026-07-31T20:48:22+00:00"
-    },
-    {
-      "id": "eb10cf3a5ce6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 78.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 78, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de camioneta). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 78, ",
-      "link": "https://nitter.net/CAPUFE/status/2083293632379892142#m",
-      "date": "2026-07-31T20:48:02+00:00"
     },
     {
       "id": "1e0ee16b5418",
