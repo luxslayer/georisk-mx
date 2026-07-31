@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-31T10:24:44.049829+00:00",
+  "updated": "2026-07-31T11:19:15.997996+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "deba23429ad2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 90.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Cuernavaca, km 90, dirección Acapulco. Cierre a la circulación en la gasa de salida hacia Av. Plan de Ayala por atención de accidente (salida del camino). Toma tus precauciones. 🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Cuernavaca, km 90, direcci",
+      "link": "https://nitter.net/CAPUFE/status/2083147181733597608#m",
+      "date": "2026-07-31T11:06:05+00:00"
+    },
     {
       "id": "3f8518a611f0",
       "account": "@capufe",
@@ -309,20 +323,6 @@
       "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 126, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣. ☑️ ACTUALIZACIÓN. #AutMé",
       "link": "https://nitter.net/CAPUFE/status/2083061637473251689#m",
       "date": "2026-07-31T05:26:10+00:00"
-    },
-    {
-      "id": "30fad9c064d1",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 19 al 27. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca , registra #lluvia del km 19 al 27. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2083060044048781419#m",
-      "date": "2026-07-31T05:19:50+00:00"
     },
     {
       "id": "67afb1da8bb0",
