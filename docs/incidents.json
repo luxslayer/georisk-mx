@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-01T15:49:31.305740+00:00",
+  "updated": "2026-08-01T16:22:53.423435+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "ef62884720d1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 117.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 117+200, de la carretera Poza Rica - Veracruz, a inmediaciones del Mpio. de Vega de a La Torre, con dirección a Poza Rica. Atienda indicación vial. #TomePrecauciones en #V",
+      "link": "https://nitter.net/GN_Carreteras/status/2083587421740978313#m",
+      "date": "2026-08-01T16:15:27+00:00"
+    },
+    {
+      "id": "96a1aed4be9d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 179.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre intermitente de la circulación tras #AccidenteVial cerca del km 179+800, de la carretera Tuxpan - Tampico, a inmediaciones del Mpio. de Tampico Alto, con dirección a Tuxpan. Atienda indicación vial. #TomePrecauciones en #Veracruz ",
+      "link": "https://nitter.net/GN_Carreteras/status/2083586985919218050#m",
+      "date": "2026-08-01T16:13:43+00:00"
+    },
+    {
+      "id": "7cd45e80728a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 199.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 199+000, de la carr. Atlacomulco - Maravatío, a inmediaciones del Mpio. San Miguel Las Palomas, con dirección a la plaza de cobro de Zinapécuaro. Atienda indicación vial.",
+      "link": "https://nitter.net/GN_Carreteras/status/2083582103229259786#m",
+      "date": "2026-08-01T15:54:19+00:00"
+    },
+    {
+      "id": "04374dbc8e1e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 134.0,
+      "lat": 17.975491,
+      "lon": -94.889564,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 134, dirección Isla. Reducción de carriles por atención de accidente (choque de costado y volcadura). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 134, dirección Isla. Reducc",
+      "link": "https://nitter.net/CAPUFE/status/2083581610780209268#m",
+      "date": "2026-08-01T15:52:21+00:00"
+    },
     {
       "id": "6d37793ca7d3",
       "account": "@GN_carreteras",
@@ -381,20 +437,6 @@
       "date": "2026-08-01T06:59:05+00:00"
     },
     {
-      "id": "ddc3d43497da",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 94.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 94, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 94, dirección Acapulco. El accidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2083441540127424922#m",
-      "date": "2026-08-01T06:35:46+00:00"
-    },
-    {
       "id": "ae73861a90a3",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,48 +533,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 127+100, de la carretera La Tinaja-Cosoleacaque, a la altura de la localidad La Unión, Ver., con dirección a Cosoleacaque, Ver. Atienda indicación vial. #TomePrecauciones ",
       "link": "https://nitter.net/GN_Carreteras/status/2083407655603753105#m",
       "date": "2026-08-01T04:21:07+00:00"
-    },
-    {
-      "id": "39c15d1f18d8",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 32.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 032+400, de la carretera Pátzcuaro-Morelia, a la altura del municipio Pátzcuaro, Mich., con direccion a Morelia, Mich. Atienda indicación vial. #TomePrecauciones en #Mich",
-      "link": "https://nitter.net/GN_Carreteras/status/2083366394880479638#m",
-      "date": "2026-08-01T01:37:10+00:00"
-    },
-    {
-      "id": "3d9b830273cd",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 100.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de la circulacion tras #AccidenteVial cerca del km 100+550, de la carretera Tehuacán-Huajuapan de León, con dirección a Huajuapan de León, Oax. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra cierre parcial",
-      "link": "https://nitter.net/GN_Carreteras/status/2083364870846587234#m",
-      "date": "2026-08-01T01:31:06+00:00"
-    },
-    {
-      "id": "7e5aa06ee417",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 315.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Chihuahua se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 315+000, de la carretera Chihuahua-Ciudad Juárez. Atienda indicación vial. #TomePrecauciones en #Chihuahua se registra cierre parcial de la circulación tras #AccidenteVia",
-      "link": "https://nitter.net/GN_Carreteras/status/2083360919879373216#m",
-      "date": "2026-08-01T01:15:24+00:00"
     }
   ]
 }
