@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-01T14:33:06.083215+00:00",
-  "count": 39,
+  "updated": "2026-08-01T15:25:00.977919+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "2b7ce8cd1167",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 172.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guadalajara se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 172+500, de la carretera Lagos de Moreno-Guadalajara, a inmediaciones del municipio Guadalajara, con dirección a Guadalajara. Atienda indicación vial. #TomePrecauciones",
+      "link": "https://nitter.net/GN_Carreteras/status/2083573276228387047#m",
+      "date": "2026-08-01T15:19:14+00:00"
+    },
     {
       "id": "dceb24639d81",
       "account": "@capufe",
@@ -339,20 +353,6 @@
       "date": "2026-08-01T06:35:46+00:00"
     },
     {
-      "id": "22b69114180b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 94.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 94, dirección Acapulco. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 9",
-      "link": "https://nitter.net/CAPUFE/status/2083439811201835101#m",
-      "date": "2026-08-01T06:28:54+00:00"
-    },
-    {
       "id": "ae73861a90a3",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -533,20 +533,6 @@
       "text": "#VialidadLibre en #Puebla tras accidente cerca del km. 165+000, de la carretera Puebla-Córdoba. Maneje con precaución. #VialidadLibre en #Puebla tras accidente cerca del km. 165+000, de la carretera Puebla-Córdoba. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2083343792250196343#m",
       "date": "2026-08-01T00:07:21+00:00"
-    },
-    {
-      "id": "51c7fe6d1a4b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 7.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#PrecauciónVial en #Tabasco se registra cierre parcial de la circulación tras accidente cerca del km 007+000 de la carretera Coatzacoalcos-Villahermosa, a la altura de la Plaza de Cobro No. 176 Sánchez Magallanes, Tab., con dirección a Villahermosa, Tab. Atienda indicación vial. ",
-      "link": "https://nitter.net/GN_Carreteras/status/2083312397251445117#m",
-      "date": "2026-07-31T22:02:36+00:00"
     }
   ]
 }
