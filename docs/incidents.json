@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-01T23:21:09.403684+00:00",
+  "updated": "2026-08-01T23:48:54.840577+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "50dcd2a45035",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 1.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 001+500, de la carretera Xalapa-Veracruz, a la altura de el Mpio. de Geovillas, con dirección a Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se regist",
+      "link": "https://nitter.net/GN_Carreteras/status/2083700841148522999#m",
+      "date": "2026-08-01T23:46:08+00:00"
+    },
+    {
+      "id": "bd588ee9d57c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 138.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 138+800, de la carretera Poza Rica-Veracruz, a la altura de el Mpio. de Vega de Alatorre. Maneje con precaución. #VíaLibre en #Veracruz tras #AccidenteVial cerca del km 138+800, de la carretera Poza Rica-Veracruz, a la altur",
+      "link": "https://nitter.net/GN_Carreteras/status/2083699408151969884#m",
+      "date": "2026-08-01T23:40:26+00:00"
+    },
+    {
+      "id": "d939a7510fb4",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 199.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 199+000, de la carr. Atlacomulco - Maravatío, a inmediaciones del Mpio. San Miguel Las Palomas. Maneje con precaución. #VíaLibre en #Michoacán tras #AccidenteVial cerca del km 199+000, de la carr. Atlacomulco - Maravatío, a",
+      "link": "https://nitter.net/GN_Carreteras/status/2083698602103181421#m",
+      "date": "2026-08-01T23:37:14+00:00"
+    },
     {
       "id": "89df84487515",
       "account": "@capufe",
@@ -491,48 +533,6 @@
       "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 177+500, de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. de San Pedro Totolapa, con dirección a Oaxaca. Atienda indicación vial. #TomePrecauciones en #Oaxaca se re",
       "link": "https://nitter.net/GN_Carreteras/status/2083606372613058738#m",
       "date": "2026-08-01T17:30:45+00:00"
-    },
-    {
-      "id": "6a89b1483cc1",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 132.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #SLP se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 132+300, de la carretera Matehuala-San Luis Potosí, a la altura de la localidad de Vallejos, con dirección a San Luis Potosí. Atienda indicación vial. #TomePrecauciones en #SLP",
-      "link": "https://nitter.net/GN_Carreteras/status/2083605105073340577#m",
-      "date": "2026-08-01T17:25:43+00:00"
-    },
-    {
-      "id": "6c9a139ae4a1",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 18.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Coahuila se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 018+077, de la carretera Libramiento Norponiente, a inmediaciones del Mpio. de Saltillo, con dirección a Saltillo. Atienda indicación vial. #TomePrecauciones en #Coahuila ",
-      "link": "https://nitter.net/GN_Carreteras/status/2083593380840300803#m",
-      "date": "2026-08-01T16:39:07+00:00"
-    },
-    {
-      "id": "a325e73ac291",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 9.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 009+500, de la carretera Xalapa- Veracruz, a inmediaciones del Mpio. de Tres Pasos, con dirección a Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se re",
-      "link": "https://nitter.net/GN_Carreteras/status/2083591962666344523#m",
-      "date": "2026-08-01T16:33:29+00:00"
     }
   ]
 }
