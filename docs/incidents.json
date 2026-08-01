@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-01T19:57:28.888583+00:00",
+  "updated": "2026-08-01T20:23:33.902348+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "f8556eee734f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 138.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 138+800, de la carretera Poza Rica-Veracruz, a la altura de el Mpio. de Vega de Alatorre, con dirección a Poza Rica. Atienda indicación vial. #TomePrecauciones en #Veracru",
+      "link": "https://nitter.net/GN_Carreteras/status/2083645375722725390#m",
+      "date": "2026-08-01T20:05:44+00:00"
+    },
+    {
+      "id": "7219dc93a666",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 171.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 171+000, de la carretera Ent. La Tinaja-Cosoleacaque, a la altura de el Mpio. de Sayula de Alemán, con dirección a Acayucan. Atienda indicación vial. #TomePrecauciones en ",
+      "link": "https://nitter.net/GN_Carreteras/status/2083644200944357537#m",
+      "date": "2026-08-01T20:01:04+00:00"
+    },
     {
       "id": "bcab544e0029",
       "account": "@GN_carreteras",
@@ -491,34 +519,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 116. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 116. El accidente ha sido atendid",
       "link": "https://nitter.net/CAPUFE/status/2083549381299409209#m",
       "date": "2026-08-01T13:44:17+00:00"
-    },
-    {
-      "id": "b55dca6cafd3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 60.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 060+100, de la carretera Pátzcuaro-Uruapan, con dirección a Uruapan, Mich. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre parcial de la circu",
-      "link": "https://nitter.net/GN_Carreteras/status/2083544010795155705#m",
-      "date": "2026-08-01T13:22:57+00:00"
-    },
-    {
-      "id": "6c16c4111ff1",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 118.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 118+600, de la carretera Las Choapas-Ocozocoautla, con dirección a Ocozocoautla, Chis. Atienda indicación vial. #TomePrecauciones en #Chiapas se registra cierre parcial de ",
-      "link": "https://nitter.net/GN_Carreteras/status/2083530462501159045#m",
-      "date": "2026-08-01T12:29:07+00:00"
     }
   ]
 }
