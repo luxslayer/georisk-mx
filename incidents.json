@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-01T12:50:38.366297+00:00",
+  "updated": "2026-08-01T13:32:17.341438+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "b55dca6cafd3",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 60.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 060+100, de la carretera Pátzcuaro-Uruapan, con dirección a Uruapan, Mich. Atienda indicación vial. #TomePrecauciones en #Michoacán se registra cierre parcial de la circu",
+      "link": "https://nitter.net/GN_Carreteras/status/2083544010795155705#m",
+      "date": "2026-08-01T13:22:57+00:00"
+    },
+    {
+      "id": "14227083e0aa",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 63.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 63, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca",
+      "link": "https://nitter.net/CAPUFE/status/2083543888392753276#m",
+      "date": "2026-08-01T13:22:28+00:00"
+    },
     {
       "id": "6c16c4111ff1",
       "account": "@GN_carreteras",
@@ -353,20 +381,6 @@
       "date": "2026-08-01T05:36:03+00:00"
     },
     {
-      "id": "86d5f371a7e9",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 177.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 177, dirección Acatzingo. Reducción de carriles por atención de incidente (desenganche de remolque). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista ",
-      "link": "https://nitter.net/CAPUFE/status/2083424661581226028#m",
-      "date": "2026-08-01T05:28:42+00:00"
-    },
-    {
       "id": "0521c76fbe94",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -519,20 +533,6 @@
       "text": "#PrecauciónVial en #Tabasco se registra cierre parcial de la circulación tras accidente cerca del km 007+000 de la carretera Coatzacoalcos-Villahermosa, a la altura de la Plaza de Cobro No. 176 Sánchez Magallanes, Tab., con dirección a Villahermosa, Tab. Atienda indicación vial. ",
       "link": "https://nitter.net/GN_Carreteras/status/2083312397251445117#m",
       "date": "2026-07-31T22:02:36+00:00"
-    },
-    {
-      "id": "d46c56d73097",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 33.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Nayarit se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 033+700, de la carretera Jala-Compostela, a la altura del municipio Compostela, Nay., con dirección a Compostela, Nay. Atienda indicación vial. #TomePrecauciones en #Nayari",
-      "link": "https://nitter.net/GN_Carreteras/status/2083306842789122469#m",
-      "date": "2026-07-31T21:40:31+00:00"
     }
   ]
 }
