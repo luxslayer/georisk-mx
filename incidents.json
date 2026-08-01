@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-01T16:22:53.423435+00:00",
+  "updated": "2026-08-01T16:49:10.281301+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "6c9a139ae4a1",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 18.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Coahuila se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 018+077, de la carretera Libramiento Norponiente, a inmediaciones del Mpio. de Saltillo, con dirección a Saltillo. Atienda indicación vial. #TomePrecauciones en #Coahuila ",
+      "link": "https://nitter.net/GN_Carreteras/status/2083593380840300803#m",
+      "date": "2026-08-01T16:39:07+00:00"
+    },
+    {
+      "id": "a325e73ac291",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 9.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 009+500, de la carretera Xalapa- Veracruz, a inmediaciones del Mpio. de Tres Pasos, con dirección a Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se re",
+      "link": "https://nitter.net/GN_Carreteras/status/2083591962666344523#m",
+      "date": "2026-08-01T16:33:29+00:00"
+    },
     {
       "id": "ef62884720d1",
       "account": "@GN_carreteras",
@@ -505,34 +533,6 @@
       "text": "#VialidadLibre en #Michoacán tras accidente cerca del km. 093+100, de la carretera Uruapan-Lázaro Cárdenas. Maneje con precaución. #VialidadLibre en #Michoacán tras accidente cerca del km. 093+100, de la carretera Uruapan-Lázaro Cárdenas. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2083420005647999062#m",
       "date": "2026-08-01T05:10:12+00:00"
-    },
-    {
-      "id": "b3f36190ced7",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 167.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 167+300, de la carretera Tuxtla Gutiérrez-Ciudad Cuauhtémoc, a la altura de le Comitán de Domínguez, Chis. Atienda indicación vial. #TomePrecauciones en #Chiapas se registr",
-      "link": "https://nitter.net/GN_Carreteras/status/2083415075554033738#m",
-      "date": "2026-08-01T04:50:36+00:00"
-    },
-    {
-      "id": "7b9cdb86d044",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 127.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 127+100, de la carretera La Tinaja-Cosoleacaque, a la altura de la localidad La Unión, Ver., con dirección a Cosoleacaque, Ver. Atienda indicación vial. #TomePrecauciones ",
-      "link": "https://nitter.net/GN_Carreteras/status/2083407655603753105#m",
-      "date": "2026-08-01T04:21:07+00:00"
     }
   ]
 }
