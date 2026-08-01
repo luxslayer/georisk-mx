@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-01T21:48:21.777902+00:00",
+  "updated": "2026-08-01T22:20:35.295825+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "a7dfcc536196",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 21.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tlaxacala se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 021+100, de la carretera Los Reyes-Zacatepec, a inmediaciones del Mpio. de Cuapiaxtla, con dirección a Zacatepec. Atienda indicación vial. #TomePrecauciones en #Tlaxacala",
+      "link": "https://nitter.net/GN_Carreteras/status/2083678597059850257#m",
+      "date": "2026-08-01T22:17:45+00:00"
+    },
+    {
+      "id": "bb44f9d1938e",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 1.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #EdoMex se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 001+180, de la carretera Peñon-Texcoco, a inmediaciones del Mpio. de Texcoco, con dirección a Texcoco. Atienda indicación vial. #TomePrecauciones en #EdoMex se registra cier",
+      "link": "https://nitter.net/GN_Carreteras/status/2083675826495619322#m",
+      "date": "2026-08-01T22:06:44+00:00"
+    },
     {
       "id": "8f64a9e33e54",
       "account": "@capufe",
@@ -507,20 +535,6 @@
       "date": "2026-08-01T16:13:43+00:00"
     },
     {
-      "id": "7cd45e80728a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 199.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 199+000, de la carr. Atlacomulco - Maravatío, a inmediaciones del Mpio. San Miguel Las Palomas, con dirección a la plaza de cobro de Zinapécuaro. Atienda indicación vial.",
-      "link": "https://nitter.net/GN_Carreteras/status/2083582103229259786#m",
-      "date": "2026-08-01T15:54:19+00:00"
-    },
-    {
       "id": "04374dbc8e1e",
       "account": "@capufe",
       "type": "accident",
@@ -533,20 +547,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 134, dirección Isla. Reducción de carriles por atención de accidente (choque de costado y volcadura). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 134, dirección Isla. Reducc",
       "link": "https://nitter.net/CAPUFE/status/2083581610780209268#m",
       "date": "2026-08-01T15:52:21+00:00"
-    },
-    {
-      "id": "6d37793ca7d3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 201.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Yucatán se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 201+600, de la carr. Kantunil-Pto. Juárez (Ent. Carr. Reforma Agraria-Pto. Juárez), a la altura del Poblado Santa Cruz, con dirección a Kantunil. Atienda indicación vial. #",
-      "link": "https://nitter.net/GN_Carreteras/status/2083580152810729531#m",
-      "date": "2026-08-01T15:46:34+00:00"
     }
   ]
 }
