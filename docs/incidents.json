@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-02T10:08:47.058114+00:00",
-  "count": 37,
+  "updated": "2026-08-02T11:01:29.088454+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "e4e07157df36",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 115.0,
+      "lat": 17.916794,
+      "lon": -99.595206,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 115, dirección Acapulco. Continúa reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 1",
+      "link": "https://nitter.net/CAPUFE/status/2083866166515163550#m",
+      "date": "2026-08-02T10:43:05+00:00"
+    },
+    {
+      "id": "aff7d305c1a6",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 177.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 177, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance entre automóvil y autobús). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco,",
+      "link": "https://nitter.net/CAPUFE/status/2083865859265638422#m",
+      "date": "2026-08-02T10:41:51+00:00"
+    },
     {
       "id": "0c4f47f905fe",
       "account": "@GN_carreteras",
@@ -365,20 +393,6 @@
       "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 045+500, de la carretera Los Reyes-Zacatepec, a inmediaciones de la localidad de La Venta, con dirección a Calpulalpan. Atienda indicación vial. #TomePrecauciones en #Tlax",
       "link": "https://nitter.net/GN_Carreteras/status/2083773703737765906#m",
       "date": "2026-08-02T04:35:40+00:00"
-    },
-    {
-      "id": "553337819e93",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 48, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino de tracto camión y choque contra barreras metálicas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km",
-      "link": "https://nitter.net/CAPUFE/status/2083773342998261849#m",
-      "date": "2026-08-02T04:34:14+00:00"
     },
     {
       "id": "46c0e3bb93ce",
