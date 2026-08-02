@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-02T17:49:31.921615+00:00",
-  "count": 34,
+  "updated": "2026-08-02T18:23:38.226060+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "d69d51655023",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 11.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 011+600, de la carretera Cordoba - Ent. Boticaria, a la altura del Mpio. de Amatlán de los Reyes, con dirección a Cordoba. Atienda indicación vial. #TomePrecauciones en #V",
+      "link": "https://nitter.net/GN_Carreteras/status/2083979130668827060#m",
+      "date": "2026-08-02T18:11:57+00:00"
+    },
+    {
+      "id": "eb2c2d746f10",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 60.0,
+      "lat": 18.166,
+      "lon": -94.582,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 60, dirección La Tinaja. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). ➡ Dirección Isla, continúa reducción de carriles. Toma tus precauciones. Para más info",
+      "link": "https://nitter.net/CAPUFE/status/2083974822652989501#m",
+      "date": "2026-08-02T17:54:50+00:00"
+    },
     {
       "id": "ebe95d262d84",
       "account": "@capufe",
@@ -463,20 +491,6 @@
       "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 031+000, de la carretera Los Reyes-Zacatepec, a inmediaciones de la localidad de Santa Inés, con dirección a Cd. Mex. Atienda indicación vial. #TomePrecauciones en #EdoMéx s",
       "link": "https://nitter.net/GN_Carreteras/status/2083752385302708530#m",
       "date": "2026-08-02T03:10:57+00:00"
-    },
-    {
-      "id": "30b51fe99901",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 134.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 134+700, de la carretera Apizaco-Huamantla, a la altura de el Mpio. de Lázaro Cárdenas, con dirección a Huamantla. Atienda indicación vial. #TomePrecauciones en #Tlaxcala ",
-      "link": "https://nitter.net/GN_Carreteras/status/2083748779044299236#m",
-      "date": "2026-08-02T02:56:37+00:00"
     }
   ]
 }
