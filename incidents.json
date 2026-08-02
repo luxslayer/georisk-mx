@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-02T17:23:25.907446+00:00",
+  "updated": "2026-08-02T17:49:31.921615+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "ebe95d262d84",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 113.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 113, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 113, dirección Querétaro. El accidente ha sido atendido. En la zona se ",
+      "link": "https://nitter.net/CAPUFE/status/2083973225550102778#m",
+      "date": "2026-08-02T17:48:29+00:00"
+    },
+    {
+      "id": "a61412e109b0",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 31.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 031+500, de la carretera Tampico-Cd. Mante, a la altura del Mpio. de Altamira, con dirección a Altamira. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se reg",
+      "link": "https://nitter.net/GN_Carreteras/status/2083968003650072689#m",
+      "date": "2026-08-02T17:27:44+00:00"
+    },
     {
       "id": "68d9c6aa11c1",
       "account": "@capufe",
@@ -269,20 +297,6 @@
       "date": "2026-08-02T12:31:27+00:00"
     },
     {
-      "id": "4e4747f777df",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 12.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Poniente Tampico, km 12. Circulación intermitente en ambos sentidos por atención de accidente (choque de costado entre automóviles). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramient",
-      "link": "https://nitter.net/CAPUFE/status/2083882697420579121#m",
-      "date": "2026-08-02T11:48:46+00:00"
-    },
-    {
       "id": "0c4f47f905fe",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -463,20 +477,6 @@
       "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 134+700, de la carretera Apizaco-Huamantla, a la altura de el Mpio. de Lázaro Cárdenas, con dirección a Huamantla. Atienda indicación vial. #TomePrecauciones en #Tlaxcala ",
       "link": "https://nitter.net/GN_Carreteras/status/2083748779044299236#m",
       "date": "2026-08-02T02:56:37+00:00"
-    },
-    {
-      "id": "db202393be4d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 15.0,
-      "lat": 19.37065,
-      "lon": -99.2958,
-      "resolved": true,
-      "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 015+300, de la carretera Puebla-Tehuacán, a la altura de el Mpio. de Acajete. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km 015+300, de la carretera Puebla-Tehuacán, a la altura de el Mpio. de Ac",
-      "link": "https://nitter.net/GN_Carreteras/status/2083748229812789412#m",
-      "date": "2026-08-02T02:54:26+00:00"
     }
   ]
 }
