@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-02T22:20:42.999532+00:00",
+  "updated": "2026-08-02T22:48:24.999960+00:00",
   "count": 30,
   "incidents": [
+    {
+      "id": "89e1e6199ea9",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 157.0,
+      "lat": 20.53812,
+      "lon": -100.218,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 157+700, de la carretera Tulancingo - Tihuatlán, a inmediaciones del Mpio. Xicotepec de Juárez, con dirección a Cd. Méx. Atienda indicación vial. #TomePrecauciones en #Puebl",
+      "link": "https://nitter.net/GN_Carreteras/status/2084048139892428925#m",
+      "date": "2026-08-02T22:46:10+00:00"
+    },
     {
       "id": "fec0d23f9975",
       "account": "@capufe",
@@ -253,20 +267,6 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 113, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). En la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. ",
       "link": "https://nitter.net/CAPUFE/status/2083958480612811134#m",
       "date": "2026-08-02T16:49:54+00:00"
-    },
-    {
-      "id": "5d08ce0c8243",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 17.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Nuevo Teapa - Cosoleacaque, km 17. El incidente ha sido atendido. Sin embargo, continúa la circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja co",
-      "link": "https://nitter.net/CAPUFE/status/2083954394094018917#m",
-      "date": "2026-08-02T16:33:40+00:00"
     },
     {
       "id": "bad38de92c96",
