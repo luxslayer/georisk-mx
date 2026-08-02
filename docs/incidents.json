@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-02T20:24:46.473417+00:00",
-  "count": 34,
+  "updated": "2026-08-02T20:48:25.111502+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "ce46f184e920",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 27.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 27, dirección Veracruz. Reducción de carriles por atención de accidente (salida del camino de motociclista). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 27, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2084015550431154400#m",
+      "date": "2026-08-02T20:36:41+00:00"
+    },
     {
       "id": "f3865c40007f",
       "account": "@capufe",
@@ -241,20 +255,6 @@
       "date": "2026-08-02T15:03:56+00:00"
     },
     {
-      "id": "b57172cca9bb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 136.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 136, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 136, dirección Querétaro. El accidente ha s",
-      "link": "https://nitter.net/CAPUFE/status/2083930102325297599#m",
-      "date": "2026-08-02T14:57:08+00:00"
-    },
-    {
       "id": "bad38de92c96",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,20 +267,6 @@
       "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 136+200, de la carretera México-Querétaro, a inmediaciones de la localidad de San Martín Tuchicuitlapilco, con dirección a Querétaro. Atienda indicación vial. #TomePrecaucio",
       "link": "https://nitter.net/GN_Carreteras/status/2083928336812679308#m",
       "date": "2026-08-02T14:50:07+00:00"
-    },
-    {
-      "id": "d1c0b47b6d7c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 32.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 32, dirección CDMX. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 32, dirección CDMX. Continúa reducció",
-      "link": "https://nitter.net/CAPUFE/status/2083921456065348092#m",
-      "date": "2026-08-02T14:22:47+00:00"
     },
     {
       "id": "d7d7041f262c",
