@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-02T19:28:03.773378+00:00",
+  "updated": "2026-08-02T19:57:35.413270+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "dd7b6f065dd6",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 2.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Colima se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 002+500, de la carretera Libre Manzanillo - Colima, a la altura del Mpio. de La Salada, con dirección a Tecolapa. Atienda indicación vial. #TomePrecauciones en #Colima se re",
+      "link": "https://nitter.net/GN_Carreteras/status/2084001354322780295#m",
+      "date": "2026-08-02T19:40:16+00:00"
+    },
     {
       "id": "68994a3b9ff7",
       "account": "@capufe",
@@ -449,20 +463,6 @@
       "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 045+800, de la carretera México-Querétaro, a inmediaciones del Mpio. de Tepotzotlán, con dirección a Querétaro. Atienda indicación vial. #TomePrecauciones en #EdoMéx se regi",
       "link": "https://nitter.net/GN_Carreteras/status/2083754610372550705#m",
       "date": "2026-08-02T03:19:48+00:00"
-    },
-    {
-      "id": "6972a3e813c9",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 31.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 031+000, de la carretera Los Reyes-Zacatepec, a inmediaciones de la localidad de Santa Inés, con dirección a Cd. Mex. Atienda indicación vial. #TomePrecauciones en #EdoMéx s",
-      "link": "https://nitter.net/GN_Carreteras/status/2083752385302708530#m",
-      "date": "2026-08-02T03:10:57+00:00"
     }
   ]
 }
