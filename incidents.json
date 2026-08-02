@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-02T00:42:57.294660+00:00",
+  "updated": "2026-08-02T01:37:20.063677+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "de98894e7e81",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 16.0,
+      "lat": 18.029067,
+      "lon": -94.8532,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 16, dirección Cosoleacaque. Continúa reducción de carriles por incidente fuera de la cobertura de CAPUFE. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 16, dir",
+      "link": "https://nitter.net/CAPUFE/status/2083719841265893712#m",
+      "date": "2026-08-02T01:01:38+00:00"
+    },
+    {
+      "id": "db7e9f5913e8",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 15.0,
+      "lat": 19.37065,
+      "lon": -99.2958,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 015+300, de la carretera Puebla-Tehuacán, a la altura de el Mpio. de Acajete, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierr",
+      "link": "https://nitter.net/GN_Carreteras/status/2083718639555846338#m",
+      "date": "2026-08-02T00:56:51+00:00"
+    },
+    {
+      "id": "d77833d48990",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 187.0,
+      "lat": 18.884,
+      "lon": -96.923,
+      "resolved": true,
+      "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 187+200, de la carretera Puebla-Córdoba (directo), a la altura de el Mpio. de Quecholac. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km 187+200, de la carretera Puebla-Córdoba (directo), a la altu",
+      "link": "https://nitter.net/GN_Carreteras/status/2083717409085465039#m",
+      "date": "2026-08-02T00:51:58+00:00"
+    },
+    {
+      "id": "8e983d3e56d8",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 141.0,
+      "lat": 19.048,
+      "lon": -97.87,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 141+800, de la carretera Puebla-Córdova, a la altura de el Mpio. de Amozoc, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre ",
+      "link": "https://nitter.net/GN_Carreteras/status/2083715836515172449#m",
+      "date": "2026-08-02T00:45:43+00:00"
+    },
     {
       "id": "f037f2e4dcf5",
       "account": "@GN_carreteras",
@@ -353,34 +409,6 @@
       "date": "2026-08-01T20:05:44+00:00"
     },
     {
-      "id": "7219dc93a666",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 171.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 171+000, de la carretera Ent. La Tinaja-Cosoleacaque, a la altura de el Mpio. de Sayula de Alemán, con dirección a Acayucan. Atienda indicación vial. #TomePrecauciones en ",
-      "link": "https://nitter.net/GN_Carreteras/status/2083644200944357537#m",
-      "date": "2026-08-01T20:01:04+00:00"
-    },
-    {
-      "id": "bcab544e0029",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 117.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 117+200, de la carretera Poza Rica - Veracruz, a inmediaciones del Mpio. de Vega de a La Torre. Maneje con precaución. #VíaLibre en #Veracruz tras #AccidenteVial cerca del km 117+200, de la carretera Poza Rica - Veracruz, a ",
-      "link": "https://nitter.net/GN_Carreteras/status/2083643234987712645#m",
-      "date": "2026-08-01T19:57:14+00:00"
-    },
-    {
       "id": "8f017148605c",
       "account": "@capufe",
       "type": "accident",
@@ -393,20 +421,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 78, dirección Isla. Continúa reducción de carriles por atención de accidente (incendio de camión de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 78, dirección Isla.",
       "link": "https://nitter.net/CAPUFE/status/2083643182227628525#m",
       "date": "2026-08-01T19:57:01+00:00"
-    },
-    {
-      "id": "82943a422f3a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 77.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Vaeracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 077+500, de la carretera Ent. La Tinaja-Cosoleacaque (directo), a la altura de el Mpio. de Cosamaloapan, con dirección a Ent. La Tinaja. Atienda indicación vial. #TomePre",
-      "link": "https://nitter.net/GN_Carreteras/status/2083642438418083963#m",
-      "date": "2026-08-01T19:54:04+00:00"
     },
     {
       "id": "5e44bb08732b",
@@ -519,20 +533,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 78, dirección Isla. Reducción de carriles por atención de accidente (incendio de camión de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 78, dirección Isla. Reducció",
       "link": "https://nitter.net/CAPUFE/status/2083612677226557655#m",
       "date": "2026-08-01T17:55:48+00:00"
-    },
-    {
-      "id": "f5b7b26dba79",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 171.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 171, dirección Acayucan. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 171, dirección Acayucan. R",
-      "link": "https://nitter.net/CAPUFE/status/2083607678765420880#m",
-      "date": "2026-08-01T17:35:56+00:00"
     }
   ]
 }
