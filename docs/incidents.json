@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-02T18:49:33.512066+00:00",
+  "updated": "2026-08-02T19:28:03.773378+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "68994a3b9ff7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 60.0,
+      "lat": 18.166,
+      "lon": -94.582,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 60, dirección La Tinaja. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 60, dirección La Tinaja. El accidente ha sido atendido. En ",
+      "link": "https://nitter.net/CAPUFE/status/2083991267592020464#m",
+      "date": "2026-08-02T19:00:11+00:00"
+    },
     {
       "id": "575404a0eacf",
       "account": "@capufe",
@@ -239,20 +253,6 @@
       "text": "#TomePrecauciones en #CdMéx se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 031+830, de la carretera México-Cuernavaca (directo), a inmediaciones de la localidad de San Miguel Topilejo, con dirección a Cd. Méx. Atienda indicación vial. #TomePrecaucio",
       "link": "https://nitter.net/GN_Carreteras/status/2083921288326787322#m",
       "date": "2026-08-02T14:22:07+00:00"
-    },
-    {
-      "id": "109d083dbc54",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 113.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 113, dirección Querétaro. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 113, dirección Querétaro. Continúa r",
-      "link": "https://nitter.net/CAPUFE/status/2083914827559223751#m",
-      "date": "2026-08-02T13:56:26+00:00"
     },
     {
       "id": "c5a43a57a777",
