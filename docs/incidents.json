@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-02T16:48:57.228317+00:00",
+  "updated": "2026-08-02T17:23:25.907446+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "68d9c6aa11c1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 113.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 113, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). En la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. ",
+      "link": "https://nitter.net/CAPUFE/status/2083958480612811134#m",
+      "date": "2026-08-02T16:49:54+00:00"
+    },
     {
       "id": "5d08ce0c8243",
       "account": "@capufe",
@@ -267,20 +281,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Poniente Tampico, km 12. Circulación intermitente en ambos sentidos por atención de accidente (choque de costado entre automóviles). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramient",
       "link": "https://nitter.net/CAPUFE/status/2083882697420579121#m",
       "date": "2026-08-02T11:48:46+00:00"
-    },
-    {
-      "id": "0db2db199d27",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 113.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 113, dirección Querétaro. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 113, dirección Querétaro. Continúa r",
-      "link": "https://nitter.net/CAPUFE/status/2083876897914532349#m",
-      "date": "2026-08-02T11:25:43+00:00"
     },
     {
       "id": "0c4f47f905fe",
