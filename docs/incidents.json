@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-03T23:24:55.195087+00:00",
+  "updated": "2026-08-03T23:52:19.567501+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "205abb8fa14e",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 99.0,
+      "lat": 18.200446,
+      "lon": -99.534274,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 99 al 98, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 99 al ",
+      "link": "https://nitter.net/CAPUFE/status/2084423044861231519#m",
+      "date": "2026-08-03T23:35:55+00:00"
+    },
     {
       "id": "028aa413a1cd",
       "account": "@GN_carreteras",
@@ -309,20 +323,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 264. Reducción de carriles en ambos sentidos por atención de incidente (caída de carga). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - ",
       "link": "https://nitter.net/CAPUFE/status/2084374225658241327#m",
       "date": "2026-08-03T20:21:55+00:00"
-    },
-    {
-      "id": "c8c52eea01e3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 37.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Querétaro - Irapuato, km 37, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Querétaro - Irapuato, km 37, dirección Querétaro. El accidente ha sido atend",
-      "link": "https://nitter.net/CAPUFE/status/2084371931248185380#m",
-      "date": "2026-08-03T20:12:48+00:00"
     },
     {
       "id": "3e04221ba239",
