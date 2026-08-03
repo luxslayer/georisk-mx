@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-03T13:27:56.793026+00:00",
+  "updated": "2026-08-03T14:22:58.544406+00:00",
   "count": 34,
   "incidents": [
+    {
+      "id": "493936952c19",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 47.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Querétaro se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 047+800, de la carretera Macrolibramiento-Querétaro, a la altura del Mpio. de El Salitrillo, con dirección a Apaseo el Grande. Atienda indicación vial. #TomePrecauciones e",
+      "link": "https://nitter.net/GN_Carreteras/status/2084277217878536278#m",
+      "date": "2026-08-03T13:56:27+00:00"
+    },
+    {
+      "id": "43cdbef169d5",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 95.0,
+      "lat": 18.271359,
+      "lon": -99.519041,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 95. Carga vehicular en dirección Acapulco, sin reporte de incidente. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 95. Carga vehicular en dirección Acapulco, sin reporte de incidente. Maneja ",
+      "link": "https://nitter.net/CAPUFE/status/2084276770136617098#m",
+      "date": "2026-08-03T13:54:40+00:00"
+    },
+    {
+      "id": "2bc5ba11b7e6",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 284.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 284+000, de la carr. Ventosa - Tehuantepec, a la altura del Mpio. Tehuantepec, con dirección a Tehuantepec. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra ",
+      "link": "https://nitter.net/GN_Carreteras/status/2084272614608863423#m",
+      "date": "2026-08-03T13:38:09+00:00"
+    },
+    {
+      "id": "9db36b31b44d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 36.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 36, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 36, dirección Cuernavaca. Reducció",
+      "link": "https://nitter.net/CAPUFE/status/2084271690217922585#m",
+      "date": "2026-08-03T13:34:29+00:00"
+    },
+    {
+      "id": "38acfc7dc605",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 0.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #EdoMéx se registra cierre intermitente a la circulación tras #AccidenteVial cerca del km 000+000, de la carr. Guadalajara-Atlacomulco, a inmediaciones de la localidad de La Palma, con dirección a Atlacomulco. Atienda indicación vial. #TomePrecauciones en #Ed",
+      "link": "https://nitter.net/GN_Carreteras/status/2084270938984427844#m",
+      "date": "2026-08-03T13:31:30+00:00"
+    },
     {
       "id": "3b8211a8241c",
       "account": "@capufe",
@@ -297,20 +367,6 @@
       "date": "2026-08-03T04:42:58+00:00"
     },
     {
-      "id": "ddbd49f5f091",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 88.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 88, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 88, dirección Isla. Red",
-      "link": "https://nitter.net/CAPUFE/status/2084136747999314030#m",
-      "date": "2026-08-03T04:38:16+00:00"
-    },
-    {
       "id": "e679e20da612",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -421,62 +477,6 @@
       "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 157+700, de la carretera Tulancingo - Tihuatlán, a inmediaciones del Mpio. Xicotepec de Juárez. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km 157+700, de la carretera Tulancingo - Tihuatlán, a in",
       "link": "https://nitter.net/GN_Carreteras/status/2084066768377840122#m",
       "date": "2026-08-03T00:00:12+00:00"
-    },
-    {
-      "id": "68447dbf2895",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 267.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 267+200, de la carretera Maravatío - Zapotlanejo, a la altura del Mpio. de Tanimireche, con dirección a Atlacomulco. Atienda indicación vial. #TomePrecauciones en #Michoac",
-      "link": "https://nitter.net/GN_Carreteras/status/2084066129417556415#m",
-      "date": "2026-08-02T23:57:39+00:00"
-    },
-    {
-      "id": "283655f384fa",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 92.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 092+500, de la carretera Nautla-Totomoxtle , a la altura del Mpio. de Isla de Chapachapa, con dirección a Poza Rica. Atienda indicación vial. #TomePrecauciones en #Veracruz",
-      "link": "https://nitter.net/GN_Carreteras/status/2084063946286547028#m",
-      "date": "2026-08-02T23:48:59+00:00"
-    },
-    {
-      "id": "12b5b080c40a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 93.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Hidalgo tras #AccidenteVial cerca del km 093+000, de la carretera Pachuca - Tuxpan, a la altura del Mpio. de Santa María el Chico. Maneje con precaución. #VíaLibre en #Hidalgo tras #AccidenteVial cerca del km 093+000, de la carretera Pachuca - Tuxpan, a la altura de",
-      "link": "https://nitter.net/GN_Carreteras/status/2084062192295432481#m",
-      "date": "2026-08-02T23:42:01+00:00"
-    },
-    {
-      "id": "873ed1304a77",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 245.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial en la circulación tras #AccidenteVial cerca del km 245+800, de la carretera Pachuca - Tuxpan, a la altura del Mpio. de Tuxpan, con dirección a Tuxpan. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cie",
-      "link": "https://nitter.net/GN_Carreteras/status/2084061912740790341#m",
-      "date": "2026-08-02T23:40:54+00:00"
     }
   ]
 }
