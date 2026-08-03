@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-03T07:42:10.222169+00:00",
+  "updated": "2026-08-03T09:11:39.535805+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "2fcdcef2b3b7",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 11.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 011+800, de la carretera Tehuacán-Córdoba, a la altura del Mpio. de Santa Ana, con dirección a Tehuacán. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cie",
+      "link": "https://nitter.net/GN_Carreteras/status/2084201803839848878#m",
+      "date": "2026-08-03T08:56:47+00:00"
+    },
+    {
+      "id": "2b18a2fba490",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 88.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 88, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 88, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2084190079245861210#m",
+      "date": "2026-08-03T08:10:11+00:00"
+    },
     {
       "id": "03be89cf301c",
       "account": "@GN_carreteras",
@@ -325,20 +353,6 @@
       "date": "2026-08-03T02:58:48+00:00"
     },
     {
-      "id": "e881e5f8f793",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 98.0,
-      "lat": 18.218174,
-      "lon": -99.530466,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernav",
-      "link": "https://nitter.net/CAPUFE/status/2084110870401982668#m",
-      "date": "2026-08-03T02:55:27+00:00"
-    },
-    {
       "id": "93dacde6f8c4",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,20 +491,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial en la circulación tras #AccidenteVial cerca del km 245+800, de la carretera Pachuca - Tuxpan, a la altura del Mpio. de Tuxpan, con dirección a Tuxpan. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cie",
       "link": "https://nitter.net/GN_Carreteras/status/2084061912740790341#m",
       "date": "2026-08-02T23:40:54+00:00"
-    },
-    {
-      "id": "8cf3e2ee3c3a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 153.0,
-      "lat": 20.53348,
-      "lon": -100.202,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Querétaro se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 153+200, de la carretera México - Querétaro, a la altura de Portezuelo Palmillas, con direccion a Huichapan. Atienda indicación vial. #TomePrecauciones en #Querétaro se r",
-      "link": "https://nitter.net/GN_Carreteras/status/2084054601603396018#m",
-      "date": "2026-08-02T23:11:51+00:00"
     }
   ]
 }
