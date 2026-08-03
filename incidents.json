@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-03T16:22:15.796470+00:00",
-  "count": 36,
+  "updated": "2026-08-03T17:15:08.706891+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "66369fb50e39",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 163.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 163. Continúa circulación en contraflujo, por labores de mantenimiento sobre Puente El Carrizo. Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatl",
+      "link": "https://nitter.net/CAPUFE/status/2084319639736115389#m",
+      "date": "2026-08-03T16:45:01+00:00"
+    },
+    {
+      "id": "ce0696cec9ac",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Aut. Tehuacán - Oaxaca, km 19. Circulación intermitente en ambos sentidos por labores de mantenimiento. En la zona ase registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Aut. Teh",
+      "link": "https://nitter.net/CAPUFE/status/2084316029736337425#m",
+      "date": "2026-08-03T16:30:40+00:00"
+    },
     {
       "id": "5d025945f2bb",
       "account": "@capufe",
@@ -281,20 +309,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 88, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 88, dirección Isla. El incidente ha ",
       "link": "https://nitter.net/CAPUFE/status/2084253049392885800#m",
       "date": "2026-08-03T12:20:25+00:00"
-    },
-    {
-      "id": "d7b918d51af3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 94.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 94, dirección Veracruz. Reducción de carriles por atención de accidente (choque contra semoviente). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 94, dirección Veracruz.",
-      "link": "https://nitter.net/CAPUFE/status/2084225791781392755#m",
-      "date": "2026-08-03T10:32:06+00:00"
     },
     {
       "id": "2fcdcef2b3b7",
