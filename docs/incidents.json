@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-03T20:49:42.039884+00:00",
-  "count": 36,
+  "updated": "2026-08-03T21:26:47.963354+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "cff0f2f3fab2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 264.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 264, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (labores de limpieza). 🔘Dirección Córdoba, opera de manera normal. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE ",
+      "link": "https://nitter.net/CAPUFE/status/2084390536857653572#m",
+      "date": "2026-08-03T21:26:44+00:00"
+    },
+    {
+      "id": "b49523288537",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Zac–Durango",
+      "route_key": "zacatecas-durango",
+      "km": 25.0,
+      "lat": 22.928858,
+      "lon": -102.756867,
+      "resolved": true,
+      "text": "#Tomeprecaciones en #Durango se registra cierre parcial de la circulación tras #AccidenteVial cerca del Km 025+500 de la carretera Zacatecas - Durango a la altura de la localidad El Ancón, Dgo. Atienda indicación vial. #Tomeprecaciones en #Durango se registra cierre parcial de la",
+      "link": "https://nitter.net/GN_Carreteras/status/2084386530932543603#m",
+      "date": "2026-08-03T21:10:49+00:00"
+    },
+    {
+      "id": "ba856f022ed8",
+      "account": "@capufe",
+      "type": "roadwork",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 54, dirección CDMX. Concluyen labores de mantenimiento, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 5",
+      "link": "https://nitter.net/CAPUFE/status/2084385835319808430#m",
+      "date": "2026-08-03T21:08:03+00:00"
+    },
     {
       "id": "2d62c4a6ee6c",
       "account": "@capufe",
@@ -283,20 +325,6 @@
       "date": "2026-08-03T16:30:40+00:00"
     },
     {
-      "id": "5d025945f2bb",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 43.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, km 43, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro , km 43, dirección CDMX. Re",
-      "link": "https://nitter.net/CAPUFE/status/2084312732250087866#m",
-      "date": "2026-08-03T16:17:34+00:00"
-    },
-    {
       "id": "1d2fb4e8eea0",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -491,20 +519,6 @@
       "text": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 245+800, de la carretera Pachuca - Tuxpan, a la altura del Mpio. de Tuxpan. Maneje con precaución. #VíaLibre en #Veracruz tras #AccidenteVial cerca del km 245+800, de la carretera Pachuca - Tuxpan, a la altura del Mpio. de T",
       "link": "https://nitter.net/GN_Carreteras/status/2084119013928612096#m",
       "date": "2026-08-03T03:27:48+00:00"
-    },
-    {
-      "id": "93dacde6f8c4",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 267.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 267+200, de la carretera Maravatío - Zapotlanejo, a la altura del Mpio. de Tanimireche. Maneje con precaución. #VíaLibre en #Michoacán tras #AccidenteVial cerca del km 267+200, de la carretera Maravatío - Zapotlanejo, a la ",
-      "link": "https://nitter.net/GN_Carreteras/status/2084093943852179724#m",
-      "date": "2026-08-03T01:48:11+00:00"
     }
   ]
 }
