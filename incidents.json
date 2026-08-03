@@ -1,7 +1,91 @@
 {
-  "updated": "2026-08-03T01:38:53.910314+00:00",
-  "count": 34,
+  "updated": "2026-08-03T03:08:24.829994+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "b9e8fe0a8f6a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 217.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Magdalena - Nogales, km 217, dirección Nogales. Cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Au",
+      "link": "https://nitter.net/CAPUFE/status/2084111713926820056#m",
+      "date": "2026-08-03T02:58:48+00:00"
+    },
+    {
+      "id": "e881e5f8f793",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 98.0,
+      "lat": 18.218174,
+      "lon": -99.530466,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernav",
+      "link": "https://nitter.net/CAPUFE/status/2084110870401982668#m",
+      "date": "2026-08-03T02:55:27+00:00"
+    },
+    {
+      "id": "dc7e2c2d770a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 153.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 153, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 153, dirección CDMX. El accidente ha sido atendido. En la zona se re",
+      "link": "https://nitter.net/CAPUFE/status/2084106557420196062#m",
+      "date": "2026-08-03T02:38:18+00:00"
+    },
+    {
+      "id": "6c5e88cf9d7b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 43.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Plan de Ayala - El Porvenir, km 43, dirección Saltillo. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista",
+      "link": "https://nitter.net/CAPUFE/status/2084098371975798792#m",
+      "date": "2026-08-03T02:05:47+00:00"
+    },
+    {
+      "id": "93dacde6f8c4",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 267.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 267+200, de la carretera Maravatío - Zapotlanejo, a la altura del Mpio. de Tanimireche. Maneje con precaución. #VíaLibre en #Michoacán tras #AccidenteVial cerca del km 267+200, de la carretera Maravatío - Zapotlanejo, a la ",
+      "link": "https://nitter.net/GN_Carreteras/status/2084093943852179724#m",
+      "date": "2026-08-03T01:48:11+00:00"
+    },
+    {
+      "id": "e16e9b33d611",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 92.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VÍaLibre en #Veracruz tras #AccidenteVial cerca del km 092+500, de la carretera Nautla-Totomoxtle , a la altura del Mpio. de Isla de Chapachapa. Maneje con precaución. #VÍaLibre en #Veracruz tras #AccidenteVial cerca del km 092+500, de la carretera Nautla-Totomoxtle , a la altur",
+      "link": "https://nitter.net/GN_Carreteras/status/2084093314060398618#m",
+      "date": "2026-08-03T01:45:41+00:00"
+    },
     {
       "id": "e9517acffc4a",
       "account": "@capufe",
@@ -101,20 +185,6 @@
       "date": "2026-08-03T00:50:18+00:00"
     },
     {
-      "id": "f55fb5831356",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 145.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 145, dirección Puebla. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARC",
-      "link": "https://nitter.net/CAPUFE/status/2084077421997797620#m",
-      "date": "2026-08-03T00:42:32+00:00"
-    },
-    {
       "id": "c6b4ea906204",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -127,20 +197,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 215+000, de la carretera Puebla-Orizaba, a la altura del Mpio. de Esperanza, con dirección a Orizaba. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre",
       "link": "https://nitter.net/GN_Carreteras/status/2084076925220512036#m",
       "date": "2026-08-03T00:40:33+00:00"
-    },
-    {
-      "id": "23eb61398b2e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 43.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Plan de Ayala - El Porvenir, km 43, dirección Saltillo. Reducción de carriles por atención de accidente (choque por alcance entre tracto camión y camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Plan de Aya",
-      "link": "https://nitter.net/CAPUFE/status/2084076245092856229#m",
-      "date": "2026-08-03T00:37:51+00:00"
     },
     {
       "id": "e0a1cfb186ae",
@@ -157,48 +213,6 @@
       "date": "2026-08-03T00:33:32+00:00"
     },
     {
-      "id": "b0eee348db77",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 153.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 153, dirección CDMX. Reducción de carriles por atención de accidente (caída de motociclista). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 153, d",
-      "link": "https://nitter.net/CAPUFE/status/2084074810242453541#m",
-      "date": "2026-08-03T00:32:09+00:00"
-    },
-    {
-      "id": "301a7a64a59f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 205.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 205, dirección Magdalena. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 205, dirección Magdale",
-      "link": "https://nitter.net/CAPUFE/status/2084074312785392032#m",
-      "date": "2026-08-03T00:30:11+00:00"
-    },
-    {
-      "id": "818009903bc0",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 50.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro, registra #lluvia ligera del km 50 al 68. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro , registra #lluvia ligera del km 50 al 68. Disminuye tu velocidad y maneja con preca",
-      "link": "https://nitter.net/CAPUFE/status/2084072590620917804#m",
-      "date": "2026-08-03T00:23:20+00:00"
-    },
-    {
       "id": "ed3564873a16",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -211,20 +225,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 144+820, de la carretera Puebla - Córdoba, a la altura de la localidad de Puebla, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla se registra c",
       "link": "https://nitter.net/GN_Carreteras/status/2084072021139529898#m",
       "date": "2026-08-03T00:21:04+00:00"
-    },
-    {
-      "id": "e7d4dc3d105d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Puebla–Acatzingo",
-      "route_key": "puebla-acatzingo",
-      "km": 145.0,
-      "lat": 18.948,
-      "lon": -97.45,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 145, dirección Puebla. Reducción de carriles por atención de accidente (choque por alcance entre tracto camión y vagoneta). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCUL",
-      "link": "https://nitter.net/CAPUFE/status/2084070436145344704#m",
-      "date": "2026-08-03T00:14:46+00:00"
     },
     {
       "id": "f61cca52de44",
@@ -267,20 +267,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 092+500, de la carretera Nautla-Totomoxtle , a la altura del Mpio. de Isla de Chapachapa, con dirección a Poza Rica. Atienda indicación vial. #TomePrecauciones en #Veracruz",
       "link": "https://nitter.net/GN_Carreteras/status/2084063946286547028#m",
       "date": "2026-08-02T23:48:59+00:00"
-    },
-    {
-      "id": "760103e77b38",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 214.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 214, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 214, dirección ",
-      "link": "https://nitter.net/CAPUFE/status/2084063881249390967#m",
-      "date": "2026-08-02T23:48:43+00:00"
     },
     {
       "id": "12b5b080c40a",
@@ -449,34 +435,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 011+600, de la carretera Cordoba - Ent. Boticaria, a la altura del Mpio. de Amatlán de los Reyes, con dirección a Cordoba. Atienda indicación vial. #TomePrecauciones en #V",
       "link": "https://nitter.net/GN_Carreteras/status/2083979130668827060#m",
       "date": "2026-08-02T18:11:57+00:00"
-    },
-    {
-      "id": "a61412e109b0",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 31.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 031+500, de la carretera Tampico-Cd. Mante, a la altura del Mpio. de Altamira, con dirección a Altamira. Atienda indicación vial. #TomePrecauciones en #Tamaulipas se reg",
-      "link": "https://nitter.net/GN_Carreteras/status/2083968003650072689#m",
-      "date": "2026-08-02T17:27:44+00:00"
-    },
-    {
-      "id": "bad38de92c96",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 136.0,
-      "lat": 20.4824,
-      "lon": -100.0976,
-      "resolved": true,
-      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 136+200, de la carretera México-Querétaro, a inmediaciones de la localidad de San Martín Tuchicuitlapilco, con dirección a Querétaro. Atienda indicación vial. #TomePrecaucio",
-      "link": "https://nitter.net/GN_Carreteras/status/2083928336812679308#m",
-      "date": "2026-08-02T14:50:07+00:00"
     }
   ]
 }
