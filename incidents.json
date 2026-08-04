@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-04T00:40:58.200632+00:00",
-  "count": 35,
+  "updated": "2026-08-04T01:37:37.994108+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "aa1746ce96f6",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 96.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Puebla continua cierre total de circulación por presencia de personas cerca del Km 096+200 de la carretera Puebla-Tehuacán. Se orienta a la ciudadanía #Rutaalterna por la carretera Tecamachalco-Cañada Morelos, con dirección Tehuacán. Atienda Indicación vial.",
+      "link": "https://nitter.net/GN_Carreteras/status/2084446992584134910#m",
+      "date": "2026-08-04T01:11:04+00:00"
+    },
+    {
+      "id": "67eae77c353a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 80.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Guerrero tras cierre parcial de circulación por #Accidente Vial cerca del Km 080+000 de la carretera Zihuatanejo-La Mira. Mneje con precaución. #ViaLibre en #Guerrero tras cierre parcial de circulación por #Accidente Vial cerca del Km 080+000 de la carretera Zihuata",
+      "link": "https://nitter.net/GN_Carreteras/status/2084446061243015454#m",
+      "date": "2026-08-04T01:07:22+00:00"
+    },
+    {
+      "id": "17541a6c7c2e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 91.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista Córdoba - Veracruz, km 91, dirección Córdoba. Reducción de carriles por atención de accidente (salida del camino y volcadura de camioneta). Maneja con precaución. 🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista Córdoba - Veracruz, km 91, direcc",
+      "link": "https://nitter.net/CAPUFE/status/2084445421414572364#m",
+      "date": "2026-08-04T01:04:50+00:00"
+    },
     {
       "id": "512449ba0d5d",
       "account": "@GN_carreteras",
@@ -283,34 +325,6 @@
       "date": "2026-08-03T21:53:19+00:00"
     },
     {
-      "id": "e0512651b7ee",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 281.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba, km 281, dirección Cd. Mendoza. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mend",
-      "link": "https://nitter.net/CAPUFE/status/2084392825110626479#m",
-      "date": "2026-08-03T21:35:50+00:00"
-    },
-    {
-      "id": "8b26a288e894",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 264.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 264, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (labores de limpieza). 🔘 Dirección Córdoba, opera de manera normal. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE",
-      "link": "https://nitter.net/CAPUFE/status/2084390669729042485#m",
-      "date": "2026-08-03T21:27:16+00:00"
-    },
-    {
       "id": "b49523288537",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -463,34 +477,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 057+500, de la carretera Tuxpan-Tampico, a inmediaciones de la localidad de La Ceiba, a la altura del Mpio. de Cerro Azul, con dirección a Tampico. Atienda indicación vial.",
       "link": "https://nitter.net/GN_Carreteras/status/2084180071640920108#m",
       "date": "2026-08-03T07:30:25+00:00"
-    },
-    {
-      "id": "9a839a988bd4",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 143.0,
-      "lat": 19.048,
-      "lon": -97.87,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 143+800, de la carretera Puebla - Ent. Carr. Puebla, a la altura del Mpio. de Amozoc, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla se registr",
-      "link": "https://nitter.net/GN_Carreteras/status/2084152914126287152#m",
-      "date": "2026-08-03T05:42:31+00:00"
-    },
-    {
-      "id": "f039d8d85087",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 32.0,
-      "lat": 19.243333,
-      "lon": -98.704,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 032+100, de la carretera Ent. (Aut. México-Puebla)- Ocotoxco, a la altura del Mpio. de Santa María Atlihuetzian, con dirección a Tlaxcala. Atienda indicación vial. #TomePre",
-      "link": "https://nitter.net/GN_Carreteras/status/2084151696779845954#m",
-      "date": "2026-08-03T05:37:40+00:00"
     }
   ]
 }
