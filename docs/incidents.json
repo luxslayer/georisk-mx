@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-04T12:13:16.589955+00:00",
-  "count": 35,
+  "updated": "2026-08-04T13:09:41.181465+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "f148a1d98285",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 162.0,
+      "lat": 17.083567,
+      "lon": -99.774193,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 162, dirección Acapulco. Reducción de carriles por atención de incidente (unidad con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 162, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2084623628419653907#m",
+      "date": "2026-08-04T12:52:58+00:00"
+    },
+    {
+      "id": "a3214af73f93",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 298.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 298, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 298, dirección",
+      "link": "https://nitter.net/CAPUFE/status/2084621717377282459#m",
+      "date": "2026-08-04T12:45:22+00:00"
+    },
     {
       "id": "14a977ca4f74",
       "account": "@GN_carreteras",
@@ -267,20 +295,6 @@
       "text": "#ViaLibre en #Tamaulipas tras cierre total de circulación por presencia de personas cerca del Km 011+600 de la carretera Matamoros-Reynosa. Maneje con precaución. #ViaLibre en #Tamaulipas tras cierre total de circulación por presencia de personas cerca del Km 011+600 de la carret",
       "link": "https://nitter.net/GN_Carreteras/status/2084522237982327135#m",
       "date": "2026-08-04T06:10:04+00:00"
-    },
-    {
-      "id": "80e2775c1bf1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 35.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Cosoleacaque, km 35, dirección Isla. Se restablece la circulación de manera intermitente. El personal continúa laborando en la atención del accidente (maniobras para retiro de unidad siniestrada). En la zona se registra carga veh",
-      "link": "https://nitter.net/CAPUFE/status/2084509497024762266#m",
-      "date": "2026-08-04T05:19:27+00:00"
     },
     {
       "id": "6420cf11f2ff",
