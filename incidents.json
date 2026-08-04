@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-04T04:34:48.410879+00:00",
-  "count": 33,
+  "updated": "2026-08-04T05:59:57.332865+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "80e2775c1bf1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 35.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Cosoleacaque, km 35, dirección Isla. Se restablece la circulación de manera intermitente. El personal continúa laborando en la atención del accidente (maniobras para retiro de unidad siniestrada). En la zona se registra carga veh",
+      "link": "https://nitter.net/CAPUFE/status/2084509497024762266#m",
+      "date": "2026-08-04T05:19:27+00:00"
+    },
+    {
+      "id": "6420cf11f2ff",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 96.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Puebla tras cierre total de circulación por presencia de personas cerca del Km 096+200 de la carretera Puebla-Tehuacán. Maneje con precaución. #ViaLibre en #Puebla tras cierre total de circulación por presencia de personas cerca del Km 096+200 de la carretera Puebla",
+      "link": "https://nitter.net/GN_Carreteras/status/2084507687191036318#m",
+      "date": "2026-08-04T05:12:15+00:00"
+    },
+    {
+      "id": "e5d28c1cc841",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 35.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Cosoleacaque, km 35, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista ",
+      "link": "https://nitter.net/CAPUFE/status/2084501021313675519#m",
+      "date": "2026-08-04T04:45:46+00:00"
+    },
     {
       "id": "6be61f90a089",
       "account": "@capufe",
@@ -449,20 +491,6 @@
       "text": "#TomePrecauciones en #Querétaro se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 047+800, de la carretera Macrolibramiento-Querétaro, a la altura del Mpio. de El Salitrillo, con dirección a Apaseo el Grande. Atienda indicación vial. #TomePrecauciones e",
       "link": "https://nitter.net/GN_Carreteras/status/2084277217878536278#m",
       "date": "2026-08-03T13:56:27+00:00"
-    },
-    {
-      "id": "2bc5ba11b7e6",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 284.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Oaxaca se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 284+000, de la carr. Ventosa - Tehuantepec, a la altura del Mpio. Tehuantepec, con dirección a Tehuantepec. Atienda indicación vial. #TomePrecauciones en #Oaxaca se registra ",
-      "link": "https://nitter.net/GN_Carreteras/status/2084272614608863423#m",
-      "date": "2026-08-03T13:38:09+00:00"
     }
   ]
 }
