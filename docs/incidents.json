@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-04T20:55:08.053770+00:00",
-  "count": 40,
+  "updated": "2026-08-04T21:29:05.505023+00:00",
+  "count": 41,
   "incidents": [
+    {
+      "id": "e88e20c70e0e",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, registra #lluvia y #vientos fuertes del km 19 al 24. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca , registra #lluvia y #vientos fuertes del km 19 al 24. Disminuye tu ve",
+      "link": "https://nitter.net/CAPUFE/status/2084750632544616732#m",
+      "date": "2026-08-04T21:17:38+00:00"
+    },
+    {
+      "id": "14121194c79f",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 73.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca , registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
+      "link": "https://nitter.net/CAPUFE/status/2084748342169391114#m",
+      "date": "2026-08-04T21:08:32+00:00"
+    },
     {
       "id": "09ac9761402d",
       "account": "@capufe",
@@ -337,20 +365,6 @@
       "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del Km 005+300, de la carretera Pachuca - Tuxpan, a inmediaciones del Mpio. de Zihuateutla. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del Km 005+300, de la carretera Pachuca - Tuxpan, a inmediaciones del M",
       "link": "https://nitter.net/GN_Carreteras/status/2084700260195016865#m",
       "date": "2026-08-04T17:57:28+00:00"
-    },
-    {
-      "id": "66af17b5457c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 129.0,
-      "lat": 17.982036,
-      "lon": -94.883745,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Aut. Isla - Acayucan, km 129, dirección Acayucan. El accidente ha sido atendido. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Aut. Isla -",
-      "link": "https://nitter.net/CAPUFE/status/2084697817294008485#m",
-      "date": "2026-08-04T17:47:46+00:00"
     },
     {
       "id": "10f42a513f4f",
