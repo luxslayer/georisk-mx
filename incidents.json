@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-04T10:22:04.492509+00:00",
-  "count": 36,
+  "updated": "2026-08-04T11:18:26.106173+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "c155f4aad3bf",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 94.0,
+      "lat": 29.5864,
+      "lon": -106.3644,
+      "resolved": true,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Obregón - Guaymas, km 94, dirección Guaymas. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️. ",
+      "link": "https://nitter.net/CAPUFE/status/2084596143590093114#m",
+      "date": "2026-08-04T11:03:45+00:00"
+    },
+    {
+      "id": "a1fd688b2f50",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Hidalgo se registra cierre parcial de circulación tras #AccidenteVial cerca del Km 016+800 de la autopista Libramiento Norte. Atienda indicación vial. #Tomeprecauciones en #Hidalgo se registra cierre parcial de circulación tras #AccidenteVial cerca del Km 01",
+      "link": "https://nitter.net/GN_Carreteras/status/2084595282075947012#m",
+      "date": "2026-08-04T11:00:19+00:00"
+    },
+    {
+      "id": "1eea61daff8c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 91.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Tlaxcala se registra cierre total de circulación tras #AccidenteVial cerca del Km 091+500 de la carretera Los Reyes-Zacatepec. Atienda Indicación Vial. #Tomeprecauciones en #Tlaxcala se registra cierre total de circulación tras #AccidenteVial cerca del Km 09",
+      "link": "https://nitter.net/GN_Carreteras/status/2084594194597679267#m",
+      "date": "2026-08-04T10:56:00+00:00"
+    },
     {
       "id": "7ce7eca0272d",
       "account": "@capufe",
@@ -85,20 +127,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87, dirección Isla. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión tipo pipa). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87",
       "link": "https://nitter.net/CAPUFE/status/2084553259138568595#m",
       "date": "2026-08-04T08:13:20+00:00"
-    },
-    {
-      "id": "202e1ff2d35d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 94.0,
-      "lat": 29.5864,
-      "lon": -106.3644,
-      "resolved": true,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cd. Obregón - Guaymas, km 94, dirección Guaymas. Se informa a las personas usuarias que se registra circulación a contraflujo. El personal continúa laborando en la atención del accidente (atención de lesionados). Toma tus precauciones. Pa",
-      "link": "https://nitter.net/CAPUFE/status/2084546882018136526#m",
-      "date": "2026-08-04T07:48:00+00:00"
     },
     {
       "id": "e0d6cc550b3f",
@@ -253,20 +281,6 @@
       "text": "🚧 #AVISO a las personas usuarias de la autopista #CuernavacaAcapulco 🚧 Del 4 de agosto al 3 de septiembre se realizarán trabajos para la construcción de un muro monolítico del kilómetro 328 al 329, dirección Cuernavaca. Anticipe sus tiempos de traslado y maneje con precaución. #C",
       "link": "https://nitter.net/CAPUFE/status/2084493446539010050#m",
       "date": "2026-08-04T04:15:40+00:00"
-    },
-    {
-      "id": "3d59091bc921",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 18.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 #AVISO a las personas usuarias de la autopista #MéxicoCuernavaca 🚧 Del 3 al 5 de agosto se realizarán trabajos de mantenimiento menor del kilómetro 18 al 23, dirección Cuernavaca. Anticipe sus tiempos de traslado y maneje con precaución. #CAPUFEInforma 🚧 #AVISO a las personas u",
-      "link": "https://nitter.net/CAPUFE/status/2084491133162344660#m",
-      "date": "2026-08-04T04:06:28+00:00"
     },
     {
       "id": "b8fccce57490",
@@ -477,34 +491,6 @@
       "text": "#ViaLibre en #Veracruz tras cierre total de la circulación por presencia de personas cerca del Km 048+500 de la carretera Buena Vista - Tuxtepec. Maneje con precaución. #ViaLibre en #Veracruz tras cierre total de la circulación por presencia de personas cerca del Km 048+500 de la",
       "link": "https://nitter.net/GN_Carreteras/status/2084354427574505914#m",
       "date": "2026-08-03T19:03:15+00:00"
-    },
-    {
-      "id": "3c578d438415",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecaciones en #Veracruz se registra cierre total de la circulación tras presencia de personas cerca del Km 048+500 de la carretera Buena Vista - Tuxtepec a la altura del Mpio. Tlapacoyan Ver. Atienda indicación vial. #Tomeprecaciones en #Veracruz se registra cierre total de",
-      "link": "https://nitter.net/GN_Carreteras/status/2084337235936342187#m",
-      "date": "2026-08-03T17:54:56+00:00"
-    },
-    {
-      "id": "1d2fb4e8eea0",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 120.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#EviteLaZona en #Hidalgo se registra cierre total de circulación por presencia de personas, cerca del km. 120+800 de la carretera México-Tuxpan. Atienda indicación vial. #EviteLaZona en #Hidalgo se registra cierre total de circulación por presencia de personas, cerca del km. 120+",
-      "link": "https://nitter.net/GN_Carreteras/status/2084289752652542367#m",
-      "date": "2026-08-03T14:46:15+00:00"
     }
   ]
 }
