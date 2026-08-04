@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-03T23:52:19.567501+00:00",
-  "count": 37,
+  "updated": "2026-08-04T00:40:58.200632+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "512449ba0d5d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 19.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Nayarit se registra cierre parcial de circulación por accidente vial cerca del Km 019+500 de la carretera Tepic-Mazatlán. Atienda indicación vial. #Tomeprecauciones en #Nayarit se registra cierre parcial de circulación por accidente vial cerca del Km 019+500",
+      "link": "https://nitter.net/GN_Carreteras/status/2084439002627678532#m",
+      "date": "2026-08-04T00:39:19+00:00"
+    },
+    {
+      "id": "a21944162e3f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 13.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Tabasco se registra cierre parcial de circulación por accidente vial cerca del Km 013+900 de la carretera Villahermosa-Cd. del Carmen. Atienda indicación vial. #Tomeprecauciones en #Tabasco se registra cierre parcial de circulación por accidente vial cerca d",
+      "link": "https://nitter.net/GN_Carreteras/status/2084437571908558986#m",
+      "date": "2026-08-04T00:33:38+00:00"
+    },
+    {
+      "id": "1a3d7dc864ad",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 8.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 Aut. Chamapa - Lechería, km 8, dirección Lechería. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Aut. Chamapa - Lechería, km 8, dirección Lechería. El accidente ha sido atendido. En la zona se",
+      "link": "https://nitter.net/CAPUFE/status/2084429447092933092#m",
+      "date": "2026-08-04T00:01:21+00:00"
+    },
     {
       "id": "205abb8fa14e",
       "account": "@capufe",
@@ -283,48 +325,6 @@
       "date": "2026-08-03T21:10:49+00:00"
     },
     {
-      "id": "ba856f022ed8",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 54.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 54, dirección CDMX. Concluyen labores de mantenimiento, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 5",
-      "link": "https://nitter.net/CAPUFE/status/2084385835319808430#m",
-      "date": "2026-08-03T21:08:03+00:00"
-    },
-    {
-      "id": "2d62c4a6ee6c",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 54.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 54, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento (poda de árboles). Circulación lenta en la zona. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 54, direc",
-      "link": "https://nitter.net/CAPUFE/status/2084379535294804142#m",
-      "date": "2026-08-03T20:43:01+00:00"
-    },
-    {
-      "id": "d01d98aa51a0",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 264.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 264. Reducción de carriles en ambos sentidos por atención de incidente (caída de carga). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - ",
-      "link": "https://nitter.net/CAPUFE/status/2084374225658241327#m",
-      "date": "2026-08-03T20:21:55+00:00"
-    },
-    {
       "id": "3e04221ba239",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,34 +491,6 @@
       "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 032+100, de la carretera Ent. (Aut. México-Puebla)- Ocotoxco, a la altura del Mpio. de Santa María Atlihuetzian, con dirección a Tlaxcala. Atienda indicación vial. #TomePre",
       "link": "https://nitter.net/GN_Carreteras/status/2084151696779845954#m",
       "date": "2026-08-03T05:37:40+00:00"
-    },
-    {
-      "id": "cf6445f48dbc",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 048+500, de la carretera Tuxpan-Tampico, a la altura del Mpio. de Álamo Temapache, con dirección a Tampico. Atienda indicación vial. #TomePrecauciones en #Veracruz se regi",
-      "link": "https://nitter.net/GN_Carreteras/status/2084145587725775162#m",
-      "date": "2026-08-03T05:13:24+00:00"
-    },
-    {
-      "id": "bcf1150b8096",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 11.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 011+700, de la carretera Fortín-Conejos, a la altura del Mpio. de Fortín, con dirección a Conejos. Atienda indicación vial. #TomePrecauciones en #Veracruz se registra cier",
-      "link": "https://nitter.net/GN_Carreteras/status/2084144629876674931#m",
-      "date": "2026-08-03T05:09:35+00:00"
     }
   ]
 }
