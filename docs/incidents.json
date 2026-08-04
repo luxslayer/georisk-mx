@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-04T13:09:41.181465+00:00",
-  "count": 36,
+  "updated": "2026-08-04T14:17:16.857738+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "f34fd9ce6fe1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 164.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 164, dirección Querétaro. Reducción de carriles por atención de accidente (choque de costado). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 164, ",
+      "link": "https://nitter.net/CAPUFE/status/2084644008442167734#m",
+      "date": "2026-08-04T14:13:57+00:00"
+    },
+    {
+      "id": "ecca436e699c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 16.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Hidalgo tras #AccidenteVial cerca del Km 016+800 de la autopista Libramiento Norte. Maneje con precaución. #ViaLibre en #Hidalgo tras #AccidenteVial cerca del Km 016+800 de la autopista Libramiento Norte. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2084635353634242688#m",
+      "date": "2026-08-04T13:39:33+00:00"
+    },
+    {
+      "id": "0f7927a7604f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 129.0,
+      "lat": 17.982036,
+      "lon": -94.883745,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 129, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla -",
+      "link": "https://nitter.net/CAPUFE/status/2084634087050899463#m",
+      "date": "2026-08-04T13:34:31+00:00"
+    },
     {
       "id": "f148a1d98285",
       "account": "@capufe",
@@ -269,20 +311,6 @@
       "date": "2026-08-04T06:30:32+00:00"
     },
     {
-      "id": "0c1941686e48",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 21.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #MéxicoCuernavaca, km 21. Registra circulación en contraflujo por labores de mantenimiento. Atiende las indicaciones viales y maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #MéxicoCuernavaca , km 21. Registra circulación en contra",
-      "link": "https://nitter.net/CAPUFE/status/2084524021266202891#m",
-      "date": "2026-08-04T06:17:09+00:00"
-    },
-    {
       "id": "1cd140de4da0",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -491,20 +519,6 @@
       "text": "#Tomeprecaciones en #Tlaxcala se registra cierre parcial de la circulación tras #AccidenteVial cerca del Km 028+900 de la carretera México - Puebla a la altura del Mpio. San Esteban Tizatlán, Tlax. Atienda indicación vial. #Tomeprecaciones en #Tlaxcala se registra cierre parcial ",
       "link": "https://nitter.net/GN_Carreteras/status/2084357209194889612#m",
       "date": "2026-08-03T19:14:18+00:00"
-    },
-    {
-      "id": "9b7280f5b611",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 120.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Hidalgo tras cierre total de circulación por presencia de personas, cerca del km. 120+800 de la carretera México-Tuxpan. Atienda indicación vial. #ViaLibre en #Hidalgo tras cierre total de circulación por presencia de personas, cerca del km. 120+800 de la carretera ",
-      "link": "https://nitter.net/GN_Carreteras/status/2084356103383478348#m",
-      "date": "2026-08-03T19:09:55+00:00"
     }
   ]
 }
