@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-07T19:54:35.355194+00:00",
-  "count": 40,
+  "updated": "2026-08-07T20:41:43.240858+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "25b88c01bd38",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 224.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. Cierre a la circulación por atención de accidente (volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - C",
+      "link": "https://nitter.net/CAPUFE/status/2085825035722277297#m",
+      "date": "2026-08-07T20:26:55+00:00"
+    },
+    {
+      "id": "16a0b4247512",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 180.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Cosoleacaque, km 180, dirección Cosoleacaque. Se informa a las personas usuarias que continúa reducción reducción de carriles por atención del accidente. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. ☑️ ACTUALIZACIÓN",
+      "link": "https://nitter.net/CAPUFE/status/2085824688463241239#m",
+      "date": "2026-08-07T20:25:33+00:00"
+    },
+    {
+      "id": "a71dc90fc668",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 95.0,
+      "lat": 18.271359,
+      "lon": -99.519041,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Registra carga vehicular por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Registra carga vehicular por periodo vacacio",
+      "link": "https://nitter.net/CAPUFE/status/2085818361229848857#m",
+      "date": "2026-08-07T20:00:24+00:00"
+    },
     {
       "id": "8910a85feb2a",
       "account": "@capufe",
@@ -213,48 +255,6 @@
       "date": "2026-08-07T17:53:28+00:00"
     },
     {
-      "id": "4bf49c839b1d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 254.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 254, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 254, dirección",
-      "link": "https://nitter.net/CAPUFE/status/2085774285713338418#m",
-      "date": "2026-08-07T17:05:16+00:00"
-    },
-    {
-      "id": "700049f1ee2d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 94.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 94, dirección Acapulco. El accidente ha sido atendido. Se restablece la circulación en el Distribuidor Vial Palmira. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libra",
-      "link": "https://nitter.net/CAPUFE/status/2085773955080626222#m",
-      "date": "2026-08-07T17:03:57+00:00"
-    },
-    {
-      "id": "ec3ff6c38ef7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 68.0,
-      "lat": 18.1524,
-      "lon": -94.4748,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 68, dirección Isla. Continúa reducción de carriles por atención de accidente (salida del camino de automóvil). 🔘 Dirección La Tinaja, se restablece la vialidad con carga vehicular. Maneja con precaución. 🟠 CIERRE PA",
-      "link": "https://nitter.net/CAPUFE/status/2085772613620519229#m",
-      "date": "2026-08-07T16:58:37+00:00"
-    },
-    {
       "id": "b52c26b0117d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -393,20 +393,6 @@
       "text": "En #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 180+000, de la carretera Ent. La tinaja - Cosoleacaque, a inmediaciones del Mpio. de Acayucan, con dirección a Córdoba. Atienda indicación vial. En #Veracruz continua cierre parcial de circulación",
       "link": "https://nitter.net/GN_Carreteras/status/2085715573028094184#m",
       "date": "2026-08-07T13:11:57+00:00"
-    },
-    {
-      "id": "08330389f5c4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 180.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Cosoleacaque, km 180, dirección Cosoleacaque. Se informa a las personas usuarias que continúa la circulación con reducción de carriles. El personal se encuentra laborando en la atención del accidente. Maneja con precaución. Para má",
-      "link": "https://nitter.net/CAPUFE/status/2085706886146388192#m",
-      "date": "2026-08-07T12:37:26+00:00"
     },
     {
       "id": "5335eb53dd1e",
