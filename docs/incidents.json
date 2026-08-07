@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-07T18:58:42.626288+00:00",
-  "count": 38,
+  "updated": "2026-08-07T19:54:35.355194+00:00",
+  "count": 40,
   "incidents": [
+    {
+      "id": "8910a85feb2a",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 42.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Plan de Ayala - El Porvenir, km 42, dirección Saltillo. Se informa a las personas usuarias que el incidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. ",
+      "link": "https://nitter.net/CAPUFE/status/2085814902938071548#m",
+      "date": "2026-08-07T19:46:40+00:00"
+    },
+    {
+      "id": "c49d6aca6c34",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 63.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 63, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 63, dirección Cuernavaca. El accidente ha",
+      "link": "https://nitter.net/CAPUFE/status/2085803452148420868#m",
+      "date": "2026-08-07T19:01:10+00:00"
+    },
     {
       "id": "f68efd590c41",
       "account": "@GN_carreteras",
@@ -225,34 +253,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 68, dirección Isla. Continúa reducción de carriles por atención de accidente (salida del camino de automóvil). 🔘 Dirección La Tinaja, se restablece la vialidad con carga vehicular. Maneja con precaución. 🟠 CIERRE PA",
       "link": "https://nitter.net/CAPUFE/status/2085772613620519229#m",
       "date": "2026-08-07T16:58:37+00:00"
-    },
-    {
-      "id": "0d321bbfb107",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 68.0,
-      "lat": 18.1524,
-      "lon": -94.4748,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 68, dirección La Tinaja. Cierre a la circulación por atención de accidente (salida del camino de automóvil). ➡ Dirección Isla, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 C",
-      "link": "https://nitter.net/CAPUFE/status/2085767645375111296#m",
-      "date": "2026-08-07T16:38:53+00:00"
-    },
-    {
-      "id": "17388d52a637",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 37.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Las Choapas - Ocozocoautla, km 37. Continúa circulación intermitente en ambos sentidos por atención de accidente (incendio de tracto camión). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Las",
-      "link": "https://nitter.net/CAPUFE/status/2085767149411303691#m",
-      "date": "2026-08-07T16:36:54+00:00"
     },
     {
       "id": "b52c26b0117d",
@@ -533,6 +533,34 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Cosoleacaque, km 180. Cierre a la circulación en ambos sentidos por atención de salida del camino y volcadura de tracto camión tipo pipa que transporta material peligroso. Toma tus precauciones. Consulta la ubicación aquí: https://maps.a",
       "link": "https://nitter.net/CAPUFE/status/2085559434776826177#m",
       "date": "2026-08-07T02:51:31+00:00"
+    },
+    {
+      "id": "d4e3a361b668",
+      "account": "@capufe",
+      "type": "landslide",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 42.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Plan de Ayala - El Porvenir, km 42. Se informa a las personas usuarias que se restablece la circulación en ambos sentidos. El personal continúa laborando en la atención del derrumbe de talud, sin afectar los carriles de rodamiento. Maneja",
+      "link": "https://nitter.net/CAPUFE/status/2085530591747862718#m",
+      "date": "2026-08-07T00:56:55+00:00"
+    },
+    {
+      "id": "e90454e21560",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 42.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Plan de Ayala - El Porvenir, km 42, dirección Saltillo. Cierre a la circulación por atención de derrumbe de Talud. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/jDdGxVTW9t5piEvG6 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista ",
+      "link": "https://nitter.net/CAPUFE/status/2084663673834922055#m",
+      "date": "2026-08-04T15:32:05+00:00"
     }
   ]
 }
