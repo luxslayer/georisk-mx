@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-07T08:14:51.970938+00:00",
-  "count": 37,
+  "updated": "2026-08-07T09:31:46.426006+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "c65d69ad8ce4",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 43.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 43, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 43, dirección CDMX. El accidente ha sido atendido",
+      "link": "https://nitter.net/CAPUFE/status/2085657029977244090#m",
+      "date": "2026-08-07T09:19:20+00:00"
+    },
+    {
+      "id": "340da9d2dc23",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 180.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "En #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 180+000, de la carretera Ent. La tinaja - Cosoleacaque, a inmediaciones del Mpio. de Acayucan, con dirección a Córdoba. Atienda indicación vial. En #Veracruz continua cierre parcial de circulación",
+      "link": "https://nitter.net/GN_Carreteras/status/2085653089265009095#m",
+      "date": "2026-08-07T09:03:40+00:00"
+    },
+    {
+      "id": "86ee29287b15",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 43.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 43, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 43, dirección CDMX. Reducción de carriles por aten",
+      "link": "https://nitter.net/CAPUFE/status/2085651892412035143#m",
+      "date": "2026-08-07T08:58:55+00:00"
+    },
     {
       "id": "df3e778315d5",
       "account": "@capufe",
@@ -451,20 +493,6 @@
       "date": "2026-08-07T02:20:49+00:00"
     },
     {
-      "id": "cb9e6fc73675",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 0, dirección Cosoleacaque. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona s",
-      "link": "https://nitter.net/CAPUFE/status/2085550846809395368#m",
-      "date": "2026-08-07T02:17:24+00:00"
-    },
-    {
       "id": "a200c52f73fc",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -505,20 +533,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 111+000, de la carretera México-Puebla (directo), a inmediaciones del Mpio. de Coronango, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla se regist",
       "link": "https://nitter.net/GN_Carreteras/status/2085546986518851661#m",
       "date": "2026-08-07T02:02:03+00:00"
-    },
-    {
-      "id": "dd898e07c5e9",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 121.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Jalisco tras presencia de personas, cerca del km 121+300, de la carretera Jiquilpan - Guadalajara, a la altura del Mpio. de Santa Cecilia. Maneje con precaución. #VíaLibre en #Jalisco tras presencia de personas, cerca del km 121+300, de la carretera Jiquilpan - Guad",
-      "link": "https://nitter.net/GN_Carreteras/status/2085537700967338386#m",
-      "date": "2026-08-07T01:25:09+00:00"
     }
   ]
 }
