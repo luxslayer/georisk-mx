@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-07T10:52:49.627891+00:00",
+  "updated": "2026-08-07T11:46:39.920794+00:00",
   "count": 39,
   "incidents": [
+    {
+      "id": "ef6e522c6d25",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 28.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 28, dirección Córdoba. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 28, dirección Córdoba. Red",
+      "link": "https://nitter.net/CAPUFE/status/2085682222363754986#m",
+      "date": "2026-08-07T10:59:26+00:00"
+    },
     {
       "id": "4568c58bccb8",
       "account": "@capufe",
@@ -393,20 +407,6 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 28, dirección La Tinaja. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopist",
       "link": "https://nitter.net/CAPUFE/status/2085577681748246625#m",
       "date": "2026-08-07T04:04:02+00:00"
-    },
-    {
-      "id": "5fffd098cfd4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 207.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Carbonera - Puerto México, km 207, dirección La Carbonera. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Carbonera - ",
-      "link": "https://nitter.net/CAPUFE/status/2085575089353863653#m",
-      "date": "2026-08-07T03:53:44+00:00"
     },
     {
       "id": "7de271598d1d",
