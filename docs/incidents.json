@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-08T17:31:49.984994+00:00",
-  "count": 37,
+  "updated": "2026-08-08T18:38:36.421765+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "f0aa7aa3f946",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 178.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "Pinned: ⚠️𝗔𝗩𝗜𝗦𝗢 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧𝗘⚠️ #AutCuernavacaAcapulco, km 178, dirección Acapulco. Se informa a las personas usuarias que en la Plaza de cobro Paso Morelos, se registra cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa par",
+      "link": "https://nitter.net/CAPUFE/status/2086159772508721360#m",
+      "date": "2026-08-08T18:37:03+00:00"
+    },
+    {
+      "id": "5cd85531f539",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 45.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Gómez Palacio - Corralitos, km 45, dirección Gómez Palacio. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Gómez Palacio - Corralitos, km 45, dir",
+      "link": "https://nitter.net/CAPUFE/status/2086158110855463136#m",
+      "date": "2026-08-08T18:30:27+00:00"
+    },
+    {
+      "id": "878078074a9b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 24.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "En #Chiapas continua cierre parcial de circulación por #AccidenteVial cerca del km. 024+300 de la carretera Catazajá - Rancho Nuevo (Ent. Ashupa) Laguna de Montebello, a la altura del poblado La Cascada, Mpio. Palenque, con dirección a Laguna de Montebello, Chis. En #Chiapas cont",
+      "link": "https://nitter.net/GN_Carreteras/status/2086152620083761156#m",
+      "date": "2026-08-08T18:08:38+00:00"
+    },
+    {
+      "id": "1d83ad76ffc5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 180.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Cosoleacaque, km 180, dirección Cosoleacaque. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗",
+      "link": "https://nitter.net/CAPUFE/status/2086149942800790013#m",
+      "date": "2026-08-08T17:57:59+00:00"
+    },
     {
       "id": "bedb4fe37490",
       "account": "@GN_carreteras",
@@ -141,20 +197,6 @@
       "text": "#TomePrecauciones en #NL continua cierre parcial de circulación por #AccidenteVial cerca del km. 066+000 de la carretera Saltillo-Monterrey, a la altura del Mpio. Apodaca, con dirección a Cadereyta de Jiménez. Atienda indicación vial. #TomePrecauciones en #NL continua cierre parc",
       "link": "https://nitter.net/GN_Carreteras/status/2086134509792112834#m",
       "date": "2026-08-08T16:56:40+00:00"
-    },
-    {
-      "id": "9f5f2bdf80af",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 180.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Cosoleacaque, km 180, dirección Cosoleacaque. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las maniobras de grúa para el retiro de unidades siniestra",
-      "link": "https://nitter.net/CAPUFE/status/2086134072586207237#m",
-      "date": "2026-08-08T16:54:56+00:00"
     },
     {
       "id": "489ee4b4d3c4",
@@ -311,7 +353,7 @@
       "date": "2026-08-08T15:03:28+00:00"
     },
     {
-      "id": "0b436a0eb1c8",
+      "id": "8845d9906b61",
       "account": "@capufe",
       "type": "traffic",
       "highway": "?",
@@ -320,7 +362,7 @@
       "lat": 23.6345,
       "lon": -102.5528,
       "resolved": false,
-      "text": "Pinned: ⚠️𝗔𝗩𝗜𝗦𝗢 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧𝗘⚠️ #AutCuernavacaAcapulco, km 178, dirección Acapulco. Se informa a las personas usuarias que en la Plaza de cobro Paso Morelos, se llevan a cabo las acciones para la reparación de los daños ocasionados por el siniestro registrado el día de hoy. En la zo",
+      "text": "R to @CAPUFE: ⚠️𝗔𝗩𝗜𝗦𝗢 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧𝗘⚠️ #AutCuernavacaAcapulco, km 178, dirección Acapulco. Se informa a las personas usuarias que en la Plaza de cobro Paso Morelos, se llevan a cabo las acciones para la reparación de los daños ocasionados por el siniestro registrado el día de hoy. En",
       "link": "https://nitter.net/CAPUFE/status/2086096845181231579#m",
       "date": "2026-08-08T14:27:00+00:00"
     },
@@ -365,48 +407,6 @@
       "text": "#Tomeprecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del Km 058+500 de la carretera Guadalajara-Tepic con dirección Tepic. Atienda indicación vial. #Tomeprecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVi",
       "link": "https://nitter.net/GN_Carreteras/status/2086082505480851961#m",
       "date": "2026-08-08T13:30:01+00:00"
-    },
-    {
-      "id": "2f14e3c9380c",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 56.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
-      "link": "https://nitter.net/CAPUFE/status/2086082055805276546#m",
-      "date": "2026-08-08T13:28:14+00:00"
-    },
-    {
-      "id": "5da0d1cb4be2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 63.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 63, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 63, dirección CDMX. El accidente ha sido atendi",
-      "link": "https://nitter.net/CAPUFE/status/2086076902691799277#m",
-      "date": "2026-08-08T13:07:45+00:00"
-    },
-    {
-      "id": "292e7a4905d5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 104.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 104, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 104, dirección Queréta",
-      "link": "https://nitter.net/CAPUFE/status/2086072656600662250#m",
-      "date": "2026-08-08T12:50:53+00:00"
     },
     {
       "id": "a035493d8329",
@@ -491,20 +491,6 @@
       "text": "#Tomeprecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del Km 228+500 de la carretera Puerto México-Ojo Caliente con dirección a Saltillo. Atienda indicación vial. #Tomeprecauciones en #Coahuila se registra cierre parcial de circulación ",
       "link": "https://nitter.net/GN_Carreteras/status/2085937792333312295#m",
       "date": "2026-08-08T03:54:59+00:00"
-    },
-    {
-      "id": "2be5342d3ef5",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 61.0,
-      "lat": 20.1416,
-      "lon": -99.4388,
-      "resolved": true,
-      "text": "#ViaLibre en #EdoMex tras #AccidenteVial cerca del Km 061+000 de la carretera México-Querétaro. Maneje con precaución. #ViaLibre en #EdoMex tras #AccidenteVial cerca del Km 061+000 de la carretera México-Querétaro. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2085919225328099420#m",
-      "date": "2026-08-08T02:41:12+00:00"
     },
     {
       "id": "6a6652eae193",
