@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-08T06:55:01.935009+00:00",
-  "count": 35,
+  "updated": "2026-08-08T07:50:43.971435+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "a94fd6ba0ef5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 28.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 28, dirección Cosoleacaque. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). ➡ Dirección Nuevo Teapa, opera de manera normal. Toma tus precaucione",
+      "link": "https://nitter.net/CAPUFE/status/2085985895476277268#m",
+      "date": "2026-08-08T07:06:07+00:00"
+    },
     {
       "id": "81d58e395c4e",
       "account": "@capufe",
