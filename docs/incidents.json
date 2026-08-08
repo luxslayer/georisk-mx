@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-08T18:38:36.421765+00:00",
-  "count": 36,
+  "updated": "2026-08-08T19:30:33.045817+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "3dcbf2365027",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 47.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 47, dirección Veracruz. El accidente ha sido atendido. Sin embargo, continúa la carga vehicular por zona de obras. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, ",
+      "link": "https://nitter.net/CAPUFE/status/2086166983700021636#m",
+      "date": "2026-08-08T19:05:42+00:00"
+    },
     {
       "id": "f0aa7aa3f946",
       "account": "@capufe",
