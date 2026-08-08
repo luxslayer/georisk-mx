@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-08T14:32:38.508406+00:00",
-  "count": 38,
+  "updated": "2026-08-08T15:30:56.968233+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "31f0720da846",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 55.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 55, dirección Querétaro. Reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , k",
+      "link": "https://nitter.net/CAPUFE/status/2086106023782154460#m",
+      "date": "2026-08-08T15:03:28+00:00"
+    },
+    {
+      "id": "f83d052781b5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 180.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Cosoleacaque, km 180, dirección Cosoleacaque. Se informa a las personas usuarias que se registra cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de unidad",
+      "link": "https://nitter.net/CAPUFE/status/2086098764415025514#m",
+      "date": "2026-08-08T14:34:37+00:00"
+    },
     {
       "id": "0b436a0eb1c8",
       "account": "@capufe",
@@ -241,20 +269,6 @@
       "date": "2026-08-08T07:06:07+00:00"
     },
     {
-      "id": "81d58e395c4e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 28.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 28. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN",
-      "link": "https://nitter.net/CAPUFE/status/2085980926782136403#m",
-      "date": "2026-08-08T06:46:23+00:00"
-    },
-    {
       "id": "a45f8d94401d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,34 +281,6 @@
       "text": "#Tomeprecauciones en #EdoMex se registra cierre total de circulación por #AccidenteVial cerca del Km 224+200 de la carretera Toluca - Cd. Altamirano con dirección Toluca. Se orienta a la ciudadanía #Rutaalterna carretera libre Temascaltepec. Atienda indicación vial. #Tomeprecauci",
       "link": "https://nitter.net/GN_Carreteras/status/2085979981755126074#m",
       "date": "2026-08-08T06:42:37+00:00"
-    },
-    {
-      "id": "8661ad96046e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 67.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 67, dirección Gómez Palacio. Registra reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio ",
-      "link": "https://nitter.net/CAPUFE/status/2085969295545147601#m",
-      "date": "2026-08-08T06:00:10+00:00"
-    },
-    {
-      "id": "f124a9f7e31a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 104.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 104, dirección Querétaro. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULAC",
-      "link": "https://nitter.net/CAPUFE/status/2085966294055064056#m",
-      "date": "2026-08-08T05:48:14+00:00"
     },
     {
       "id": "33e8450c87d6",
@@ -449,20 +435,6 @@
       "text": "#Tomeprecauciones en #EdoMex se registra cierre parcial de circulación cerca del Km 061+000 de la carretera México-Querétaro a la altura del Parque Industrial con dirección a Tepeji Hgo. Atienda indicación vial. #Tomeprecauciones en #EdoMex se registra cierre parcial de circulaci",
       "link": "https://nitter.net/GN_Carreteras/status/2085881356169454012#m",
       "date": "2026-08-08T00:10:43+00:00"
-    },
-    {
-      "id": "b21d27fae856",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 180.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Cosoleacaque, km 180, dirección Cosoleacaque. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. ☑️ ACTUALIZACIÓN. Autopist",
-      "link": "https://nitter.net/CAPUFE/status/2085871777406710135#m",
-      "date": "2026-08-07T23:32:40+00:00"
     },
     {
       "id": "a1cc8281c082",
