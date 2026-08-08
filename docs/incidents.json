@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-08T05:43:17.661170+00:00",
-  "count": 34,
+  "updated": "2026-08-08T06:55:01.935009+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "81d58e395c4e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 28.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 28. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN",
+      "link": "https://nitter.net/CAPUFE/status/2085980926782136403#m",
+      "date": "2026-08-08T06:46:23+00:00"
+    },
+    {
+      "id": "a45f8d94401d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 224.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #EdoMex se registra cierre total de circulación por #AccidenteVial cerca del Km 224+200 de la carretera Toluca - Cd. Altamirano con dirección Toluca. Se orienta a la ciudadanía #Rutaalterna carretera libre Temascaltepec. Atienda indicación vial. #Tomeprecauci",
+      "link": "https://nitter.net/GN_Carreteras/status/2085979981755126074#m",
+      "date": "2026-08-08T06:42:37+00:00"
+    },
+    {
+      "id": "8661ad96046e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 67.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 67, dirección Gómez Palacio. Registra reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio ",
+      "link": "https://nitter.net/CAPUFE/status/2085969295545147601#m",
+      "date": "2026-08-08T06:00:10+00:00"
+    },
+    {
+      "id": "f124a9f7e31a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 104.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 104, dirección Querétaro. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULAC",
+      "link": "https://nitter.net/CAPUFE/status/2085966294055064056#m",
+      "date": "2026-08-08T05:48:14+00:00"
+    },
     {
       "id": "e2fd2c94100d",
       "account": "@capufe",
@@ -269,34 +325,6 @@
       "date": "2026-08-08T02:15:36+00:00"
     },
     {
-      "id": "2f8223b3d3e3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 229.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Carbonera - Puerto México, km 229, dirección La Carbonera. Reducción de carriles por atención de accidente (volcadura de camión de carga). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Carbonera - Puerto Méxic",
-      "link": "https://nitter.net/CAPUFE/status/2085912481021469126#m",
-      "date": "2026-08-08T02:14:24+00:00"
-    },
-    {
-      "id": "ecf540cfff2b",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 73.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, registra #lluvia intensa del km 73 al 74. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca , registra #lluvia intensa del km 73 al 74. Disminuye tu velocidad y maneja con p",
-      "link": "https://nitter.net/CAPUFE/status/2085909980499054990#m",
-      "date": "2026-08-08T02:04:28+00:00"
-    },
-    {
       "id": "c7117bf01793",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -463,20 +491,6 @@
       "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 036+200, de la carretera Guadalajara-Tepic, con dirección Tepic Nay. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #Accid",
       "link": "https://nitter.net/GN_Carreteras/status/2085761365365436869#m",
       "date": "2026-08-07T16:13:55+00:00"
-    },
-    {
-      "id": "40fd79232b30",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 234.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Michoacán tras #AccidenteVial cerca del km 234+500, de la carretera Uruapan-Lázaro Cárdenas (directo)-Ent. (Aut. Pátzcuaro-Uruapan). Maneje con precaución. #ViaLibre en #Michoacán tras #AccidenteVial cerca del km 234+500, de la carretera Uruapan-Lázaro Cárdenas (dir",
-      "link": "https://nitter.net/GN_Carreteras/status/2085757036424200253#m",
-      "date": "2026-08-07T15:56:43+00:00"
     }
   ]
 }
