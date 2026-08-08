@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-08T23:29:58.252277+00:00",
+  "updated": "2026-08-08T23:57:31.056873+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "35b4d359ddc2",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 50.0,
+      "lat": 18.183,
+      "lon": -94.716,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 050+500 de la carretera Tierra Blanca-La Tinaja, atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. ",
+      "link": "https://nitter.net/GN_Carreteras/status/2086238141195632939#m",
+      "date": "2026-08-08T23:48:27+00:00"
+    },
+    {
+      "id": "472c40631708",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 132.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 132, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 132, dirección Puebla. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2086236078713811006#m",
+      "date": "2026-08-08T23:40:16+00:00"
+    },
     {
       "id": "94ecf42237ce",
       "account": "@capufe",
@@ -241,20 +269,6 @@
       "date": "2026-08-08T20:18:40+00:00"
     },
     {
-      "id": "2bb717ded75d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 4.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 4, dirección La Pera. Reducción de carriles por atención de accidente (salida del camino y choque contra talud). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 4, dirección",
-      "link": "https://nitter.net/CAPUFE/status/2086183405557780570#m",
-      "date": "2026-08-08T20:10:57+00:00"
-    },
-    {
       "id": "b639c35dc6fd",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -435,20 +449,6 @@
       "text": "#TomePrecauciones en #Tamaulipas continua cierre parcial de circulación por #AccidenteVial cerca del km. 105+600 de la carretera Reynosa-San Fernando, a la altura del Mpio. Reynosa, con dirección a San Fernando, Tamps. Atienda indicación vial. #TomePrecauciones en #Tamaulipas con",
       "link": "https://nitter.net/GN_Carreteras/status/2086126973319864370#m",
       "date": "2026-08-08T16:26:43+00:00"
-    },
-    {
-      "id": "0b204837fab6",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 55.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Guerrero continua cierre parcial de circulación por #AccidenteVial cerca del km. 055+000 de la carretera Zihuatanejo-La Mira, a la altura del poblado El Chico, Mpio. La Unión de Isidoro Montes de Oca. con dirección a Zihuatanejo. Atienda indicación vial. #To",
-      "link": "https://nitter.net/GN_Carreteras/status/2086123515804004762#m",
-      "date": "2026-08-08T16:12:59+00:00"
     },
     {
       "id": "e15dc03dd8d3",
