@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-08T09:38:33.430896+00:00",
+  "updated": "2026-08-08T10:34:28.924540+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "a035493d8329",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 187.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del Km 187+000 de la autopista Libramiento Norte con dirección Puebla. Atienda indicación vial. #Tomeprecauciones en #Tlaxcala se registra cierre parcial de circulación por #Accident",
+      "link": "https://nitter.net/GN_Carreteras/status/2086025557985157435#m",
+      "date": "2026-08-08T09:43:44+00:00"
+    },
     {
       "id": "fcd5ce1ae572",
       "account": "@capufe",
@@ -505,20 +519,6 @@
       "text": "#Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación cerca del Km 066+250 de la carretera Celaya-Ojuelos dirección Mpio. Apaseo el Alto. Atienda indicación vial. #Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación cerca del Km 066+250 ",
       "link": "https://nitter.net/GN_Carreteras/status/2085793329044697271#m",
       "date": "2026-08-07T18:20:56+00:00"
-    },
-    {
-      "id": "b52c26b0117d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Gdl–Tepic",
-      "route_key": "guadalajara-tepic",
-      "km": 36.0,
-      "lat": 20.818316,
-      "lon": -103.673888,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 036+200, de la carretera Guadalajara-Tepic, con dirección Tepic Nay. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #Accid",
-      "link": "https://nitter.net/GN_Carreteras/status/2085761365365436869#m",
-      "date": "2026-08-07T16:13:55+00:00"
     }
   ]
 }
