@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-08T03:26:57.842139+00:00",
-  "count": 33,
+  "updated": "2026-08-08T04:36:10.040143+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "308a8fbdd103",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 295.0,
+      "lat": 16.8531,
+      "lon": -99.8237,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 295, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 295, dirección Acapul",
+      "link": "https://nitter.net/CAPUFE/status/2085947921476866446#m",
+      "date": "2026-08-08T04:35:14+00:00"
+    },
+    {
+      "id": "368c374b74eb",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Acayucan–Cosoleacaque",
+      "route_key": "acayucan-cosoleacaque",
+      "km": 26.0,
+      "lat": 18.079733,
+      "lon": -94.8152,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 26, dirección Acayucan. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 26, direc",
+      "link": "https://nitter.net/CAPUFE/status/2085946567454818587#m",
+      "date": "2026-08-08T04:29:51+00:00"
+    },
+    {
+      "id": "e06be374d73f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 28.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 28, dirección Cosoleacaque. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). ➡ Dirección Nuevo Teapa, continúa reducción de carriles. Toma tus precauciones",
+      "link": "https://nitter.net/CAPUFE/status/2085941448025817226#m",
+      "date": "2026-08-08T04:09:30+00:00"
+    },
+    {
+      "id": "ba573aebc0c8",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 228.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del Km 228+500 de la carretera Puerto México-Ojo Caliente con dirección a Saltillo. Atienda indicación vial. #Tomeprecauciones en #Coahuila se registra cierre parcial de circulación ",
+      "link": "https://nitter.net/GN_Carreteras/status/2085937792333312295#m",
+      "date": "2026-08-08T03:54:59+00:00"
+    },
     {
       "id": "8a13d93f6dfd",
       "account": "@capufe",
@@ -213,34 +269,6 @@
       "date": "2026-08-08T01:48:28+00:00"
     },
     {
-      "id": "9001c757ffec",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 28.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 28. Reducción de carriles en ambos sentidos por atención de accidente (choque de tracto camión contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosolea",
-      "link": "https://nitter.net/CAPUFE/status/2085903636769472766#m",
-      "date": "2026-08-08T01:39:15+00:00"
-    },
-    {
-      "id": "001dc1d22671",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 27.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 27, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque de costado entre automóviles). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 27, dirección Cuernavaca.",
-      "link": "https://nitter.net/CAPUFE/status/2085900379791786385#m",
-      "date": "2026-08-08T01:26:19+00:00"
-    },
-    {
       "id": "c7117bf01793",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -449,20 +477,6 @@
       "text": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 195+500, de la carretera Guadalajara-Tepic, con dirección Tepic Nay. Atienda indicación vial. #TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #Accid",
       "link": "https://nitter.net/GN_Carreteras/status/2085750771694403795#m",
       "date": "2026-08-07T15:31:50+00:00"
-    },
-    {
-      "id": "c0ff662bea8f",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 142.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Hidalgo se registra cierre parcial de circulación cerca del Km 142+500 de la autopista Libramiento Norte con dirección a Hidalgo. Atienda indicación vial. #Tomeprecauciones en #Hidalgo se registra cierre parcial de circulación cerca del Km 142+500 de la auto",
-      "link": "https://nitter.net/GN_Carreteras/status/2085746736392216584#m",
-      "date": "2026-08-07T15:15:47+00:00"
     }
   ]
 }
