@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-08T20:30:50.408281+00:00",
-  "count": 39,
+  "updated": "2026-08-08T21:31:16.424487+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "49a6623daddf",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 82.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 82, dirección Acapulco. Reducción de carriles por atención de accidente (volcadura sobre carpeta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 82, dirección Acapulco. Reducción de",
+      "link": "https://nitter.net/CAPUFE/status/2086199770956149021#m",
+      "date": "2026-08-08T21:15:59+00:00"
+    },
+    {
+      "id": "3d74ad581a24",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 199.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guerrero continua cierre parcial de circulación por #AccidenteVial cerca del km. 199+000 de la carretera Iguala - Chilpancingo, a la altura del poblado Rancho Escondido, Mpio. Eduardo Neri, con dirección a Chilpancingo de los Bravo. Atienda indicación vial. ",
+      "link": "https://nitter.net/GN_Carreteras/status/2086194963885236468#m",
+      "date": "2026-08-08T20:56:53+00:00"
+    },
+    {
+      "id": "b76405fbe001",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 228.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Aut. La Carbonera - Puerto México, registra #lluvia en el km 228. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Aut. La Carbonera - Puerto México, registra #lluvia en el km 228. Disminuye tu velocidad y maneja co",
+      "link": "https://nitter.net/CAPUFE/status/2086193144408727836#m",
+      "date": "2026-08-08T20:49:39+00:00"
+    },
     {
       "id": "fbeb255208bc",
       "account": "@capufe",
@@ -113,20 +155,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 47, dirección Veracruz. El accidente ha sido atendido. Sin embargo, continúa la carga vehicular por zona de obras. Maneja con precaución. 🚌🚙🚗🏍️. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, ",
       "link": "https://nitter.net/CAPUFE/status/2086166983700021636#m",
       "date": "2026-08-08T19:05:42+00:00"
-    },
-    {
-      "id": "dac766bf4b05",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 178.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ⚠️𝗔𝗩𝗜𝗦𝗢 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧𝗘⚠️ #AutCuernavacaAcapulco, km 178, dirección Acapulco. Se informa a las personas usuarias que en la Plaza de cobro Paso Morelos, se registra cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de gr",
-      "link": "https://nitter.net/CAPUFE/status/2086159772508721360#m",
-      "date": "2026-08-08T18:37:03+00:00"
     },
     {
       "id": "5cd85531f539",
@@ -367,20 +395,6 @@
       "date": "2026-08-08T16:38:07+00:00"
     },
     {
-      "id": "468ccb0ddee9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 206.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Magdalena - Nogales, km 206, dirección Nogales. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Magdalena - Nogales, km 206, dirección Nogales. El",
-      "link": "https://nitter.net/CAPUFE/status/2086129479881986366#m",
-      "date": "2026-08-08T16:36:41+00:00"
-    },
-    {
       "id": "ce6b1ca29ae7",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -421,34 +435,6 @@
       "text": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por presencia de personas, cerca del km. 040+000 de la carretera Ciudad Victoria-Monterrey, a la altura de la localidad Barretal, con dirección a Cd. Victoria. Atienda indicación vial. #TomePrecauciones en",
       "link": "https://nitter.net/GN_Carreteras/status/2086121746629878241#m",
       "date": "2026-08-08T16:05:57+00:00"
-    },
-    {
-      "id": "95d62bda48f6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 206.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 206, dirección Nogales. Reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 206, dire",
-      "link": "https://nitter.net/CAPUFE/status/2086121319964324037#m",
-      "date": "2026-08-08T16:04:15+00:00"
-    },
-    {
-      "id": "245c44ebb4b2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 45.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 45, dirección Gómez Palacio. Registra reducción de carriles por atención de accidente (salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km ",
-      "link": "https://nitter.net/CAPUFE/status/2086118463358013850#m",
-      "date": "2026-08-08T15:52:54+00:00"
     },
     {
       "id": "212ba91fa9db",
@@ -519,20 +505,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, Plaza de Cobro Paso Morelos. Reducción de carriles en ambos sentidos por atención de choque por alcance y contra cabina, entre un tracto camión y automóvil. Maneja con precaución. Consulta la ubicación aquí: https",
       "link": "https://nitter.net/CAPUFE/status/2086017301162148341#m",
       "date": "2026-08-08T09:10:55+00:00"
-    },
-    {
-      "id": "a45f8d94401d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 224.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #EdoMex se registra cierre total de circulación por #AccidenteVial cerca del Km 224+200 de la carretera Toluca - Cd. Altamirano con dirección Toluca. Se orienta a la ciudadanía #Rutaalterna carretera libre Temascaltepec. Atienda indicación vial. #Tomeprecauci",
-      "link": "https://nitter.net/GN_Carreteras/status/2085979981755126074#m",
-      "date": "2026-08-08T06:42:37+00:00"
     },
     {
       "id": "6a6652eae193",
