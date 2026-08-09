@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-09T18:41:48.056563+00:00",
-  "count": 40,
+  "updated": "2026-08-09T19:34:02.349521+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "3bdc12387b62",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 34.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 034+850 de la carretera Xalapa-Veracruz, a la altura de la localidad La Cumbre, con dirección a Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre",
+      "link": "https://nitter.net/GN_Carreteras/status/2086533320406380719#m",
+      "date": "2026-08-09T19:21:24+00:00"
+    },
+    {
+      "id": "4f9b9229014f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 113.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 113, dirección Puebla. Reducción de carriles por atención de accidente (choque por alcance y volcadura de automóvil). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxico",
+      "link": "https://nitter.net/CAPUFE/status/2086533315448693151#m",
+      "date": "2026-08-09T19:21:22+00:00"
+    },
+    {
+      "id": "b828d2434266",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Cuernavaca",
+      "route_key": "mexico-cuernavaca",
+      "km": 28.0,
+      "lat": 19.02682,
+      "lon": -99.1941,
+      "resolved": true,
+      "text": "#VialidadLibre en #CdMéx tras accidente cerca del km. 028+500 de la carretera México-Cuernavaca, a la altura del Mpio. San Miguel Topilejo, con dirección a Cd. Méx. Maneje con precaución. #VialidadLibre en #CdMéx tras accidente cerca del km. 028+500 de la carretera México-Cuernav",
+      "link": "https://nitter.net/GN_Carreteras/status/2086532145661592042#m",
+      "date": "2026-08-09T19:16:44+00:00"
+    },
     {
       "id": "520f7215e9e8",
       "account": "@capufe",
@@ -353,34 +395,6 @@
       "date": "2026-08-09T14:17:01+00:00"
     },
     {
-      "id": "f57c62c0f505",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 263.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 263, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 263, dirección Córdoba",
-      "link": "https://nitter.net/CAPUFE/status/2086456310132797901#m",
-      "date": "2026-08-09T14:15:23+00:00"
-    },
-    {
-      "id": "8b1ab04ff3c0",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 22.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 22, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 22, dirección Querétaro",
-      "link": "https://nitter.net/CAPUFE/status/2086456070558339253#m",
-      "date": "2026-08-09T14:14:26+00:00"
-    },
-    {
       "id": "3d80dd8405fc",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -533,34 +547,6 @@
       "text": "#VialidadLibre en #Jalisco tras accidente cerca del km. 034+800 de la carretera Ciudad Guzmán-Colima, a inmediaciones del Mpio. Ciudad Guzmán, con dirección a Colima. Maneje con precaución. #VialidadLibre en #Jalisco tras accidente cerca del km. 034+800 de la carretera Ciudad Guz",
       "link": "https://nitter.net/GN_Carreteras/status/2086330444329386333#m",
       "date": "2026-08-09T05:55:14+00:00"
-    },
-    {
-      "id": "a86f14ac2adf",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 23.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Querétaro continua cierre parcial de circulación por #AccidenteVial cerca del km. 023+200 de la carretera Libramiento Noreste de Querétaro, a la altura del poblado San Vicente Ferrer, con dirección a San Juan del Río, Qro. Atienda indicación vial. #TomePreca",
-      "link": "https://nitter.net/GN_Carreteras/status/2086328806529171863#m",
-      "date": "2026-08-09T05:48:44+00:00"
-    },
-    {
-      "id": "d08bad53b677",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 18.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #AccidenteVial cerca del km. 018+900 de la carretera México-Tuxpan, a la altura del Mpio. San Lorenzo Tlalmimilolpan, con dirección a Ecatepec. Atienda indicación vial. #TomePrecauciones en #EdoMéx continua c",
-      "link": "https://nitter.net/GN_Carreteras/status/2086326679891226905#m",
-      "date": "2026-08-09T05:40:17+00:00"
     }
   ]
 }
