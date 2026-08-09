@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-09T06:08:05.844929+00:00",
-  "count": 33,
+  "updated": "2026-08-09T07:32:40.084458+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "03beeaad64a0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 0.0,
+      "lat": 18.32,
+      "lon": -95.02,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. El accid",
+      "link": "https://nitter.net/CAPUFE/status/2086353465891000752#m",
+      "date": "2026-08-09T07:26:43+00:00"
+    },
+    {
+      "id": "aa956f3a2aec",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 42.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 42, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 42, dirección CDMX. El accidente ha sido atendido",
+      "link": "https://nitter.net/CAPUFE/status/2086352776175517744#m",
+      "date": "2026-08-09T07:23:59+00:00"
+    },
+    {
+      "id": "04fe77adc635",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 42.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 42, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro ",
+      "link": "https://nitter.net/CAPUFE/status/2086345339301183753#m",
+      "date": "2026-08-09T06:54:25+00:00"
+    },
+    {
+      "id": "3b668eaab7ce",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 160.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 Carretera Pánuco - Canoas, Pte. Pánuco, km 160. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 SE RETIRAN MANIFESTANTES 🟢 Carretera Pánuco - Canoas, Pte. ",
+      "link": "https://nitter.net/CAPUFE/status/2086344770876588429#m",
+      "date": "2026-08-09T06:52:10+00:00"
+    },
+    {
+      "id": "62221fbbc975",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 42.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 42, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 42, dirección CDMX. Reducción de carriles por ",
+      "link": "https://nitter.net/CAPUFE/status/2086336972302291228#m",
+      "date": "2026-08-09T06:21:11+00:00"
+    },
     {
       "id": "75d412fe947f",
       "account": "@GN_carreteras",
@@ -325,20 +395,6 @@
       "date": "2026-08-09T02:46:41+00:00"
     },
     {
-      "id": "f95f5d9cd014",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 23.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 23, dirección Cuernavaca. Registra carga vehicular por atención de incidente fuera de la jurisdicción a cargo de CAPUFE. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , km 23, dirección Cuernavaca. Registra carga vehi",
-      "link": "https://nitter.net/CAPUFE/status/2086282244662935923#m",
-      "date": "2026-08-09T02:43:43+00:00"
-    },
-    {
       "id": "f35a0d00c390",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -351,20 +407,6 @@
       "text": "#VialidadLibre en #Veracruz tras accidente cerca del km. 033+400 de la carretera Ent. La Tinaja- Santa Cruz, a la altura del Mpio. Tierra Blanca. Maneje con precaución. #VialidadLibre en #Veracruz tras accidente cerca del km. 033+400 de la carretera Ent. La Tinaja- Santa Cruz, a ",
       "link": "https://nitter.net/GN_Carreteras/status/2086278097851015516#m",
       "date": "2026-08-09T02:27:14+00:00"
-    },
-    {
-      "id": "e69ad80e74aa",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 245.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 245, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camioneta). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista A",
-      "link": "https://nitter.net/CAPUFE/status/2086277788391104935#m",
-      "date": "2026-08-09T02:26:00+00:00"
     },
     {
       "id": "1cc2ce4b4e4f",
