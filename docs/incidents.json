@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-09T09:40:25.063090+00:00",
-  "count": 36,
+  "updated": "2026-08-09T10:35:49.158385+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "9cb6ac70386c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 137.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 137. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓ",
+      "link": "https://nitter.net/CAPUFE/status/2086394078464225523#m",
+      "date": "2026-08-09T10:08:06+00:00"
+    },
     {
       "id": "c8317a41fed3",
       "account": "@capufe",
