@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-09T10:35:49.158385+00:00",
+  "updated": "2026-08-09T11:30:04.835946+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "c61f748590e7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 137.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Las Choapas - Ocozocoautla, km 137. Se restablece la circulación de manera intermitente por atención de accidente (maniobras para el retiro de las unidades siniestradas). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE",
+      "link": "https://nitter.net/CAPUFE/status/2086404653957132418#m",
+      "date": "2026-08-09T10:50:07+00:00"
+    },
     {
       "id": "9cb6ac70386c",
       "account": "@capufe",
@@ -323,20 +337,6 @@
       "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 245+900 de la carretera Puebla-Córdoba, con dirección Puebla. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial c",
       "link": "https://nitter.net/GN_Carreteras/status/2086300853497991361#m",
       "date": "2026-08-09T03:57:39+00:00"
-    },
-    {
-      "id": "1582c9538c69",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 245.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 245, dirección Acatzingo. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 245, dirección Acatzingo. El accidente ha si",
-      "link": "https://nitter.net/CAPUFE/status/2086297093950316773#m",
-      "date": "2026-08-09T03:42:43+00:00"
     },
     {
       "id": "3e923cc6772f",
