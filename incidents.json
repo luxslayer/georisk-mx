@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-09T07:32:40.084458+00:00",
-  "count": 36,
+  "updated": "2026-08-09T08:44:06.579824+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "c8317a41fed3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 137.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Las Choapas - Ocozocoautla, km 137. Circulación intermitente en ambos sentidos por atención de accidente (choque de frente entre tracto camión y automóvil). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CI",
+      "link": "https://nitter.net/CAPUFE/status/2086356230440665094#m",
+      "date": "2026-08-09T07:37:42+00:00"
+    },
     {
       "id": "03beeaad64a0",
       "account": "@capufe",
