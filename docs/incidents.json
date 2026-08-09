@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-09T11:30:04.835946+00:00",
+  "updated": "2026-08-09T11:58:20.347894+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "387632ba9397",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 28.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 28. Reducción de carriles en ambos sentidos por atención de choque contra muro central de autobús. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/6963Kt6Fknakm5Hp8 🟠 CIERRE PARCIAL DE CIRCULACI",
+      "link": "https://nitter.net/CAPUFE/status/2086419121235800131#m",
+      "date": "2026-08-09T11:47:36+00:00"
+    },
     {
       "id": "c61f748590e7",
       "account": "@capufe",
@@ -281,20 +295,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Ent. Corral de Piedra - Ent. El Mangle, km 5. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Ent. Corral de Piedra - Ent. El Ma",
       "link": "https://nitter.net/CAPUFE/status/2086314772782280842#m",
       "date": "2026-08-09T04:52:58+00:00"
-    },
-    {
-      "id": "96e66bb38be2",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 23.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 23, dirección Cuernavaca. El incidente fuera de la jurisdicción a cargo de CAPUFE ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , k",
-      "link": "https://nitter.net/CAPUFE/status/2086310765091238391#m",
-      "date": "2026-08-09T04:37:02+00:00"
     },
     {
       "id": "d305275bd918",
