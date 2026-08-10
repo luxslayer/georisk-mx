@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-10T09:23:00.418690+00:00",
-  "count": 30,
+  "updated": "2026-08-10T10:43:04.048823+00:00",
+  "count": 31,
   "incidents": [
+    {
+      "id": "c9a08e9e71c2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 58.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 58. Cierre a la circulación en ambos sentidos por atención de accidente (volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - ",
+      "link": "https://nitter.net/CAPUFE/status/2086763031904571601#m",
+      "date": "2026-08-10T10:34:11+00:00"
+    },
+    {
+      "id": "e977084fb59c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 017+600 de la carretera Coatzacoalcos - Minatitlán, a la altura del Mpio. Coatzacoalcos, con dirección a Minatitlán. Atienda indicación vial. #TomePrecauciones en #Veracruz cont",
+      "link": "https://nitter.net/GN_Carreteras/status/2086761942387978625#m",
+      "date": "2026-08-10T10:29:51+00:00"
+    },
+    {
+      "id": "792e7edc09bc",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 12.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tamaulipas continua cierre parcial de circulación por #AccidenteVial cerca del km. 012+300 de la carretera González - Llera de Canales, a la altura de la localidad San Antonio. Atienda indicación vial. #TomePrecauciones en #Tamaulipas continua cierre parcial",
+      "link": "https://nitter.net/GN_Carreteras/status/2086760911289589905#m",
+      "date": "2026-08-10T10:25:46+00:00"
+    },
+    {
+      "id": "a55f3debaef9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 62.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 62, dirección Querétaro. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMé",
+      "link": "https://nitter.net/CAPUFE/status/2086750113070813466#m",
+      "date": "2026-08-10T09:42:51+00:00"
+    },
+    {
+      "id": "44bc8065a2be",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 60.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 60, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 60, dirección CDMX. El accidente ha sido atendi",
+      "link": "https://nitter.net/CAPUFE/status/2086749193385767079#m",
+      "date": "2026-08-10T09:39:12+00:00"
+    },
     {
       "id": "a0b957bb3603",
       "account": "@capufe",
@@ -241,34 +311,6 @@
       "date": "2026-08-10T03:59:03+00:00"
     },
     {
-      "id": "a26c8a88e294",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 60.0,
-      "lat": 32.024,
-      "lon": -116.81,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 60, dirección Tijuana. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 60, dirección Tijuana. Reducci",
-      "link": "https://nitter.net/CAPUFE/status/2086662931555430403#m",
-      "date": "2026-08-10T03:56:25+00:00"
-    },
-    {
-      "id": "c89e10b6a207",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 62.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 62, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones y salida del camino). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 62,",
-      "link": "https://nitter.net/CAPUFE/status/2086662196700868891#m",
-      "date": "2026-08-10T03:53:30+00:00"
-    },
-    {
       "id": "b5ddc07a911d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -393,34 +435,6 @@
       "text": "#VialidadLibre en #Nayarit tras accidente cerca del km. 141+000 de la carretera Guadalajara-Tepic, a inmediaciones del Mpio. Santa María del Oro, con dirección a Tepic. Maneje con precaución. #VialidadLibre en #Nayarit tras accidente cerca del km. 141+000 de la carretera Guadalaj",
       "link": "https://nitter.net/GN_Carreteras/status/2086623956711182618#m",
       "date": "2026-08-10T01:21:33+00:00"
-    },
-    {
-      "id": "daf072a538e2",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 111.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Jalisco continua cierre parcial de circulación por #AccidenteVial cerca del km. 111+100 de la carretera Lagos de Moreno-Zapotlanejo, a inmediaciones del Mpio. San Juan de los Lagos, con dirección a Lagos de Moreno. Atienda indicación vial. #TomePrecauciones ",
-      "link": "https://nitter.net/GN_Carreteras/status/2086623453583487013#m",
-      "date": "2026-08-10T01:19:33+00:00"
-    },
-    {
-      "id": "9893e04f6068",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 123.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km. 123+540 de la carretera Atlacomulco-Maravatío, con dirección a Maravatio. Atienda indicación vial. #TomePrecauciones en #Michoacan continua cierre parcial de circulación por #A",
-      "link": "https://nitter.net/GN_Carreteras/status/2086618158190780818#m",
-      "date": "2026-08-10T00:58:31+00:00"
     }
   ]
 }
