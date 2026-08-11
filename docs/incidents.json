@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-11T19:35:49.864915+00:00",
-  "count": 33,
+  "updated": "2026-08-11T20:45:30.454446+00:00",
+  "count": 30,
   "incidents": [
+    {
+      "id": "a79cf30e9cf3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 160.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 160, dirección Acatzingo. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (choque por alcance entre tracto camiones). En la zona se registra carg",
+      "link": "https://nitter.net/CAPUFE/status/2087268350753701959#m",
+      "date": "2026-08-11T20:02:09+00:00"
+    },
+    {
+      "id": "0b7f48a840f7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 160.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Puebla - Acatzingo, km 160, dirección Acatzingo. Cierre a la circulación por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Pueb",
+      "link": "https://nitter.net/CAPUFE/status/2087266025200877781#m",
+      "date": "2026-08-11T19:52:54+00:00"
+    },
+    {
+      "id": "7494fdfc6528",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 58.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Córdoba - Veracruz, km 58. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULA",
+      "link": "https://nitter.net/CAPUFE/status/2087263721521283412#m",
+      "date": "2026-08-11T19:43:45+00:00"
+    },
+    {
+      "id": "a732782a7ac5",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 178.0,
+      "lat": 17.948,
+      "lon": -94.914,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Isla - Acayucan, km 178, dirección Acayucan. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Isla - Acayucan, km 178, dirección Acayucan. El incidente ha si",
+      "link": "https://nitter.net/CAPUFE/status/2087262380082303180#m",
+      "date": "2026-08-11T19:38:25+00:00"
+    },
     {
       "id": "115b7f4da8ff",
       "account": "@capufe",
@@ -171,20 +227,6 @@
       "date": "2026-08-11T16:28:50+00:00"
     },
     {
-      "id": "679fde0e211b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 58.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Córdoba - Veracruz, km 58. Continúa reducción de carriles en ambos sentidos, por atención de choque por alcance múltiple entre tracto camión, camioneta y automóviles. Maneja con precaución. Consulta la ubicación aquí: https://m",
-      "link": "https://nitter.net/CAPUFE/status/2087212060589294036#m",
-      "date": "2026-08-11T16:18:28+00:00"
-    },
-    {
       "id": "63725b07a97a",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -241,20 +283,6 @@
       "date": "2026-08-11T15:59:20+00:00"
     },
     {
-      "id": "ba9add52fc05",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 206.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Gtz. Zamora - Tihuatlán, km 206. El accidente ha sido atendido. Se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Gtz. Zamora - Tihuatlán, km",
-      "link": "https://nitter.net/CAPUFE/status/2087206399285534844#m",
-      "date": "2026-08-11T15:55:58+00:00"
-    },
-    {
       "id": "4b0d18315b8d",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -283,62 +311,6 @@
       "date": "2026-08-11T15:33:08+00:00"
     },
     {
-      "id": "4b674d79785b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 127.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 127, dirección Querétaro. Continúa reducción de carriles por atención del accidente (trasvase de carga). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro ",
-      "link": "https://nitter.net/CAPUFE/status/2087199886374568126#m",
-      "date": "2026-08-11T15:30:05+00:00"
-    },
-    {
-      "id": "b3f73e1dab02",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 80.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 80, dirección CDMX. Reducción de carriles por labores de mantenimiento. Tránsito lento en la zona. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla , km 80, dirección CDMX. Reducción de carriles",
-      "link": "https://nitter.net/CAPUFE/status/2087196966505615397#m",
-      "date": "2026-08-11T15:18:29+00:00"
-    },
-    {
-      "id": "9408e3db750d",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 148.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 148 al 158, dirección CDMX. Reducción de carriles por labores de mantenimiento. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro , del km 148 al 158, dirección CDMX. Reducción de carri",
-      "link": "https://nitter.net/CAPUFE/status/2087196108212613529#m",
-      "date": "2026-08-11T15:15:05+00:00"
-    },
-    {
-      "id": "1073da16719f",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 3.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Libramiento Poniente Tampico, km 3. Circulación intermitente en ambos sentidos por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. 🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Libr",
-      "link": "https://nitter.net/CAPUFE/status/2087195802057720035#m",
-      "date": "2026-08-11T15:13:52+00:00"
-    },
-    {
       "id": "19166528b714",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -351,20 +323,6 @@
       "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 090+800 de la carretera Amozoc-Perote con dirección Perote. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVia",
       "link": "https://nitter.net/GN_Carreteras/status/2087195359080546660#m",
       "date": "2026-08-11T15:12:06+00:00"
-    },
-    {
-      "id": "74b72480be3b",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Aut. Córdoba - Veracruz, del km 48 al 55. Circulación en contraflujo por labores de mantenimiento. Tránsito lento en la zona. Atiende las indicaciones viales y maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Aut. Córdoba - Veracruz",
-      "link": "https://nitter.net/CAPUFE/status/2087195296245727641#m",
-      "date": "2026-08-11T15:11:51+00:00"
     },
     {
       "id": "3543993398be",
