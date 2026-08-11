@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-11T10:05:22.646198+00:00",
-  "count": 34,
+  "updated": "2026-08-11T11:20:10.407290+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "1232b491f090",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Cuernavaca–Acapulco",
+      "route_key": "cuernavaca-acapulco",
+      "km": 133.0,
+      "lat": 17.597686,
+      "lon": -99.663754,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 133, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida del camino y choque contra talud). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km",
+      "link": "https://nitter.net/CAPUFE/status/2087133568585613439#m",
+      "date": "2026-08-11T11:06:34+00:00"
+    },
     {
       "id": "d33c1b17617b",
       "account": "@capufe",
@@ -339,34 +353,6 @@
       "date": "2026-08-11T02:19:38+00:00"
     },
     {
-      "id": "35b88274cab1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 42.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, dirección Querétaro. Registra carga vehicular muy intensa, en los siguientes puntos de la autopista. 🔘 Km 42, a la altura de la salida al poblado de Teoloyucan (zona industrial), sin reporte de incidentes. 🔘 Km 62, el accidente ha sido ate",
-      "link": "https://nitter.net/CAPUFE/status/2087000601037099420#m",
-      "date": "2026-08-11T02:18:12+00:00"
-    },
-    {
-      "id": "a1e6d0923f59",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, registra #lluvia del km 19 al 27. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca , registra #lluvia del km 19 al 27. Disminuye tu velocidad y maneja con precaución.",
-      "link": "https://nitter.net/CAPUFE/status/2086998900418769396#m",
-      "date": "2026-08-11T02:11:27+00:00"
-    },
-    {
       "id": "84ef941de3ca",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -379,20 +365,6 @@
       "text": "#TomePrecauciones en #Durango se registra cierre parcial de circulación por #AccidenteVial cerca del km 131+600, de la carretera Durango - Villa Unión, a la altura de la localidad de Chavarría Nueva, con dirección a Coscomate. Atienda indicación vial. #TomePrecauciones en #Durang",
       "link": "https://nitter.net/GN_Carreteras/status/2086998191929536545#m",
       "date": "2026-08-11T02:08:38+00:00"
-    },
-    {
-      "id": "24ff578a8adc",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 19, dirección Puebla. Continúa cierre a la circulación en carriles laterales por atención de incidente (maniobras para el retiro de la unidad siniestrada). En la zona se da paso por los carriles centrales. Maneja con precauci",
-      "link": "https://nitter.net/CAPUFE/status/2086996196749345088#m",
-      "date": "2026-08-11T02:00:42+00:00"
     },
     {
       "id": "157d060b1620",
