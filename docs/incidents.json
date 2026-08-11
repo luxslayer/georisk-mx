@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-11T20:45:30.454446+00:00",
-  "count": 30,
+  "updated": "2026-08-11T21:49:14.948084+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "343317946f04",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Puebla–Acatzingo",
+      "route_key": "puebla-acatzingo",
+      "km": 160.0,
+      "lat": 18.948,
+      "lon": -97.45,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 160, dirección Acatzingo. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE P",
+      "link": "https://nitter.net/CAPUFE/status/2087291605241692376#m",
+      "date": "2026-08-11T21:34:33+00:00"
+    },
+    {
+      "id": "082a2debd484",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Saltillo–Mty",
+      "route_key": "saltillo-monterrey",
+      "km": 86.0,
+      "lat": 25.67498,
+      "lon": -100.25583,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del Km 086+500 de la autopista Saltillo-Monterrey dirección Monterrey. Atienda indicación vial. #Tomeprecauciones en #NuevoLeón se registra cierre parcial de circulación por #Accide",
+      "link": "https://nitter.net/GN_Carreteras/status/2087289042878468292#m",
+      "date": "2026-08-11T21:24:22+00:00"
+    },
+    {
+      "id": "12e932e37612",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 127.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 127, dirección Querétaro. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 127, dirección Querétaro. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2087281022366777777#m",
+      "date": "2026-08-11T20:52:30+00:00"
+    },
     {
       "id": "a79cf30e9cf3",
       "account": "@capufe",
@@ -253,20 +295,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Isla - Acayucan, km 178, dirección Acayucan. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Isla - Acayucan, km 178, dirección Acayucan. Reduc",
       "link": "https://nitter.net/CAPUFE/status/2087210600111694009#m",
       "date": "2026-08-11T16:12:40+00:00"
-    },
-    {
-      "id": "0d9a0ec88dc5",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 19.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Chamapa - Lechería, km 19, dirección Chamapa. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Chamapa - Lechería, km 19",
-      "link": "https://nitter.net/CAPUFE/status/2087209758352658575#m",
-      "date": "2026-08-11T16:09:19+00:00"
     },
     {
       "id": "1f9dd7f30b42",
