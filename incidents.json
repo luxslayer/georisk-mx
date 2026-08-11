@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-11T03:45:46.101143+00:00",
-  "count": 31,
+  "updated": "2026-08-11T05:09:42.503228+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "eea3dd85c49f",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 137.0,
+      "lat": 17.971564,
+      "lon": -94.893055,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 137, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 137, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2087038196081143911#m",
+      "date": "2026-08-11T04:47:35+00:00"
+    },
+    {
+      "id": "d82f59b5b97e",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 262.0,
+      "lat": 18.884,
+      "lon": -96.923,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 262+200, de la carretera Puebla-Cordoba(directo), a la altura del Mpio. de Balastreras, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Veracruz se regi",
+      "link": "https://nitter.net/GN_Carreteras/status/2087034427368996887#m",
+      "date": "2026-08-11T04:32:37+00:00"
+    },
+    {
+      "id": "732c1838bbac",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 181.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 181+400, de la carretera Paso del Toro - Acayucan, a la altura del Mpio. de Juan Diaz Covarrubias, con dirección a Minatitlán. Atienda indicación vial. #TomePrecauciones en #V",
+      "link": "https://nitter.net/GN_Carreteras/status/2087032759751430615#m",
+      "date": "2026-08-11T04:25:59+00:00"
+    },
+    {
+      "id": "6302ef7f8544",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 58.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 58, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxi",
+      "link": "https://nitter.net/CAPUFE/status/2087029916613120368#m",
+      "date": "2026-08-11T04:14:41+00:00"
+    },
+    {
+      "id": "70ca7f60fdd3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 62.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 62, dirección Querétaro. El accidente ha sido atendido. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 62, dirección Querétaro. El accidente ha sido atendido. Maneja con precauc",
+      "link": "https://nitter.net/CAPUFE/status/2087029579042947519#m",
+      "date": "2026-08-11T04:13:21+00:00"
+    },
     {
       "id": "ccc95a9bc800",
       "account": "@capufe",
@@ -255,34 +325,6 @@
       "date": "2026-08-11T01:07:56+00:00"
     },
     {
-      "id": "54c0719bf598",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 42.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, dirección Querétaro. Registra carga vehicular muy intensa, en los siguientes puntos de la autopista. 🔘 Km 42, a la altura de la salida al poblado de Teoloyucan (zona industrial), sin reporte de incidentes. 🔘 Km 62, el personal continúa rea",
-      "link": "https://nitter.net/CAPUFE/status/2086973137296519499#m",
-      "date": "2026-08-11T00:29:04+00:00"
-    },
-    {
-      "id": "7e467d771c4a",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 98.0,
-      "lat": 18.218174,
-      "lon": -99.530466,
-      "resolved": true,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. Carga vehicular, sin reporte de incidente. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. Carga vehicular, sin reporte de incidente. Maneja ",
-      "link": "https://nitter.net/CAPUFE/status/2086972657824661730#m",
-      "date": "2026-08-11T00:27:10+00:00"
-    },
-    {
       "id": "37f327dc856f",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -421,20 +463,6 @@
       "text": "En #Michoacán continua cierre total de la circulación por #AccidenteVial cerca del Km 162+900 de la carretera Uruapan - Lázaro Cárdenas, en ambos sentidos. Atienda indicación vial. En #Michoacán continua cierre total de la circulación por #AccidenteVial cerca del Km 162+900 de la",
       "link": "https://nitter.net/GN_Carreteras/status/2086912388851245460#m",
       "date": "2026-08-10T20:27:41+00:00"
-    },
-    {
-      "id": "24c770f95b37",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 131.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 131+742, de la carretera Tulancingo-Tihuatlán, a la altura de la localidad de Huauchinango. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km 131+742, de la carretera Tulancingo-Tihuatlán, a la altur",
-      "link": "https://nitter.net/GN_Carreteras/status/2086910474369560710#m",
-      "date": "2026-08-10T20:20:04+00:00"
     }
   ]
 }
