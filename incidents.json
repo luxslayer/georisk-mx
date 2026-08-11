@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-11T13:53:58.201426+00:00",
-  "count": 34,
+  "updated": "2026-08-11T14:58:37.146877+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "5732d40b8935",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 127.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 127, dirección Querétaro. Reducción de carriles por atención de accidente (volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro , km 127, dirección Querétaro. Reducción ",
+      "link": "https://nitter.net/CAPUFE/status/2087175821358252327#m",
+      "date": "2026-08-11T13:54:28+00:00"
+    },
     {
       "id": "49a8035b7c5e",
       "account": "@capufe",
