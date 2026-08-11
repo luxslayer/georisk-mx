@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-11T17:27:38.681164+00:00",
+  "updated": "2026-08-11T18:26:34.525196+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "0e0329689526",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 26.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #Afectaciónclimatologica deslave de talud cerca del Km 026+300 de la carretera Tehuacán-Córdoba con dirección Zongolica, Ver. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre pa",
+      "link": "https://nitter.net/GN_Carreteras/status/2087242976430891276#m",
+      "date": "2026-08-11T18:21:19+00:00"
+    },
+    {
+      "id": "c46ddb6b5a2d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 10.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del Km 010+100 de la carretera Pátzcuaro-Copándaro con dirección Copándaro, Mich. Atienda indicación vial. #Tomeprecauciones en #Michoacán se registra cierre parcial de circulación ",
+      "link": "https://nitter.net/GN_Carreteras/status/2087240522179965265#m",
+      "date": "2026-08-11T18:11:34+00:00"
+    },
+    {
+      "id": "9bf986661e2b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 363.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 363+050 de la autopista Chilpancingo-Acapulco con dirección Acapulco. Atienda indicación vial. #Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #Ac",
+      "link": "https://nitter.net/GN_Carreteras/status/2087239855826747526#m",
+      "date": "2026-08-11T18:08:55+00:00"
+    },
+    {
+      "id": "f78cf310999d",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 59.0,
+      "lat": 18.1677,
+      "lon": -94.5954,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 059+000 de la carretera La Tinaja - Veracruz en ambas direcciones. Se orienta a la ciudadanía que se habilita la circulación por el acotamiento. Atienda indicación vial. #Tome",
+      "link": "https://nitter.net/GN_Carreteras/status/2087236116395032947#m",
+      "date": "2026-08-11T17:54:03+00:00"
+    },
+    {
+      "id": "94a64c8216c7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 127.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 127, dirección Querétaro. Continúa reducción de carriles por atención del accidente (trasvase de carga). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro ",
+      "link": "https://nitter.net/CAPUFE/status/2087230229152473360#m",
+      "date": "2026-08-11T17:30:40+00:00"
+    },
     {
       "id": "0b266a03b1b9",
       "account": "@capufe",
@@ -339,20 +409,6 @@
       "date": "2026-08-11T12:46:38+00:00"
     },
     {
-      "id": "b0bbdb749720",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 133.0,
-      "lat": 17.597686,
-      "lon": -99.663754,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 133, dirección Cuernavaca. Continúa reducción de carriles por atención de accidente (salida del camino y choque contra talud). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Aca",
-      "link": "https://nitter.net/CAPUFE/status/2087157514085302285#m",
-      "date": "2026-08-11T12:41:43+00:00"
-    },
-    {
       "id": "d0b03a3c91b6",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -435,62 +491,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 262+200, de la carretera Puebla-Cordoba(directo), a la altura del Mpio. de Balastreras, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Veracruz se regi",
       "link": "https://nitter.net/GN_Carreteras/status/2087034427368996887#m",
       "date": "2026-08-11T04:32:37+00:00"
-    },
-    {
-      "id": "732c1838bbac",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 181.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 181+400, de la carretera Paso del Toro - Acayucan, a la altura del Mpio. de Juan Diaz Covarrubias, con dirección a Minatitlán. Atienda indicación vial. #TomePrecauciones en #V",
-      "link": "https://nitter.net/GN_Carreteras/status/2087032759751430615#m",
-      "date": "2026-08-11T04:25:59+00:00"
-    },
-    {
-      "id": "1da1491f45b2",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 31.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #EdoMéx tras el retiro de personas, cerca del km 031+500, de la carretera Los Reyes-Zacatepec, a la altura del Mpio. de Tepletoxtoc. Maneje con precaución. #VíaLibre en #EdoMéx tras el retiro de personas, cerca del km 031+500, de la carretera Los Reyes-Zacatepec, a l",
-      "link": "https://nitter.net/GN_Carreteras/status/2087013137967190102#m",
-      "date": "2026-08-11T03:08:01+00:00"
-    },
-    {
-      "id": "8069287015ff",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 128.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 128+660, de la carretera Atlacomulco - Maravatío, a la altura de la localidad de El Césped. Maneje con precaución. #VíaLibre en #Michoacán tras #AccidenteVial cerca del km 128+660, de la carretera Atlacomulco - Maravatío, a",
-      "link": "https://nitter.net/GN_Carreteras/status/2087011039733047557#m",
-      "date": "2026-08-11T02:59:41+00:00"
-    },
-    {
-      "id": "dd2d3ddd68ca",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 85.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 085+600, de la carretera Aguascalientes - Zacatecas, a la altura del Mpio. de Ojo Caliente, con dirección a Ojo Caliente. Atienda indicación vial. #TomePrecauciones en #Zacat",
-      "link": "https://nitter.net/GN_Carreteras/status/2087009825616167298#m",
-      "date": "2026-08-11T02:54:51+00:00"
     }
   ]
 }
