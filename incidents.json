@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-12T20:46:07.062035+00:00",
-  "count": 36,
+  "updated": "2026-08-12T21:47:17.451849+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "e91dba19fd1c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 46.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Amecameca - Nepantla, km 46, dirección Nepantla. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Amecameca - Nepant",
+      "link": "https://nitter.net/CAPUFE/status/2087656943611527380#m",
+      "date": "2026-08-12T21:46:16+00:00"
+    },
+    {
+      "id": "46b647de3afe",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 10.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Salina Cruz - La Ventosa, km 10. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. ☑️ ACTUALIZACIÓN. A",
+      "link": "https://nitter.net/CAPUFE/status/2087649509551624411#m",
+      "date": "2026-08-12T21:16:44+00:00"
+    },
+    {
+      "id": "d2baed5c4dec",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 17.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Cuchilla - Matamoros, km 17, dirección La Cuchilla. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Cuchilla - Matamoros, km ",
+      "link": "https://nitter.net/CAPUFE/status/2087648525634986035#m",
+      "date": "2026-08-12T21:12:49+00:00"
+    },
+    {
+      "id": "1537fe571d40",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 10.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 10. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos. El personal se encuentra realizando las maniobras de grúa para el retiro de unidades siniestradas. ➡ Por seguridad de las p",
+      "link": "https://nitter.net/CAPUFE/status/2087644053680566331#m",
+      "date": "2026-08-12T20:55:03+00:00"
+    },
     {
       "id": "22aff6dd710d",
       "account": "@capufe",
@@ -185,20 +241,6 @@
       "date": "2026-08-12T18:20:29+00:00"
     },
     {
-      "id": "748ca8c2e892",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 10.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 10. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. ➡ Por seguridad de las personas usuarias se cierra la vialidad desde la Plaza de cobro Tehu",
-      "link": "https://nitter.net/CAPUFE/status/2087604076099833951#m",
-      "date": "2026-08-12T18:16:12+00:00"
-    },
-    {
       "id": "985bc8bb75dd",
       "account": "@capufe",
       "type": "traffic",
@@ -227,34 +269,6 @@
       "date": "2026-08-12T17:52:57+00:00"
     },
     {
-      "id": "bba7082c1aab",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 230.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Acatzingo - Cd. Mendoza, km 230, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Acatzingo - Cd.",
-      "link": "https://nitter.net/CAPUFE/status/2087592667890815051#m",
-      "date": "2026-08-12T17:30:52+00:00"
-    },
-    {
-      "id": "3d974adac943",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 69.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, km 69, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro , km 69, dirección Que",
-      "link": "https://nitter.net/CAPUFE/status/2087587509312143426#m",
-      "date": "2026-08-12T17:10:22+00:00"
-    },
-    {
       "id": "60e301631157",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -267,20 +281,6 @@
       "text": "#ViaLibre en #Gto tras #AccidenteVial cerca del Km 058+600 de la carretera Lagos de Moreno-Villa de Arriaga con dirección a Querétaro. Maneje con precaución. #ViaLibre en #Gto tras #AccidenteVial cerca del Km 058+600 de la carretera Lagos de Moreno-Villa de Arriaga con dirección ",
       "link": "https://nitter.net/GN_Carreteras/status/2087583924251677011#m",
       "date": "2026-08-12T16:56:07+00:00"
-    },
-    {
-      "id": "a7571739954a",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 28.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Durango - Mazatlán, km 28. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLE",
-      "link": "https://nitter.net/CAPUFE/status/2087582677662601444#m",
-      "date": "2026-08-12T16:51:10+00:00"
     },
     {
       "id": "a30d2b56c659",
@@ -409,20 +409,6 @@
       "date": "2026-08-12T15:16:31+00:00"
     },
     {
-      "id": "cb321e736b2b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 28.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Durango - Mazatlán, km 28. Se informa a las personas usuarias que se restablece la circulación en ambos sentidos. El personal continúa con la atención del accidente, al momento sin afectación a los carriles de rodamiento. En la zona se registr",
-      "link": "https://nitter.net/CAPUFE/status/2087557333987491953#m",
-      "date": "2026-08-12T15:10:28+00:00"
-    },
-    {
       "id": "e6dca5210300",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -477,20 +463,6 @@
       "text": "#VialidadLibre en #Nayarit tras accidente cerca del km. 063+000 de la carretera Tepic - Mazatlán, a inmediaciones del municipio Ruiz, con dirección a Mazatlán. Maneje con precaución. #VialidadLibre en #Nayarit tras accidente cerca del km. 063+000 de la carretera Tepic - Mazatlán,",
       "link": "https://nitter.net/GN_Carreteras/status/2087517859089875439#m",
       "date": "2026-08-12T12:33:36+00:00"
-    },
-    {
-      "id": "0453d1f5801e",
-      "account": "@capufe",
-      "type": "rollover",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 28.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 Autopista Durango - Mazatlán, km 28, dirección Durango. Se atiende volcadura de tracto camión tipo pipa. Por el momento, sin afectación en los carriles de circulación. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/iLtb1wWcRFi4JtAS7",
-      "link": "https://nitter.net/CAPUFE/status/2087517138856681728#m",
-      "date": "2026-08-12T12:30:44+00:00"
     },
     {
       "id": "f03aa2b5bb90",
