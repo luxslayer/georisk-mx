@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T10:06:51.118040+00:00",
-  "count": 33,
+  "updated": "2026-08-12T11:22:08.292023+00:00",
+  "count": 31,
   "incidents": [
     {
       "id": "573b7256fce5",
@@ -171,20 +171,6 @@
       "date": "2026-08-12T05:32:34+00:00"
     },
     {
-      "id": "a6944f0f4d89",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 0.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 0, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 0, dirección Cuautla. El acciden",
-      "link": "https://nitter.net/CAPUFE/status/2087410585738661951#m",
-      "date": "2026-08-12T05:27:20+00:00"
-    },
-    {
       "id": "0e6a38199027",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -225,20 +211,6 @@
       "text": "#TomePrecauciones en #Oaxaca continua cierre parcial de circulación por #AccidenteVial cerca del km. 220+200 de la carretera Cuacnopalan-Oaxaca, a la altura de la caseta de cobro No. 79, Mpio. San Pablo Huitzo, con dirección a Cuacnopalan. Atienda indicación vial. #TomePrecaucion",
       "link": "https://nitter.net/GN_Carreteras/status/2087401770347573517#m",
       "date": "2026-08-12T04:52:18+00:00"
-    },
-    {
-      "id": "fb1a7c43b335",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 265.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 265, dirección Cd. Mendoza. Continúa reducción de carriles por atención de accidente (salida de neumático de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba,",
-      "link": "https://nitter.net/CAPUFE/status/2087400945692872825#m",
-      "date": "2026-08-12T04:49:02+00:00"
     },
     {
       "id": "e337f2384274",
