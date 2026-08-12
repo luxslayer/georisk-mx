@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T08:48:01.399688+00:00",
-  "count": 34,
+  "updated": "2026-08-12T10:06:51.118040+00:00",
+  "count": 33,
   "incidents": [
     {
       "id": "573b7256fce5",
@@ -239,20 +239,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 265, dirección Cd. Mendoza. Continúa reducción de carriles por atención de accidente (salida de neumático de camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba,",
       "link": "https://nitter.net/CAPUFE/status/2087400945692872825#m",
       "date": "2026-08-12T04:49:02+00:00"
-    },
-    {
-      "id": "9af5ce68ad6c",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 82.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 82, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 82, dir",
-      "link": "https://nitter.net/CAPUFE/status/2087400717967323201#m",
-      "date": "2026-08-12T04:48:07+00:00"
     },
     {
       "id": "e337f2384274",
