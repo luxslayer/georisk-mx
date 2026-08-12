@@ -1,7 +1,91 @@
 {
-  "updated": "2026-08-12T19:41:03.083994+00:00",
-  "count": 35,
+  "updated": "2026-08-12T20:46:07.062035+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "22aff6dd710d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 10.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 10. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos. El personal se encuentra laborando en la atención del accidente. ➡ Por seguridad de las personas usuarias se cierra la vial",
+      "link": "https://nitter.net/CAPUFE/status/2087639087628820558#m",
+      "date": "2026-08-12T20:35:19+00:00"
+    },
+    {
+      "id": "f8fac15f9b96",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 294.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Cd. Mendoza - Córdoba, km 294, dirección Córdoba. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Cd. Mendoza - Córdoba, km 294, dirección Córdob",
+      "link": "https://nitter.net/CAPUFE/status/2087633406880305346#m",
+      "date": "2026-08-12T20:12:45+00:00"
+    },
+    {
+      "id": "55f64e5ebe8e",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Saltillo–Mty",
+      "route_key": "saltillo-monterrey",
+      "km": 79.0,
+      "lat": 25.66775,
+      "lon": -100.239,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del Km 079+900 de la carretera Saltillo-Monterrey con dirección Santa Catarina. Atienda indicación vial. #Tomeprecauciones en #NuevoLeón se registra cierre parcial de circulación po",
+      "link": "https://nitter.net/GN_Carreteras/status/2087632018519601654#m",
+      "date": "2026-08-12T20:07:14+00:00"
+    },
+    {
+      "id": "f80bd6156c1f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 9.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Puebla se registra cierre total de circulación por #AccidenteVial cerca del Km 009+800 de la carretera Cuacnopalan-Oaxaca con dirección Puebla. Se orienta a la ciudadanía #Rutaalterna por carretera Tehuacán-Puebla. Atienda indicación vial. #Tomeprecauciones ",
+      "link": "https://nitter.net/GN_Carreteras/status/2087629616043139474#m",
+      "date": "2026-08-12T19:57:41+00:00"
+    },
+    {
+      "id": "7238977910c7",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "Isla–Acayucan",
+      "route_key": "isla-acayucan",
+      "km": 139.0,
+      "lat": 17.968945,
+      "lon": -94.895382,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Isla - Acayucan, km 139, dirección Acayucan. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Isla - Acayucan, km 139, dirección Acayucan. El incidente ha si",
+      "link": "https://nitter.net/CAPUFE/status/2087629205232066826#m",
+      "date": "2026-08-12T19:56:03+00:00"
+    },
+    {
+      "id": "034a9808bfc9",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 78.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Querétaro - Irapuato, km 78, dirección Irapuato. Se retiran los peregrinos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Querétaro - Irapuato, km 78, dirección Irapuato. Se retiran los",
+      "link": "https://nitter.net/CAPUFE/status/2087626798074913155#m",
+      "date": "2026-08-12T19:46:29+00:00"
+    },
     {
       "id": "6df525ba12bc",
       "account": "@capufe",
@@ -255,20 +339,6 @@
       "date": "2026-08-12T16:32:12+00:00"
     },
     {
-      "id": "fbe5f8418634",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 57.0,
-      "lat": 20.1192,
-      "lon": -99.3956,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Lagos de Moreno - San Luis Potosí, km 57. El accidente ha sido atendido. Se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Lagos de Moreno - ",
-      "link": "https://nitter.net/CAPUFE/status/2087576903938920841#m",
-      "date": "2026-08-12T16:28:13+00:00"
-    },
-    {
       "id": "bb74804a1113",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -295,34 +365,6 @@
       "text": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 140+100 de la carretera Perote-Banderilla con dirección a Xalapa, Ver. Atienda indicación vial. #Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #A",
       "link": "https://nitter.net/GN_Carreteras/status/2087575729869381985#m",
       "date": "2026-08-12T16:23:33+00:00"
-    },
-    {
-      "id": "b35e6e175618",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 139.0,
-      "lat": 17.968945,
-      "lon": -94.895382,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Isla - Acayucan, km 139, dirección Acayucan. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Isla - Acayucan, km 139, dirección Acayucan. Reduc",
-      "link": "https://nitter.net/CAPUFE/status/2087574424299905214#m",
-      "date": "2026-08-12T16:18:22+00:00"
-    },
-    {
-      "id": "d844999e7781",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 68.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "⚠️ AVISO IMPORTANTE⚠️ Aut. Querétaro - Irapuato, km 68, dirección Irapuato. Se informa a las personas usuarias que continúa carga vehicular por caravana de peregrinos avanzando. Se recomienda atender las indicaciones viales y manejar con precaución. ⚠️ AVISO IMPORTANTE⚠️ Aut. Que",
-      "link": "https://nitter.net/CAPUFE/status/2087573717924610292#m",
-      "date": "2026-08-12T16:15:34+00:00"
     },
     {
       "id": "b2c5d594678c",
@@ -463,34 +505,6 @@
       "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por conclusión de maniobras tras #AccidenteVial cerca del km. 020+600 de la autopista Córdoba -Ent. La Tinaja, con dirección a Córdoba. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre pa",
       "link": "https://nitter.net/GN_Carreteras/status/2087456628110979180#m",
       "date": "2026-08-12T08:30:17+00:00"
-    },
-    {
-      "id": "dc14c928f940",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 171.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "En #Chiapas continua cierre parcial de circulación por #AccidenteVial cerca del km. 171+400 de la carretera Las Choapas-Ocozocoautla, a la altura del poblado Peña del Rosario, Mpio. Ocozocoautla de Espinosa, con dirección Ocozocoautla de Espinosa, Chis. Atienda indicación vial. E",
-      "link": "https://nitter.net/GN_Carreteras/status/2087412325775028250#m",
-      "date": "2026-08-12T05:34:15+00:00"
-    },
-    {
-      "id": "0e6a38199027",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 184.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Michoacán tras accidente cerca del Km 184+000 de la carretera Zinapécuaro - Maravatío dirección Maravatío. Maneje con precaución. #VialidadLibre en #Michoacán tras accidente cerca del Km 184+000 de la carretera Zinapécuaro - Maravatío dirección Maravatío. Manej",
-      "link": "https://nitter.net/GN_Carreteras/status/2087402780973482053#m",
-      "date": "2026-08-12T04:56:19+00:00"
     }
   ]
 }
