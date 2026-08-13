@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-13T20:43:54.788666+00:00",
+  "updated": "2026-08-13T21:46:44.111563+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "77f9fa40b097",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 288.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cd. Mendoza - Córdoba, km 288, dirección Cd. Mendoza. Continúa la reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cd. Mendoza - Córdoba, km 288",
+      "link": "https://nitter.net/CAPUFE/status/2088016005737873701#m",
+      "date": "2026-08-13T21:33:03+00:00"
+    },
+    {
+      "id": "98d58101eb7b",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 57.0,
+      "lat": 20.1192,
+      "lon": -99.3956,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Córdoba - Veracruz, km 57, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Córdoba - Veracruz, km 57, dirección Córdoba. El incidente ha ",
+      "link": "https://nitter.net/CAPUFE/status/2088015559573037210#m",
+      "date": "2026-08-13T21:31:17+00:00"
+    },
+    {
+      "id": "c42e90b16852",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 8.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Guerrero tras accidente cerca del km. 008+300 de la carretera Chilpancingo-Acapulco, a la altura del fraccionamiento Mirna Acevedo, con dirección Acapulco de Jures. Maneje con precaución. #VialidadLibre en #Guerrero tras accidente cerca del km. 008+300 de la ca",
+      "link": "https://nitter.net/GN_Carreteras/status/2088014790291489151#m",
+      "date": "2026-08-13T21:28:14+00:00"
+    },
+    {
+      "id": "bf068a328a60",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 47.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Colima tras accidente cerca del km. 047+800 de la carretera Armería-Manzanillo, a inmediaciones del municipio Tecomán, con dirección a Manzanillo. Maneje con precaución. #VialidadLibre en #Colima tras accidente cerca del km. 047+800 de la carretera Armería-Manz",
+      "link": "https://nitter.net/GN_Carreteras/status/2088014101062570031#m",
+      "date": "2026-08-13T21:25:29+00:00"
+    },
+    {
+      "id": "71d6070eb382",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 6.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VialidadLibre en #Jalisco tras accidente cerca del km. 006+000 de la carretera Acatlán de Juárez-Colima, a inmediaciones del municipio Acatlán de Juárez, con dirección a Colima. Maneje con precaución. #VialidadLibre en #Jalisco tras accidente cerca del km. 006+000 de la carreter",
+      "link": "https://nitter.net/GN_Carreteras/status/2088013718319661476#m",
+      "date": "2026-08-13T21:23:58+00:00"
+    },
     {
       "id": "b310dccc6072",
       "account": "@capufe",
@@ -339,34 +409,6 @@
       "date": "2026-08-13T17:11:13+00:00"
     },
     {
-      "id": "4a71e2ad9c5f",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 275.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Aut. Cd. Mendoza - Córdoba, del km 275 al 276, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Aut. Cd. Mendoza - Có",
-      "link": "https://nitter.net/CAPUFE/status/2087944808316698853#m",
-      "date": "2026-08-13T16:50:09+00:00"
-    },
-    {
-      "id": "789caaaf6dcc",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 67.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Querétaro - Irapuato, km 67, dirección Querétaro. Continúa reducción de carriles por atención de accidente (trasvase de carga). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Querétaro -",
-      "link": "https://nitter.net/CAPUFE/status/2087943801239110102#m",
-      "date": "2026-08-13T16:46:08+00:00"
-    },
-    {
       "id": "1b5dff6982ec",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -463,48 +505,6 @@
       "text": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #AccidenteVial cerca del km. 013+500 de la carretera Peñón-Texcoco, de la Col. Guadalupe Victoria, con dirección a Texcoco. Atienda indicación vial. #TomePrecauciones en #EdoMéx continua cierre parcial de cir",
       "link": "https://nitter.net/GN_Carreteras/status/2087923332591091906#m",
       "date": "2026-08-13T15:24:48+00:00"
-    },
-    {
-      "id": "14446b7bcc14",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 49.0,
-      "lat": 18.1847,
-      "lon": -94.7294,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Veracruz continua cierre de circulación por #AccidenteVial cerca del km. 049+200 de la carretera Ent La Tinaja-Santa Cruz, con dirección Tierra Blanca, atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre de circulación por #AccidenteVial ",
-      "link": "https://nitter.net/GN_Carreteras/status/2087922284732297701#m",
-      "date": "2026-08-13T15:20:39+00:00"
-    },
-    {
-      "id": "d716ae15e159",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 127.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del Km 127+500 de la carretera Los Reyes-Zacatepec con dirección Huamantla. Atienda indicación vial. #Tomeprecauciones en #Tlaxcala se registra cierre parcial de circulación por #Acc",
-      "link": "https://nitter.net/GN_Carreteras/status/2087898956642590873#m",
-      "date": "2026-08-13T13:47:57+00:00"
-    },
-    {
-      "id": "47a5ec5c9627",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 26.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Chiapas se registra cierre total de circulación por #AccidenteVial cerca del Km 026+000 de la autopista Ocozocoautla-Arriaga. Se orienta a la ciudadanía #rutaalterna continuar por la carretera Tonalá- San Pedro Tepanatepec. Atienda indicación vial. #Tomeprec",
-      "link": "https://nitter.net/GN_Carreteras/status/2087889999018492316#m",
-      "date": "2026-08-13T13:12:21+00:00"
     }
   ]
 }
