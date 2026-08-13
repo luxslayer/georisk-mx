@@ -1,7 +1,91 @@
 {
-  "updated": "2026-08-13T11:47:46.686365+00:00",
-  "count": 37,
+  "updated": "2026-08-13T13:13:36.286180+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "47a5ec5c9627",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 26.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Chiapas se registra cierre total de circulación por #AccidenteVial cerca del Km 026+000 de la autopista Ocozocoautla-Arriaga. Se orienta a la ciudadanía #rutaalterna continuar por la carretera Tonalá- San Pedro Tepanatepec. Atienda indicación vial. #Tomeprec",
+      "link": "https://nitter.net/GN_Carreteras/status/2087889999018492316#m",
+      "date": "2026-08-13T13:12:21+00:00"
+    },
+    {
+      "id": "deff067a87cb",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 172.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del Km 172+500 de la carretera Guadalajara-Atlacomulco con dirección Maravatío. Atienda indicación vial. #Tomeprecauciones en #Michoacán se registra cierre parcial de circulación po",
+      "link": "https://nitter.net/GN_Carreteras/status/2087887066637930755#m",
+      "date": "2026-08-13T13:00:42+00:00"
+    },
+    {
+      "id": "fe63014d5f1c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 86.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Agua Dulce - Cárdenas, km 86, dirección Agua Dulce. Registra cierre a la circulación por atención de accidente (incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Agua Du",
+      "link": "https://nitter.net/CAPUFE/status/2087883002625896805#m",
+      "date": "2026-08-13T12:44:33+00:00"
+    },
+    {
+      "id": "21bcc23dfa8e",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 288.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 288, dirección Cd. Mendoza. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba,",
+      "link": "https://nitter.net/CAPUFE/status/2087880188327534794#m",
+      "date": "2026-08-13T12:33:22+00:00"
+    },
+    {
+      "id": "2117b2ba75b3",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 57.0,
+      "lat": 20.1192,
+      "lon": -99.3956,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 57, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 57, dir",
+      "link": "https://nitter.net/CAPUFE/status/2087880051383497181#m",
+      "date": "2026-08-13T12:32:49+00:00"
+    },
+    {
+      "id": "1cdd5a0fb288",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 106.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 106, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 106, direcció",
+      "link": "https://nitter.net/CAPUFE/status/2087871018152997080#m",
+      "date": "2026-08-13T11:56:56+00:00"
+    },
     {
       "id": "ebb4c3874dce",
       "account": "@capufe",
@@ -297,20 +381,6 @@
       "date": "2026-08-13T04:43:52+00:00"
     },
     {
-      "id": "f8a32a9b11f7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 250.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 250, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 250, dirección A",
-      "link": "https://nitter.net/CAPUFE/status/2087758604665319627#m",
-      "date": "2026-08-13T04:30:14+00:00"
-    },
-    {
       "id": "e061b335bc18",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -337,20 +407,6 @@
       "text": "#Tomeprecauciones en #Puebla se registra presencia de personas cerca del Km 184+340 de la autopista Tulancingo-Tihuatlán a la altura de la caseta de cobro \"El Piñal\". Atienda indicación vial. #Tomeprecauciones en #Puebla se registra presencia de personas cerca del Km 184+340 de l",
       "link": "https://nitter.net/GN_Carreteras/status/2087746473509187633#m",
       "date": "2026-08-13T03:42:02+00:00"
-    },
-    {
-      "id": "9d0762e52027",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 46.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Amecameca - Nepantla, km 46, dirección Nepantla. Continúa cierre a la circulación desde la Plaza de Cobro Ozumba, por atención de accidente (maniobras para el retiro de la unidad siniestrada). ➡ Dirección Amecameca, se restablece la circulaci",
-      "link": "https://nitter.net/CAPUFE/status/2087742376391422236#m",
-      "date": "2026-08-13T03:25:45+00:00"
     },
     {
       "id": "932d1e7e46a3",
@@ -491,34 +547,6 @@
       "text": "#ViaLibre en #Puebla tras #AccidenteVial cerca del Km 009+800 de la carretera Cuacnopalan-Oaxaca con dirección Puebla. Maneje con precaución. #ViaLibre en #Puebla tras #AccidenteVial cerca del Km 009+800 de la carretera Cuacnopalan-Oaxaca con dirección Puebla. Maneje con precauci",
       "link": "https://nitter.net/GN_Carreteras/status/2087694988477931824#m",
       "date": "2026-08-13T00:17:27+00:00"
-    },
-    {
-      "id": "3915425c3cbf",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 9.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 009+300 de la carretera San Salvador El Seco - Azumbilla con dirección Ciudad Serdán. Atienda indicación vial. #Tomeprecauciones en #Puebla se registra cierre parcial de circula",
-      "link": "https://nitter.net/GN_Carreteras/status/2087686209438884215#m",
-      "date": "2026-08-12T23:42:34+00:00"
-    },
-    {
-      "id": "05be081b92e6",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 52.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Sonora tras #AccidenteVial cerca del Km 052+000 de la carretera Imuris-Agua Prieta. Maneje con precaución. #ViaLibre en #Sonora tras #AccidenteVial cerca del Km 052+000 de la carretera Imuris-Agua Prieta. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2087669002327748984#m",
-      "date": "2026-08-12T22:34:11+00:00"
     }
   ]
 }
