@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-13T07:43:13.115019+00:00",
-  "count": 36,
+  "updated": "2026-08-13T09:13:17.145504+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "ed5afcf6bca5",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 57.0,
+      "lat": 20.1192,
+      "lon": -99.3956,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 57, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 57, dirección Có",
+      "link": "https://nitter.net/CAPUFE/status/2087812256323035448#m",
+      "date": "2026-08-13T08:03:26+00:00"
+    },
+    {
+      "id": "1ec11edcbb73",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 105.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 105, dirección La Tinaja. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). En la zona se regist",
+      "link": "https://nitter.net/CAPUFE/status/2087807731545608463#m",
+      "date": "2026-08-13T07:45:27+00:00"
+    },
     {
       "id": "bf549d1a5925",
       "account": "@capufe",
@@ -339,20 +367,6 @@
       "date": "2026-08-13T00:56:48+00:00"
     },
     {
-      "id": "f025f4580177",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 10.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 10. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista T",
-      "link": "https://nitter.net/CAPUFE/status/2087704651328065633#m",
-      "date": "2026-08-13T00:55:51+00:00"
-    },
-    {
       "id": "15b0433bd39c",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -477,34 +491,6 @@
       "text": "#Tomeprecauciones en #Coahuila se registra cierre total de circulación por presencia de personas cerca del Km 023+000 de la carretera Torreón-San Pedro de las Colonias. Atienda indicación vial. #Tomeprecauciones en #Coahuila se registra cierre total de circulación por presencia d",
       "link": "https://nitter.net/GN_Carreteras/status/2087665890154131952#m",
       "date": "2026-08-12T22:21:49+00:00"
-    },
-    {
-      "id": "aadcfb6c3a26",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 10.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 10. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operati",
-      "link": "https://nitter.net/CAPUFE/status/2087663300209177027#m",
-      "date": "2026-08-12T22:11:32+00:00"
-    },
-    {
-      "id": "bd2184d91bf8",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 10.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 10. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camión y vehículos particulares. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/qtRF44PEv5e",
-      "link": "https://nitter.net/CAPUFE/status/2087598224852881531#m",
-      "date": "2026-08-12T17:52:57+00:00"
     }
   ]
 }
