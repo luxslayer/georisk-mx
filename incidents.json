@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-13T10:35:46.786699+00:00",
-  "count": 38,
+  "updated": "2026-08-13T11:47:46.686365+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "ebb4c3874dce",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 86.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Agua Dulce - Cárdenas, km 86, dirección Agua Dulce. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (incendio de tracto camión). Atiende las indicaciones viales y manej",
+      "link": "https://nitter.net/CAPUFE/status/2087863324906000789#m",
+      "date": "2026-08-13T11:26:21+00:00"
+    },
+    {
+      "id": "0f00b7037de5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 86.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Agua Dulce - Cárdenas, km 86, dirección Agua Dulce. Cierre a la circulación por atención de accidente (incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Agua Dulce - Cár",
+      "link": "https://nitter.net/CAPUFE/status/2087857899372523850#m",
+      "date": "2026-08-13T11:04:48+00:00"
+    },
+    {
+      "id": "b41e9a3c36ce",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Chih–Cd Juárez",
+      "route_key": "chihuahua-juarez",
+      "km": 288.0,
+      "lat": 31.738,
+      "lon": -106.487,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 288, dirección Cd. Mendoza. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 288, ",
+      "link": "https://nitter.net/CAPUFE/status/2087850835686416441#m",
+      "date": "2026-08-13T10:36:44+00:00"
+    },
     {
       "id": "164ab3af533f",
       "account": "@capufe",
@@ -325,20 +367,6 @@
       "date": "2026-08-13T03:22:58+00:00"
     },
     {
-      "id": "f83de076b6d2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 250.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 250, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camioneta). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista A",
-      "link": "https://nitter.net/CAPUFE/status/2087740762955919772#m",
-      "date": "2026-08-13T03:19:20+00:00"
-    },
-    {
       "id": "e4606a112197",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -367,20 +395,6 @@
       "date": "2026-08-13T02:34:37+00:00"
     },
     {
-      "id": "87a456cb2b2c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 285.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 285, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 285, dirección Córdoba",
-      "link": "https://nitter.net/CAPUFE/status/2087728998528713182#m",
-      "date": "2026-08-13T02:32:36+00:00"
-    },
-    {
       "id": "ab3d3a816a03",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -393,34 +407,6 @@
       "text": "#ViaLibre en #Oaxaca tras presencia de personas cerca del Km 359+500 de la carretera Pinotepa Nacional - Salina Cruz. Maneje con precaución. #ViaLibre en #Oaxaca tras presencia de personas cerca del Km 359+500 de la carretera Pinotepa Nacional - Salina Cruz. Maneje con precaución",
       "link": "https://nitter.net/GN_Carreteras/status/2087728080957624584#m",
       "date": "2026-08-13T02:28:57+00:00"
-    },
-    {
-      "id": "1b7c7f12dfe6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 46.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Amecameca - Nepantla, km 46. Continúa cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). 🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Ozumba permanecerá cerr",
-      "link": "https://nitter.net/CAPUFE/status/2087722986820207005#m",
-      "date": "2026-08-13T02:08:42+00:00"
-    },
-    {
-      "id": "9026b7f9b6d6",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 285.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 285, dirección Córdoba. Reducción de carriles por atención de accidente (choque por alcance entre tracto camión y camioneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Cór",
-      "link": "https://nitter.net/CAPUFE/status/2087722303211573718#m",
-      "date": "2026-08-13T02:05:59+00:00"
     },
     {
       "id": "21b8468d39c1",
