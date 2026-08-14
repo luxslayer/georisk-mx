@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T09:08:14.870851+00:00",
-  "count": 36,
+  "updated": "2026-08-14T10:32:32.807105+00:00",
+  "count": 35,
   "incidents": [
     {
       "id": "52205e0afc71",
@@ -267,20 +267,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 85, dirección Veracruz. Continúa la reducción de carriles por atención de accidente (maniobras para retiro de las unidades siniestradas). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba ",
       "link": "https://nitter.net/CAPUFE/status/2088122824204419539#m",
       "date": "2026-08-14T04:37:31+00:00"
-    },
-    {
-      "id": "90c53ac76816",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 98.0,
-      "lat": 18.218174,
-      "lon": -99.530466,
-      "resolved": true,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cuernavaca - Acapulco, km 98, dirección Acapulco. Reducción de carriles por labores de mantenimiento. En la zona se registra circulación lenta. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cuernavaca - Acapul",
-      "link": "https://nitter.net/CAPUFE/status/2088121690991563144#m",
-      "date": "2026-08-14T04:33:01+00:00"
     },
     {
       "id": "78e933035bb3",
