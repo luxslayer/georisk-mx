@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-14T21:50:29.882767+00:00",
-  "count": 33,
+  "updated": "2026-08-14T22:23:49.185495+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "46b748edcf47",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Aguascalientes se registra cierre parcial de circulación por #AccidenteVial cerca del km 056+900, de la carretera Aguascalientes - Zacatecas, a inmediaciones de la localidad Tepezalá, con dirección a Zacatecas. Atienda indicación vial. #TomePrecauciones en #",
+      "link": "https://nitter.net/GN_Carreteras/status/2088390097041248494#m",
+      "date": "2026-08-14T22:19:34+00:00"
+    },
+    {
+      "id": "511b6696af59",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 47.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 047+100, de la carretera Paso Del Toro - Acayucan, a la altura del Mpio. Alvarado, con dirección a Alvarado. Atienda indicación vial. #TomePrecauciones en #Veracruz se registr",
+      "link": "https://nitter.net/GN_Carreteras/status/2088385964184162419#m",
+      "date": "2026-08-14T22:03:08+00:00"
+    },
+    {
+      "id": "e61d712129bd",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 32.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 32, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 32, dirección CDMX. Reducción de car",
+      "link": "https://nitter.net/CAPUFE/status/2088384333232968009#m",
+      "date": "2026-08-14T21:56:40+00:00"
+    },
     {
       "id": "5780831a3989",
       "account": "@capufe",
@@ -339,34 +381,6 @@
       "date": "2026-08-14T17:52:07+00:00"
     },
     {
-      "id": "0c1d535caa78",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Cuernavaca–Acapulco",
-      "route_key": "cuernavaca-acapulco",
-      "km": 219.0,
-      "lat": 16.8531,
-      "lon": -99.8237,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 219, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 219, direcci",
-      "link": "https://nitter.net/CAPUFE/status/2088322112813437179#m",
-      "date": "2026-08-14T17:49:25+00:00"
-    },
-    {
-      "id": "58a7d4c8703b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 106.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 106, dirección Estación Don. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopi",
-      "link": "https://nitter.net/CAPUFE/status/2088321486821982663#m",
-      "date": "2026-08-14T17:46:56+00:00"
-    },
-    {
       "id": "b1f1f2c3846b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -435,34 +449,6 @@
       "text": "#TomePrecauciones en #SLP se registra presencia de personas, cerca del km 060+800, de la carretera Aut. Ventura - Peyote, a inmediaciones del municipio de Villa Hidalgo, S.L.P., con dirección en ambos sentidos. Atienda indicación vial. #TomePrecauciones en #SLP se registra presen",
       "link": "https://nitter.net/GN_Carreteras/status/2088303224277070007#m",
       "date": "2026-08-14T16:34:22+00:00"
-    },
-    {
-      "id": "45ead205b0a3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 130.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 130+000, de la carretera Perote-Banderilla, a inmediaciones del municipio Ejido San José, con dirección a Perote. Atienda indicación vial. #TomePrecauciones en #Veracruz se re",
-      "link": "https://nitter.net/GN_Carreteras/status/2088300512764408144#m",
-      "date": "2026-08-14T16:23:35+00:00"
-    },
-    {
-      "id": "0ae05da930e2",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 45.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Michoacán tras #AccidenteVial e incendio de un vehículo, cerca del km. 045+800 de la carretera Morelia-Pátzcuaro, en desviación a Macrolibramiento de Morelia. Maneje con precaución. #VíaLibre en #Michoacán tras #AccidenteVial e incendio de un vehículo, cerca del km.",
-      "link": "https://nitter.net/GN_Carreteras/status/2088294617187754086#m",
-      "date": "2026-08-14T16:00:10+00:00"
     }
   ]
 }
