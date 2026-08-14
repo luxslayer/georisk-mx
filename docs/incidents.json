@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-14T20:32:01.218030+00:00",
-  "count": 32,
+  "updated": "2026-08-14T21:26:08.708905+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "a259b93b5896",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 13.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Ent. San José - Ent. Corral de Piedra, km 13. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙",
+      "link": "https://nitter.net/CAPUFE/status/2088375871648244146#m",
+      "date": "2026-08-14T21:23:02+00:00"
+    },
+    {
+      "id": "093d1923176a",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 104.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 104+500 de la carretera Alazán-Canoas, a inmediaciones del Mpio. Ahualulco. Maneje con precaución. #VíaLibre en #Veracruz tras #AccidenteVial cerca del km 104+500 de la carretera Alazán-Canoas, a inmediaciones del Mpio. Ahua",
+      "link": "https://nitter.net/GN_Carreteras/status/2088372333878939925#m",
+      "date": "2026-08-14T21:08:59+00:00"
+    },
+    {
+      "id": "f129d998eaaf",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 13.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Ent. San José - Ent. Corral de Piedra, km 13. Cierre a la circulación en ambos sentidos por maniobras de grúa para el retiro de unidad siniestrada que trasporta combustible. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/Wy8Xv",
+      "link": "https://nitter.net/CAPUFE/status/2088371382153302052#m",
+      "date": "2026-08-14T21:05:12+00:00"
+    },
+    {
+      "id": "082c4f38131b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 153.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 153, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 153, dirección CDMX. El accidente ha sido atendido. En la zona se registra c",
+      "link": "https://nitter.net/CAPUFE/status/2088366525535400285#m",
+      "date": "2026-08-14T20:45:54+00:00"
+    },
     {
       "id": "f7a29a89b169",
       "account": "@GN_carreteras",
@@ -311,20 +367,6 @@
       "date": "2026-08-14T17:38:36+00:00"
     },
     {
-      "id": "4ed2f5e59dfb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 24. Continúa reducción de carriles en ambos sentidos por atención de accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE",
-      "link": "https://nitter.net/CAPUFE/status/2088318718526783645#m",
-      "date": "2026-08-14T17:35:56+00:00"
-    },
-    {
       "id": "b1f1f2c3846b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -337,20 +379,6 @@
       "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km. 069+600 de la carretera Amozoc-Teziutlan. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km. 069+600 de la carretera Amozoc-Teziutlan. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2088315769914323080#m",
       "date": "2026-08-14T17:24:13+00:00"
-    },
-    {
-      "id": "ee801a3ecbe5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 106.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Estación Don - Navojoa, km 106, dirección Estación Don. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 A",
-      "link": "https://nitter.net/CAPUFE/status/2088314252528341496#m",
-      "date": "2026-08-14T17:18:11+00:00"
     },
     {
       "id": "2d0f7e9ad7ff",
@@ -435,20 +463,6 @@
       "text": "#VíaLibre en #Michoacán tras #AccidenteVial e incendio de un vehículo, cerca del km. 045+800 de la carretera Morelia-Pátzcuaro, en desviación a Macrolibramiento de Morelia. Maneje con precaución. #VíaLibre en #Michoacán tras #AccidenteVial e incendio de un vehículo, cerca del km.",
       "link": "https://nitter.net/GN_Carreteras/status/2088294617187754086#m",
       "date": "2026-08-14T16:00:10+00:00"
-    },
-    {
-      "id": "3b91d3aea002",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 248.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 248+900, de la carretera Maravatío-Zapotlanejo, a inmediaciones del municipio El Nispo, con dirección a Zapotlanejo. Atienda indicación vial. #TomePrecauciones en #Michoacán ",
-      "link": "https://nitter.net/GN_Carreteras/status/2088283136098533697#m",
-      "date": "2026-08-14T15:14:32+00:00"
     }
   ]
 }
