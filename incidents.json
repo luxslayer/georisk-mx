@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-14T21:26:08.708905+00:00",
+  "updated": "2026-08-14T21:50:29.882767+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "5780831a3989",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 106.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 106, dirección Estación Don. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Est",
+      "link": "https://nitter.net/CAPUFE/status/2088377872763232612#m",
+      "date": "2026-08-14T21:30:59+00:00"
+    },
     {
       "id": "a259b93b5896",
       "account": "@capufe",
@@ -351,20 +365,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 106, dirección Estación Don. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopi",
       "link": "https://nitter.net/CAPUFE/status/2088321486821982663#m",
       "date": "2026-08-14T17:46:56+00:00"
-    },
-    {
-      "id": "85fd44686dec",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 52.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Querétaro - Irapuato, km 52, dirección Irapuato. Continúa reducción de carriles por atención de incidente. @GN_Carreteras realiza labores de atención en el lugar. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIA",
-      "link": "https://nitter.net/CAPUFE/status/2088319391565820284#m",
-      "date": "2026-08-14T17:38:36+00:00"
     },
     {
       "id": "b1f1f2c3846b",
