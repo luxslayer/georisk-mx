@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-14T23:22:25.605468+00:00",
+  "updated": "2026-08-14T23:48:18.810756+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "109f4c6c18cb",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 116.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 116, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQueréta",
+      "link": "https://nitter.net/CAPUFE/status/2088410697767997634#m",
+      "date": "2026-08-14T23:41:25+00:00"
+    },
+    {
+      "id": "817748e6413c",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 116.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 116, dirección Querétaro. Reducción de carriles por atención de accidente (salida del camino de tracto camión y choque contra barrera metálica). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCI",
+      "link": "https://nitter.net/CAPUFE/status/2088407625960702009#m",
+      "date": "2026-08-14T23:29:13+00:00"
+    },
     {
       "id": "5ed3d7ecc9ad",
       "account": "@GN_carreteras",
@@ -337,34 +365,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 24. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 24. El accidente ha sido atendid",
       "link": "https://nitter.net/CAPUFE/status/2088348627769102380#m",
       "date": "2026-08-14T19:34:47+00:00"
-    },
-    {
-      "id": "b47cd50f22e1",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 283.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 283, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 283, dirección Córdoba",
-      "link": "https://nitter.net/CAPUFE/status/2088342389811507599#m",
-      "date": "2026-08-14T19:09:59+00:00"
-    },
-    {
-      "id": "efa0f9d5a66a",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Puente de Ixtla - Iguala, km 20. Circulación en contraflujo por atención de incidente (tracto camión con falla mecánica). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Puente de Ixtla - Igual",
-      "link": "https://nitter.net/CAPUFE/status/2088342041164239148#m",
-      "date": "2026-08-14T19:08:36+00:00"
     },
     {
       "id": "d0086097eb5d",
