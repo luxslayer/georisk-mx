@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-14T22:50:03.268310+00:00",
+  "updated": "2026-08-14T23:22:25.605468+00:00",
   "count": 33,
   "incidents": [
+    {
+      "id": "5ed3d7ecc9ad",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 24.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 024+800, de la carretera Cuacnopalan - Oaxaca, a inmediaciones del Mpio. de Tehuacán. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km 024+800, de la carretera Cuacnopalan - Oaxaca, a inmediaciones ",
+      "link": "https://nitter.net/GN_Carreteras/status/2088402067668750562#m",
+      "date": "2026-08-14T23:07:08+00:00"
+    },
+    {
+      "id": "1b366a0e7987",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Puente de Ixtla - Iguala, km 20. Continúa circulación en contraflujo por atención de incidente (tracto camión con falla mecánica). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Puente de Ixtl",
+      "link": "https://nitter.net/CAPUFE/status/2088401670564917315#m",
+      "date": "2026-08-14T23:05:33+00:00"
+    },
+    {
+      "id": "a38c96584c81",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 135.0,
+      "lat": 19.048,
+      "lon": -97.87,
+      "resolved": true,
+      "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 135+500, de la carretera Amozoc-Teziutlán, a inmediaciones del Mpio. de Tlatlauquitepec. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km 135+500, de la carretera Amozoc-Teziutlán, a inmediaciones d",
+      "link": "https://nitter.net/GN_Carreteras/status/2088400980010217853#m",
+      "date": "2026-08-14T23:02:48+00:00"
+    },
+    {
+      "id": "68306e65a00b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Puebla",
+      "route_key": "mexico-puebla",
+      "km": 30.0,
+      "lat": 19.25,
+      "lon": -98.72,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del km 030+300, de la carretera México-Puebla, a inmediaciones del Mpio. San Matías Tepetomatitlán, con dirección a Tlaxcala. Atienda indicación vial. #TomePrecauciones en #Tlaxcala ",
+      "link": "https://nitter.net/GN_Carreteras/status/2088398922473517092#m",
+      "date": "2026-08-14T22:54:38+00:00"
+    },
     {
       "id": "0d77279ef9b6",
       "account": "@GN_carreteras",
@@ -353,20 +409,6 @@
       "date": "2026-08-14T18:57:32+00:00"
     },
     {
-      "id": "720844c6977e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 283.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 283, dirección Córdoba. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 283, dirección Córdoba.",
-      "link": "https://nitter.net/CAPUFE/status/2088329199052550465#m",
-      "date": "2026-08-14T18:17:34+00:00"
-    },
-    {
       "id": "0b5bb6d2ab6c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -421,48 +463,6 @@
       "text": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km 024+800, de la carretera Cuacnopalan - Oaxaca, a inmediaciones del Mpio. de Tehuacán, con dirección a Cuacnopalan. Atienda indicación vial. #TomePrecauciones en #Puebla continua ci",
       "link": "https://nitter.net/GN_Carreteras/status/2088322791057629690#m",
       "date": "2026-08-14T17:52:07+00:00"
-    },
-    {
-      "id": "b1f1f2c3846b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 69.0,
-      "lat": 19.128175,
-      "lon": -98.413175,
-      "resolved": true,
-      "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km. 069+600 de la carretera Amozoc-Teziutlan. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km. 069+600 de la carretera Amozoc-Teziutlan. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2088315769914323080#m",
-      "date": "2026-08-14T17:24:13+00:00"
-    },
-    {
-      "id": "2d0f7e9ad7ff",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "Gdl–Morelia",
-      "route_key": "guadalajara-morelia",
-      "km": 64.0,
-      "lat": 20.3012,
-      "lon": -102.5456,
-      "resolved": true,
-      "text": "#TomeloEnCuenta en #SLP se registra presencia de personas, cerca del km 064+000, de la carretera Aut. Ventura - Peyote, a la altura del Mpio. Villa Hidalgo, S.L.P. Atienda indicación vial. #TomeloEnCuenta en #SLP se registra presencia de personas, cerca del km 064+000, de la carr",
-      "link": "https://nitter.net/GN_Carreteras/status/2088312128851575043#m",
-      "date": "2026-08-14T17:09:45+00:00"
-    },
-    {
-      "id": "9257e999068f",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "Toluca–Palmillas",
-      "route_key": "toluca-palmillas",
-      "km": 13.0,
-      "lat": 19.47164,
-      "lon": -99.73836,
-      "resolved": true,
-      "text": "#PrecauciónVial en #EdoMéx se registra presencia de personas, cerca del km 013+100, de la carretera Toluca-Palmillas, a la altura de la Plaza de Cobro El Dorado, Toluca, Edo. Méx. Atienda indicación vial. #PrecauciónVial en #EdoMéx se registra presencia de personas, cerca del km ",
-      "link": "https://nitter.net/GN_Carreteras/status/2088309353694523748#m",
-      "date": "2026-08-14T16:58:43+00:00"
     }
   ]
 }
