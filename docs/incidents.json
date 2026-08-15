@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-15T05:51:08.807932+00:00",
+  "updated": "2026-08-15T06:39:29.994619+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "c6f348a402f5",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Amecameca - Nepantla, km 44. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Amecameca - Nepantla, km 44. El accidente ha si",
+      "link": "https://nitter.net/CAPUFE/status/2088509413283819904#m",
+      "date": "2026-08-15T06:13:41+00:00"
+    },
+    {
+      "id": "b255949db746",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 84.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 84, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 84, dirección Acapulco. El accidente ha ",
+      "link": "https://nitter.net/CAPUFE/status/2088505846204346862#m",
+      "date": "2026-08-15T05:59:30+00:00"
+    },
+    {
+      "id": "7ae86b72d993",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 91.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 91, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 91, dirección Acapulco. El accidente ha ",
+      "link": "https://nitter.net/CAPUFE/status/2088504967564837173#m",
+      "date": "2026-08-15T05:56:01+00:00"
+    },
     {
       "id": "3438a01af529",
       "account": "@GN_carreteras",
@@ -255,20 +297,6 @@
       "date": "2026-08-15T03:05:00+00:00"
     },
     {
-      "id": "908ce397810b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 116.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 116, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #Au",
-      "link": "https://nitter.net/CAPUFE/status/2088461795442782654#m",
-      "date": "2026-08-15T03:04:28+00:00"
-    },
-    {
       "id": "0ac0fffba53b",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -281,34 +309,6 @@
       "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 079+800, de la carretera Pátzcuaro - Uruapan (directo), a la altura del Mpio. de Jujúcato, con dirección a Morelia. Atienda indicación vial. #TomePrecauciones en #Michoacán s",
       "link": "https://nitter.net/GN_Carreteras/status/2088456747929231418#m",
       "date": "2026-08-15T02:44:25+00:00"
-    },
-    {
-      "id": "47aff28fea9c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 63.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 63, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 63, dirección Cuernavaca. Reducció",
-      "link": "https://nitter.net/CAPUFE/status/2088455706370297860#m",
-      "date": "2026-08-15T02:40:16+00:00"
-    },
-    {
-      "id": "4957d8a62367",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 44.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Amecameca - Nepantla, km 44. Reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Amecameca - Nepantla, km 44. Reducción d",
-      "link": "https://nitter.net/CAPUFE/status/2088453979206226359#m",
-      "date": "2026-08-15T02:33:24+00:00"
     },
     {
       "id": "1fc3b94b0e27",
