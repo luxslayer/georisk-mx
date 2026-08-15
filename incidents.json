@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-15T10:48:26.931622+00:00",
-  "count": 36,
+  "updated": "2026-08-15T11:20:59.307073+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "43b424c93e09",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 54, dirección Irapuato. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 54, direc",
+      "link": "https://nitter.net/CAPUFE/status/2088585667630490077#m",
+      "date": "2026-08-15T11:16:41+00:00"
+    },
+    {
+      "id": "b0f95a1f4bc0",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 81.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 81, dirección Veracruz. Reducción de carriles por atención de incidente (tracto camión con ponchadura de neumáticos). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 81, d",
+      "link": "https://nitter.net/CAPUFE/status/2088585028628300263#m",
+      "date": "2026-08-15T11:14:09+00:00"
+    },
     {
       "id": "0d328f708208",
       "account": "@capufe",
@@ -281,20 +309,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 84, dirección Acapulco. Reducción de carriles por atención de accidente (volcadura de vagoneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 84, dirección Acapulco. Reducción de c",
       "link": "https://nitter.net/CAPUFE/status/2088473616685862977#m",
       "date": "2026-08-15T03:51:26+00:00"
-    },
-    {
-      "id": "82c71e2c50d7",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 44.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Amecameca - Nepantla, km 44. Continúa reducción de carriles en ambos sentidos por atención de accidente (reacomodo de muros). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Amecameca - Nepantla, km 44. Continúa r",
-      "link": "https://nitter.net/CAPUFE/status/2088472137698885640#m",
-      "date": "2026-08-15T03:45:34+00:00"
     },
     {
       "id": "0ac0fffba53b",
