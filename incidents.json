@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-15T17:20:49.310625+00:00",
-  "count": 40,
+  "updated": "2026-08-15T17:45:43.301513+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "23840ead1fd9",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 106.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "#ViaLibre en #Veracruz tras #AccidenteVial cerca del km 106+500, de la carretera Ent. La Tinaja-Cosoleacaque, a la altura del Mpio. de Cosamaloapan. Maneje con precaución. #ViaLibre en #Veracruz tras #AccidenteVial cerca del km 106+500, de la carretera Ent. La Tinaja-Cosoleacaque",
+      "link": "https://nitter.net/GN_Carreteras/status/2088682690673537433#m",
+      "date": "2026-08-15T17:42:13+00:00"
+    },
+    {
+      "id": "d477dccc0ad2",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 67.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 67, dirección CDMX. Reducción de carriles por atención de incidente (falla mecánica de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 67, dirección CDMX. Reducción de ca",
+      "link": "https://nitter.net/CAPUFE/status/2088682059405369556#m",
+      "date": "2026-08-15T17:39:43+00:00"
+    },
+    {
+      "id": "d6ce6ee3a692",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 231.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 231. Cierre a la circulación en ambos sentidos por atención de accidente (volcadura de tracto camión). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas",
+      "link": "https://nitter.net/CAPUFE/status/2088681384542126571#m",
+      "date": "2026-08-15T17:37:02+00:00"
+    },
+    {
+      "id": "db1ea69995ea",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 64.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 64, dirección Cuernavaca. Se restablece la circulación. El personal continúa con la atención del accidente, por el momento sin afectar los carriles de rodamiento. Maneja con precaución. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN",
+      "link": "https://nitter.net/CAPUFE/status/2088680776971788606#m",
+      "date": "2026-08-15T17:34:37+00:00"
+    },
+    {
+      "id": "ccfdf655407f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 73.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. Maneja con precaución. Para más inf",
+      "link": "https://nitter.net/CAPUFE/status/2088679195996246450#m",
+      "date": "2026-08-15T17:28:20+00:00"
+    },
     {
       "id": "5c71cbac5abc",
       "account": "@capufe",
@@ -157,20 +227,6 @@
       "date": "2026-08-15T15:49:09+00:00"
     },
     {
-      "id": "14d030b4f273",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 73.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Se informa a las personas usuarias que continúa reducción de carriles por atención de choque de tracto camión tipo pipa contra barrera metálica. En la zona se registra carga vehicular. Maneja",
-      "link": "https://nitter.net/CAPUFE/status/2088651157090533400#m",
-      "date": "2026-08-15T15:36:55+00:00"
-    },
-    {
       "id": "f52f6dd6e6bb",
       "account": "@capufe",
       "type": "accident",
@@ -253,62 +309,6 @@
       "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 69, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro ",
       "link": "https://nitter.net/CAPUFE/status/2088636930707599735#m",
       "date": "2026-08-15T14:40:23+00:00"
-    },
-    {
-      "id": "53093bc0b7c8",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 3.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 3. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 3. El accidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2088633133230924244#m",
-      "date": "2026-08-15T14:25:18+00:00"
-    },
-    {
-      "id": "bba18871d73c",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 81.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 81, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 81, dirección Veracruz. El i",
-      "link": "https://nitter.net/CAPUFE/status/2088633020928475544#m",
-      "date": "2026-08-15T14:24:51+00:00"
-    },
-    {
-      "id": "b36647025e0b",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 106.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 106, dirección La Tinaja. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 R",
-      "link": "https://nitter.net/CAPUFE/status/2088629282939535853#m",
-      "date": "2026-08-15T14:10:00+00:00"
-    },
-    {
-      "id": "961da73fdae0",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 106.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 106, dirección La Tinaja. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣. ☑️ A",
-      "link": "https://nitter.net/CAPUFE/status/2088625605235388634#m",
-      "date": "2026-08-15T13:55:23+00:00"
     },
     {
       "id": "0b6919c0b2be",
@@ -407,20 +407,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 106+500, de la carretera Ent. La Tinaja-Cosoleacaque, a la altura del Mpio. de Cosamaloapan, con dirección a Cosamaloapan. Atienda indicación vial. #TomePrecauciones en #Verac",
       "link": "https://nitter.net/GN_Carreteras/status/2088599354269483377#m",
       "date": "2026-08-15T12:11:05+00:00"
-    },
-    {
-      "id": "a3436e8864c0",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 106.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 106, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino y volcadura de autobús). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km ",
-      "link": "https://nitter.net/CAPUFE/status/2088589999230906588#m",
-      "date": "2026-08-15T11:33:54+00:00"
     },
     {
       "id": "3438a01af529",
@@ -547,20 +533,6 @@
       "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 059+800, de la carretera Pátzcuaro-Uruapan, a la altura del Mpio. Las Trojes del Durazno, con dirección a Pátzcuaro. Atienda indicación vial. #TomePrecauciones en #Michoacán ",
       "link": "https://nitter.net/GN_Carreteras/status/2088427487982129205#m",
       "date": "2026-08-15T00:48:08+00:00"
-    },
-    {
-      "id": "b2ffd0ea9148",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 172.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Pachuca se registra cierre parcial de circulación por #AccidenteVial cerca del km 172+100, de la carretera Libramiento Norte de la Ciudad de México, a la altura el municipio de Emiliano Zapata, con dirección a Pachuca. Atienda indicación vial. #TomePrecaucio",
-      "link": "https://nitter.net/GN_Carreteras/status/2088420111400968492#m",
-      "date": "2026-08-15T00:18:50+00:00"
     }
   ]
 }
