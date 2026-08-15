@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-15T12:39:07.990601+00:00",
+  "updated": "2026-08-15T13:31:00.955029+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "65bfa0bdcdc0",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Córdoba",
+      "route_key": "puebla-cordoba",
+      "km": 149.0,
+      "lat": 18.88565,
+      "lon": -96.944175,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 149+500, de la carretera Puebla - Córdoba, a la altura del Mpio. de Tepeaca, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre par",
+      "link": "https://nitter.net/GN_Carreteras/status/2088618042674602437#m",
+      "date": "2026-08-15T13:25:20+00:00"
+    },
     {
       "id": "283b3ef2dee2",
       "account": "@capufe",
@@ -519,20 +533,6 @@
       "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 135+500, de la carretera Amozoc-Teziutlán, a inmediaciones del Mpio. de Tlatlauquitepec. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km 135+500, de la carretera Amozoc-Teziutlán, a inmediaciones d",
       "link": "https://nitter.net/GN_Carreteras/status/2088400980010217853#m",
       "date": "2026-08-14T23:02:48+00:00"
-    },
-    {
-      "id": "68306e65a00b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 30.0,
-      "lat": 19.25,
-      "lon": -98.72,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del km 030+300, de la carretera México-Puebla, a inmediaciones del Mpio. San Matías Tepetomatitlán, con dirección a Tlaxcala. Atienda indicación vial. #TomePrecauciones en #Tlaxcala ",
-      "link": "https://nitter.net/GN_Carreteras/status/2088398922473517092#m",
-      "date": "2026-08-14T22:54:38+00:00"
     }
   ]
 }
