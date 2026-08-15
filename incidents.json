@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-15T16:51:04.023995+00:00",
-  "count": 38,
+  "updated": "2026-08-15T17:20:49.310625+00:00",
+  "count": 40,
   "incidents": [
+    {
+      "id": "5c71cbac5abc",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 69.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 69, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (labores de limpieza). En la zona se registra carga vehicular. Maneja con precaución. ",
+      "link": "https://nitter.net/CAPUFE/status/2088674875842187296#m",
+      "date": "2026-08-15T17:11:10+00:00"
+    },
+    {
+      "id": "a61fd797dd41",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 84.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 84, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 84, dirección La",
+      "link": "https://nitter.net/CAPUFE/status/2088674008828961257#m",
+      "date": "2026-08-15T17:07:44+00:00"
+    },
+    {
+      "id": "b369c20b794d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 117.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 117, dirección Isla. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 117, dirección Isla. El accidente ha sido atendido. En la zona ",
+      "link": "https://nitter.net/CAPUFE/status/2088673559958650916#m",
+      "date": "2026-08-15T17:05:57+00:00"
+    },
+    {
+      "id": "d5d00207a540",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 54, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). 🔘 Dirección Irapuato, se restablece la circulación. En la zona se registra carg",
+      "link": "https://nitter.net/CAPUFE/status/2088670092724977825#m",
+      "date": "2026-08-15T16:52:10+00:00"
+    },
     {
       "id": "ed5d4ea7ca04",
       "account": "@GN_carreteras",
@@ -241,20 +297,6 @@
       "date": "2026-08-15T14:10:00+00:00"
     },
     {
-      "id": "11b7fe531089",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 3.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 3. Continúa circulación en contraflujo por atención de accidente (servicios periciales). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla -",
-      "link": "https://nitter.net/CAPUFE/status/2088627869761032365#m",
-      "date": "2026-08-15T14:04:23+00:00"
-    },
-    {
       "id": "961da73fdae0",
       "account": "@capufe",
       "type": "accident",
@@ -295,20 +337,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 149+500, de la carretera Puebla - Córdoba, a la altura del Mpio. de Tepeaca, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre par",
       "link": "https://nitter.net/GN_Carreteras/status/2088618042674602437#m",
       "date": "2026-08-15T13:25:20+00:00"
-    },
-    {
-      "id": "283b3ef2dee2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 69.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 69, dirección CDMX. Continúa reducción de carriles por atención de accidente (choque por alcance y salida del camino). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMé",
-      "link": "https://nitter.net/CAPUFE/status/2088604234824425977#m",
-      "date": "2026-08-15T12:30:28+00:00"
     },
     {
       "id": "09559970b85a",
