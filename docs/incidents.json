@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-15T20:48:35.585843+00:00",
-  "count": 40,
+  "updated": "2026-08-15T21:21:47.655905+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "1494f96b5444",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 163.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 163. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por atención del accidente. El personal se encuentra realizando los servicios periciales en la zona. Toma tus precauc",
+      "link": "https://nitter.net/CAPUFE/status/2088737549540016439#m",
+      "date": "2026-08-15T21:20:13+00:00"
+    },
+    {
+      "id": "ac216f14a26b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 54, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 54, dirección Querétaro",
+      "link": "https://nitter.net/CAPUFE/status/2088729959833727314#m",
+      "date": "2026-08-15T20:50:03+00:00"
+    },
     {
       "id": "91176e602d60",
       "account": "@capufe",
@@ -185,20 +213,6 @@
       "date": "2026-08-15T18:48:54+00:00"
     },
     {
-      "id": "ef4a6190e238",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 163.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 163. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. El personal se encuentra realizando los servicios periciales en el lugar. Guardia Nacional coordina ",
-      "link": "https://nitter.net/CAPUFE/status/2088697985815470184#m",
-      "date": "2026-08-15T18:43:00+00:00"
-    },
-    {
       "id": "b6dcbefc64ee",
       "account": "@capufe",
       "type": "accident",
@@ -267,34 +281,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 67, dirección CDMX. Reducción de carriles por atención de incidente (falla mecánica de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 67, dirección CDMX. Reducción de ca",
       "link": "https://nitter.net/CAPUFE/status/2088682059405369556#m",
       "date": "2026-08-15T17:39:43+00:00"
-    },
-    {
-      "id": "d6ce6ee3a692",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 231.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 231. Cierre a la circulación en ambos sentidos por atención de accidente (volcadura de tracto camión). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas",
-      "link": "https://nitter.net/CAPUFE/status/2088681384542126571#m",
-      "date": "2026-08-15T17:37:02+00:00"
-    },
-    {
-      "id": "db1ea69995ea",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 64.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 64, dirección Cuernavaca. Se restablece la circulación. El personal continúa con la atención del accidente, por el momento sin afectar los carriles de rodamiento. Maneja con precaución. 🟢 RESTABLECIMIENTO DE CIRCULACIÓN",
-      "link": "https://nitter.net/CAPUFE/status/2088680776971788606#m",
-      "date": "2026-08-15T17:34:37+00:00"
     },
     {
       "id": "ccfdf655407f",
