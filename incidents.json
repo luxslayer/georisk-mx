@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-15T16:25:39.461389+00:00",
-  "count": 37,
+  "updated": "2026-08-15T16:51:04.023995+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "ed5d4ea7ca04",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 44.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 044+000, de la carretera Guadalajara-Colima con dirección a Guadalajara. Atienda indicación vial. #TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #A",
+      "link": "https://nitter.net/GN_Carreteras/status/2088667172335980584#m",
+      "date": "2026-08-15T16:40:34+00:00"
+    },
+    {
+      "id": "de676015d99f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 102.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tlaxcala se registra cierre total de circulación por #AccidenteVial cerca del km 102+500, de la carretera Los Reyes - Zacatepec. Se orienta a la ciudadanía #Rutaalterna Libramiento Norte de la CDMX. Atienda indicación vial. #TomePrecauciones en #Tlaxcala se ",
+      "link": "https://nitter.net/GN_Carreteras/status/2088666078402715774#m",
+      "date": "2026-08-15T16:36:13+00:00"
+    },
+    {
+      "id": "671b6a285741",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 73.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Se informa a las personas usuarias que se registra cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de la unidad si",
+      "link": "https://nitter.net/CAPUFE/status/2088664924163833890#m",
+      "date": "2026-08-15T16:31:38+00:00"
+    },
+    {
+      "id": "06ed2d1debad",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 64.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 64, dirección Cuernavaca. Continúa reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavac",
+      "link": "https://nitter.net/CAPUFE/status/2088662989255876759#m",
+      "date": "2026-08-15T16:23:56+00:00"
+    },
     {
       "id": "48f11f662fd7",
       "account": "@capufe",
@@ -255,20 +311,6 @@
       "date": "2026-08-15T12:30:28+00:00"
     },
     {
-      "id": "eb44311fd6b4",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 3.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 3. Registra circulación en contraflujo por atención de accidente (caída de motociclista). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla ",
-      "link": "https://nitter.net/CAPUFE/status/2088603367857689034#m",
-      "date": "2026-08-15T12:27:01+00:00"
-    },
-    {
       "id": "09559970b85a",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,34 +533,6 @@
       "text": "#TomePrecauciones en #Pachuca se registra cierre parcial de circulación por #AccidenteVial cerca del km 172+100, de la carretera Libramiento Norte de la Ciudad de México, a la altura el municipio de Emiliano Zapata, con dirección a Pachuca. Atienda indicación vial. #TomePrecaucio",
       "link": "https://nitter.net/GN_Carreteras/status/2088420111400968492#m",
       "date": "2026-08-15T00:18:50+00:00"
-    },
-    {
-      "id": "57f7dd84591e",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 78.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 078+700, de la carretera Tapanatepec- Talismán, a la altura de la localidad La Herradura, con dirección a Tonalá. Atienda indicación vial. #TomePrecauciones en #Chiapas se regi",
-      "link": "https://nitter.net/GN_Carreteras/status/2088418658586443899#m",
-      "date": "2026-08-15T00:13:03+00:00"
-    },
-    {
-      "id": "7edf18aa7817",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 244.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 244+600, de la carretera Tapanatepec- Talismán, a la altura del Mpio. Huixtla, con dirección a Cuacnopalan. Atienda indicación vial. #TomePrecauciones en #Chiapas se registra c",
-      "link": "https://nitter.net/GN_Carreteras/status/2088416537849827633#m",
-      "date": "2026-08-15T00:04:38+00:00"
     }
   ]
 }
