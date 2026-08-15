@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-15T13:31:00.955029+00:00",
-  "count": 38,
+  "updated": "2026-08-15T14:23:43.762680+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "b36647025e0b",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 106.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 106, dirección La Tinaja. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 R",
+      "link": "https://nitter.net/CAPUFE/status/2088629282939535853#m",
+      "date": "2026-08-15T14:10:00+00:00"
+    },
+    {
+      "id": "11b7fe531089",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 3.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 3. Continúa circulación en contraflujo por atención de accidente (servicios periciales). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla -",
+      "link": "https://nitter.net/CAPUFE/status/2088627869761032365#m",
+      "date": "2026-08-15T14:04:23+00:00"
+    },
+    {
+      "id": "961da73fdae0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 106.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 106, dirección La Tinaja. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣. ☑️ A",
+      "link": "https://nitter.net/CAPUFE/status/2088625605235388634#m",
+      "date": "2026-08-15T13:55:23+00:00"
+    },
+    {
+      "id": "0b6919c0b2be",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 71.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 071+000, de la carretera Ent. La Tinaja - Veracruz, a la altura del Mpio. de San Antonio, con dirección a Veracruz. Atienda indicación vial. #TomePrecauciones en #Veracruz se ",
+      "link": "https://nitter.net/GN_Carreteras/status/2088625492182155420#m",
+      "date": "2026-08-15T13:54:56+00:00"
+    },
     {
       "id": "65bfa0bdcdc0",
       "account": "@GN_carreteras",
@@ -43,20 +99,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 3. Registra circulación en contraflujo por atención de accidente (caída de motociclista). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla ",
       "link": "https://nitter.net/CAPUFE/status/2088603367857689034#m",
       "date": "2026-08-15T12:27:01+00:00"
-    },
-    {
-      "id": "98e4d5ebb69e",
-      "account": "@capufe",
-      "type": "rollover",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 106.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "R to @CAPUFE: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 106, dirección La Tinaja. Continúa reducción de carriles por atención de salida del camino y volcadura de autobús. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/f3LzcCoFN66",
-      "link": "https://nitter.net/CAPUFE/status/2088602338525147486#m",
-      "date": "2026-08-15T12:22:56+00:00"
     },
     {
       "id": "09559970b85a",
@@ -297,34 +339,6 @@
       "date": "2026-08-15T05:23:41+00:00"
     },
     {
-      "id": "6abbd8e9266d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 52.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 52, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 52, dirección CDMX. El accidente ha sido atendido",
-      "link": "https://nitter.net/CAPUFE/status/2088489806867124236#m",
-      "date": "2026-08-15T04:55:46+00:00"
-    },
-    {
-      "id": "f99c85099f4e",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 20. Continúa circulación en contraflujo por atención de incidente (tracto camión con falla mecánica). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puen",
-      "link": "https://nitter.net/CAPUFE/status/2088489315319841248#m",
-      "date": "2026-08-15T04:53:49+00:00"
-    },
-    {
       "id": "2904b85a31e4",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -339,20 +353,6 @@
       "date": "2026-08-15T04:41:05+00:00"
     },
     {
-      "id": "083cf3c86fe3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 116.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 116, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 116, dirección Querétaro. El accidente ha s",
-      "link": "https://nitter.net/CAPUFE/status/2088483061444853918#m",
-      "date": "2026-08-15T04:28:58+00:00"
-    },
-    {
       "id": "9a7855a6f85c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -365,20 +365,6 @@
       "text": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 059+800, de la carretera Pátzcuaro-Uruapan, a la altura del Mpio. Las Trojes del Durazno. Maneje con precaución. #VíaLibre en #Michoacán tras #AccidenteVial cerca del km 059+800, de la carretera Pátzcuaro-Uruapan, a la altu",
       "link": "https://nitter.net/GN_Carreteras/status/2088481600149258425#m",
       "date": "2026-08-15T04:23:10+00:00"
-    },
-    {
-      "id": "c1df06ecda80",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 91.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 91, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 91, dirección Acapulco. Reducción de carr",
-      "link": "https://nitter.net/CAPUFE/status/2088480759489151114#m",
-      "date": "2026-08-15T04:19:49+00:00"
     },
     {
       "id": "5ce98431dada",
@@ -519,20 +505,6 @@
       "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 024+800, de la carretera Cuacnopalan - Oaxaca, a inmediaciones del Mpio. de Tehuacán. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km 024+800, de la carretera Cuacnopalan - Oaxaca, a inmediaciones ",
       "link": "https://nitter.net/GN_Carreteras/status/2088402067668750562#m",
       "date": "2026-08-14T23:07:08+00:00"
-    },
-    {
-      "id": "a38c96584c81",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 135.0,
-      "lat": 19.048,
-      "lon": -97.87,
-      "resolved": true,
-      "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 135+500, de la carretera Amozoc-Teziutlán, a inmediaciones del Mpio. de Tlatlauquitepec. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km 135+500, de la carretera Amozoc-Teziutlán, a inmediaciones d",
-      "link": "https://nitter.net/GN_Carreteras/status/2088400980010217853#m",
-      "date": "2026-08-14T23:02:48+00:00"
     }
   ]
 }
