@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-15T11:20:59.307073+00:00",
+  "updated": "2026-08-15T11:44:55.931334+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "a3436e8864c0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 106.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 106, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino y volcadura de autobús). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km ",
+      "link": "https://nitter.net/CAPUFE/status/2088589999230906588#m",
+      "date": "2026-08-15T11:33:54+00:00"
+    },
     {
       "id": "43b424c93e09",
       "account": "@capufe",
@@ -295,20 +309,6 @@
       "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 209+500, de la carretera Puebla - Orizaba, a la altura del Mpio. Cuesta Blanca, con dirección a Puebla. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cierre ",
       "link": "https://nitter.net/GN_Carreteras/status/2088476634110214411#m",
       "date": "2026-08-15T04:03:26+00:00"
-    },
-    {
-      "id": "c91ade4b829d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 84.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 84, dirección Acapulco. Reducción de carriles por atención de accidente (volcadura de vagoneta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 84, dirección Acapulco. Reducción de c",
-      "link": "https://nitter.net/CAPUFE/status/2088473616685862977#m",
-      "date": "2026-08-15T03:51:26+00:00"
     },
     {
       "id": "0ac0fffba53b",
