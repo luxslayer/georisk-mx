@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-15T15:46:12.270618+00:00",
-  "count": 36,
+  "updated": "2026-08-15T16:25:39.461389+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "48f11f662fd7",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 69.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 69, dirección CDMX. Cierres intermitentes por atención de accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. ",
+      "link": "https://nitter.net/CAPUFE/status/2088658483658784921#m",
+      "date": "2026-08-15T16:06:02+00:00"
+    },
+    {
+      "id": "a7c1b5bfd822",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 163.0,
+      "lat": 19.286,
+      "lon": -99.664,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Durango - Mazatlán, km 163. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camiones y automóvil. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/vgX6CaiueqzjecsR8 🔴 ",
+      "link": "https://nitter.net/CAPUFE/status/2088655104563921050#m",
+      "date": "2026-08-15T15:52:36+00:00"
+    },
+    {
+      "id": "549125691e48",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 64.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 64, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 64, dirección Cuernavaca. Reducción de car",
+      "link": "https://nitter.net/CAPUFE/status/2088654235428651216#m",
+      "date": "2026-08-15T15:49:09+00:00"
+    },
     {
       "id": "14d030b4f273",
       "account": "@capufe",
@@ -309,34 +351,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 106, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino y volcadura de autobús). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km ",
       "link": "https://nitter.net/CAPUFE/status/2088589999230906588#m",
       "date": "2026-08-15T11:33:54+00:00"
-    },
-    {
-      "id": "43b424c93e09",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 54.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 54, dirección Irapuato. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 54, direc",
-      "link": "https://nitter.net/CAPUFE/status/2088585667630490077#m",
-      "date": "2026-08-15T11:16:41+00:00"
-    },
-    {
-      "id": "b0f95a1f4bc0",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 81.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 81, dirección Veracruz. Reducción de carriles por atención de incidente (tracto camión con ponchadura de neumáticos). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 81, d",
-      "link": "https://nitter.net/CAPUFE/status/2088585028628300263#m",
-      "date": "2026-08-15T11:14:09+00:00"
     },
     {
       "id": "3438a01af529",
