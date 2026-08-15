@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-15T14:48:49.938097+00:00",
+  "updated": "2026-08-15T15:21:21.695140+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "95ed6942f0be",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 54.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 54, dirección Irapuato. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL ",
+      "link": "https://nitter.net/CAPUFE/status/2088646453270925656#m",
+      "date": "2026-08-15T15:18:14+00:00"
+    },
+    {
+      "id": "fee4299d5089",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠CARGA VEHICULAR🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Carga vehicular a la altura de la salida al Poblado de Jorobas por atención de incidente fuera de la jurisdicción a cargo de CAPUFE. Toma tus precauciones. 🟠CARGA VEHICULAR🟠 #AutMéxicoQuerétaro , km 56, dirección ",
+      "link": "https://nitter.net/CAPUFE/status/2088642018188701954#m",
+      "date": "2026-08-15T15:00:36+00:00"
+    },
+    {
+      "id": "4eab47cf9f83",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 69.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 69, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehi",
+      "link": "https://nitter.net/CAPUFE/status/2088640640372416990#m",
+      "date": "2026-08-15T14:55:08+00:00"
+    },
+    {
+      "id": "f6e13b0ba524",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 2.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomeprecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del Km 002+500 de la carretera Puente de Ixtla-Iguala con dirección Puente de Ixtla. A tienda Indicación vial. #Tomeprecauciones en #Morelos se registra cierre parcial de circulación ",
+      "link": "https://nitter.net/GN_Carreteras/status/2088639322719170853#m",
+      "date": "2026-08-15T14:49:54+00:00"
+    },
     {
       "id": "0c6efefcdcd3",
       "account": "@capufe",
@@ -283,48 +339,6 @@
       "date": "2026-08-15T09:23:57+00:00"
     },
     {
-      "id": "7db190950bbb",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 48.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 48, dirección Puebla. Reducción de carriles por atención de accidente (conato de incendio de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla , km 48, dirección Puebla. Reducción de carril",
-      "link": "https://nitter.net/CAPUFE/status/2088555210008318178#m",
-      "date": "2026-08-15T09:15:40+00:00"
-    },
-    {
-      "id": "adf8117aad42",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 106.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 106, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino y volcadura de autobús). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 106, dire",
-      "link": "https://nitter.net/CAPUFE/status/2088541981089620385#m",
-      "date": "2026-08-15T08:23:06+00:00"
-    },
-    {
-      "id": "c6f348a402f5",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 44.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Amecameca - Nepantla, km 44. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Amecameca - Nepantla, km 44. El accidente ha si",
-      "link": "https://nitter.net/CAPUFE/status/2088509413283819904#m",
-      "date": "2026-08-15T06:13:41+00:00"
-    },
-    {
       "id": "3438a01af529",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,20 +505,6 @@
       "text": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 244+600, de la carretera Tapanatepec- Talismán, a la altura del Mpio. Huixtla, con dirección a Cuacnopalan. Atienda indicación vial. #TomePrecauciones en #Chiapas se registra c",
       "link": "https://nitter.net/GN_Carreteras/status/2088416537849827633#m",
       "date": "2026-08-15T00:04:38+00:00"
-    },
-    {
-      "id": "5ed3d7ecc9ad",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 24.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 024+800, de la carretera Cuacnopalan - Oaxaca, a inmediaciones del Mpio. de Tehuacán. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km 024+800, de la carretera Cuacnopalan - Oaxaca, a inmediaciones ",
-      "link": "https://nitter.net/GN_Carreteras/status/2088402067668750562#m",
-      "date": "2026-08-14T23:07:08+00:00"
     }
   ]
 }
