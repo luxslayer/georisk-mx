@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-15T22:22:34.622210+00:00",
-  "count": 38,
+  "updated": "2026-08-15T22:48:07.300345+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "e6c5cb148257",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 5.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Oriente de Saltillo, km 5, dirección Matehuala. Cierre a la circulación por atención de choque por alcance entre tracto camiones. En la zona se registra derrame de combustible. Toma tus precauciones. Consulta la ubicación aquí: https://maps.a",
+      "link": "https://nitter.net/CAPUFE/status/2088756402626199759#m",
+      "date": "2026-08-15T22:35:08+00:00"
+    },
     {
       "id": "e4d161fdf949",
       "account": "@GN_carreteras",
@@ -283,20 +297,6 @@
       "date": "2026-08-15T18:48:54+00:00"
     },
     {
-      "id": "b6dcbefc64ee",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 73.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 R",
-      "link": "https://nitter.net/CAPUFE/status/2088689894512267367#m",
-      "date": "2026-08-15T18:10:51+00:00"
-    },
-    {
       "id": "a54a1af8d34c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -323,20 +323,6 @@
       "text": "#ViaLibre en #Veracruz tras #AccidenteVial cerca del km 106+500, de la carretera Ent. La Tinaja-Cosoleacaque, a la altura del Mpio. de Cosamaloapan. Maneje con precaución. #ViaLibre en #Veracruz tras #AccidenteVial cerca del km 106+500, de la carretera Ent. La Tinaja-Cosoleacaque",
       "link": "https://nitter.net/GN_Carreteras/status/2088682690673537433#m",
       "date": "2026-08-15T17:42:13+00:00"
-    },
-    {
-      "id": "ccfdf655407f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 73.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. Maneja con precaución. Para más inf",
-      "link": "https://nitter.net/CAPUFE/status/2088679195996246450#m",
-      "date": "2026-08-15T17:28:20+00:00"
     },
     {
       "id": "ed5d4ea7ca04",
@@ -435,20 +421,6 @@
       "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 069+000, de la carretera Querétaro - México, a la altura del Mpio. de Tepotzotlán, con dirección a Tepotzotlán. Atienda indicación vial. #TomePrecauciones en #EdoMéx se registra",
       "link": "https://nitter.net/GN_Carreteras/status/2088602243368980789#m",
       "date": "2026-08-15T12:22:33+00:00"
-    },
-    {
-      "id": "9ffbcbe6ee85",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Acapulco",
-      "route_key": "mexico-acapulco",
-      "km": 73.0,
-      "lat": 18.720775,
-      "lon": -99.13995,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Registra reducción de carriles por atención de choque de tracto camión tipo pipa contra la barrera metálica. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/GnkXt",
-      "link": "https://nitter.net/CAPUFE/status/2088601596456223120#m",
-      "date": "2026-08-15T12:19:59+00:00"
     },
     {
       "id": "cd8cd54a9d74",
