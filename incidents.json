@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-15T05:25:06.388240+00:00",
+  "updated": "2026-08-15T05:51:08.807932+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "3438a01af529",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Gdl–Morelia",
+      "route_key": "guadalajara-morelia",
+      "km": 82.0,
+      "lat": 20.2256,
+      "lon": -102.2828,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 082+500, de la carretera Sta. Barbara - Izúcar de Matamoros, a la altura del Mpio. de El Mirador, con dirección a Cuautla. Atienda indicación vial. #TomePrecauciones en #Morelo",
+      "link": "https://nitter.net/GN_Carreteras/status/2088501248345469160#m",
+      "date": "2026-08-15T05:41:14+00:00"
+    },
     {
       "id": "23b3c8a47d6e",
       "account": "@capufe",
@@ -491,20 +505,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 047+100, de la carretera Paso Del Toro - Acayucan, a la altura del Mpio. Alvarado, con dirección a Alvarado. Atienda indicación vial. #TomePrecauciones en #Veracruz se registr",
       "link": "https://nitter.net/GN_Carreteras/status/2088385964184162419#m",
       "date": "2026-08-14T22:03:08+00:00"
-    },
-    {
-      "id": "093d1923176a",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 104.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 104+500 de la carretera Alazán-Canoas, a inmediaciones del Mpio. Ahualulco. Maneje con precaución. #VíaLibre en #Veracruz tras #AccidenteVial cerca del km 104+500 de la carretera Alazán-Canoas, a inmediaciones del Mpio. Ahua",
-      "link": "https://nitter.net/GN_Carreteras/status/2088372333878939925#m",
-      "date": "2026-08-14T21:08:59+00:00"
     }
   ]
 }
