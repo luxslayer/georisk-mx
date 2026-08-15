@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-15T14:23:43.762680+00:00",
+  "updated": "2026-08-15T14:48:49.938097+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "0c6efefcdcd3",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 69.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 69, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro ",
+      "link": "https://nitter.net/CAPUFE/status/2088636930707599735#m",
+      "date": "2026-08-15T14:40:23+00:00"
+    },
+    {
+      "id": "53093bc0b7c8",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 3.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 3. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 3. El accidente ha ",
+      "link": "https://nitter.net/CAPUFE/status/2088633133230924244#m",
+      "date": "2026-08-15T14:25:18+00:00"
+    },
+    {
+      "id": "bba18871d73c",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 81.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 81, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 81, dirección Veracruz. El i",
+      "link": "https://nitter.net/CAPUFE/status/2088633020928475544#m",
+      "date": "2026-08-15T14:24:51+00:00"
+    },
     {
       "id": "b36647025e0b",
       "account": "@capufe",
@@ -283,34 +325,6 @@
       "date": "2026-08-15T06:13:41+00:00"
     },
     {
-      "id": "b255949db746",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 84.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 84, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 84, dirección Acapulco. El accidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2088505846204346862#m",
-      "date": "2026-08-15T05:59:30+00:00"
-    },
-    {
-      "id": "7ae86b72d993",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 91.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 91, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 91, dirección Acapulco. El accidente ha ",
-      "link": "https://nitter.net/CAPUFE/status/2088504967564837173#m",
-      "date": "2026-08-15T05:56:01+00:00"
-    },
-    {
       "id": "3438a01af529",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -323,20 +337,6 @@
       "text": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 082+500, de la carretera Sta. Barbara - Izúcar de Matamoros, a la altura del Mpio. de El Mirador, con dirección a Cuautla. Atienda indicación vial. #TomePrecauciones en #Morelo",
       "link": "https://nitter.net/GN_Carreteras/status/2088501248345469160#m",
       "date": "2026-08-15T05:41:14+00:00"
-    },
-    {
-      "id": "23b3c8a47d6e",
-      "account": "@capufe",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 20. El incidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 20. El incidente h",
-      "link": "https://nitter.net/CAPUFE/status/2088496830157894132#m",
-      "date": "2026-08-15T05:23:41+00:00"
     },
     {
       "id": "2904b85a31e4",
