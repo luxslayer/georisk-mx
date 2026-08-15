@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-15T22:48:07.300345+00:00",
-  "count": 36,
+  "updated": "2026-08-15T23:20:49.464228+00:00",
+  "count": 34,
   "incidents": [
+    {
+      "id": "0ee85b58fe7e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 84.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 84, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 84, dirección La Tinaja. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2088764981923676315#m",
+      "date": "2026-08-15T23:09:13+00:00"
+    },
+    {
+      "id": "cd28a86323af",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 57.0,
+      "lat": 20.1192,
+      "lon": -99.3956,
+      "resolved": true,
+      "text": "#ViaLibre en #EdoMex tras presencia de personas cerca del Km 057+000 de la carretera México-Querétaro a la altura del Mpio. Jorobas. Maneje con precaución. #ViaLibre en #EdoMex tras presencia de personas cerca del Km 057+000 de la carretera México-Querétaro a la altura del Mpio. ",
+      "link": "https://nitter.net/GN_Carreteras/status/2088763846592737343#m",
+      "date": "2026-08-15T23:04:43+00:00"
+    },
+    {
+      "id": "8355a9223f00",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 8.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomesusprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del Km 008+300 de la carretera La Rinconada-Ecuandureo. Atienda indicación Vial. #Tomesusprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial c",
+      "link": "https://nitter.net/GN_Carreteras/status/2088763301081547017#m",
+      "date": "2026-08-15T23:02:32+00:00"
+    },
+    {
+      "id": "e296894ba394",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 53.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomesusprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 053+800 de la carretera Cuacnopalan-Oaxaca. Atienda indicación Vial. #Tomesusprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km",
+      "link": "https://nitter.net/GN_Carreteras/status/2088761361321132392#m",
+      "date": "2026-08-15T22:54:50+00:00"
+    },
     {
       "id": "e6c5cb148257",
       "account": "@capufe",
@@ -255,48 +311,6 @@
       "date": "2026-08-15T19:21:59+00:00"
     },
     {
-      "id": "c51a1233f0dd",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Isla–Acayucan",
-      "route_key": "isla-acayucan",
-      "km": 160.0,
-      "lat": 17.948,
-      "lon": -94.914,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Isla - Acayucan, km 160, dirección Acayucan. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Isla - Acayucan, km 160, dirección Acayucan. Reducción",
-      "link": "https://nitter.net/CAPUFE/status/2088704771805069797#m",
-      "date": "2026-08-15T19:09:58+00:00"
-    },
-    {
-      "id": "3f83e58981b5",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 45.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, del km 45 al 62, dirección Cuernavaca. Registra carga vehicular por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca , del km 45 al 62, dirección Cuernavaca. Registra carga vehicular por periodo vacacion",
-      "link": "https://nitter.net/CAPUFE/status/2088700109970452689#m",
-      "date": "2026-08-15T18:51:27+00:00"
-    },
-    {
-      "id": "15659106eeaf",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 64.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 64, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 64, dirección Cuernavaca. El accidente ha",
-      "link": "https://nitter.net/CAPUFE/status/2088699469231710259#m",
-      "date": "2026-08-15T18:48:54+00:00"
-    },
-    {
       "id": "a54a1af8d34c",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -463,48 +477,6 @@
       "text": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 106+500, de la carretera Ent. La Tinaja-Cosoleacaque, a la altura del Mpio. de Cosamaloapan, con dirección a Cosamaloapan. Atienda indicación vial. #TomePrecauciones en #Verac",
       "link": "https://nitter.net/GN_Carreteras/status/2088599354269483377#m",
       "date": "2026-08-15T12:11:05+00:00"
-    },
-    {
-      "id": "3438a01af529",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Gdl–Morelia",
-      "route_key": "guadalajara-morelia",
-      "km": 82.0,
-      "lat": 20.2256,
-      "lon": -102.2828,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 082+500, de la carretera Sta. Barbara - Izúcar de Matamoros, a la altura del Mpio. de El Mirador, con dirección a Cuautla. Atienda indicación vial. #TomePrecauciones en #Morelo",
-      "link": "https://nitter.net/GN_Carreteras/status/2088501248345469160#m",
-      "date": "2026-08-15T05:41:14+00:00"
-    },
-    {
-      "id": "2904b85a31e4",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 128.0,
-      "lat": 20.4552,
-      "lon": -100.0448,
-      "resolved": true,
-      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 128+300, de la carretera México - Querétaro, a la altura de la localidad El Cazadero, con dirección a Cd. Méx. Atienda indicación vial. #TomePrecauciones en #EdoMéx se registra ",
-      "link": "https://nitter.net/GN_Carreteras/status/2088486110687076382#m",
-      "date": "2026-08-15T04:41:05+00:00"
-    },
-    {
-      "id": "9a7855a6f85c",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 59.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 059+800, de la carretera Pátzcuaro-Uruapan, a la altura del Mpio. Las Trojes del Durazno. Maneje con precaución. #VíaLibre en #Michoacán tras #AccidenteVial cerca del km 059+800, de la carretera Pátzcuaro-Uruapan, a la altu",
-      "link": "https://nitter.net/GN_Carreteras/status/2088481600149258425#m",
-      "date": "2026-08-15T04:23:10+00:00"
     }
   ]
 }
