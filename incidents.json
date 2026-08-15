@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-15T04:32:20.957060+00:00",
-  "count": 37,
+  "updated": "2026-08-15T05:25:06.388240+00:00",
+  "count": 36,
   "incidents": [
+    {
+      "id": "23b3c8a47d6e",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 20. El incidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 20. El incidente h",
+      "link": "https://nitter.net/CAPUFE/status/2088496830157894132#m",
+      "date": "2026-08-15T05:23:41+00:00"
+    },
+    {
+      "id": "6abbd8e9266d",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 52.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 52, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro , km 52, dirección CDMX. El accidente ha sido atendido",
+      "link": "https://nitter.net/CAPUFE/status/2088489806867124236#m",
+      "date": "2026-08-15T04:55:46+00:00"
+    },
+    {
+      "id": "f99c85099f4e",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 20.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 20. Continúa circulación en contraflujo por atención de incidente (tracto camión con falla mecánica). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puen",
+      "link": "https://nitter.net/CAPUFE/status/2088489315319841248#m",
+      "date": "2026-08-15T04:53:49+00:00"
+    },
+    {
+      "id": "2904b85a31e4",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 128.0,
+      "lat": 20.4552,
+      "lon": -100.0448,
+      "resolved": true,
+      "text": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 128+300, de la carretera México - Querétaro, a la altura de la localidad El Cazadero, con dirección a Cd. Méx. Atienda indicación vial. #TomePrecauciones en #EdoMéx se registra ",
+      "link": "https://nitter.net/GN_Carreteras/status/2088486110687076382#m",
+      "date": "2026-08-15T04:41:05+00:00"
+    },
     {
       "id": "083cf3c86fe3",
       "account": "@capufe",
@@ -241,62 +297,6 @@
       "date": "2026-08-15T02:33:24+00:00"
     },
     {
-      "id": "3407a4b13e98",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 20.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 20. Continúa circulación en contraflujo por atención de incidente (tracto camión con falla mecánica). Atiende las indicaciones viales y maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puen",
-      "link": "https://nitter.net/CAPUFE/status/2088451504948547873#m",
-      "date": "2026-08-15T02:23:34+00:00"
-    },
-    {
-      "id": "2f73b3c9492e",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 69.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 69, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance múltiple entre automóviles). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #",
-      "link": "https://nitter.net/CAPUFE/status/2088449470329434301#m",
-      "date": "2026-08-15T02:15:29+00:00"
-    },
-    {
-      "id": "9bb8074c6315",
-      "account": "@capufe",
-      "type": "traffic",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 56.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, por periodo vacacional. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga vehicu",
-      "link": "https://nitter.net/CAPUFE/status/2088448445736481094#m",
-      "date": "2026-08-15T02:11:25+00:00"
-    },
-    {
-      "id": "ff658ae3bc12",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 210.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 210, dirección Acatzingo. Reducción de carriles por atención de accidente (salida del camino de tracto camión y choque contra barrera metálica). En la zona se registra carga vehicular. Maneja con precaución. ",
-      "link": "https://nitter.net/CAPUFE/status/2088446633486758356#m",
-      "date": "2026-08-15T02:04:13+00:00"
-    },
-    {
       "id": "1fc3b94b0e27",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -505,20 +505,6 @@
       "text": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 104+500 de la carretera Alazán-Canoas, a inmediaciones del Mpio. Ahualulco. Maneje con precaución. #VíaLibre en #Veracruz tras #AccidenteVial cerca del km 104+500 de la carretera Alazán-Canoas, a inmediaciones del Mpio. Ahua",
       "link": "https://nitter.net/GN_Carreteras/status/2088372333878939925#m",
       "date": "2026-08-14T21:08:59+00:00"
-    },
-    {
-      "id": "f7a29a89b169",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 65.0,
-      "lat": 19.137875,
-      "lon": -98.442875,
-      "resolved": true,
-      "text": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 065+500, de la carretera Amozoc - Teziutlan, a la altura de la localidad Oriental, con dirección a Amozoc. Atienda indicación vial. #TomePrecauciones en #Puebla se registra cier",
-      "link": "https://nitter.net/GN_Carreteras/status/2088361206562361486#m",
-      "date": "2026-08-14T20:24:46+00:00"
     }
   ]
 }
