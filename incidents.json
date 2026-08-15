@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-15T17:45:43.301513+00:00",
-  "count": 38,
+  "updated": "2026-08-15T18:30:53.037429+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "b6dcbefc64ee",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 73.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 R",
+      "link": "https://nitter.net/CAPUFE/status/2088689894512267367#m",
+      "date": "2026-08-15T18:10:51+00:00"
+    },
+    {
+      "id": "481883785f80",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 69.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 69, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 69, dirección CDMX. El accidente ha sido atendido. En la zona se registra car",
+      "link": "https://nitter.net/CAPUFE/status/2088683961505431821#m",
+      "date": "2026-08-15T17:47:16+00:00"
+    },
+    {
+      "id": "a54a1af8d34c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 160.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 160+000, de la carretera Coatzacoalcos-Villahermosa, con dirección a Coatzacoalcos. Atienda indicación vial. #TomePrecauciones en #Tabasco se registra cierre parcial de circula",
+      "link": "https://nitter.net/GN_Carreteras/status/2088683827925582282#m",
+      "date": "2026-08-15T17:46:45+00:00"
+    },
     {
       "id": "23840ead1fd9",
       "account": "@GN_carreteras",
@@ -157,20 +199,6 @@
       "date": "2026-08-15T16:36:13+00:00"
     },
     {
-      "id": "671b6a285741",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 73.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Se informa a las personas usuarias que se registra cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de la unidad si",
-      "link": "https://nitter.net/CAPUFE/status/2088664924163833890#m",
-      "date": "2026-08-15T16:31:38+00:00"
-    },
-    {
       "id": "06ed2d1debad",
       "account": "@capufe",
       "type": "accident",
@@ -269,20 +297,6 @@
       "date": "2026-08-15T15:00:36+00:00"
     },
     {
-      "id": "4eab47cf9f83",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 69.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 69, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehi",
-      "link": "https://nitter.net/CAPUFE/status/2088640640372416990#m",
-      "date": "2026-08-15T14:55:08+00:00"
-    },
-    {
       "id": "f6e13b0ba524",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -295,20 +309,6 @@
       "text": "#Tomeprecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del Km 002+500 de la carretera Puente de Ixtla-Iguala con dirección Puente de Ixtla. A tienda Indicación vial. #Tomeprecauciones en #Morelos se registra cierre parcial de circulación ",
       "link": "https://nitter.net/GN_Carreteras/status/2088639322719170853#m",
       "date": "2026-08-15T14:49:54+00:00"
-    },
-    {
-      "id": "0c6efefcdcd3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 69.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 69, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro ",
-      "link": "https://nitter.net/CAPUFE/status/2088636930707599735#m",
-      "date": "2026-08-15T14:40:23+00:00"
     },
     {
       "id": "0b6919c0b2be",
@@ -519,20 +519,6 @@
       "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 065+500, de la carretera Amozoc - Teziutlan, a la altura de la localidad Oriental. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del km 065+500, de la carretera Amozoc - Teziutlan, a la altura de la loc",
       "link": "https://nitter.net/GN_Carreteras/status/2088428482678177957#m",
       "date": "2026-08-15T00:52:06+00:00"
-    },
-    {
-      "id": "c79844a361c9",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 59.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 059+800, de la carretera Pátzcuaro-Uruapan, a la altura del Mpio. Las Trojes del Durazno, con dirección a Pátzcuaro. Atienda indicación vial. #TomePrecauciones en #Michoacán ",
-      "link": "https://nitter.net/GN_Carreteras/status/2088427487982129205#m",
-      "date": "2026-08-15T00:48:08+00:00"
     }
   ]
 }
