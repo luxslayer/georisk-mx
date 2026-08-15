@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-15T07:31:55.052095+00:00",
+  "updated": "2026-08-15T08:30:07.571250+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "adf8117aad42",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 106.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 106, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino y volcadura de autobús). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 106, dire",
+      "link": "https://nitter.net/CAPUFE/status/2088541981089620385#m",
+      "date": "2026-08-15T08:23:06+00:00"
+    },
     {
       "id": "c6f348a402f5",
       "account": "@capufe",
@@ -281,20 +295,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 69, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 69, dirección Cuernavaca. El accidente ha",
       "link": "https://nitter.net/CAPUFE/status/2088462025022169147#m",
       "date": "2026-08-15T03:05:23+00:00"
-    },
-    {
-      "id": "87c6439dbd1d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 63.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 63, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 63, dirección Cuernavaca. El accidente ha",
-      "link": "https://nitter.net/CAPUFE/status/2088461928830001312#m",
-      "date": "2026-08-15T03:05:00+00:00"
     },
     {
       "id": "0ac0fffba53b",
