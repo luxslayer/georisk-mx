@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-16T19:21:05.266831+00:00",
+  "updated": "2026-08-16T19:44:12.036835+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "030846108387",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 95.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 95, dirección La Tinaja. Reducción de carriles por atención de accidente (choque por alcance y salida del camino de tracto camión). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE ",
+      "link": "https://nitter.net/CAPUFE/status/2089073268238020810#m",
+      "date": "2026-08-16T19:34:14+00:00"
+    },
+    {
+      "id": "df8819b2e3db",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 3.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 3, dirección Iguala. Continúa reducción de carriles por atención de accidente (servicios periciales). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopist",
+      "link": "https://nitter.net/CAPUFE/status/2089071798595846606#m",
+      "date": "2026-08-16T19:28:24+00:00"
+    },
     {
       "id": "f78a0a966881",
       "account": "@capufe",
@@ -337,34 +365,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 92, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 92, dir",
       "link": "https://nitter.net/CAPUFE/status/2088986653465493996#m",
       "date": "2026-08-16T13:50:04+00:00"
-    },
-    {
-      "id": "b0cc3f5d8864",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 83.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 83, dirección Acapulco. Continúa reducción de carriles por atención de accidente (choque por alcance múltiple). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 83, dirección Acapulco.",
-      "link": "https://nitter.net/CAPUFE/status/2088985607208837145#m",
-      "date": "2026-08-16T13:45:54+00:00"
-    },
-    {
-      "id": "670a8a7cbef0",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 83.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 83, dirección Acapulco. Continúa reducción de carriles por atención de accidente (choque por alcance múltiple). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 83, dirección Acapulco.",
-      "link": "https://nitter.net/CAPUFE/status/2088971232687313044#m",
-      "date": "2026-08-16T12:48:47+00:00"
     },
     {
       "id": "8e1a06bf7d2f",
