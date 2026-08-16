@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-16T05:56:20.649263+00:00",
-  "count": 32,
+  "updated": "2026-08-16T06:46:36.281075+00:00",
+  "count": 33,
   "incidents": [
+    {
+      "id": "95ab0383e2d0",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Gdl–Tepic",
+      "route_key": "guadalajara-tepic",
+      "km": 4.0,
+      "lat": 20.677324,
+      "lon": -103.385632,
+      "resolved": true,
+      "text": "En #Oaxaca tras cierre total de circulación por #AccidenteVial cerca del Km 004+950 de la carretera Oaxaca-Tehuantepec. Se orienta a la ciudadanía seguir por la #Rutaalterna autopista Oaxaca- Istmo. Atienda indicación vial. En #Oaxaca tras cierre total de circulación por #Acciden",
+      "link": "https://nitter.net/GN_Carreteras/status/2088873659364516019#m",
+      "date": "2026-08-16T06:21:04+00:00"
+    },
+    {
+      "id": "3d02870f592f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Gdl–Tepic",
+      "route_key": "guadalajara-tepic",
+      "km": 4.0,
+      "lat": 20.677324,
+      "lon": -103.385632,
+      "resolved": true,
+      "text": "#Tomesusprecauciones en #Oaxaca se registra cierre total de circulación por #AccidenteVial cerca del Km 004+950 de la carretera Oaxaca - Tehuantepec. Atienda indicación Vial. #Tomesusprecauciones en #Oaxaca se registra cierre total de circulación por #AccidenteVial cerca del Km 0",
+      "link": "https://nitter.net/GN_Carreteras/status/2088872577540169836#m",
+      "date": "2026-08-16T06:16:46+00:00"
+    },
+    {
+      "id": "eed887c2e596",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 75.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 75, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca , km 75, dirección Cuernavaca. El accidente ha",
+      "link": "https://nitter.net/CAPUFE/status/2088869773807427883#m",
+      "date": "2026-08-16T06:05:38+00:00"
+    },
+    {
+      "id": "9f8795a0bd35",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 73.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 73, dirección Gómez Palacio. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - ",
+      "link": "https://nitter.net/CAPUFE/status/2088868474550407360#m",
+      "date": "2026-08-16T06:00:28+00:00"
+    },
     {
       "id": "2f444354413b",
       "account": "@capufe",
@@ -213,20 +269,6 @@
       "date": "2026-08-16T03:23:26+00:00"
     },
     {
-      "id": "ba1ce2540ad9",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 32.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Salina Cruz - La Ventosa, km 32, dirección La Ventosa. Cierre a la circulación por atención de accidente (choque de frente). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Salina Cruz - La Vento",
-      "link": "https://nitter.net/CAPUFE/status/2088823721825808863#m",
-      "date": "2026-08-16T03:02:38+00:00"
-    },
-    {
       "id": "c1edaad0557d",
       "account": "@GN_carreteras",
       "type": "closure",
@@ -407,34 +449,6 @@
       "text": "#Tomeprecauciones en #EdoMex se registra cierre total de circulación por presencia de personas cerca del Km 057+000 de la carretera México-Querétaro a la altura del Mpio. Jorobas. Atienda indicación vial. #Tomeprecauciones en #EdoMex se registra cierre total de circulación por pr",
       "link": "https://nitter.net/GN_Carreteras/status/2088743432470896772#m",
       "date": "2026-08-15T21:43:35+00:00"
-    },
-    {
-      "id": "505423b4c08d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 90.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "En #Chiapas tras cierre total de circulación por #AccidenteVial cerca del Km 090+000 de la carretera Tuxtla Gutiérrez-San Pedro Tepanatepec. Se orienta a la ciudadanía continuar por #Rutaalterna autopista Ocozocoautla-Arriaga. Atienda indicación vial. En #Chiapas tras cierre tota",
-      "link": "https://nitter.net/GN_Carreteras/status/2088741113108808190#m",
-      "date": "2026-08-15T21:34:22+00:00"
-    },
-    {
-      "id": "031c673b353d",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 90.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomesusprecauciones en #Chiapas se registra cierre total de circulación por #AccidenteVial cerca del Km 090+000 de la carretera Tuxtla Gutiérrez-San Pedro Tepanatepec. Atienda indicación Vial. #Tomesusprecauciones en #Chiapas se registra cierre total de circulación por #Accident",
-      "link": "https://nitter.net/GN_Carreteras/status/2088739617277350197#m",
-      "date": "2026-08-15T21:28:26+00:00"
     },
     {
       "id": "a7c1b5bfd822",
