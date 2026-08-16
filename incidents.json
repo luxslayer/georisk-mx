@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-16T15:22:28.594493+00:00",
+  "updated": "2026-08-16T15:46:59.122919+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "b3fcb02e6b35",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 8.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Michoacán tras #AccidenteVial cerca del Km 008+300 de la carretera La Rinconada-Ecuandureo. Maneje con precaución. #ViaLibre en #Michoacán tras #AccidenteVial cerca del Km 008+300 de la carretera La Rinconada-Ecuandureo. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2089015506061689269#m",
+      "date": "2026-08-16T15:44:43+00:00"
+    },
     {
       "id": "a36250c2defd",
       "account": "@GN_carreteras",
@@ -505,20 +519,6 @@
       "text": "#Tomesusprecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del Km 232+500 de la autopista Puerto México-Ojo Caliente con dirección a Matehuala, SLP. Atienda indicación Vial. #Tomesusprecauciones en #Coahuila se registra cierre parcial de ",
       "link": "https://nitter.net/GN_Carreteras/status/2088770497949425769#m",
       "date": "2026-08-15T23:31:08+00:00"
-    },
-    {
-      "id": "cd28a86323af",
-      "account": "@GN_carreteras",
-      "type": "blockade",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 57.0,
-      "lat": 20.1192,
-      "lon": -99.3956,
-      "resolved": true,
-      "text": "#ViaLibre en #EdoMex tras presencia de personas cerca del Km 057+000 de la carretera México-Querétaro a la altura del Mpio. Jorobas. Maneje con precaución. #ViaLibre en #EdoMex tras presencia de personas cerca del Km 057+000 de la carretera México-Querétaro a la altura del Mpio. ",
-      "link": "https://nitter.net/GN_Carreteras/status/2088763846592737343#m",
-      "date": "2026-08-15T23:04:43+00:00"
     },
     {
       "id": "a7c1b5bfd822",
