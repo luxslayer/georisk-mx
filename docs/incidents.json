@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-16T19:44:12.036835+00:00",
-  "count": 37,
+  "updated": "2026-08-16T20:23:05.394151+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "52d066154ff9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 92.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 92, dirección La Tinaja. Cierre a la circulación por atención de accidente (maniobras para retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La T",
+      "link": "https://nitter.net/CAPUFE/status/2089080006932578307#m",
+      "date": "2026-08-16T20:01:01+00:00"
+    },
+    {
+      "id": "c726ba6f9651",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 3.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 3. Cierre a la circulación en carriles centrales de ambos sentidos, por atención de accidente (servicios periciales). Circulación por carriles laterales. Toma tus precauciones. 🟠 CIERRE PARCIAL DE CIRCULACIÓ",
+      "link": "https://nitter.net/CAPUFE/status/2089079342336717052#m",
+      "date": "2026-08-16T19:58:23+00:00"
+    },
     {
       "id": "030846108387",
       "account": "@capufe",
@@ -351,20 +379,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 34, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (incendio de autobús). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 34, dirección La Tinaj",
       "link": "https://nitter.net/CAPUFE/status/2088989188125262324#m",
       "date": "2026-08-16T14:00:08+00:00"
-    },
-    {
-      "id": "39cac7473c20",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 92.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 92, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 92, dir",
-      "link": "https://nitter.net/CAPUFE/status/2088986653465493996#m",
-      "date": "2026-08-16T13:50:04+00:00"
     },
     {
       "id": "8e1a06bf7d2f",
