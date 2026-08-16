@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-16T20:48:10.749018+00:00",
-  "count": 34,
+  "updated": "2026-08-16T21:20:43.748207+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "3ad65675dcd0",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 3.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 3. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 3. El accidente ha ",
+      "link": "https://nitter.net/CAPUFE/status/2089093529490370774#m",
+      "date": "2026-08-16T20:54:45+00:00"
+    },
     {
       "id": "245d6953b7fe",
       "account": "@capufe",
