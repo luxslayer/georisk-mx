@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-16T14:49:18.058554+00:00",
+  "updated": "2026-08-16T15:22:28.594493+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "a36250c2defd",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 90.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Chiapas tras AccidenteVial cerca del Km 090+000 de la carretera Tuxtla Gutiérrez-San Pedro Tepanatepec.Maneje con precaución. #ViaLibre en #Chiapas tras AccidenteVial cerca del Km 090+000 de la carretera Tuxtla Gutiérrez-San Pedro Tepanatepec.Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2089008333147554158#m",
+      "date": "2026-08-16T15:16:13+00:00"
+    },
     {
       "id": "8bde421b3b6f",
       "account": "@GN_carreteras",
@@ -505,20 +519,6 @@
       "text": "#ViaLibre en #EdoMex tras presencia de personas cerca del Km 057+000 de la carretera México-Querétaro a la altura del Mpio. Jorobas. Maneje con precaución. #ViaLibre en #EdoMex tras presencia de personas cerca del Km 057+000 de la carretera México-Querétaro a la altura del Mpio. ",
       "link": "https://nitter.net/GN_Carreteras/status/2088763846592737343#m",
       "date": "2026-08-15T23:04:43+00:00"
-    },
-    {
-      "id": "8355a9223f00",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 8.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomesusprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del Km 008+300 de la carretera La Rinconada-Ecuandureo. Atienda indicación Vial. #Tomesusprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial c",
-      "link": "https://nitter.net/GN_Carreteras/status/2088763301081547017#m",
-      "date": "2026-08-15T23:02:32+00:00"
     },
     {
       "id": "a7c1b5bfd822",
