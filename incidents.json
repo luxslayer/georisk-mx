@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-16T14:23:27.942463+00:00",
+  "updated": "2026-08-16T14:49:18.058554+00:00",
   "count": 38,
   "incidents": [
+    {
+      "id": "8bde421b3b6f",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Gdl–Tepic",
+      "route_key": "guadalajara-tepic",
+      "km": 152.0,
+      "lat": 21.354514,
+      "lon": -104.657,
+      "resolved": true,
+      "text": "#Tomesusprecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del Km 152+200 de la carretera Guadalajara-Tepic a la altura de la caseta de cobro Santa Maria del Oro con dirección Guadalajara. Atienda indicación Vial. #Tomesusprecauciones en #",
+      "link": "https://nitter.net/GN_Carreteras/status/2088995936072560805#m",
+      "date": "2026-08-16T14:26:57+00:00"
+    },
     {
       "id": "34db045aad54",
       "account": "@capufe",
@@ -505,20 +519,6 @@
       "text": "#Tomesusprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del Km 008+300 de la carretera La Rinconada-Ecuandureo. Atienda indicación Vial. #Tomesusprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial c",
       "link": "https://nitter.net/GN_Carreteras/status/2088763301081547017#m",
       "date": "2026-08-15T23:02:32+00:00"
-    },
-    {
-      "id": "e296894ba394",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 53.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomesusprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 053+800 de la carretera Cuacnopalan-Oaxaca. Atienda indicación Vial. #Tomesusprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km",
-      "link": "https://nitter.net/GN_Carreteras/status/2088761361321132392#m",
-      "date": "2026-08-15T22:54:50+00:00"
     },
     {
       "id": "a7c1b5bfd822",
