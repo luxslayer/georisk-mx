@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-16T21:20:43.748207+00:00",
+  "updated": "2026-08-16T21:45:05.112727+00:00",
   "count": 35,
   "incidents": [
+    {
+      "id": "4419b49028fe",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 119.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Guadalajara - Colima, km 119, dirección Guadalajara. Cierre a la circulación por atención de accidente (volcadura e incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Gua",
+      "link": "https://nitter.net/CAPUFE/status/2089103790133698822#m",
+      "date": "2026-08-16T21:35:31+00:00"
+    },
+    {
+      "id": "c38abd88bb0a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 92.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 92, dirección La Tinaja. El accidente ha sido atendido. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. 🟠 CARGA VEHICULAR 🟠 Autop",
+      "link": "https://nitter.net/CAPUFE/status/2089099961996624294#m",
+      "date": "2026-08-16T21:20:19+00:00"
+    },
     {
       "id": "3ad65675dcd0",
       "account": "@capufe",
@@ -253,34 +281,6 @@
       "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 232, dirección Cd. Mendoza. Continúa reducción de carriles por atención de incidente (maniobras para retiro de unidad con falla mecánica). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIER",
       "link": "https://nitter.net/CAPUFE/status/2089038956994126276#m",
       "date": "2026-08-16T17:17:54+00:00"
-    },
-    {
-      "id": "d4f400b369e9",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 232.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 232, dirección Cd. Mendoza. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 2",
-      "link": "https://nitter.net/CAPUFE/status/2089033363944271980#m",
-      "date": "2026-08-16T16:55:40+00:00"
-    },
-    {
-      "id": "72e9155beb5d",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 92.0,
-      "lat": 18.149,
-      "lon": -94.448,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 92. Reducción de carriles en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 92. ",
-      "link": "https://nitter.net/CAPUFE/status/2089032705518244182#m",
-      "date": "2026-08-16T16:53:04+00:00"
     },
     {
       "id": "b3fcb02e6b35",
