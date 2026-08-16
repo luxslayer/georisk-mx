@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-16T17:19:53.408518+00:00",
-  "count": 36,
+  "updated": "2026-08-16T17:45:39.527708+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "28618c787803",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 3.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 3, dirección Iguala. Reducción de carriles por atención de accidente (choque contra barrera metálica e incendio de motocicleta). En la zona se registra carga vehicular. Maneja con precaución. 🟠 CIERRE PARCIA",
+      "link": "https://nitter.net/CAPUFE/status/2089045224299344201#m",
+      "date": "2026-08-16T17:42:48+00:00"
+    },
+    {
+      "id": "00391d4ea6e2",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 92.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 92, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (maniobras para retiro de la unidad siniestrada). 🔘 Dirección Isla, opera de manera normal. Maneja con precaución. Para más informaci",
+      "link": "https://nitter.net/CAPUFE/status/2089043185209151564#m",
+      "date": "2026-08-16T17:34:42+00:00"
+    },
+    {
+      "id": "79b2d90b7281",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 42.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#Tomesusprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 042+900 de la carretera Iguala - Cd. Altamirano. Atienda indicación Vial. Atienda indicación vial. #Tomesusprecauciones en #Guerrero se registra cierre parcial de circulaci",
+      "link": "https://nitter.net/GN_Carreteras/status/2089039440777756887#m",
+      "date": "2026-08-16T17:19:49+00:00"
+    },
     {
       "id": "914063844ae7",
       "account": "@capufe",
@@ -283,20 +325,6 @@
       "date": "2026-08-16T11:36:05+00:00"
     },
     {
-      "id": "3da449ba5192",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 249.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 249, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 249, dirección A",
-      "link": "https://nitter.net/CAPUFE/status/2088937911232127338#m",
-      "date": "2026-08-16T10:36:23+00:00"
-    },
-    {
       "id": "8e1a06bf7d2f",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -491,20 +519,6 @@
       "text": "#ViaLibre en #Jalisco tras #AccidenteVial cerca del km 044+000, de la carretera Guadalajara-Colima. Maneje con precaución. #ViaLibre en #Jalisco tras #AccidenteVial cerca del km 044+000, de la carretera Guadalajara-Colima. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2088781763610804462#m",
       "date": "2026-08-16T00:15:54+00:00"
-    },
-    {
-      "id": "c6989928ea61",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 232.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomesusprecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del Km 232+500 de la autopista Puerto México-Ojo Caliente con dirección a Matehuala, SLP. Atienda indicación Vial. #Tomesusprecauciones en #Coahuila se registra cierre parcial de ",
-      "link": "https://nitter.net/GN_Carreteras/status/2088770497949425769#m",
-      "date": "2026-08-15T23:31:08+00:00"
     }
   ]
 }
