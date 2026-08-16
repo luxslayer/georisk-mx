@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-16T16:26:22.758022+00:00",
+  "updated": "2026-08-16T16:52:28.405123+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "0eb6a65a6fd8",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 232.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Acatzingo - Cd. Mendoza, km 232, dirección Cd. Mendoza. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Acatzingo - Cd. Mendoza, km 232, dirección Cd. Me",
+      "link": "https://nitter.net/CAPUFE/status/2089030816445677829#m",
+      "date": "2026-08-16T16:45:33+00:00"
+    },
+    {
+      "id": "585812a6e4f1",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 92.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 92, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 92, dirección La Tinaja. El acc",
+      "link": "https://nitter.net/CAPUFE/status/2089027475359539484#m",
+      "date": "2026-08-16T16:32:17+00:00"
+    },
     {
       "id": "3ed6438eba13",
       "account": "@capufe",
@@ -281,34 +309,6 @@
       "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Gómez Palacio - Corralitos, km 73, dirección Gómez Palacio. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Gómez Palacio - Corralitos, km 73, dir",
       "link": "https://nitter.net/CAPUFE/status/2088918515633869285#m",
       "date": "2026-08-16T09:19:19+00:00"
-    },
-    {
-      "id": "3b9f56f9042c",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 249.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 249, dirección Acatzingo. Se restablece la circulación con reducción de carriles por atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con",
-      "link": "https://nitter.net/CAPUFE/status/2088918093481267499#m",
-      "date": "2026-08-16T09:17:38+00:00"
-    },
-    {
-      "id": "2c4e3d799426",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 249.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 249, dirección Acatzingo. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 Aut",
-      "link": "https://nitter.net/CAPUFE/status/2088912331124163044#m",
-      "date": "2026-08-16T08:54:44+00:00"
     },
     {
       "id": "8e1a06bf7d2f",
