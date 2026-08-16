@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-16T18:30:23.273161+00:00",
+  "updated": "2026-08-16T19:21:05.266831+00:00",
   "count": 37,
   "incidents": [
+    {
+      "id": "f78a0a966881",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 92.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 92, dirección La Tinaja. Se restablece la circulación con reducción de carriles por atención del accidente (maniobras para retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución",
+      "link": "https://nitter.net/CAPUFE/status/2089063268216443330#m",
+      "date": "2026-08-16T18:54:30+00:00"
+    },
+    {
+      "id": "05c854dd7e5b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "Puebla–Veracruz",
+      "route_key": "puebla-veracruz",
+      "km": 3.0,
+      "lat": 19.04562,
+      "lon": -98.13002,
+      "resolved": true,
+      "text": "#Tomesusprecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del Km 003+150 de la carretera Puente de Ixtla - Iguala. Atienda indicación Vial. #Tomesusprecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerc",
+      "link": "https://nitter.net/GN_Carreteras/status/2089057809509888136#m",
+      "date": "2026-08-16T18:32:49+00:00"
+    },
     {
       "id": "69b0e5c287bb",
       "account": "@capufe",
@@ -339,20 +367,6 @@
       "date": "2026-08-16T12:48:47+00:00"
     },
     {
-      "id": "032c0c3c1ec2",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "La Tinaja–Cosoleacaque",
-      "route_key": "tinaja-cosoleacaque",
-      "km": 34.0,
-      "lat": 18.218,
-      "lon": -94.8755,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 34, dirección La Tinaja. Se restablece la circulación con reducción de carriles por atención de accidente (incendio de autobús). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, k",
-      "link": "https://nitter.net/CAPUFE/status/2088969228221034741#m",
-      "date": "2026-08-16T12:40:49+00:00"
-    },
-    {
       "id": "8e1a06bf7d2f",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -505,20 +519,6 @@
       "text": "#Tomesusprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 259+200 de la carretera Uruapan - Lázaro Cárdenas con dirección a Uruapan. Atienda indicación Vial. #Tomesusprecauciones en #Guerrero se registra cierre parcial de circulac",
       "link": "https://nitter.net/GN_Carreteras/status/2088791620002922696#m",
       "date": "2026-08-16T00:55:04+00:00"
-    },
-    {
-      "id": "d24338f8bc4b",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "Méx–Puebla",
-      "route_key": "mexico-puebla",
-      "km": 41.0,
-      "lat": 19.213333,
-      "lon": -98.632,
-      "resolved": true,
-      "text": "#Tomesusprecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del Km 041+500 de la carretera Amozoc - Perote con dirección a Puebla. Atienda indicación Vial. #Tomesusprecauciones en #Tlaxcala se registra cierre parcial de circulación por #Ac",
-      "link": "https://nitter.net/GN_Carreteras/status/2088790024670138812#m",
-      "date": "2026-08-16T00:48:44+00:00"
     }
   ]
 }
