@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-16T11:21:06.423867+00:00",
-  "count": 37,
+  "updated": "2026-08-16T11:45:28.555384+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "6f36a864c6da",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 34.0,
+      "lat": 18.218,
+      "lon": -94.8755,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 34, dirección La Tinaja. Reducción de carriles por atención de accidente (incendio de autobús). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 34, dirección La Tinaja. Reducc",
+      "link": "https://nitter.net/CAPUFE/status/2088952936076304664#m",
+      "date": "2026-08-16T11:36:05+00:00"
+    },
     {
       "id": "3da449ba5192",
       "account": "@capufe",
