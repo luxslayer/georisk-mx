@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-16T03:49:01.458746+00:00",
-  "count": 33,
+  "updated": "2026-08-16T04:36:29.657440+00:00",
+  "count": 32,
   "incidents": [
+    {
+      "id": "cbd5f0d63629",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 1.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 1, dirección Cuautla. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 1, dirección Cuautla. Reducción ",
+      "link": "https://nitter.net/CAPUFE/status/2088843277860839543#m",
+      "date": "2026-08-16T04:20:20+00:00"
+    },
     {
       "id": "8e3d84df3e8c",
       "account": "@GN_carreteras",
@@ -255,20 +269,6 @@
       "date": "2026-08-16T00:15:54+00:00"
     },
     {
-      "id": "39c5b5186d95",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Tijuana–Ensenada",
-      "route_key": "tijuana-ensenada",
-      "km": 27.0,
-      "lat": 32.288843,
-      "lon": -116.965165,
-      "resolved": true,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 27, dirección Ensenada. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 27, dirección Ensenad",
-      "link": "https://nitter.net/CAPUFE/status/2088776905575010484#m",
-      "date": "2026-08-15T23:56:36+00:00"
-    },
-    {
       "id": "cc76a54d2398",
       "account": "@capufe",
       "type": "accident",
@@ -407,20 +407,6 @@
       "text": "#Tomesusprecauciones en #Chiapas se registra cierre total de circulación por #AccidenteVial cerca del Km 090+000 de la carretera Tuxtla Gutiérrez-San Pedro Tepanatepec. Atienda indicación Vial. #Tomesusprecauciones en #Chiapas se registra cierre total de circulación por #Accident",
       "link": "https://nitter.net/GN_Carreteras/status/2088739617277350197#m",
       "date": "2026-08-15T21:28:26+00:00"
-    },
-    {
-      "id": "fdc7588dc8b3",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 19.0,
-      "lat": 19.7328,
-      "lon": -99.2208,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, Plaza de Cobro Jorobas, dirección CDMX. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/tUV2xSLBNT74TdH77 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétar",
-      "link": "https://nitter.net/CAPUFE/status/2088738486056861756#m",
-      "date": "2026-08-15T21:23:56+00:00"
     },
     {
       "id": "0d33eb433ba7",
