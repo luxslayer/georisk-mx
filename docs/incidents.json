@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-16T15:46:59.122919+00:00",
-  "count": 38,
+  "updated": "2026-08-16T16:26:22.758022+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "3ed6438eba13",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 34.0,
+      "lat": 18.218,
+      "lon": -94.8755,
+      "resolved": true,
+      "text": "🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista La Tinaja - Isla, km 34, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (incendio de autobús). Maneja con precaución. 🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista La Tinaja - Isla, km 34, dirección La Tinaja. C",
+      "link": "https://nitter.net/CAPUFE/status/2089023214575837426#m",
+      "date": "2026-08-16T16:15:21+00:00"
+    },
+    {
+      "id": "b776020aafc9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 92.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 92, dirección Isla. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 92, dirección Isla. R",
+      "link": "https://nitter.net/CAPUFE/status/2089022907678703727#m",
+      "date": "2026-08-16T16:14:08+00:00"
+    },
     {
       "id": "b3fcb02e6b35",
       "account": "@GN_carreteras",
@@ -283,20 +311,6 @@
       "date": "2026-08-16T08:54:44+00:00"
     },
     {
-      "id": "3423d464ac00",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 163.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 163. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RE",
-      "link": "https://nitter.net/CAPUFE/status/2088903518581092841#m",
-      "date": "2026-08-16T08:19:43+00:00"
-    },
-    {
       "id": "8e1a06bf7d2f",
       "account": "@GN_carreteras",
       "type": "accident",
@@ -379,20 +393,6 @@
       "text": "#ViaLibre en #Puebla tras presencia de personas cerca del Km 217+200 de la autopista Puebla-Córdoba a la altura de la caseta de cobro No. 27 Esperanza. Se registra flujo vehicular lento. Maneje con precaución. #ViaLibre en #Puebla tras presencia de personas cerca del Km 217+200 d",
       "link": "https://nitter.net/GN_Carreteras/status/2088855693352734941#m",
       "date": "2026-08-16T05:09:41+00:00"
-    },
-    {
-      "id": "ce098249161f",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 163.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 163. Se informa a las personas usuarias que continúa circulación de manera intermitente en ambos sentidos. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. Atien",
-      "link": "https://nitter.net/CAPUFE/status/2088851502118916427#m",
-      "date": "2026-08-16T04:53:01+00:00"
     },
     {
       "id": "8e3d84df3e8c",
@@ -519,20 +519,6 @@
       "text": "#Tomesusprecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del Km 232+500 de la autopista Puerto México-Ojo Caliente con dirección a Matehuala, SLP. Atienda indicación Vial. #Tomesusprecauciones en #Coahuila se registra cierre parcial de ",
       "link": "https://nitter.net/GN_Carreteras/status/2088770497949425769#m",
       "date": "2026-08-15T23:31:08+00:00"
-    },
-    {
-      "id": "a7c1b5bfd822",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 163.0,
-      "lat": 19.286,
-      "lon": -99.664,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Durango - Mazatlán, km 163. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camiones y automóvil. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/vgX6CaiueqzjecsR8 🔴 ",
-      "link": "https://nitter.net/CAPUFE/status/2088655104563921050#m",
-      "date": "2026-08-15T15:52:36+00:00"
     }
   ]
 }
