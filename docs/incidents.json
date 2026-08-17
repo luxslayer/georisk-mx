@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-17T11:26:42.360737+00:00",
-  "count": 37,
+  "updated": "2026-08-17T11:51:23.624121+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "929dd77f4c3f",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 125.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guadalajara - Colima, km 125, dirección Guadalajara. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guadalajara - Colima, km 125, dirección Guada",
+      "link": "https://nitter.net/CAPUFE/status/2089316137808851400#m",
+      "date": "2026-08-17T11:39:19+00:00"
+    },
+    {
+      "id": "17872fd99219",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 119.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guadalajara - Colima, km 119, dirección Guadalajara. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️ 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guadalajara - Colima, km 119, dirección Guada",
+      "link": "https://nitter.net/CAPUFE/status/2089315862184329628#m",
+      "date": "2026-08-17T11:38:13+00:00"
+    },
     {
       "id": "90c4a693df20",
       "account": "@GN_carreteras",
