@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-17T19:53:05.712285+00:00",
-  "count": 34,
+  "updated": "2026-08-17T20:27:54.555912+00:00",
+  "count": 35,
   "incidents": [
+    {
+      "id": "e92d8a110e8a",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 55.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Guadalajara - Colima, km 55, dirección Colima. Cierre a la circulación por atención de accidente (choque por alcance). Maneja con precaución. 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Guadalajara - Colima, km 55, dirección Colima. Cierre a la circula",
+      "link": "https://nitter.net/CAPUFE/status/2089447171380625585#m",
+      "date": "2026-08-17T20:20:00+00:00"
+    },
+    {
+      "id": "a2ffad67b2d9",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 55.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Guadalajara - Colima, km 55, dirección Colima. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Guadalajara - Colima, km 55, dirección Colima. Reduc",
+      "link": "https://nitter.net/CAPUFE/status/2089443879049183725#m",
+      "date": "2026-08-17T20:06:55+00:00"
+    },
     {
       "id": "2d439d057073",
       "account": "@capufe",
@@ -393,20 +421,6 @@
       "text": "#TomePrecauciones en #Chiapas continua cierre parcial de circulación por #AccidenteVial cerca del km. 018+500 de la carretera Tapachula-Puerto Madero, a la altura del Mpio. Metapa de Domínguez. Atienda indicación vial. #TomePrecauciones en #Chiapas continua cierre parcial de circ",
       "link": "https://nitter.net/GN_Carreteras/status/2089375615430373391#m",
       "date": "2026-08-17T15:35:40+00:00"
-    },
-    {
-      "id": "846c6f5046c9",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 68.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, del km 68 al 69, dirección CDMX. Reducción de carriles por labores de mantenimiento. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla , del km 68 al 69, dirección CDMX. Reducción de carriles por la",
-      "link": "https://nitter.net/CAPUFE/status/2089369459815321907#m",
-      "date": "2026-08-17T15:11:12+00:00"
     },
     {
       "id": "b080b0b78455",
