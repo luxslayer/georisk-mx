@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-17T13:39:25.177387+00:00",
-  "count": 39,
+  "updated": "2026-08-17T14:28:39.962360+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "490f4bf5f54e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 70.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Reducción de carriles por atención de accidente (volcadura sobre carpeta). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca , km 70, dirección Cuernavaca. Reducción d",
+      "link": "https://nitter.net/CAPUFE/status/2089358034199781861#m",
+      "date": "2026-08-17T14:25:48+00:00"
+    },
     {
       "id": "0e29e38a722f",
       "account": "@capufe",
@@ -295,34 +309,6 @@
       "text": "#Tomesusprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del Km 029+300 de la carretera Texcoco-Ecatepec. Atienda indicación Vial. #Tomesusprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del Km 0",
       "link": "https://nitter.net/GN_Carreteras/status/2089245128116326503#m",
       "date": "2026-08-17T06:57:09+00:00"
-    },
-    {
-      "id": "1a55f04ff0fe",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 45.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Barranca Larga - Ventanilla, km 45. Se restablece la circulación en ambos sentidos. El personal continúa con la atención del accidente, por el momento sin afectar los carriles de rodamiento. Maneja con precaución. 🟢 RESTABLECIMIENTO D",
-      "link": "https://nitter.net/CAPUFE/status/2089238877777117339#m",
-      "date": "2026-08-17T06:32:19+00:00"
-    },
-    {
-      "id": "1cf80ad5339f",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 171.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Guaymas - Hermosillo, km 171, dirección Hermosillo. Se restablece la circulación con reducción de carriles por atención de accidente (choque lateral entre tracto camiones). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopi",
-      "link": "https://nitter.net/CAPUFE/status/2089235516029870149#m",
-      "date": "2026-08-17T06:18:57+00:00"
     },
     {
       "id": "eabc7aadc778",
