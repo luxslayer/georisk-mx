@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-18T23:22:49.203611+00:00",
-  "count": 37,
+  "updated": "2026-08-18T23:47:17.896060+00:00",
+  "count": 39,
   "incidents": [
+    {
+      "id": "3ecc6757a207",
+      "account": "@capufe",
+      "type": "alert",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 83.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Guadalajara - Colima, registra #lluvia del km 83 al 87. Disminuye tu velocidad y maneja con precaución. 🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Guadalajara - Colima, registra #lluvia del km 83 al 87. Disminuye tu velocidad y maneja co",
+      "link": "https://nitter.net/CAPUFE/status/2089856455721586922#m",
+      "date": "2026-08-18T23:26:21+00:00"
+    },
     {
       "id": "283475ec89f8",
       "account": "@capufe",
@@ -379,6 +393,20 @@
       "text": "#ViaLibre en #Coahuila tras #AccidenteVial cerca del km. 015+200 de la carretera Saltillo-Monclova, con dirección Saltillo. Maneje con precaución. #ViaLibre en #Coahuila tras #AccidenteVial cerca del km. 015+200 de la carretera Saltillo-Monclova, con dirección Saltillo. Maneje co",
       "link": "https://nitter.net/GN_Carreteras/status/2089721713906819549#m",
       "date": "2026-08-18T14:30:56+00:00"
+    },
+    {
+      "id": "ec7b9d7b70ed",
+      "account": "@capufe",
+      "type": "closure",
+      "highway": "Méx–Toluca",
+      "route_key": "mexico-toluca",
+      "km": 17.0,
+      "lat": 19.36239,
+      "lon": -99.31748,
+      "resolved": true,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información, llama al 0️⃣7️⃣4️⃣. Consulta la ",
+      "link": "https://nitter.net/CAPUFE/status/2089711091127337248#m",
+      "date": "2026-08-18T13:48:43+00:00"
     },
     {
       "id": "48191b6b85fa",
