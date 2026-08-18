@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-18T03:44:57.435992+00:00",
+  "updated": "2026-08-18T04:36:04.186327+00:00",
   "count": 29,
   "incidents": [
+    {
+      "id": "bc17200d3deb",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 33.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Michoacán continua cierre parcial de circulación por #AccidenteVial cerca del km. 033+600 de la carretera Morelia-Pátzcuaro Libre, a inmediaciones del municipio Huiramba, con dirección a Pátzcuaro. Atienda indicación vial. #TomePrecauciones en #Michoacán con",
+      "link": "https://nitter.net/GN_Carreteras/status/2089568475236745416#m",
+      "date": "2026-08-18T04:22:01+00:00"
+    },
+    {
+      "id": "ee50f4f02ba1",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Lib. Sur Qro.",
+      "route_key": "libramiento-queretaro",
+      "km": 19.0,
+      "lat": 20.488,
+      "lon": -100.298,
+      "resolved": true,
+      "text": "#TomePrecauciones en #Coahuila se registra cierre total de circulación por presencia de personas, cerca del km. 019+100 de la carretera Ent. La Cuchilla-Torreón, a la altura de la localidad Veinte de Noviembre, con dirección a San Pedro Torreón. Atienda indicación vial. #TomePrec",
+      "link": "https://nitter.net/GN_Carreteras/status/2089563267228168553#m",
+      "date": "2026-08-18T04:01:19+00:00"
+    },
+    {
+      "id": "f3781baee079",
+      "account": "@GN_carreteras",
+      "type": "blockade",
+      "highway": "Toluca–Palmillas",
+      "route_key": "toluca-palmillas",
+      "km": 13.0,
+      "lat": 19.47164,
+      "lon": -99.73836,
+      "resolved": true,
+      "text": "#TomeloEnCuenta en #EdoMéx continua presencia de personas, cerca del km 013+100, de la carretera Toluca-Palmillas, a la altura de la Plaza de Cobro El Dorado, Toluca, Edo. Méx. Atienda indicación vial. #TomeloEnCuenta en #EdoMéx continua presencia de personas, cerca del km 013+10",
+      "link": "https://nitter.net/GN_Carreteras/status/2089561812014383284#m",
+      "date": "2026-08-18T03:55:32+00:00"
+    },
     {
       "id": "7944c7305300",
       "account": "@capufe",
@@ -365,48 +407,6 @@
       "text": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 004+000 de la carretera Ent. La Tinaja-Cosoleacaque. Atienda indicación vial. #TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del ",
       "link": "https://nitter.net/GN_Carreteras/status/2089463976392278393#m",
       "date": "2026-08-17T21:26:46+00:00"
-    },
-    {
-      "id": "acc21b6ffab0",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 9.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Jalisco continua cierre parcial de circulación por #AccidenteVial cerca del km. 009+800 de la carretera Guadalajara-Colima, a inmediaciones del municipio Acatlán de Juárez, con dirección a Colima. Atienda indicación vial. #TomePrecauciones en #Jalisco contin",
-      "link": "https://nitter.net/GN_Carreteras/status/2089454904779653455#m",
-      "date": "2026-08-17T20:50:44+00:00"
-    },
-    {
-      "id": "0519e5bb4ac2",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 365.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Guerrero tras retiro de personas, cerca del km. 365+500 de la carretera Chilpancingo-Acapulco, a inmediaciones (aun constado) de la Caseta cobro No. 104, La Venta, Mpio. Acapulco de Juárez, maneje con precaución. #VialidadLibre en #Guerrero tras retiro de perso",
-      "link": "https://nitter.net/GN_Carreteras/status/2089427896746094967#m",
-      "date": "2026-08-17T19:03:24+00:00"
-    },
-    {
-      "id": "8f9dd975cbe3",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 124.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #SLP continua cierre parcial de circulación por #AccidenteVial cerca del km. 124+800 de la carretera Valles-San Luis Potosí, a la altura del Mpio. Rioverde, con dirección a Cd. Valles. Atienda indicación vial. #TomePrecauciones en #SLP continua cierre parcial",
-      "link": "https://nitter.net/GN_Carreteras/status/2089424200394006542#m",
-      "date": "2026-08-17T18:48:43+00:00"
     }
   ]
 }
