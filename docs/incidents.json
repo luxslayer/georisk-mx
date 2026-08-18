@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-18T22:24:40.783945+00:00",
+  "updated": "2026-08-18T22:51:19.947773+00:00",
   "count": 36,
   "incidents": [
+    {
+      "id": "8f9dfd564037",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 127.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 127, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxico",
+      "link": "https://nitter.net/CAPUFE/status/2089841808805134669#m",
+      "date": "2026-08-18T22:28:09+00:00"
+    },
     {
       "id": "9a9b38815bf4",
       "account": "@capufe",
@@ -239,20 +253,6 @@
       "text": "#Tomeloencuenta en #Oaxaca continua presencia de personas cerca del Km 220+000 de la carretera Cuacnopalan-Oaxaca a la altura de la caseta de cobro No. 79. Atienda indicación vial. #Tomeloencuenta en #Oaxaca continua presencia de personas cerca del Km 220+000 de la carretera Cuac",
       "link": "https://nitter.net/GN_Carreteras/status/2089820529570017456#m",
       "date": "2026-08-18T21:03:35+00:00"
-    },
-    {
-      "id": "b2b66f161ea3",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 5.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guadalajara - Colima, km 5, dirección Colima. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación desde el km 0. Tramo opera de manera normal. Maneja con precauci",
-      "link": "https://nitter.net/CAPUFE/status/2089819520710164900#m",
-      "date": "2026-08-18T20:59:35+00:00"
     },
     {
       "id": "9ed02a3423ca",
