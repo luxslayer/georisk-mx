@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-18T22:51:19.947773+00:00",
-  "count": 36,
+  "updated": "2026-08-18T23:22:49.203611+00:00",
+  "count": 37,
   "incidents": [
+    {
+      "id": "283475ec89f8",
+      "account": "@capufe",
+      "type": "traffic",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 56.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución. 🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro , km 56, dirección Querétaro. Registra carga veh",
+      "link": "https://nitter.net/CAPUFE/status/2089853002270073250#m",
+      "date": "2026-08-18T23:12:37+00:00"
+    },
+    {
+      "id": "cc7bbe71c109",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 127.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 127, dirección Querétaro. El accidente ha sido atendido, por lo que se restablece la circulación. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con pr",
+      "link": "https://nitter.net/CAPUFE/status/2089848430562513104#m",
+      "date": "2026-08-18T22:54:28+00:00"
+    },
+    {
+      "id": "6c2275b7dd6e",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 125.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 125, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialid",
+      "link": "https://nitter.net/CAPUFE/status/2089848009324462507#m",
+      "date": "2026-08-18T22:52:47+00:00"
+    },
     {
       "id": "8f9dfd564037",
       "account": "@capufe",
@@ -227,20 +269,6 @@
       "date": "2026-08-18T21:11:24+00:00"
     },
     {
-      "id": "4537f5827191",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 127.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 127, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣. 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxico",
-      "link": "https://nitter.net/CAPUFE/status/2089821770886861275#m",
-      "date": "2026-08-18T21:08:31+00:00"
-    },
-    {
       "id": "2e7b75792681",
       "account": "@GN_carreteras",
       "type": "blockade",
@@ -351,20 +379,6 @@
       "text": "#ViaLibre en #Coahuila tras #AccidenteVial cerca del km. 015+200 de la carretera Saltillo-Monclova, con dirección Saltillo. Maneje con precaución. #ViaLibre en #Coahuila tras #AccidenteVial cerca del km. 015+200 de la carretera Saltillo-Monclova, con dirección Saltillo. Maneje co",
       "link": "https://nitter.net/GN_Carreteras/status/2089721713906819549#m",
       "date": "2026-08-18T14:30:56+00:00"
-    },
-    {
-      "id": "ec7b9d7b70ed",
-      "account": "@capufe",
-      "type": "closure",
-      "highway": "Méx–Toluca",
-      "route_key": "mexico-toluca",
-      "km": 17.0,
-      "lat": 19.36239,
-      "lon": -99.31748,
-      "resolved": true,
-      "text": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información, llama al 0️⃣7️⃣4️⃣. Consulta la ",
-      "link": "https://nitter.net/CAPUFE/status/2089711091127337248#m",
-      "date": "2026-08-18T13:48:43+00:00"
     },
     {
       "id": "48191b6b85fa",
