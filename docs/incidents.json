@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-18T23:47:17.896060+00:00",
-  "count": 39,
+  "updated": "2026-08-19T01:18:47.853563+00:00",
+  "count": 38,
   "incidents": [
+    {
+      "id": "d4dce1c49737",
+      "account": "@capufe",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 7.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 7, dirección Córdoba. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución. 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 7, dirección Córdoba. Reduc",
+      "link": "https://nitter.net/CAPUFE/status/2089880687738294331#m",
+      "date": "2026-08-19T01:02:38+00:00"
+    },
+    {
+      "id": "9f61b25ea5bd",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 6.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Tlaxcala tras #AccidenteVial cerca del km. 006+500 de la carretera Los Reyes – Zacatepec. Maneje con precaución. #ViaLibre en #Tlaxcala tras #AccidenteVial cerca del km. 006+500 de la carretera Los Reyes – Zacatepec. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2089879361742598197#m",
+      "date": "2026-08-19T00:57:22+00:00"
+    },
+    {
+      "id": "160edff34b1e",
+      "account": "@GN_carreteras",
+      "type": "closure",
+      "highway": "Méx–Querétaro",
+      "route_key": "mexico-queretaro",
+      "km": 55.0,
+      "lat": 20.108,
+      "lon": -99.374,
+      "resolved": true,
+      "text": "#Tomeprecauciones en #EdoMex se registra cierre parcial de la circulación cerca del Km 055+600 de la carretera México-Querétaro con dirección Querétaro. Atienda indicación vial. #Tomeprecauciones en #EdoMex se registra cierre parcial de la circulación cerca del Km 055+600 de la c",
+      "link": "https://nitter.net/GN_Carreteras/status/2089876320272437601#m",
+      "date": "2026-08-19T00:45:17+00:00"
+    },
+    {
+      "id": "2ce3533b5293",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 34.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#ViaLibre en #Jalisco tras AccidenteVial cerca del Km 034+700 de la carretera León-Aguascalientes. Maneje con precaución. #ViaLibre en #Jalisco tras AccidenteVial cerca del Km 034+700 de la carretera León-Aguascalientes. Maneje con precaución.",
+      "link": "https://nitter.net/GN_Carreteras/status/2089864845881381241#m",
+      "date": "2026-08-18T23:59:41+00:00"
+    },
     {
       "id": "3ecc6757a207",
       "account": "@capufe",
@@ -185,20 +241,6 @@
       "date": "2026-08-18T22:00:00+00:00"
     },
     {
-      "id": "24f38662cb49",
-      "account": "@capufe",
-      "type": "roadwork",
-      "highway": "Chih–Cd Juárez",
-      "route_key": "chihuahua-juarez",
-      "km": 288.0,
-      "lat": 31.738,
-      "lon": -106.487,
-      "resolved": true,
-      "text": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba, del km 288 al 287, dirección Cd. Mendoza. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución. 🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopis",
-      "link": "https://nitter.net/CAPUFE/status/2089833442422743114#m",
-      "date": "2026-08-18T21:54:54+00:00"
-    },
-    {
       "id": "7ea7ecf5ed0b",
       "account": "@capufe",
       "type": "roadwork",
@@ -211,20 +253,6 @@
       "text": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 125, dirección Querétaro. Se informa a las personas usuarias que continúa reducción de carriles por maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja con precaución",
       "link": "https://nitter.net/CAPUFE/status/2089830591843668234#m",
       "date": "2026-08-18T21:43:34+00:00"
-    },
-    {
-      "id": "1b39a827aa35",
-      "account": "@capufe",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 127.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 127, dirección Querétaro. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se registra ",
-      "link": "https://nitter.net/CAPUFE/status/2089829538897563732#m",
-      "date": "2026-08-18T21:39:23+00:00"
     },
     {
       "id": "0e99217f9142",
@@ -505,48 +533,6 @@
       "text": "En #EdoMéx continua presencia de personas, cerca del km 013+100, de la carretera Toluca-Palmillas, a la altura de la Plaza de Cobro El Dorado, Toluca, Edo. Méx. Atienda indicación vial. En #EdoMéx continua presencia de personas, cerca del km 013+100, de la carretera Toluca-Palmil",
       "link": "https://nitter.net/GN_Carreteras/status/2089596912160641282#m",
       "date": "2026-08-18T06:15:01+00:00"
-    },
-    {
-      "id": "91d7a423608b",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "Lib. Sur Qro.",
-      "route_key": "libramiento-queretaro",
-      "km": 19.0,
-      "lat": 20.488,
-      "lon": -100.298,
-      "resolved": true,
-      "text": "#VialidadLibre en #Coahuila tras retiro de personas, cerca del km. 019+100 de la carretera Ent. La Cuchilla-Torreón, a la altura de la localidad Veinte de Noviembre, con dirección a San Pedro Torreón. Maneje con precaución. #VialidadLibre en #Coahuila tras retiro de personas, cer",
-      "link": "https://nitter.net/GN_Carreteras/status/2089596379585003972#m",
-      "date": "2026-08-18T06:12:54+00:00"
-    },
-    {
-      "id": "6f948837f781",
-      "account": "@GN_carreteras",
-      "type": "alert",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 220.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#VialidadLibre en #Oaxaca tras retiro de personas, cerca del km. 220+000 de la carretera Cuacnopalan-Oaxaca, a la altura del Mpio. San Pablo Huitzo. Maneje con precaución. #VialidadLibre en #Oaxaca tras retiro de personas, cerca del km. 220+000 de la carretera Cuacnopalan-Oaxaca,",
-      "link": "https://nitter.net/GN_Carreteras/status/2089586059222851594#m",
-      "date": "2026-08-18T05:31:53+00:00"
-    },
-    {
-      "id": "bc17200d3deb",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 33.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#TomePrecauciones en #Michoacán continua cierre parcial de circulación por #AccidenteVial cerca del km. 033+600 de la carretera Morelia-Pátzcuaro Libre, a inmediaciones del municipio Huiramba, con dirección a Pátzcuaro. Atienda indicación vial. #TomePrecauciones en #Michoacán con",
-      "link": "https://nitter.net/GN_Carreteras/status/2089568475236745416#m",
-      "date": "2026-08-18T04:22:01+00:00"
     }
   ]
 }
