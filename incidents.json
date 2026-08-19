@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-19T18:36:50.266391+00:00",
+  "updated": "2026-08-19T19:26:20.563908+00:00",
   "count": 20,
   "incidents": [
+    {
+      "id": "dc7b5d782fa2",
+      "account": "@GN_carreteras",
+      "type": "fire",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 317.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #Incendio cerca del Km 317+000, de la carretera Acapulco-Chilpancingo, a la altura del poblado San Juan Totolcintla, Mpio. Mártir de Cuilapan, con dirección a Acapulco. Atienda Indicación vial. #TomePrec",
+      "link": "https://nitter.net/GN_Carreteras/status/2090150212194939067#m",
+      "date": "2026-08-19T18:53:38+00:00"
+    },
+    {
+      "id": "9c6eced7188b",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "?",
+      "route_key": "unknown",
+      "km": 14.0,
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "resolved": false,
+      "text": "#VíaLibre en #Puebla tras #AccidenteVial cerca del Km 014+300, de la carretera Zacatepec - Oriental, a la altura del Mpio. de Oriental. Maneje con precaución. #VíaLibre en #Puebla tras #AccidenteVial cerca del Km 014+300, de la carretera Zacatepec - Oriental, a la altura del Mpio",
+      "link": "https://nitter.net/GN_Carreteras/status/2090148846298972198#m",
+      "date": "2026-08-19T18:48:12+00:00"
+    },
+    {
+      "id": "921bf9b6991c",
+      "account": "@GN_carreteras",
+      "type": "accident",
+      "highway": "La Tinaja–Cosoleacaque",
+      "route_key": "tinaja-cosoleacaque",
+      "km": 181.0,
+      "lat": 18.149,
+      "lon": -94.448,
+      "resolved": true,
+      "text": "En #Veracruz continúa cierre intermitente de circulación por #AccidenteVial cerca del Km 181+500, de la carretera Ent. La Tinaja - Cosoleacaque, dirección La Tinaja. Atienda Indicación vial. En #Veracruz continúa cierre intermitente de circulación por #AccidenteVial cerca del Km ",
+      "link": "https://nitter.net/GN_Carreteras/status/2090147481765953536#m",
+      "date": "2026-08-19T18:42:47+00:00"
+    },
     {
       "id": "27c30c81606d",
       "account": "@GN_carreteras",
@@ -239,48 +281,6 @@
       "text": "#ViaLibre en #Tlaxcala tras #AccidenteVial cerca del km. 006+500 de la carretera Los Reyes – Zacatepec. Maneje con precaución. #ViaLibre en #Tlaxcala tras #AccidenteVial cerca del km. 006+500 de la carretera Los Reyes – Zacatepec. Maneje con precaución.",
       "link": "https://nitter.net/GN_Carreteras/status/2089879361742598197#m",
       "date": "2026-08-19T00:57:22+00:00"
-    },
-    {
-      "id": "160edff34b1e",
-      "account": "@GN_carreteras",
-      "type": "closure",
-      "highway": "Méx–Querétaro",
-      "route_key": "mexico-queretaro",
-      "km": 55.0,
-      "lat": 20.108,
-      "lon": -99.374,
-      "resolved": true,
-      "text": "#Tomeprecauciones en #EdoMex se registra cierre parcial de la circulación cerca del Km 055+600 de la carretera México-Querétaro con dirección Querétaro. Atienda indicación vial. #Tomeprecauciones en #EdoMex se registra cierre parcial de la circulación cerca del Km 055+600 de la c",
-      "link": "https://nitter.net/GN_Carreteras/status/2089876320272437601#m",
-      "date": "2026-08-19T00:45:17+00:00"
-    },
-    {
-      "id": "2ce3533b5293",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 34.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#ViaLibre en #Jalisco tras AccidenteVial cerca del Km 034+700 de la carretera León-Aguascalientes. Maneje con precaución. #ViaLibre en #Jalisco tras AccidenteVial cerca del Km 034+700 de la carretera León-Aguascalientes. Maneje con precaución.",
-      "link": "https://nitter.net/GN_Carreteras/status/2089864845881381241#m",
-      "date": "2026-08-18T23:59:41+00:00"
-    },
-    {
-      "id": "0e99217f9142",
-      "account": "@GN_carreteras",
-      "type": "accident",
-      "highway": "?",
-      "route_key": "unknown",
-      "km": 55.0,
-      "lat": 23.6345,
-      "lon": -102.5528,
-      "resolved": false,
-      "text": "#Tomeprecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del Km 055+500 de la carretera León-Aguascalientes. Atienda Indicación vial. #Tomeprecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del Km 05",
-      "link": "https://nitter.net/GN_Carreteras/status/2089828699981963584#m",
-      "date": "2026-08-18T21:36:03+00:00"
     }
   ]
 }
